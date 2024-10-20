@@ -10,6 +10,8 @@ on:
 jobs:
   download:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -34,4 +36,4 @@ jobs:
         run: |
           git add .
           git commit -m 'update'
-          git push https://github.com/taikowiki/taiko-song-database
+          git push 'https://${{ secrets.GITHUB_TOKEN }}github.com/taikowiki/taiko-song-database'
