@@ -35,6 +35,7 @@ jobs:
         run: |
           git add .
           git commit -m 'update database.json'
+          git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
 
       - name: make history
         run: node scripts/history.js 
@@ -43,6 +44,4 @@ jobs:
         run: |
           git add .
           git commit -m 'update history'
-
-      - name: commit
-        run: git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
+          git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
