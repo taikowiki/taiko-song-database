@@ -1,6 +1,9 @@
 name: download
 
 on:
+  issues:
+    types:
+      - opened
   schedule:
     - cron: '0 15 * * *'
 
