@@ -36,4 +36,4 @@ jobs:
         run: |
           git add .
           git commit -m 'update'
-          git push 'https://${{ secrets.GITHUB_TOKEN }}github.com/taikowiki/taiko-song-database'
+          git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
