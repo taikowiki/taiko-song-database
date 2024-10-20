@@ -11,7 +11,7 @@ A database of Taiko no Tatsujin songs
 ## 데이터 타입
 [여기](https://github.com/taikowiki/taikowiki-svelte/blob/main/src/lib/module/common/song/types.ts) 의 `SongData` 타입을 참고하세요.
 
-database.json은 `SongData[]` 타입입니다.
+`database.json`은 `SongData[]` 타입입니다.
 
 ## history
 
