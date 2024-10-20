@@ -33,8 +33,7 @@ jobs:
 
       - name: check changes
         id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+        run: git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: make history
         if: steps.verify_diff.outputs.changed == 'true'
