@@ -2,7 +2,7 @@ name: update
 
 on:
   issues:
-    - types: opened
+    types: opened
   schedule:
     - cron: '0 15 * * *'
 
