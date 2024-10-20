@@ -26,8 +26,15 @@ jobs:
           git fetch
           git pull origin main
       
-      - name: fetch song data
-        run: node scripts/fetch.js
+      - name: step1.js
+        run: node scripts/step1.js
+
+      - name: diff check
+        run: |
+          git add .
+      
+      - name: step2.js
+        run: node scripts/step2.js
       
       - name: Push changes
         run: |
