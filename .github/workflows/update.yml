@@ -26,17 +26,20 @@ jobs:
           git fetch
           git pull origin main
       
-      - name: step1.js
-        run: node scripts/step1.js
+      - name: update
+        run: node scripts/update.js
 
-      - name: diff check
+      - name: check changes
+        id: verify_diff
         run: |
-          git add .
-      
-      - name: step2.js
-        run: node scripts/step2.js
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: make history
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: node scripts/history.js 
       
       - name: Push changes
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git add .
           git commit -m 'update'
