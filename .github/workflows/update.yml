@@ -12,9 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
@@ -31,17 +31,18 @@ jobs:
       - name: update
         run: node scripts/update.js
 
-      - name: check changes
-        id: verify_diff
-        run: git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: make history
-        if: steps.verify_diff.outputs.changed == 'true'
-        run: node scripts/history.js 
-      
-      - name: Push changes
-        if: steps.verify_diff.outputs.changed == 'true'
+      - name: commit database.json
         run: |
           git add .
-          git commit -m 'update'
-          git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
+          git commit -m 'update database.json'
+
+      - name: make history
+        run: node scripts/history.js 
+      
+      - name: commit history
+        run: |
+          git add .
+          git commit -m 'update history'
+
+      - name: commit
+        run: git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
