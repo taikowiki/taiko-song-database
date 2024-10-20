@@ -18,14 +18,20 @@ jobs:
           node-version: '18'
           cache: 'npm'
           cache-dependency-path: './package-lock.json'
+
+      - name: git fetch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout main
+          git fetch
+          git pull origin main
       
       - name: fetch song data
         run: node scripts/fetch.js
       
       - name: Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m 'update'
           git push https://github.com/taikowiki/taiko-song-database
