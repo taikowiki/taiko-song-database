@@ -4,5 +4,5 @@ copyFileSync('database.json', `history/${getDateString()}.json`);
 
 function getDateString(){
     const date = new Date();
-    return `${date.getUTCFullYear()}-${date.getUTCMonth()}-${date.getUTCDate()}`;
+    return `${date.getUTCFullYear()}-${date.getUTCMonth() + 1}-${date.getUTCDate()}`;
 }
