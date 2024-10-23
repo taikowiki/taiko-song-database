@@ -48412,7 +48412,7 @@
   {
     "songNo": "40",
     "order": 221,
-    "title": "My Soul,Your Beats!",
+    "title": "My Soul, Your Beats!",
     "titleKo": null,
     "aliasKo": null,
     "titleEn": null,
@@ -77665,7 +77665,7 @@
     "songNo": "577",
     "order": 832,
     "title": "超絶技巧系少女",
-    "titleKo": "超絶技巧系少女",
+    "titleKo": null,
     "aliasKo": "초절기교계소녀",
     "titleEn": null,
     "aliasEn": null,
@@ -77701,7 +77701,7 @@
         "maxDensity": 1.72,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E7%B3%BB%E5%B0%91%E5%A5%B3/::ref/gikou_e.png?rev=ee47eb4807adf66df1b401bb0125e01c&t=20230228012424"
+          "https://file.taiko.wiki/img/e05e7ba7-4560-4cb0-b7c3-ebc719ebf13b"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -77719,7 +77719,7 @@
         "maxDensity": 2.62,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E7%B3%BB%E5%B0%91%E5%A5%B3/::ref/gikou_n.png?rev=569b6c57f4ffde3ad39e5e8b03a78949&t=20230228012505"
+          "https://file.taiko.wiki/img/d083eef7-6c03-4945-8003-afe7d20b4843"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -77737,7 +77737,7 @@
         "maxDensity": 3.65,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E7%B3%BB%E5%B0%91%E5%A5%B3/::ref/gikou_h.png?rev=5b327438cc7b82d43344846c8198c1d5&t=20230228012543"
+          "https://file.taiko.wiki/img/c35ffa35-828b-48fa-a242-c31de9850d7a"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -77753,11 +77753,17 @@
         ],
         "maxCombo": 803,
         "maxDensity": 6.63,
-        "dani": [],
-        "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E7%B3%BB%E5%B0%91%E5%A5%B3/::ref/chozet_m.png?rev=662e2fd8bfea20f298b6cbbb093e478d&t=20230918022640"
+        "dani": [
+          {
+            "version": "23",
+            "dan": "kuroto",
+            "order": 1
+          }
         ],
-        "daniUsed": 0,
+        "images": [
+          "https://file.taiko.wiki/img/5fa4edd5-f00b-4d07-8be6-3ce036a7cf57"
+        ],
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -114763,7 +114769,7 @@
     "songNo": "940",
     "order": 722,
     "title": "wonderful ROUTINE",
-    "titleKo": "wonderful ROUTINE",
+    "titleKo": null,
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -114798,7 +114804,7 @@
         "maxDensity": 1.79,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/wonderful%20ROUTINE/::ref/%E3%83%95%E3%83%AB%E3%83%81%E3%83%B3%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=8b2c801c9f8033e3d3dd1ac33b787794&t=20230225032519"
+          "https://file.taiko.wiki/img/0b5a29d8-3e9f-4df9-88ea-88f446d0c8ed"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -114816,7 +114822,7 @@
         "maxDensity": 2.55,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/wonderful%20ROUTINE/::ref/%E3%83%95%E3%83%AB%E3%83%81%E3%83%B3%E3%81%B5%E3%81%A4%E3%81%86.png?rev=4ae5f250a04a1a01afc1210eb25fce92&t=20230225032545"
+          "https://file.taiko.wiki/img/0fd62f50-ff69-4470-ae53-18ef33ccfb63"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -114834,7 +114840,7 @@
         "maxDensity": 4.14,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/wonderful%20ROUTINE/::ref/%E3%83%95%E3%83%AB%E3%83%81%E3%83%B3%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=5da3154e19ae3ffcf14a83b6862d8a41&t=20230225032634"
+          "https://file.taiko.wiki/img/9027c85a-87d2-431f-96fc-47ad067ef55e"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -114850,11 +114856,17 @@
         ],
         "maxCombo": 777,
         "maxDensity": 6.34,
-        "dani": [],
-        "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/wonderful%20ROUTINE/::ref/dptfct_m.png?rev=b838ed8ec6a37779d5333be0746904f5&t=20230225032438"
+        "dani": [
+          {
+            "version": "23",
+            "dan": "kuroto",
+            "order": 2
+          }
         ],
-        "daniUsed": 0,
+        "images": [
+          "https://file.taiko.wiki/img/02fed22e-7e88-4030-8792-0cfdf71d090a"
+        ],
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
