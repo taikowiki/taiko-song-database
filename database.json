@@ -36363,6 +36363,257 @@
     "isDeleted": 0
   },
   {
+    "songNo": "112",
+    "order": 379,
+    "title": "電車で電車で OPA!OPA!OPA! -GMT mashup-",
+    "titleKo": null,
+    "aliasKo": "전차로 전차로 OPA! OPA! OPA! -GMT mashup-",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 134,
+      "max": 268
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "Dr.Haggy、中山上等兵、Hiro",
+      "ZUNTATA-J.A.M、karu.、沢城千春、Mitsu、トリ音、kyo、竹本順一、矢野義人、増渕裕二"
+    ],
+    "addedDate": 1399507200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 128.96,
+        "balloon": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "rollTime": [
+          1.119,
+          1.119,
+          1.791,
+          1.791,
+          1.791,
+          2.687
+        ],
+        "maxCombo": 150,
+        "maxDensity": 1.16,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b95b6503-8075-48cb-9732-19823dfed715"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 6,
+        "playTime": 128.96,
+        "balloon": [
+          9,
+          8
+        ],
+        "rollTime": [
+          1.567,
+          1.791,
+          2.687
+        ],
+        "maxCombo": 250,
+        "maxDensity": 1.94,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/12b0dd40-cf86-4f9b-8a5a-d8da5a64560c"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 7,
+        "playTime": 128.96,
+        "balloon": [
+          14,
+          10
+        ],
+        "rollTime": [
+          1.007,
+          1.007,
+          1.679,
+          1.903,
+          2.201
+        ],
+        "maxCombo": 451,
+        "maxDensity": 3.5,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d1991ab0-2d38-4d60-ba05-16438d0bd098"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 8,
+        "playTime": 128.96,
+        "balloon": [
+          16,
+          8
+        ],
+        "rollTime": [
+          2.201
+        ],
+        "maxCombo": 658,
+        "maxDensity": 5.1,
+        "dani": [
+          {
+            "version": "21",
+            "dan": "6dan",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/img/d5be2c4a-3901-4b60-ae60-8882c15887ab"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "114",
+    "order": 381,
+    "title": "リッジでリッジで GO!GO!GO! -GMT mashup-",
+    "titleKo": null,
+    "aliasKo": "릿지로 릿지로 GO! GO! GO! -GMT mashup-",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 146,
+      "max": 146
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "Dr.Haggy、中山上等兵、Sampling Masters MEGA"
+    ],
+    "addedDate": 1399507200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 121.64,
+        "balloon": [
+          5,
+          2
+        ],
+        "rollTime": [
+          0.799,
+          2.842,
+          0.799,
+          0.799,
+          0.799,
+          0.799
+        ],
+        "maxCombo": 200,
+        "maxDensity": 1.64,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f9551a7b-d993-44e2-8f0b-f4607b0fa67a"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 6,
+        "playTime": 121.64,
+        "balloon": [
+          8,
+          3
+        ],
+        "rollTime": [
+          0.799,
+          2.842,
+          1.199,
+          0.799,
+          0.799,
+          0.799
+        ],
+        "maxCombo": 300,
+        "maxDensity": 2.47,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2b5ca79e-5a4d-432a-bf78-0ffdcbb97057"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 7,
+        "playTime": 121.64,
+        "balloon": [
+          12,
+          3
+        ],
+        "rollTime": [
+          0.799,
+          2.842,
+          1.199,
+          0.993,
+          0.993,
+          0.993
+        ],
+        "maxCombo": 400,
+        "maxDensity": 3.29,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8f1a09aa-0edb-4f91-a413-64e45ba7b596"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 9,
+        "playTime": 121.64,
+        "balloon": [
+          15
+        ],
+        "rollTime": [
+          1.199,
+          2.842,
+          1.199,
+          0.993,
+          0.993,
+          0.993
+        ],
+        "maxCombo": 600,
+        "maxDensity": 4.93,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ad539cc2-13ec-4545-96a1-c5531d308683"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "236",
     "order": 173,
     "title": "くまもとサプライズ！",
@@ -36473,8 +36724,8 @@
   {
     "songNo": "113",
     "order": 375,
-    "title": "電車で電車でGO!GO!GO!GC! - GMT remix -",
-    "titleKo": "電車で電車でGO!GO!GO!GC! - GMT remix -",
+    "title": "電車で電車でGO!GO!GO!GC! -GMT remix-",
+    "titleKo": null,
     "aliasKo": "전차로 전차로 GO! GO! GO! GC! -GMT remix-",
     "titleEn": null,
     "aliasEn": null,
@@ -36493,7 +36744,7 @@
       "game"
     ],
     "artists": [
-      "COSIO(ZUNTATA/TAITO)",
+      "Dr.Haggy、中山上等兵",
       "沢城千春"
     ],
     "addedDate": 1397692800000,
@@ -36502,16 +36753,19 @@
         "level": 4,
         "playTime": 107.46,
         "balloon": [
-          10
+          7,
+          3
         ],
         "rollTime": [
-          7.95
+          2.649,
+          2.649,
+          2.649
         ],
         "maxCombo": 130,
         "maxDensity": 1.21,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E9%9B%BB%E8%BB%8A%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%A7GO%21GO%21GO%21GC%21%20-GMT%20remix-/::ref/gogogogc_e.png?rev=ec0e3de74c3b64405b5ded0f82982027&t=20230301212312"
+          "https://file.taiko.wiki/img/db77171c-ce21-4482-9c2f-f1fc8fdc305b"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -36520,16 +36774,19 @@
         "level": 5,
         "playTime": 107.46,
         "balloon": [
-          15
+          11,
+          4
         ],
         "rollTime": [
-          8.02
+          2.649,
+          2.649,
+          2.649
         ],
         "maxCombo": 205,
         "maxDensity": 1.91,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E9%9B%BB%E8%BB%8A%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%A7GO%21GO%21GO%21GC%21%20-GMT%20remix-/::ref/gogogogc_n.png?rev=4dfeca9ec33a5b4692d01421ebaf15ea&t=20230301212424"
+          "https://file.taiko.wiki/img/33fca84c-f5f3-4842-a419-fe0c7b857700"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -36538,16 +36795,20 @@
         "level": 6,
         "playTime": 107.46,
         "balloon": [
-          21
+          2,
+          14,
+          5
         ],
         "rollTime": [
-          7.95
+          2.649,
+          2.649,
+          2.649
         ],
         "maxCombo": 351,
         "maxDensity": 3.27,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E9%9B%BB%E8%BB%8A%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%A7GO%21GO%21GO%21GC%21%20-GMT%20remix-/::ref/gogogogc_h.png?rev=80d4b6f4a0ad5b566b5304e6a4d1349c&t=20230301212706"
+          "https://file.taiko.wiki/img/54c014c4-c0f9-45d3-bb3e-869390153751"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -36556,16 +36817,19 @@
         "level": 8,
         "playTime": 107.46,
         "balloon": [
-          8
+          2,
+          6
         ],
         "rollTime": [
-          8.84
+          3.097,
+          3.097,
+          2.649
         ],
         "maxCombo": 555,
         "maxDensity": 5.16,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%9B%BB%E8%BB%8A%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%A7GO%21GO%21GO%21GC%21%20-GMT%20remix-/::ref/%E9%9B%BB%E8%BB%8A%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%A7GO%21GO%21GO%21GC%21-GMT%20remix-.png?rev=9dca5f0c49aead7b0f7c1fac9a30a6a0&t=20230301213433"
+          "https://file.taiko.wiki/img/b44e6fb0-80e9-4323-a616-024c69b88a00"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -42476,7 +42740,7 @@
     "songNo": "115",
     "order": 334,
     "title": "ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング",
-    "titleKo": "ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング",
+    "titleKo": null,
     "aliasKo": "드래곤볼 히어로즈 갤럭시 미션 시리즈 테마송",
     "titleEn": null,
     "aliasEn": null,
@@ -42505,16 +42769,22 @@
         "level": 3,
         "playTime": 90.31,
         "balloon": [
-          13
+          3,
+          5,
+          5
         ],
         "rollTime": [
-          6.48
+          2.415,
+          0.878,
+          0.878,
+          0.878,
+          1.424
         ],
         "maxCombo": 113,
         "maxDensity": 1.25,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0/::ref/dhero2_e.png?rev=d55625e91313b46bc1917534c6e6f675&t=20230302002236"
+          "https://file.taiko.wiki/img/f8cff3a2-76cb-482c-9243-577cc0eab8fb"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -42523,16 +42793,22 @@
         "level": 3,
         "playTime": 90.31,
         "balloon": [
-          22
+          6,
+          8,
+          8
         ],
         "rollTime": [
-          6.48
+          2.415,
+          0.878,
+          0.878,
+          0.878,
+          1.424
         ],
         "maxCombo": 125,
         "maxDensity": 1.38,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0/::ref/dhero2_n.png?rev=02c7ba3a4fbe576c1de5b2439f87b7cb&t=20230302002256"
+          "https://file.taiko.wiki/img/f4ffe099-f515-4a45-b10d-172e6ebe381a"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -42541,16 +42817,22 @@
         "level": 4,
         "playTime": 90.31,
         "balloon": [
-          28
+          8,
+          10,
+          10
         ],
         "rollTime": [
-          6.1
+          2.415,
+          0.878,
+          0.878,
+          0.878,
+          1.424
         ],
         "maxCombo": 226,
         "maxDensity": 2.5,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0/::ref/dhero2_h.png?rev=934ebf365dd8f223c4e546f13a27c6b1&t=20230302002318"
+          "https://file.taiko.wiki/img/3fd09fa0-bdba-49f0-bb68-940ca0d67873"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -42562,13 +42844,14 @@
           9
         ],
         "rollTime": [
-          2.3
+          0.878,
+          1.424
         ],
         "maxCombo": 341,
         "maxDensity": 3.78,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA%20%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0/::ref/dhero2.png?rev=ec9ea07a64104916523742a965d8ecec&t=20230302002339"
+          "https://file.taiko.wiki/img/d15e4894-e9ea-4428-8de6-c02ab412a09c"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -53237,6 +53520,163 @@
       "ura": null
     },
     "isDeleted": 1
+  },
+  {
+    "songNo": "111",
+    "order": 935,
+    "title": "伝説の祭り",
+    "titleKo": "DENSETSU NO MATSURI",
+    "aliasKo": "전설의 축제",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 126,
+      "max": 136
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "AC10",
+      "AC11",
+      "AC12",
+      "AC12.5",
+      "AC13",
+      "AC14",
+      "NS2",
+      "WiiU2",
+      "Wii1",
+      "Wii4",
+      "PS2-7",
+      "PSPDX",
+      "3DS2",
+      "3DS3",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "大上昌子",
+      "RUMI"
+    ],
+    "addedDate": 1165449600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "playTime": 170.43,
+        "balloon": [
+          8,
+          4,
+          8
+        ],
+        "rollTime": [
+          1.728,
+          0.8456,
+          0.8456,
+          1.066,
+          1.287,
+          0.8456,
+          0.8456,
+          1.066,
+          1.949
+        ],
+        "maxCombo": 161,
+        "maxDensity": 0.94,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/884d6458-d7d1-484d-8fd9-52017f6ad5c2"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 4,
+        "playTime": 170.43,
+        "balloon": [
+          6,
+          6,
+          12,
+          6,
+          12
+        ],
+        "rollTime": [
+          1.766,
+          1.287,
+          1.287,
+          1.066,
+          1.066,
+          1.066,
+          1.066,
+          1.949
+        ],
+        "maxCombo": 245,
+        "maxDensity": 1.44,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cf0e0a79-cb4f-4bf1-8363-e1c93076e24d"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 6,
+        "playTime": 170.43,
+        "balloon": [
+          12,
+          6,
+          12
+        ],
+        "rollTime": [
+          1.949,
+          1.287,
+          1.287
+        ],
+        "maxCombo": 511,
+        "maxDensity": 3,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8baf434d-8d96-4687-a6bb-bd8ba78daaa8"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 7,
+        "playTime": 170.43,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          1.949,
+          1.287,
+          0.846
+        ],
+        "maxCombo": 777,
+        "maxDensity": 4.56,
+        "dani": [
+          {
+            "version": "red",
+            "dan": "2dan",
+            "order": 3
+          },
+          {
+            "version": "blue",
+            "dan": "2dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/img/86e977fd-696a-4730-965f-d22d35b4245b"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
   },
   {
     "songNo": "65",
@@ -93123,100 +93563,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "112",
-    "order": 379,
-    "title": "電車で電車でOPA!OPA!OPA! - GMT mashup -",
-    "titleKo": "電車で電車でOPA!OPA!OPA! - GMT mashup -",
-    "aliasKo": "전차로 전차로 OPA! OPA! OPA! -GMT mashup-",
-    "titleEn": null,
-    "aliasEn": null,
-    "bpm": {
-      "min": 134,
-      "max": 268
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "game"
-    ],
-    "artists": [
-      "Yuji Masubuchi(BNSI)"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 128.96,
-        "balloon": [
-          26
-        ],
-        "rollTime": [
-          10.09
-        ],
-        "maxCombo": 150,
-        "maxDensity": 1.16,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/112/easy"
-        ]
-      },
-      "normal": {
-        "level": 6,
-        "playTime": 128.96,
-        "balloon": [
-          17
-        ],
-        "rollTime": [
-          5.93
-        ],
-        "maxCombo": 250,
-        "maxDensity": 1.94,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/112/normal"
-        ]
-      },
-      "hard": {
-        "level": 7,
-        "playTime": 128.96,
-        "balloon": [
-          24
-        ],
-        "rollTime": [
-          6.75
-        ],
-        "maxCombo": 451,
-        "maxDensity": 3.5,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/112/hard"
-        ]
-      },
-      "oni": {
-        "level": 8,
-        "playTime": 128.96,
-        "balloon": [
-          24
-        ],
-        "rollTime": [
-          2.2
-        ],
-        "maxCombo": 658,
-        "maxDensity": 5.1,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/112/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "1158",
     "order": 635,
     "title": "詩謳兎揺蕩兎",
@@ -93793,100 +94139,6 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/491/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "114",
-    "order": 381,
-    "title": "リッジでリッジでGO!GO!GO! - GMT mashup -",
-    "titleKo": "リッジでリッジでGO!GO!GO! - GMT mashup -",
-    "aliasKo": "릿지로 릿지로 GO! GO! GO! -GMT mashup-",
-    "titleEn": null,
-    "aliasEn": null,
-    "bpm": {
-      "min": 146,
-      "max": 146
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "game"
-    ],
-    "artists": [
-      "Hiro(SEGA)"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 121.64,
-        "balloon": [
-          7
-        ],
-        "rollTime": [
-          7.19
-        ],
-        "maxCombo": 200,
-        "maxDensity": 1.64,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/114/easy"
-        ]
-      },
-      "normal": {
-        "level": 6,
-        "playTime": 121.64,
-        "balloon": [
-          15
-        ],
-        "rollTime": [
-          7.19
-        ],
-        "maxCombo": 300,
-        "maxDensity": 2.47,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/114/normal"
-        ]
-      },
-      "hard": {
-        "level": 7,
-        "playTime": 121.64,
-        "balloon": [
-          15
-        ],
-        "rollTime": [
-          7.81
-        ],
-        "maxCombo": 400,
-        "maxDensity": 3.29,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/114/hard"
-        ]
-      },
-      "oni": {
-        "level": 9,
-        "playTime": 121.64,
-        "balloon": [
-          15
-        ],
-        "rollTime": [
-          8.22
-        ],
-        "maxCombo": 600,
-        "maxDensity": 4.93,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/114/oni"
         ]
       },
       "ura": null
@@ -104910,101 +105162,6 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1053/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "111",
-    "order": 935,
-    "title": "伝説の祭り",
-    "titleKo": "DENSETSU NO MATSURI",
-    "aliasKo": "전설의 축제",
-    "titleEn": null,
-    "aliasEn": null,
-    "bpm": {
-      "min": 126,
-      "max": 136
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "大上昌子",
-      "RUMI"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 3,
-        "playTime": 170.43,
-        "balloon": [
-          20
-        ],
-        "rollTime": [
-          13.98
-        ],
-        "maxCombo": 161,
-        "maxDensity": 0.94,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/111/easy"
-        ]
-      },
-      "normal": {
-        "level": 4,
-        "playTime": 170.43,
-        "balloon": [
-          42
-        ],
-        "rollTime": [
-          10.59
-        ],
-        "maxCombo": 245,
-        "maxDensity": 1.44,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/111/normal"
-        ]
-      },
-      "hard": {
-        "level": 6,
-        "playTime": 170.43,
-        "balloon": [
-          30
-        ],
-        "rollTime": [
-          4.56
-        ],
-        "maxCombo": 511,
-        "maxDensity": 3,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/111/hard"
-        ]
-      },
-      "oni": {
-        "level": 7,
-        "playTime": 170.43,
-        "balloon": [
-          6
-        ],
-        "rollTime": [
-          4.11
-        ],
-        "maxCombo": 777,
-        "maxDensity": 4.56,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/111/oni"
         ]
       },
       "ura": null
