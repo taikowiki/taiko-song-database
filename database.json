@@ -1409,10 +1409,13 @@
         "level": 10,
         "isBranched": 0,
         "maxCombo": 1159,
-        "playTime": 0,
+        "playTime": 137,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          1.093,
+          1.537
+        ],
+        "maxDensity": 8.46,
         "daniUsed": 1,
         "dani": [
           {
