@@ -36,11 +36,11 @@ jobs:
         uses: tj-actions/changed-files@v45
 
       - name: make history
-        if: steps.chenged-files.outputs.any_changed == 'true'
+        #if: steps.chenged-files.outputs.any_changed == 'true'
         run: node scripts/history.js 
       
       - name: Push changes
-        if: steps.chenged-files.outputs.any_changed == 'true'
+        #if: steps.chenged-files.outputs.any_changed == 'true'
         run: |
           git add .
           git commit -m 'update'
