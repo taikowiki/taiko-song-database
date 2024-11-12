@@ -1,8 +1,6 @@
 name: download
 
 on:
-  issues:
-    types: [opened, edited, milestoned]
   schedule:
     - cron: '0 15 * * *'
 
@@ -28,27 +26,20 @@ jobs:
           git fetch
           git pull origin main
       
-      - name: crawl
+      - name: update
         run: node scripts/update.js
 
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v45
-
-      - name: List all changed files
-        env:
-          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+      - name: check changes
+        id: verify_diff
         run: |
-          for file in ${ALL_CHANGED_FILES}; do
-            echo "$file was changed"
-          done
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: make history
-        if: steps.changed-files.outputs.any_changed == 'true'
+        if: steps.verify_diff.outputs.changed == 'true'
         run: node scripts/history.js 
       
       - name: Push changes
-        if: steps.changed-files.outputs.any_changed == 'true'
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git add .
           git commit -m 'update'
