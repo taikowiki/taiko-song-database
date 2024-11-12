@@ -31,7 +31,7 @@ jobs:
       - name: crawl
         run: node src/lib/data/crawl.js
 
-      name: Get changed files
+      - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v45
 
