@@ -1,8 +1,8 @@
-name: update
+name: download
 
 on:
   issues:
-    types: opened
+    types: [opened, edited, milestoned]
   schedule:
     - cron: '0 15 * * *'
 
@@ -28,20 +28,20 @@ jobs:
           git fetch
           git pull origin main
       
-      - name: update
-        run: node scripts/update.js
+      - name: crawl
+        run: node src/lib/data/crawl.js
 
-      - name: commit database.json
-        run: |
-          git add .
-          git commit -m 'update database.json'
-          git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
+      name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v45
 
       - name: make history
+        if: steps.chenged-files.outputs.any_changed == 'true'
         run: node scripts/history.js 
       
-      - name: commit history
+      - name: Push changes
+        if: steps.chenged-files.outputs.any_changed == 'true'
         run: |
           git add .
-          git commit -m 'update history'
+          git commit -m 'update'
           git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
