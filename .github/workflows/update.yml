@@ -1,4 +1,4 @@
-name: download
+name: update
 
 on:
   schedule:
@@ -29,18 +29,17 @@ jobs:
       - name: update
         run: node scripts/update.js
 
-      - name: check changes
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: make history
-        if: steps.verify_diff.outputs.changed == 'true'
-        run: node scripts/history.js 
-      
-      - name: Push changes
-        if: steps.verify_diff.outputs.changed == 'true'
+      - name: commit database.json
         run: |
           git add .
-          git commit -m 'update'
+          git commit -m 'update database.json'
+          git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
+
+      - name: make history
+        run: node scripts/history.js 
+      
+      - name: commit history
+        run: |
+          git add .
+          git commit -m 'update history'
           git push 'https://${{ secrets.GITHUB_TOKEN }}@github.com/taikowiki/taiko-song-database'
