@@ -1,5 +1,104 @@
 [
   {
+    "songNo": "1338",
+    "order": 1209,
+    "title": "Help me, さいたま2000!!",
+    "titleKo": "Help me, 사이타마 2000!!",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 240,
+      "max": 240
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "variety",
+      "namco"
+    ],
+    "artists": [
+      "ビートまりお"
+    ],
+    "addedDate": 1732060800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 137.61,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 137.61,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 137.61,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 944,
+        "playTime": 137.61,
+        "balloon": [
+          30,
+          4,
+          15,
+          50
+        ],
+        "rollTime": [
+          0.729,
+          0.729,
+          0.354,
+          0.854,
+          0.854,
+          0.354,
+          0.104,
+          0.104,
+          0.104,
+          0.104,
+          0.104,
+          0.104
+        ],
+        "maxDensity": 6.86,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a008a076-c00f-4937-be57-9e8be851ab62"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1337",
     "order": 1206,
     "title": "全力Dive",
@@ -34748,6 +34847,7 @@
     "bpmShiver": 0,
     "version": [
       "NAC",
+      "NS2",
       "NS1",
       "NSRPG",
       "PS4",
@@ -50485,7 +50585,7 @@
   {
     "songNo": "390",
     "order": 983,
-    "title": "SORA‐Ⅱ グリーゼ581",
+    "title": "SORA-II グリーゼ581",
     "titleKo": "SORA-Ⅱ 글리제581",
     "aliasKo": "SORA-II 글리제 581",
     "titleEn": null,
