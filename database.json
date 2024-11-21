@@ -29,38 +29,100 @@
       "easy": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 298,
         "playTime": 137.61,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          12,
+          2,
+          6,
+          24
+        ],
+        "rollTime": [
+          0.625,
+          0.625,
+          0.625,
+          2.25,
+          0.5,
+          0.104,
+          0.063,
+          0.188,
+          0.729,
+          0.25
+        ],
+        "maxDensity": 2.17,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/a8c3598d-6ea8-464a-b17b-37a9698eec78"
+        ]
       },
       "normal": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 400,
         "playTime": 137.61,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          18,
+          3,
+          8,
+          30
+        ],
+        "rollTime": [
+          0.729,
+          0.729,
+          0.25,
+          2.25,
+          0.5,
+          0.104,
+          0.063,
+          0.188,
+          0.063,
+          0.729,
+          0.729,
+          0.25
+        ],
+        "maxDensity": 2.91,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/13f472f3-79c1-46e5-81ca-987e05512fd9"
+        ]
       },
       "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 694,
         "playTime": 137.61,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          24,
+          4,
+          10,
+          40
+        ],
+        "rollTime": [
+          0.729,
+          0.729,
+          0.354,
+          2.25,
+          0.5,
+          0.104,
+          0.063,
+          0.188,
+          0.063,
+          0.729,
+          0.729,
+          0.104,
+          0.104,
+          0.104,
+          0.104,
+          0.104
+        ],
+        "maxDensity": 5.04,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/0dc35c49-fb5e-40ee-82fc-b7a38edc18e6"
+        ]
       },
       "oni": {
         "level": 10,
