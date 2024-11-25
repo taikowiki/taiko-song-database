@@ -12154,7 +12154,7 @@
     "songNo": "1065",
     "order": 158,
     "title": "liveDevil",
-    "titleKo": "liveDevil",
+    "titleKo": null,
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -12248,7 +12248,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1064",
@@ -12351,7 +12351,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1063",
@@ -12458,7 +12458,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1052",
@@ -32751,7 +32751,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "418",
@@ -73321,7 +73321,7 @@
     "songNo": "1060",
     "order": 45,
     "title": "YONA YONA DANCE",
-    "titleKo": "YONA YONA DANCE",
+    "titleKo": null,
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -73358,7 +73358,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1060/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -73374,7 +73376,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1060/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -73390,7 +73394,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1060/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -73403,11 +73409,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1060/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1212",
@@ -106167,8 +106175,10 @@
         "maxDensity": 1.13,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/740/easy"
-        ]
+          "https://file.taiko.wiki/img/c65fe784-7aee-4c92-a683-6d8b2f47a85e"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -106183,8 +106193,10 @@
         "maxDensity": 1.95,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/740/normal"
-        ]
+          "https://file.taiko.wiki/img/fbb051f5-7c0a-4486-98bd-4532283819b2"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 8,
@@ -106199,8 +106211,10 @@
         "maxDensity": 3.38,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/740/hard"
-        ]
+          "https://file.taiko.wiki/img/59b56dfd-5242-4469-aa12-66932860d5c1"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -106215,8 +106229,10 @@
         "maxDensity": 4.84,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/740/oni"
-        ]
+          "https://file.taiko.wiki/img/22e3ce94-e5d7-4c87-9a89-74b1d041e962"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
