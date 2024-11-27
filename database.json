@@ -18161,7 +18161,7 @@
     "songNo": "866",
     "order": 1023,
     "title": "氷竜 ～Kooryu～",
-    "titleKo": "氷竜 ～Kooryu～",
+    "titleKo": "코오류 ～Kooryu～",
     "aliasKo": "빙룡 ~Kooryu~",
     "titleEn": null,
     "aliasEn": null,
@@ -121450,7 +121450,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/433/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -121466,7 +121468,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/433/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -121479,7 +121483,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/433/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -121492,7 +121498,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/433/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -121502,8 +121510,9 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/433/ura"
-        ]
+          "https://file.taiko.wiki/img/ef81fe11-3f4e-4107-96f6-aa357394f681"
+        ],
+        "daniUsed": 0
       }
     },
     "isDeleted": 0
