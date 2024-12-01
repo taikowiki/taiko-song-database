@@ -45861,7 +45861,9 @@
         "maxCombo": 257,
         "maxDensity": 1.92,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/99ae863e-4be6-4e46-9485-7cee7978368b"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -45877,7 +45879,9 @@
         "maxCombo": 326,
         "maxDensity": 2.44,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/d4497d01-7656-4ede-9838-65198e696aff"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -45894,7 +45898,9 @@
         "maxDensity": 4.01,
         "isBranched": 1,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/313b22ad-0235-4b34-95cc-11b5ea8b012d"
+        ],
         "daniUsed": 0
       },
       "oni": {
@@ -45908,9 +45914,17 @@
         ],
         "maxCombo": 765,
         "maxDensity": 5.73,
-        "dani": [],
-        "images": [],
-        "daniUsed": 0,
+        "dani": [
+          {
+            "version": "green",
+            "dan": "9dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/img/3cc8eafa-56ef-48a0-b3b8-1e7d3ccb099f"
+        ],
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -45928,7 +45942,9 @@
             "order": 1
           }
         ],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/cf9d4863-69fe-4c12-83e7-33b735ef0993"
+        ],
         "daniUsed": 1,
         "isBranched": 0
       }
