@@ -1,5 +1,546 @@
 [
   {
+    "songNo": "1280",
+    "order": 1210,
+    "title": "Just Dance",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 118,
+      "max": 118
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "徐佳瑩"
+    ],
+    "addedDate": 1733270400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 77,
+        "playTime": 80.24,
+        "balloon": [
+          3
+        ],
+        "rollTime": [
+          1.271
+        ],
+        "maxDensity": 0.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6ee95247-67ae-4cbe-a96d-588b5685de44"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 139,
+        "playTime": 80.24,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          1.525
+        ],
+        "maxDensity": 1.73,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/66c545f5-2ace-4b21-8258-dfb914861fb6"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 229,
+        "playTime": 80.24,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          0.72,
+          0.72,
+          1.017,
+          0.72,
+          0.72
+        ],
+        "maxDensity": 2.85,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/27dd59be-1c58-4298-8e82-2744146b02a9"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 337,
+        "playTime": 80.24,
+        "balloon": [
+          8,
+          10
+        ],
+        "rollTime": [
+          0.72,
+          0.72,
+          0.72,
+          0.72
+        ],
+        "maxDensity": 4.2,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b0e506a1-8577-48f0-97e5-ab4c68b916de"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1281",
+    "order": 1211,
+    "title": "Fairy Tale",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 64,
+      "max": 64
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "林宥嘉"
+    ],
+    "addedDate": 1733270400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 72,
+        "playTime": 93.03,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          2.344,
+          3.906
+        ],
+        "maxDensity": 0.77,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8308618e-ded5-4a3d-b409-f9e7fbf3dabe"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 108,
+        "playTime": 93.03,
+        "balloon": [
+          9
+        ],
+        "rollTime": [
+          2.344,
+          3.906
+        ],
+        "maxDensity": 1.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/90b6d413-e5b8-46d8-82d0-d76f3717de7d"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 155,
+        "playTime": 93.03,
+        "balloon": [
+          12
+        ],
+        "rollTime": [
+          2.344,
+          3.906
+        ],
+        "maxDensity": 1.67,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8d2161d8-24d3-4fbf-9b2d-75ad8d5e8ee7"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 227,
+        "playTime": 93.03,
+        "balloon": [
+          8
+        ],
+        "rollTime": [
+          3.906
+        ],
+        "maxDensity": 2.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/84925c4e-bf3e-4ed0-9df9-bc310774755b"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1282",
+    "order": 1212,
+    "title": "無人の島",
+    "titleKo": null,
+    "aliasKo": "무인도",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 42,
+      "max": 70
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "任然"
+    ],
+    "addedDate": 1733270400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 80,
+        "playTime": 129.71,
+        "balloon": [
+          15,
+          20
+        ],
+        "rollTime": [
+          1.643,
+          1.286,
+          2.143
+        ],
+        "maxDensity": 0.62,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8e11f800-53c4-41bf-8d8f-78d5ae487abd"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 133,
+        "playTime": 129.71,
+        "balloon": [
+          18,
+          26
+        ],
+        "rollTime": [
+          1.643,
+          1.071
+        ],
+        "maxDensity": 1.03,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6ed5c43b-17c0-46fc-8ba7-40f92cfa2e96"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 221,
+        "playTime": 129.71,
+        "balloon": [
+          24,
+          30
+        ],
+        "rollTime": [
+          1.643,
+          1.071
+        ],
+        "maxDensity": 1.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2358f17f-48a7-4627-b7bf-13b732960fd7"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 358,
+        "playTime": 129.71,
+        "balloon": [
+          22,
+          42
+        ],
+        "rollTime": [
+          1.643
+        ],
+        "maxDensity": 2.76,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4d0bcc80-6279-4873-9ce1-43cd902c0bad"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1283",
+    "order": 1213,
+    "title": "Say Something",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 112,
+      "max": 112
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "張信哲"
+    ],
+    "addedDate": 1733270400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 81,
+        "playTime": 114.06,
+        "balloon": [
+          10,
+          12,
+          7
+        ],
+        "rollTime": [
+          2.634,
+          1.83
+        ],
+        "maxDensity": 0.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/56feaa41-5583-4484-93b9-a288eafab511"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 134,
+        "playTime": 114.06,
+        "balloon": [
+          12,
+          16,
+          11
+        ],
+        "rollTime": [
+          2.634,
+          1.83
+        ],
+        "maxDensity": 1.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f8a6afc7-48b7-429c-a951-8b2be98ac60a"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 221,
+        "playTime": 114.06,
+        "balloon": [
+          16,
+          20,
+          14
+        ],
+        "rollTime": [
+          1.027,
+          2.634,
+          1.83
+        ],
+        "maxDensity": 1.94,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/3b6027f6-81b1-4edc-85a8-4c4a55424e74"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 292,
+        "playTime": 114.06,
+        "balloon": [
+          20,
+          26,
+          18
+        ],
+        "rollTime": [
+          1.027,
+          2.634,
+          1.83
+        ],
+        "maxDensity": 2.56,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/005c0248-da8f-49ae-a621-f7dfe023a03b"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1285",
+    "order": 1214,
+    "title": "麻雀 Sparrow",
+    "titleKo": null,
+    "aliasKo": "참새",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 85,
+      "max": 85
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "李榮浩"
+    ],
+    "addedDate": 1733270400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 69,
+        "playTime": 93.24,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          1.412,
+          1.765,
+          2.588
+        ],
+        "maxDensity": 0.74,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/acd5e4d0-0b9a-43dd-89a8-c952561340a5"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 124,
+        "playTime": 93.24,
+        "balloon": [
+          9
+        ],
+        "rollTime": [
+          1.412,
+          2.588
+        ],
+        "maxDensity": 1.33,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 176,
+        "playTime": 93.24,
+        "balloon": [],
+        "rollTime": [
+          1.412,
+          2.588
+        ],
+        "maxDensity": 1.89,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e41fdb21-ec1f-492b-8871-1bc3789d39d9"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 262,
+        "playTime": 93.24,
+        "balloon": [],
+        "rollTime": [
+          2.588
+        ],
+        "maxDensity": 2.81,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6d19fce0-fc7b-448e-aa60-afbed5f33da7"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1338",
     "order": 1209,
     "title": "Help me, さいたま2000!!",
@@ -963,7 +1504,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -1089,7 +1630,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -1752,7 +2293,7 @@
       "NS2",
       "RC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime",
@@ -1998,7 +2539,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -2117,7 +2658,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -2224,7 +2765,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -2349,7 +2890,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -2736,7 +3277,7 @@
     "order": 1087,
     "title": "ココドコ？多分ドッカ島！",
     "titleKo": "KOKODOKO? 아마도 DOKKA섬!",
-    "aliasKo": "여기어디? 아마 돗카도!",
+    "aliasKo": "여기어디? 아마 돗카섬!",
     "titleEn": null,
     "aliasEn": null,
     "bpm": {
@@ -2749,7 +3290,7 @@
       "NS2",
       "RC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "namco"
@@ -3140,7 +3681,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3246,7 +3787,7 @@
       "TDM",
       "3DS3"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "vocaloid"
@@ -3346,7 +3887,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "kids"
@@ -3449,7 +3990,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3544,7 +4085,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -4269,7 +4810,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime",
@@ -4374,7 +4915,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -4479,7 +5020,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -8806,6 +9347,109 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1292",
+    "order": 1088,
+    "title": "ダンスホール",
+    "titleKo": "Dance Hall",
+    "aliasKo": "댄스홀",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 110,
+      "max": 110
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "Mrs. GREEN APPLE"
+    ],
+    "addedDate": 1678320000000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 102,
+        "playTime": 118.94,
+        "balloon": [
+          23
+        ],
+        "rollTime": [
+          2.682
+        ],
+        "maxDensity": 0.86,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/05b4b5dc-fca9-491e-a148-9dc8defdb909"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 162,
+        "playTime": 118.94,
+        "balloon": [
+          31
+        ],
+        "rollTime": [
+          4.273
+        ],
+        "maxDensity": 1.36,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7495fa32-2ad5-4626-828b-c1a48df7e46e"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 314,
+        "playTime": 118.94,
+        "balloon": [
+          28
+        ],
+        "rollTime": [
+          4.273
+        ],
+        "maxDensity": 2.64,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/5077f149-1fe6-414f-bb72-f4ad0f4c1f4d"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 472,
+        "playTime": 118.94,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          1.273
+        ],
+        "maxDensity": 3.97,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1c310752-7571-48b4-83ff-6766fc104cc1"
+        ]
       },
       "ura": null
     },
@@ -18399,9 +19043,9 @@
   {
     "songNo": "849",
     "order": 1036,
-    "title": "poxei♦DOON",
+    "title": "poxei♦︎DOON",
     "titleKo": null,
-    "aliasKo": "포세이♦돈",
+    "aliasKo": "포세이♦︎돈",
     "titleEn": null,
     "aliasEn": null,
     "bpm": {
@@ -25502,7 +26146,7 @@
     "order": 1049,
     "title": "Infinite Rebellion",
     "titleKo": null,
-    "aliasKo": null,
+    "aliasKo": "무한의 난",
     "titleEn": null,
     "aliasEn": null,
     "bpm": {
@@ -79329,109 +79973,6 @@
         ],
         "daniUsed": 1,
         "isBranched": 0
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "1292",
-    "order": 1088,
-    "title": "ダンスホール",
-    "titleKo": "Dance Hall",
-    "aliasKo": "댄스홀",
-    "titleEn": null,
-    "aliasEn": null,
-    "bpm": {
-      "min": 110,
-      "max": 110
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC",
-      "NS2"
-    ],
-    "isAsiaBanned": 1,
-    "isKrBanned": 0,
-    "genre": [
-      "pops"
-    ],
-    "artists": [
-      "Mrs. GREEN APPLE"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 2,
-        "isBranched": 0,
-        "maxCombo": 102,
-        "playTime": 118.94,
-        "balloon": [
-          23
-        ],
-        "rollTime": [
-          2.682
-        ],
-        "maxDensity": 0.86,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/05b4b5dc-fca9-491e-a148-9dc8defdb909"
-        ]
-      },
-      "normal": {
-        "level": 3,
-        "isBranched": 0,
-        "maxCombo": 162,
-        "playTime": 118.94,
-        "balloon": [
-          31
-        ],
-        "rollTime": [
-          4.273
-        ],
-        "maxDensity": 1.36,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/7495fa32-2ad5-4626-828b-c1a48df7e46e"
-        ]
-      },
-      "hard": {
-        "level": 6,
-        "isBranched": 0,
-        "maxCombo": 314,
-        "playTime": 118.94,
-        "balloon": [
-          28
-        ],
-        "rollTime": [
-          4.273
-        ],
-        "maxDensity": 2.64,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/5077f149-1fe6-414f-bb72-f4ad0f4c1f4d"
-        ]
-      },
-      "oni": {
-        "level": 7,
-        "isBranched": 0,
-        "maxCombo": 472,
-        "playTime": 118.94,
-        "balloon": [
-          20
-        ],
-        "rollTime": [
-          1.273
-        ],
-        "maxDensity": 3.97,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/1c310752-7571-48b4-83ff-6766fc104cc1"
-        ]
       },
       "ura": null
     },
