@@ -31268,6 +31268,111 @@
     "isDeleted": 1
   },
   {
+    "songNo": "565",
+    "order": 818,
+    "title": "ほうかご☆マジシャン",
+    "titleKo": "호우가코☆매지션",
+    "aliasKo": "방과후☆매지션",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 160,
+      "max": 160
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "まりんべーす"
+    ],
+    "addedDate": 1456358400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 124.5,
+        "balloon": [
+          23
+        ],
+        "rollTime": [
+          10.28
+        ],
+        "maxCombo": 151,
+        "maxDensity": 1.21,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/fumen/565/easy"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 6,
+        "playTime": 124.5,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          5.15
+        ],
+        "maxCombo": 276,
+        "maxDensity": 2.22,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/fumen/565/normal"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 6,
+        "playTime": 124.5,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          0.34
+        ],
+        "maxCombo": 429,
+        "maxDensity": 3.45,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/fumen/565/hard"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 8,
+        "playTime": 124.5,
+        "balloon": [
+          75
+        ],
+        "maxCombo": 585,
+        "maxDensity": 4.7,
+        "dani": [
+          {
+            "version": "23",
+            "dan": "3dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/fumen/565/oni"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "AC_562",
     "order": 1161,
     "title": "talking",
@@ -76038,97 +76143,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "565",
-    "order": 818,
-    "title": "ほうかご☆マジシャン",
-    "titleKo": "호우가코☆매지션",
-    "aliasKo": "방과후☆매지션",
-    "titleEn": null,
-    "aliasEn": null,
-    "bpm": {
-      "min": 160,
-      "max": 160
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "まりんべーす"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 124.5,
-        "balloon": [
-          23
-        ],
-        "rollTime": [
-          10.28
-        ],
-        "maxCombo": 151,
-        "maxDensity": 1.21,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/565/easy"
-        ]
-      },
-      "normal": {
-        "level": 6,
-        "playTime": 124.5,
-        "balloon": [
-          5
-        ],
-        "rollTime": [
-          5.15
-        ],
-        "maxCombo": 276,
-        "maxDensity": 2.22,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/565/normal"
-        ]
-      },
-      "hard": {
-        "level": 6,
-        "playTime": 124.5,
-        "balloon": [
-          7
-        ],
-        "rollTime": [
-          0.34
-        ],
-        "maxCombo": 429,
-        "maxDensity": 3.45,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/565/hard"
-        ]
-      },
-      "oni": {
-        "level": 8,
-        "playTime": 124.5,
-        "balloon": [
-          75
-        ],
-        "maxCombo": 585,
-        "maxDensity": 4.7,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/565/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "452",
     "order": 1074,
     "title": "X-DAY2000",
@@ -103747,8 +103761,10 @@
         "maxDensity": 0.9,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/936/easy"
-        ]
+          "https://file.taiko.wiki/img/eb5745cb-b944-4d56-9a5b-7feacc20637f"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 2,
@@ -103763,8 +103779,10 @@
         "maxDensity": 1.25,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/936/normal"
-        ]
+          "https://file.taiko.wiki/img/c5a4be49-f7c8-4f6a-8d38-fe09446d2d00"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 4,
@@ -103779,8 +103797,10 @@
         "maxDensity": 2.53,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/936/hard"
-        ]
+          "https://file.taiko.wiki/img/dcab248d-c4d8-49c2-ab2a-13487f111e4d"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 5,
@@ -103795,8 +103815,10 @@
         "maxDensity": 3.63,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/936/oni"
-        ]
+          "https://file.taiko.wiki/img/7b5ec681-84dc-4707-ba92-8e5d89e95819"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -103808,8 +103830,11 @@
         "maxDensity": 6.56,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/936/ura"
-        ]
+          "https://file.taiko.wiki/img/4c91db16-b447-4eda-964d-89d2c5e7bab6",
+          "https://file.taiko.wiki/img/ab503ba4-7fd2-4fb9-9046-9df1f26aa685"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
