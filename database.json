@@ -63036,7 +63036,31 @@
         "daniUsed": 1,
         "isBranched": 0
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 1,
+        "maxCombo": 1001,
+        "playTime": 143.06,
+        "balloon": [
+          4,
+          4,
+          5,
+          2,
+          4,
+          100
+        ],
+        "rollTime": [
+          0.216,
+          0.216,
+          0.059
+        ],
+        "maxDensity": 7.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6e1c0cdc-aaba-4365-8f25-f5810cd1b09f"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -70821,7 +70845,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/687/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -70837,7 +70863,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/687/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -70853,7 +70881,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/687/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -70866,10 +70896,18 @@
         ],
         "maxCombo": 567,
         "maxDensity": 3.76,
-        "dani": [],
+        "dani": [
+          {
+            "version": "23",
+            "dan": "2dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/687/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -97181,7 +97219,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/307/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -97197,7 +97237,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/307/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -97213,7 +97255,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/307/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -97226,10 +97270,18 @@
         ],
         "maxCombo": 604,
         "maxDensity": 4.32,
-        "dani": [],
+        "dani": [
+          {
+            "version": "23",
+            "dan": "2dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/307/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -121404,7 +121456,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/889/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -121417,7 +121471,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/889/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -121430,7 +121486,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/889/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -121440,10 +121498,18 @@
         ],
         "maxCombo": 593,
         "maxDensity": 4.72,
-        "dani": [],
+        "dani": [
+          {
+            "version": "23",
+            "dan": "3dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/889/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
