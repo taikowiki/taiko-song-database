@@ -1,5 +1,245 @@
 [
   {
+    "songNo": "1341",
+    "order": 1216,
+    "title": "粛聖!! ロリ神レクイエム☆",
+    "titleKo": null,
+    "aliasKo": "숙성!! 로리신 레퀴엠☆",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 165,
+      "max": 165
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "D.watt",
+      "しぐれうい"
+    ],
+    "addedDate": 1733875200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 128,
+        "playTime": 109.18,
+        "balloon": [
+          2,
+          7,
+          8
+        ],
+        "rollTime": [
+          4.152,
+          1.061,
+          1.061,
+          0.879,
+          1.242,
+          1.061
+        ],
+        "maxDensity": 1.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/235d6d8c-2b26-4c9c-875b-3377b42762c2"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 216,
+        "playTime": 109.18,
+        "balloon": [
+          2,
+          8,
+          3,
+          3,
+          3,
+          10
+        ],
+        "rollTime": [
+          3.97,
+          1.061,
+          1.061,
+          1.242,
+          1.061
+        ],
+        "maxDensity": 1.98,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/5ccd5bf8-db30-4951-b09f-4c7ad87b6939"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 373,
+        "playTime": 109.18,
+        "balloon": [
+          3,
+          13
+        ],
+        "rollTime": [
+          3.97,
+          1.061,
+          1.242
+        ],
+        "maxDensity": 3.42,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/149a792f-1ef0-406e-a71e-6638aa294da7"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 547,
+        "playTime": 109.18,
+        "balloon": [
+          4,
+          16
+        ],
+        "rollTime": [
+          3.97,
+          1.061,
+          1.242
+        ],
+        "maxDensity": 5.01,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1e4d3d2e-ea1e-47ef-8f18-fe1bddb1b70d"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1342",
+    "order": 1217,
+    "title": "Got Boost?",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 165,
+      "max": 165
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "kids"
+    ],
+    "artists": [
+      "SKY BEATZ",
+      "FAST LANE",
+      "FANTASTICS from EXILE TRIBE"
+    ],
+    "addedDate": 1733356800000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 58,
+        "playTime": 75.89,
+        "balloon": [
+          4,
+          6,
+          4,
+          4,
+          7
+        ],
+        "rollTime": [],
+        "maxDensity": 0.76,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/422ce7d2-28b4-4e6f-a773-51f77d98cc93"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 109,
+        "playTime": 75.89,
+        "balloon": [
+          5,
+          8,
+          4,
+          4,
+          4
+        ],
+        "rollTime": [
+          0.515
+        ],
+        "maxDensity": 1.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/49e8e0f6-d95f-48ad-a9d3-7174552d41f0"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 214,
+        "playTime": 75.89,
+        "balloon": [
+          7,
+          11,
+          4,
+          4,
+          4
+        ],
+        "rollTime": [
+          0.515
+        ],
+        "maxDensity": 2.82,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/87d4d2de-7b3b-4921-bfb6-f80a6dfad8b5"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 321,
+        "playTime": 75.89,
+        "balloon": [
+          8
+        ],
+        "rollTime": [
+          0.515
+        ],
+        "maxDensity": 4.23,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d86529b3-1cdb-493c-a22c-27772bc2a31e"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1280",
     "order": 1210,
     "title": "Just Dance",
@@ -537,6 +777,166 @@
         ]
       },
       "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1344",
+    "order": 1218,
+    "title": "メズマライザー",
+    "titleKo": null,
+    "aliasKo": "메스머라이저",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 185,
+      "max": 185
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "サツキ",
+      "初音ミク",
+      "重音テト"
+    ],
+    "addedDate": 1732147200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 156,
+        "playTime": 122.28,
+        "balloon": [
+          4,
+          4,
+          4
+        ],
+        "rollTime": [
+          0.784,
+          1.27,
+          0.784,
+          0.784,
+          0.784,
+          0.784,
+          0.784,
+          0.784,
+          0.784,
+          0.784
+        ],
+        "maxDensity": 1.28,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/35d49118-527a-4109-a1c8-97f69914615b"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 240,
+        "playTime": 122.28,
+        "balloon": [
+          6,
+          6,
+          5
+        ],
+        "rollTime": [
+          0.946,
+          1.27,
+          0.784,
+          0.784,
+          0.946,
+          0.784,
+          1.27,
+          0.784,
+          0.784,
+          0.946
+        ],
+        "maxDensity": 1.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4e394e66-114c-407b-a47b-78905d472578"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 378,
+        "playTime": 122.28,
+        "balloon": [
+          8,
+          8,
+          8
+        ],
+        "rollTime": [
+          0.946,
+          1.27,
+          0.784,
+          0.784,
+          0.946,
+          0.784,
+          0.784,
+          0.784,
+          0.946
+        ],
+        "maxDensity": 3.09,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e549c9c5-476c-4d86-aaf1-4fc3e61a8220"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 505,
+        "playTime": 122.28,
+        "balloon": [
+          10,
+          10,
+          10
+        ],
+        "rollTime": [
+          0.946,
+          1.27,
+          0.784,
+          0.784,
+          0.946,
+          0.784,
+          0.784,
+          0.784,
+          0.946
+        ],
+        "maxDensity": 4.13,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/230754ac-177d-4231-9fdf-0195801ed7a5"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 968,
+        "playTime": 122.28,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 7.92,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7be74f09-a956-4419-bb75-5babbec859b6"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -1482,6 +1882,134 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/img/a54d38ff-0398-4d68-9816-f2639257855c"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1339",
+    "order": 1215,
+    "title": "ライラック",
+    "titleKo": null,
+    "aliasKo": "라일락",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 150,
+      "max": 150
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "anime"
+    ],
+    "artists": [
+      "Mrs. GREEN APPLE"
+    ],
+    "addedDate": 1727913600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 80,
+        "playTime": 88.18,
+        "balloon": [
+          10,
+          6,
+          6,
+          8,
+          10
+        ],
+        "rollTime": [
+          1.567,
+          1.767,
+          1.567,
+          1.767
+        ],
+        "maxDensity": 0.91,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/fcdbcdfd-7bee-4741-889a-a2f40b3bf808"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 138,
+        "playTime": 88.18,
+        "balloon": [
+          8,
+          9,
+          9,
+          10,
+          10
+        ],
+        "rollTime": [
+          1.567,
+          1.767,
+          1.567,
+          1.767
+        ],
+        "maxDensity": 1.56,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b79d2010-eb1d-45a0-be11-4c48ad5e101e"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 218,
+        "playTime": 88.18,
+        "balloon": [
+          12,
+          14,
+          10,
+          15
+        ],
+        "rollTime": [
+          1.567,
+          1.767,
+          1.567,
+          1.767
+        ],
+        "maxDensity": 2.47,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/017c7e58-63a5-47a1-b12e-c639e37943c3"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 433,
+        "playTime": 88.18,
+        "balloon": [
+          12
+        ],
+        "rollTime": [
+          1.567,
+          1.767,
+          1.567,
+          1.767,
+          0.767
+        ],
+        "maxDensity": 4.91,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4e6a31db-7ff9-4206-91ea-ba82b85b005e"
         ]
       },
       "ura": null
@@ -56746,6 +57274,118 @@
         "isBranched": 0
       },
       "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1345",
+    "order": 1219,
+    "title": "トルコ行進曲(モーツァルト)",
+    "titleKo": null,
+    "aliasKo": "터키 행진곡(모짜르트)",
+    "titleEn": null,
+    "aliasEn": null,
+    "bpm": {
+      "min": 113,
+      "max": 144
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC",
+      "TDM",
+      "WiiU2",
+      "Wii4",
+      "PSP1",
+      "PLUS",
+      "PTB",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "classic"
+    ],
+    "artists": [
+      "モーツァルト"
+    ],
+    "addedDate": 1123113600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 202,
+        "playTime": 136.71,
+        "balloon": [],
+        "rollTime": [
+          1.025
+        ],
+        "maxDensity": 1.48,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/47b99079-4231-46f3-a822-13541c0b0eb6"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 268,
+        "playTime": 136.71,
+        "balloon": [],
+        "rollTime": [
+          1.063,
+          0.813,
+          0.816
+        ],
+        "maxDensity": 1.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/23383b08-e3ad-4c08-957e-97348831838b"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 380,
+        "playTime": 136.71,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.78,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cbeac471-c98e-4b83-9f4c-cca7c48adb4f"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 581,
+        "playTime": 136.71,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.25,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2ed19c78-f59e-4068-88cd-245ee5b68aa9"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 832,
+        "playTime": 136.71,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.09,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/91f54588-1ac7-460e-a7e3-08b26c6907ea"
+        ]
+      }
     },
     "isDeleted": 0
   },
