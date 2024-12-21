@@ -1,5 +1,107 @@
 [
   {
+    "songNo": "1350",
+    "order": 1224,
+    "title": "CRUXNAUT",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 303,
+      "max": 303
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "cosMo＠暴走P"
+    ],
+    "addedDate": 1734739200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 392,
+        "playTime": 136,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.88,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 517,
+        "playTime": 136,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 777,
+        "playTime": 136,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 5.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1405,
+        "playTime": 136,
+        "balloon": [
+          25,
+          390
+        ],
+        "rollTime": [
+          0.083,
+          0.083,
+          0.281,
+          0.281,
+          0.132,
+          0.281,
+          0.281,
+          0.132,
+          0.083,
+          0.083,
+          0.083,
+          0.281,
+          0.281,
+          0.281,
+          0.281,
+          0.083,
+          0.083
+        ],
+        "maxDensity": 10.33,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e8caab5f-dbd5-4bdd-8830-2152e0742c60.png"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1349",
     "order": 1223,
     "title": "くりんぼ！",
@@ -8033,7 +8135,7 @@
     "order": 230,
     "title": "強風オールバック(feat.歌愛ユキ)",
     "titleKo": "Kyoufuu Ooru Bakku (feat. Kaai Yuki)",
-    "aliasKo": "강풍 올백머리",
+    "aliasKo": "강풍 올백",
     "titleEn": null,
     "aliasEn": null,
     "romaji": null,
