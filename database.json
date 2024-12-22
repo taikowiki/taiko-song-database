@@ -36,7 +36,9 @@
         "maxDensity": 2.88,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/1791faf0-0e3f-40ad-8e2e-f6e0096c6e66"
+        ]
       },
       "normal": {
         "level": 7,
@@ -48,7 +50,9 @@
         "maxDensity": 3.8,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/3cb637a6-084b-460d-a0c5-487a27027452"
+        ]
       },
       "hard": {
         "level": 8,
@@ -60,7 +64,9 @@
         "maxDensity": 5.71,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/ad92c0ce-1e06-4b42-b102-db11582568ff"
+        ]
       },
       "oni": {
         "level": 10,
