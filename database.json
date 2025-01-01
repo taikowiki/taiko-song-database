@@ -1,5 +1,84 @@
 [
   {
+    "songNo": "1351",
+    "order": 1225,
+    "title": "蛇鉄",
+    "titleKo": "JATETSU",
+    "aliasKo": "뱀철",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "Ja Tetsu",
+    "bpm": {
+      "min": 316,
+      "max": 316
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "黒沢ダイスケ"
+    ],
+    "addedDate": 1735689600000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1025,
+        "playTime": 155,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.61,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1350",
     "order": 1224,
     "title": "CRUXNAUT",
@@ -1965,7 +2044,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/a008a076-c00f-4937-be57-9e8be851ab62"
+          "https://file.taiko.wiki/img/a58c0708-9021-4254-bde5-4663d35ff88c"
         ]
       },
       "ura": null
@@ -11768,7 +11847,7 @@
     "courses": {
       "easy": {
         "level": 4,
-        "playTime": 98.3,
+        "playTime": 146.13,
         "balloon": [
           27
         ],
@@ -11776,7 +11855,7 @@
           10.41
         ],
         "maxCombo": 179,
-        "maxDensity": 1.23,
+        "maxDensity": 1.22,
         "dani": [],
         "images": [
           "https://file.taiko.wiki/img/89644449-7c46-45f2-a713-76f51286549e"
@@ -11786,7 +11865,7 @@
       },
       "normal": {
         "level": 6,
-        "playTime": 98.3,
+        "playTime": 146.13,
         "balloon": [
           10
         ],
@@ -11804,7 +11883,7 @@
       },
       "hard": {
         "level": 6,
-        "playTime": 98.3,
+        "playTime": 146.13,
         "balloon": [
           28
         ],
@@ -11822,7 +11901,7 @@
       },
       "oni": {
         "level": 7,
-        "playTime": 98.3,
+        "playTime": 146.13,
         "balloon": [
           24
         ],
@@ -11840,7 +11919,7 @@
       },
       "ura": {
         "level": 9,
-        "playTime": 98.3,
+        "playTime": 146.13,
         "balloon": [
           23
         ],
