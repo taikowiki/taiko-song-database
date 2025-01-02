@@ -4,12 +4,12 @@
     "order": 1225,
     "title": "蛇鉄",
     "titleKo": "JATETSU",
-    "aliasKo": "뱀철",
+    "aliasKo": "사철",
     "titleEn": null,
     "aliasEn": null,
     "romaji": "Ja Tetsu",
     "bpm": {
-      "min": 316,
+      "min": 158,
       "max": 316
     },
     "bpmShiver": 0,
@@ -29,8 +29,8 @@
       "easy": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 282,
+        "playTime": 155.3,
         "balloon": [],
         "rollTime": [],
         "maxDensity": 0,
@@ -41,8 +41,8 @@
       "normal": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 359,
+        "playTime": 155.3,
         "balloon": [],
         "rollTime": [],
         "maxDensity": 0,
@@ -53,8 +53,8 @@
       "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 572,
+        "playTime": 155.3,
         "balloon": [],
         "rollTime": [],
         "maxDensity": 0,
@@ -66,13 +66,27 @@
         "level": 10,
         "isBranched": 0,
         "maxCombo": 1025,
-        "playTime": 155,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 6.61,
+        "playTime": 155.3,
+        "balloon": [
+          20,
+          2,
+          5,
+          15,
+          46,
+          20,
+          2,
+          5,
+          15
+        ],
+        "rollTime": [
+          3.877
+        ],
+        "maxDensity": 6.6,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/0fe578b8-b045-41d6-87da-ee6b3fe7d285"
+        ]
       },
       "ura": null
     },
