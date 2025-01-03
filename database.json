@@ -1,5 +1,123 @@
 [
   {
+    "songNo": "1343",
+    "order": 1226,
+    "title": "おはようメルちゃん",
+    "titleKo": "오하요 메루쨩",
+    "aliasKo": "안녕 메루짱",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 136,
+      "max": 136
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "kids"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": 1735862400000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 86,
+        "playTime": 88.29,
+        "balloon": [],
+        "rollTime": [
+          0.846,
+          0.846,
+          0.846
+        ],
+        "maxDensity": 0.97,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ba8b9e52-0e26-4ab1-95a2-d94894f17033"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 140,
+        "playTime": 88.29,
+        "balloon": [],
+        "rollTime": [
+          0.846,
+          0.846,
+          0.846
+        ],
+        "maxDensity": 1.59,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d5bde4ab-9fb0-4a35-9b91-b6a546c5c308"
+        ]
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 195,
+        "playTime": 88.29,
+        "balloon": [],
+        "rollTime": [
+          0.846,
+          0.846,
+          0.846
+        ],
+        "maxDensity": 2.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/77c056a2-fc7e-4485-996f-37fa67663bec"
+        ]
+      },
+      "oni": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 279,
+        "playTime": 88.29,
+        "balloon": [],
+        "rollTime": [
+          0.625,
+          0.625,
+          0.625
+        ],
+        "maxDensity": 3.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/077800c1-c3e2-4716-a126-12781b8fc053"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 566,
+        "playTime": 88.29,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/da60324d-78d9-4dd2-841a-b1cdd2177f3b"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1351",
     "order": 1225,
     "title": "蛇鉄",
@@ -31,36 +149,72 @@
         "isBranched": 0,
         "maxCombo": 282,
         "playTime": 155.3,
-        "balloon": [],
+        "balloon": [
+          5,
+          5,
+          4,
+          7,
+          17,
+          5,
+          5,
+          5,
+          16
+        ],
         "rollTime": [],
-        "maxDensity": 0,
+        "maxDensity": 1.82,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/747e1afc-bc99-4bc3-b58f-101eb7a26cdc"
+        ]
       },
       "normal": {
         "level": 7,
         "isBranched": 0,
         "maxCombo": 359,
         "playTime": 155.3,
-        "balloon": [],
+        "balloon": [
+          6,
+          6,
+          4,
+          9,
+          20,
+          6,
+          6,
+          6,
+          20
+        ],
         "rollTime": [],
-        "maxDensity": 0,
+        "maxDensity": 2.31,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/28384593-289b-4140-9a12-c9fee49006ff"
+        ]
       },
       "hard": {
         "level": 8,
         "isBranched": 0,
         "maxCombo": 572,
         "playTime": 155.3,
-        "balloon": [],
+        "balloon": [
+          11,
+          11,
+          7,
+          15,
+          34,
+          11,
+          11,
+          11,
+          27
+        ],
         "rollTime": [],
-        "maxDensity": 0,
+        "maxDensity": 3.68,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/f418c24b-b425-42d6-9c36-fb92825a31a5"
+        ]
       },
       "oni": {
         "level": 10,
@@ -79,7 +233,14 @@
           15
         ],
         "rollTime": [
-          3.877
+          0.554,
+          0.554,
+          0.174,
+          0.364,
+          0.744,
+          0.174,
+          1.313,
+          0.934
         ],
         "maxDensity": 6.6,
         "daniUsed": 0,
@@ -151,6 +312,7 @@
           0.281,
           0.281,
           0.281,
+          2.178,
           0.38
         ],
         "maxDensity": 2.86,
@@ -194,7 +356,9 @@
           0.281,
           0.281,
           0.281,
-          0.281
+          0.281,
+          2.178,
+          38
         ],
         "maxDensity": 3.77,
         "daniUsed": 0,
@@ -284,7 +448,9 @@
           0.281,
           0.281,
           0.281,
-          0.083
+          0.083,
+          0.083,
+          2.178
         ],
         "maxDensity": 10.25,
         "daniUsed": 0,
@@ -20784,7 +20950,9 @@
             "order": 3
           }
         ],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/2d2328ac-2ec4-4a7e-9921-81b252441b24"
+        ],
         "daniUsed": 1,
         "isBranched": 0
       },
