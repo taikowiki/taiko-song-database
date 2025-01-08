@@ -5076,8 +5076,8 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/0bac7cff-7d4a-4d71-b87a-51a54be7ed1f",
-          "https://file.taiko.wiki/img/867ce2d2-1865-4649-836d-63cccca5b8a7"
+          "https://file.taiko.wiki/img/35eda605-7562-4b1a-9773-7123f9c0f36c",
+          "https://file.taiko.wiki/img/017b2233-b51a-45ef-8cef-ee5388a435f7"
         ]
       }
     },
@@ -91708,7 +91708,15 @@
     },
     "bpmShiver": 1,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2",
+      "PS4",
+      "WiiU1",
+      "WiiU2",
+      "V",
+      "3DS3",
+      "PLUS",
+      "RC"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -91730,7 +91738,7 @@
         "maxDensity": 2.1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/e35beb62-9ce8-4138-81b4-8ef5d7d97ef9"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/D%27s%20Adventure%20Note/::ref/dsadvn_e.png?rev=5b30ac392a3eaa53c9d4459d13bb1a3e&t=20230228024309"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -91745,7 +91753,7 @@
         "maxDensity": 2.75,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/f008aaea-9768-43a8-9864-c037be55eb2a"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/D%27s%20Adventure%20Note/::ref/dsadvn_n.png?rev=76806baa6e3ebcf043b8ed81d97f81f3&t=20230228024333"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -91760,7 +91768,7 @@
         "maxDensity": 5,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/81a5c322-b624-4875-b576-af184fc5639d"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/D%27s%20Adventure%20Note/::ref/dsadvn_h.png?rev=ef5a1b2a58118262e73abce1e49e23cd&t=20230228024355"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -91772,7 +91780,7 @@
         "maxDensity": 6.73,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/ce93e12e-e5e4-4abb-b185-1b1b906a656a"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/D%27s%20Adventure%20Note/::ref/dsadvn_m.png?rev=d33701c505faeb08d4bc0e37d89809d9&t=20230228024416"
         ],
         "daniUsed": 0,
         "isBranched": 0
