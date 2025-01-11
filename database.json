@@ -7,7 +7,7 @@
     "aliasKo": "안녕 메루짱",
     "titleEn": null,
     "aliasEn": null,
-    "romaji": "Ohayō Meru Chan",
+    "romaji": "Ohayo Meru Chan",
     "bpm": {
       "min": 136,
       "max": 136
@@ -470,8 +470,8 @@
     "titleKo": null,
     "aliasKo": "터키 행진곡",
     "titleEn": null,
-    "aliasEn": null,
-    "romaji": null,
+    "aliasEn": "Rondo alla Turka",
+    "romaji": "Turkey Koushinkyoku",
     "bpm": {
       "min": 113,
       "max": 144
@@ -696,7 +696,7 @@
     "aliasKo": "마법식도주기담☆ミ",
     "titleEn": null,
     "aliasEn": null,
-    "romaji": null,
+    "romaji": "Mahoushiki Tousoukitan☆ミ",
     "bpm": {
       "min": 164,
       "max": 164
@@ -3288,7 +3288,7 @@
     "aliasKo": "네 기꺼이",
     "titleEn": null,
     "aliasEn": null,
-    "romaji": null,
+    "romaji": "Hai, Yorokonde",
     "bpm": {
       "min": 147,
       "max": 147
