@@ -1,5 +1,101 @@
 [
   {
+    "songNo": "1284",
+    "order": 1227,
+    "title": "Yesterday",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "Yesterday",
+    "bpm": {
+      "min": 124,
+      "max": 124
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "黄子韜",
+      "宮閣"
+    ],
+    "addedDate": 1736553600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 73,
+        "playTime": 93.3,
+        "balloon": [],
+        "rollTime": [
+          1.653
+        ],
+        "maxDensity": 0.78,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/863debd5-20b0-47e9-8b3e-e634b0795dbc"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 115,
+        "playTime": 93.3,
+        "balloon": [],
+        "rollTime": [
+          1.653
+        ],
+        "maxDensity": 1.23,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8add5465-ee19-4a61-98f4-6bdbfb80264e"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 227,
+        "playTime": 93.3,
+        "balloon": [],
+        "rollTime": [
+          1.653
+        ],
+        "maxDensity": 2.43,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/999f1d40-55e2-43dc-890d-f973fede1ed7"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 334,
+        "playTime": 93.3,
+        "balloon": [],
+        "rollTime": [
+          1.653
+        ],
+        "maxDensity": 3.58,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/caccbbf5-a874-4600-8329-afa859da8c1f"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1343",
     "order": 1226,
     "title": "おはようメルちゃん",
