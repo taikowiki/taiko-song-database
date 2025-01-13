@@ -32,7 +32,12 @@
         "isBranched": 0,
         "maxCombo": 73,
         "playTime": 93.3,
-        "balloon": [],
+        "balloon": [
+          7,
+          7,
+          7,
+          7
+        ],
         "rollTime": [
           1.653
         ],
@@ -40,7 +45,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/863debd5-20b0-47e9-8b3e-e634b0795dbc"
+          "https://file.taiko.wiki/img/9a02e21e-9072-4308-a8b4-aac11850981a"
         ]
       },
       "normal": {
@@ -56,7 +61,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/8add5465-ee19-4a61-98f4-6bdbfb80264e"
+          "https://file.taiko.wiki/img/71ede85c-586c-4620-8cd7-96c85752283d"
         ]
       },
       "hard": {
@@ -72,7 +77,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/999f1d40-55e2-43dc-890d-f973fede1ed7"
+          "https://file.taiko.wiki/img/71ac21f9-417a-49de-8550-33485f1fb404"
         ]
       },
       "oni": {
@@ -88,7 +93,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/caccbbf5-a874-4600-8329-afa859da8c1f"
+          "https://file.taiko.wiki/img/4439b4d1-2184-4f6b-aedf-c93f93fa53c6"
         ]
       },
       "ura": null
