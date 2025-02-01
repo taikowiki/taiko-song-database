@@ -112421,7 +112421,18 @@
         "daniUsed": 0,
         "isBranched": 0
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1172,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      }
     },
     "isDeleted": 0
   },
