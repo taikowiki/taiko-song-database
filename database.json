@@ -12217,6 +12217,186 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS2_0001",
+    "order": 1252,
+    "title": "Feel Special",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 129,
+      "max": 129
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "TWICE",
+      "J.Y. Park \"The Asiansoul\"",
+      "Ollipop",
+      "Hayley Aitken"
+    ],
+    "addedDate": 1663804800000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 86,
+        "playTime": 91.17,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0.94,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/00751161-eaae-4d01-9a9b-1259012d7ed3"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 155,
+        "playTime": 91.17,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0bca11ac-d513-43e9-88f2-27e22b9ef133"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 261,
+        "playTime": 91.17,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.86,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cbdfb404-dc47-42da-aab1-c7aba49f9a52"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 413,
+        "playTime": 91.17,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.53,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4a9275b4-fcdb-4b62-b88f-a0051e660893"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS2_0002",
+    "order": 1253,
+    "title": "I LOVE...",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 86,
+      "max": 86
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "Official髭男dism",
+      "藤原聡"
+    ],
+    "addedDate": 1663804800000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 65,
+        "playTime": 104.53,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0.62,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2273939b-0efc-4224-ab8d-a0cf12aa552b"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 105,
+        "playTime": 104.53,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/233b7625-241c-4ed3-a657-9c557e313980"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 196,
+        "playTime": 104.53,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.88,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/923507e3-f68c-4e5b-9add-1359cc1f4673"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 346,
+        "playTime": 104.53,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.31,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d8e10702-5ded-464b-8a6d-a1bab5ec0426"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1129",
     "order": 648,
     "title": "神竜 ～Shinryu～",
