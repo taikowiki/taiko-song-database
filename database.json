@@ -1,5 +1,583 @@
 [
   {
+    "songNo": "1354",
+    "order": 1258,
+    "title": "エキセントリックw",
+    "titleKo": "ECCENTRICw",
+    "aliasKo": "엑센트릭ㅎㅎ",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 172,
+      "max": 172
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NSRPG",
+      "3DS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "銀河方面P＠神野貴志",
+      "ZOLA PROJECT"
+    ],
+    "addedDate": 1738800000000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 194,
+        "playTime": 123.57,
+        "balloon": [
+          3,
+          4,
+          4,
+          4
+        ],
+        "rollTime": [
+          1.047,
+          0.698,
+          1.047,
+          0.698,
+          1.047,
+          1.047
+        ],
+        "maxDensity": 1.57,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8e310f64-0e99-4293-b77b-fbb5895c56bd"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 282,
+        "playTime": 123.57,
+        "balloon": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "rollTime": [
+          0.785,
+          0.698,
+          0.698,
+          0.785
+        ],
+        "maxDensity": 2.28,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0478960e-e36e-4c52-b6cb-7e9bec51340c"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 481,
+        "playTime": 123.57,
+        "balloon": [],
+        "rollTime": [
+          0.523,
+          0.523,
+          0.523,
+          0.523
+        ],
+        "maxDensity": 3.89,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/736d4038-ca6f-4642-ac51-ca3b9cbef8eb"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 692,
+        "playTime": 123.57,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 5.6,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b73cc5ae-cd9e-48d7-b19a-24ec0bed9ef5"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1352",
+    "order": 1254,
+    "title": "INTERNET YAMERO",
+    "titleKo": null,
+    "aliasKo": "인터넷 야메로",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 185,
+      "max": 185
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "game"
+    ],
+    "artists": [
+      "KOTOKO",
+      "Aiobahn",
+      "まろん",
+      "さいとーだいち"
+    ],
+    "addedDate": 1738713600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 226,
+        "playTime": 151.79,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.49,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/741b8cb5-94dc-4392-8628-07da4a5bdef2"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 412,
+        "playTime": 151.79,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1bcbb875-afbf-4fde-8861-6ed5a723efab"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 654,
+        "playTime": 151.79,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.31,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/03fa00dd-d9a7-4f79-bd3b-1fcbe6b1b9b6"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 1,
+        "maxCombo": 976,
+        "playTime": 151.79,
+        "balloon": [
+          4
+        ],
+        "rollTime": [
+          0.622,
+          0.622,
+          0.622,
+          0.622
+        ],
+        "maxDensity": 6.43,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/dd7ceaba-20d2-48d7-b800-4d76574e6d0a"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1353",
+    "order": 1255,
+    "title": "ファタール",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "Fatal",
+    "bpm": {
+      "min": 156,
+      "max": 156
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "GEMN",
+      "キタニタツヤ"
+    ],
+    "addedDate": 1738713600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 85,
+        "playTime": 85.47,
+        "balloon": [
+          3,
+          3,
+          20,
+          5
+        ],
+        "rollTime": [
+          0.929,
+          1.122
+        ],
+        "maxDensity": 0.99,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/04e71dd1-2fc1-49d2-9fc8-46b20f0ebd3d"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 154,
+        "playTime": 85.47,
+        "balloon": [
+          5,
+          5,
+          25,
+          9
+        ],
+        "rollTime": [
+          0.929,
+          1.314
+        ],
+        "maxDensity": 1.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e4b2da75-548d-499f-aabf-71bbb2ac9be7"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 274,
+        "playTime": 85.47,
+        "balloon": [
+          7,
+          36,
+          13
+        ],
+        "rollTime": [
+          0.929,
+          1.314
+        ],
+        "maxDensity": 3.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/778cd572-a7f3-476a-95c2-e3db508e43f4"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 405,
+        "playTime": 85.47,
+        "balloon": [
+          10,
+          5
+        ],
+        "rollTime": [
+          0.929,
+          1.314,
+          1.314
+        ],
+        "maxDensity": 4.74,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/325461dd-a85b-4b8a-99bd-342a4f92f120"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 584,
+        "playTime": 85.47,
+        "balloon": [
+          3,
+          3,
+          6,
+          6
+        ],
+        "rollTime": [
+          0.545,
+          1.314
+        ],
+        "maxDensity": 6.83,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a9336b79-0494-4d88-8faa-2534e548cd42"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1286",
+    "order": 1256,
+    "title": "開往早晨的午夜",
+    "titleKo": "Morning Bound for Midnight",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 114,
+      "max": 114
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "方炯嘉",
+      "張碧晨"
+    ],
+    "addedDate": 1738713600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 86,
+        "playTime": 108.86,
+        "balloon": [
+          11,
+          11
+        ],
+        "rollTime": [
+          1.535,
+          1.535,
+          1.009,
+          2.325,
+          1.009
+        ],
+        "maxDensity": 0.79,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c2cfa83e-3784-4bdd-aa4f-14d9994ea724"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 138,
+        "playTime": 107.81,
+        "balloon": [
+          14,
+          14
+        ],
+        "rollTime": [
+          1.535,
+          1.535,
+          1.009,
+          2.325,
+          1.535
+        ],
+        "maxDensity": 1.28,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ba46c561-1b20-4572-abc7-e097368236a9"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 204,
+        "playTime": 107.37,
+        "balloon": [
+          21,
+          21
+        ],
+        "rollTime": [
+          2.061,
+          1.535,
+          1.009,
+          1.272,
+          1.535
+        ],
+        "maxDensity": 1.9,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0a9220b9-4467-4cde-9213-127756188694"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 306,
+        "playTime": 107.37,
+        "balloon": [
+          24,
+          24
+        ],
+        "rollTime": [
+          2.061,
+          1.535,
+          1.009,
+          1.272,
+          1.535
+        ],
+        "maxDensity": 2.85,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a1676f2a-2d79-47d5-8607-e3c6bcfa7762"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1287",
+    "order": 1257,
+    "title": "WOW",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 90,
+      "max": 90
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "周筆暢",
+      "朱敬然"
+    ],
+    "addedDate": 1738713600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 68,
+        "playTime": 85.63,
+        "balloon": [],
+        "rollTime": [
+          1.444,
+          1.444,
+          1.444,
+          1.778
+        ],
+        "maxDensity": 0.79,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/aaf09196-cebf-48d3-b5ba-5b88f220d226"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 123,
+        "playTime": 85.63,
+        "balloon": [],
+        "rollTime": [
+          1.778
+        ],
+        "maxDensity": 1.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/79443719-e871-40db-99ff-4bd444aed073"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 193,
+        "playTime": 85.63,
+        "balloon": [],
+        "rollTime": [
+          1.778
+        ],
+        "maxDensity": 2.25,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/3064157d-0bb4-441b-9357-38a240875dc8"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 304,
+        "playTime": 85.63,
+        "balloon": [],
+        "rollTime": [
+          1.778
+        ],
+        "maxDensity": 3.55,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8a1ea50f-2d8e-4a68-a941-c705113052cd"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1284",
     "order": 1227,
     "title": "Yesterday",
