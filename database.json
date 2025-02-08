@@ -2588,6 +2588,182 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS2_0016",
+    "order": 1272,
+    "title": "サインはB -New Arrange Ver.-",
+    "titleKo": null,
+    "aliasKo": "사인은 B -New Arrange Ver.-",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 175,
+      "max": 175
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "B小町",
+      "大石昌良"
+    ],
+    "addedDate": 1732665600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 76,
+        "playTime": 88.82,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0.86,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/3caea232-b0e4-48f0-adaa-1850b4ab5b87"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 170,
+        "playTime": 88.82,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.91,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/abee9448-267f-45e7-874b-6fa5becbda19"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 309,
+        "playTime": 88.82,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.48,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0027baea-8b6e-4cf8-a274-60d1557964b7"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 429,
+        "playTime": 88.82,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.83,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/75311763-781e-4454-b228-60421e437581"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS2_0017",
+    "order": 1273,
+    "title": "アイドル",
+    "titleKo": null,
+    "aliasKo": "아이돌 (원곡)",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 166,
+      "max": 166
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "YOASOBI",
+      "Ayase"
+    ],
+    "addedDate": 1732665600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 96,
+        "playTime": 88.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.09,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c1e0a0e9-74cf-48e2-bd17-8999874fc1f8"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 162,
+        "playTime": 88.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.84,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7155dcc1-a900-46e2-ba11-406127a0d9c3"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 281,
+        "playTime": 88.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.18,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cf76c609-7a44-491f-aa6d-4b8132edd4ae"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 540,
+        "playTime": 88.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.12,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/367cc978-10dd-4907-b0ab-5e02d6498964"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1344",
     "order": 1218,
     "title": "メズマライザー",
@@ -22459,6 +22635,98 @@
       "ura": null
     },
     "isDeleted": 0
+  },
+  {
+    "songNo": "NS2_0018",
+    "order": 1274,
+    "title": "OVER THE TOP",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 106,
+      "max": 212
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2",
+      "NS1",
+      "TDM"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime",
+      "kids"
+    ],
+    "artists": [
+      "きただにひろし",
+      "田中公平"
+    ],
+    "addedDate": 1573689600000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 63,
+        "playTime": 116.81,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0.54,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/083740db-7bcd-4c96-abd7-edb8468b2cbe"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 96,
+        "playTime": 116.81,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0.82,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ef453d58-2787-43b9-9941-f470b6bdca93"
+        ]
+      },
+      "hard": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 146,
+        "playTime": 116.81,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.25,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/680883c2-2976-4de1-a78d-dfe7c85ac27e"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 417,
+        "playTime": 116.81,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.57,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/bc1b286c-2663-43c4-907c-54d04615e837"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 1
   },
   {
     "songNo": "856",
@@ -65337,6 +65605,99 @@
         "daniUsed": 0,
         "isBranched": 0
       }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS2_0015",
+    "order": 1271,
+    "title": "魔訶不思議アドベンチャー！",
+    "titleKo": null,
+    "aliasKo": "불가사의한 어드벤처!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 135,
+      "max": 135
+    },
+    "bpmShiver": 0,
+    "version": [
+      "AC4",
+      "NS2",
+      "NS1",
+      "TDM",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "高橋洋樹",
+      "いけたけし"
+    ],
+    "addedDate": 1039651200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 97,
+        "playTime": 104.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0.93,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d115e175-e536-4d14-8347-3b121b2a9190"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 172,
+        "playTime": 104.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.65,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2f1559c5-ce75-4341-b540-8ceb84a1b767"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 281,
+        "playTime": 104.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.69,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a12bace9-6638-4018-8d47-b40ab8769da9"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 418,
+        "playTime": 104.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/417d2a15-b147-4a70-a7f2-852af0a70cdd"
+        ]
+      },
+      "ura": null
     },
     "isDeleted": 0
   },
