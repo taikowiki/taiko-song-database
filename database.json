@@ -219,7 +219,7 @@
     "order": 1255,
     "title": "ファタール",
     "titleKo": null,
-    "aliasKo": null,
+    "aliasKo": "파탈",
     "titleEn": null,
     "aliasEn": null,
     "romaji": "Fatal",
@@ -56278,6 +56278,7 @@
     "version": [
       "NAC",
       "AC14",
+      "NS2",
       "WiiU2",
       "Wii3",
       "PLUS"
@@ -56375,7 +56376,7 @@
       },
       "ura": null
     },
-    "isDeleted": 1
+    "isDeleted": 0
   },
   {
     "songNo": "AC_10005",
@@ -77005,7 +77006,7 @@
     "songNo": "786",
     "order": 1053,
     "title": "天下統一録",
-    "titleKo": null,
+    "titleKo": "TENKA TOUITSUROKU",
     "aliasKo": "천하통일록",
     "titleEn": null,
     "aliasEn": null,
@@ -84995,7 +84996,9 @@
     },
     "bpmShiver": 1,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2",
+      "NS1"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -85022,7 +85025,8 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/880/easy"
-        ]
+        ],
+        "daniUsed": 0
       },
       "normal": {
         "level": 5,
@@ -85039,7 +85043,8 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/880/normal"
-        ]
+        ],
+        "daniUsed": 0
       },
       "hard": {
         "level": 6,
@@ -85056,7 +85061,8 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/880/hard"
-        ]
+        ],
+        "daniUsed": 0
       },
       "oni": {
         "level": 8,
@@ -85073,7 +85079,8 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/880/oni"
-        ]
+        ],
+        "daniUsed": 0
       },
       "ura": null
     },
