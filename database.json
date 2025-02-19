@@ -12122,7 +12122,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -15288,7 +15289,7 @@
         "isBranched": 0
       }
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1080",
@@ -54799,7 +54800,7 @@
     "songNo": "45",
     "order": 922,
     "title": "蒼の旋律",
-    "titleKo": null,
+    "titleKo": "Blue Spiral",
     "aliasKo": "창의 선율",
     "titleEn": null,
     "aliasEn": null,
@@ -82844,7 +82845,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1087/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -82860,7 +82863,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1087/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -82876,7 +82881,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1087/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -82892,11 +82899,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1087/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1206",
@@ -89111,7 +89120,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1075/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -89127,7 +89138,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1075/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 4,
@@ -89143,7 +89156,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1075/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -89159,11 +89174,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1075/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "291",
