@@ -1,5 +1,87 @@
 [
   {
+    "songNo": "1354",
+    "order": 1275,
+    "title": "歌劇「リコレクトブルー」",
+    "titleKo": null,
+    "aliasKo": "가극 「리콜렉트 블루」",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 0,
+      "max": 0
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "アミティ",
+      "坪井リヒト"
+    ],
+    "addedDate": 1740096000000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 172,
+        "playTime": 133.74,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.29,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 262,
+        "playTime": 133.74,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 410,
+        "playTime": 133.74,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.07,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 765,
+        "playTime": 133.74,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 5.72,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d04906bb-51d1-463a-88b7-2277f59bd4d7"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "473",
     "order": 1258,
     "title": "エキセントリックw",
