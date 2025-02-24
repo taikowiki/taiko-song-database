@@ -9,8 +9,8 @@
     "aliasEn": null,
     "romaji": "",
     "bpm": {
-      "min": 0,
-      "max": 0
+      "min": 132,
+      "max": 193
     },
     "bpmShiver": 0,
     "version": [
@@ -32,49 +32,103 @@
         "isBranched": 0,
         "maxCombo": 172,
         "playTime": 133.74,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          10,
+          6,
+          4
+        ],
+        "rollTime": [
+          1.119,
+          1.938,
+          2.102,
+          1.447,
+          0.567,
+          3.962,
+          1.119,
+          0.956,
+          1.611,
+          2.102
+        ],
         "maxDensity": 1.29,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/4a1dafd1-74a6-4896-969e-dc11be26eb72"
+        ]
       },
       "normal": {
         "level": 6,
         "isBranched": 0,
         "maxCombo": 262,
         "playTime": 133.74,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          13,
+          8,
+          6
+        ],
+        "rollTime": [
+          1.119,
+          1.938,
+          2.102,
+          1.775,
+          0.567,
+          3.962,
+          1.283,
+          0.956,
+          1.611,
+          2.266
+        ],
         "maxDensity": 1.96,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/613f708a-1064-4885-9028-9776a44a6594"
+        ]
       },
       "hard": {
         "level": 7,
         "isBranched": 0,
         "maxCombo": 410,
         "playTime": 133.74,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          17,
+          11
+        ],
+        "rollTime": [
+          1.119,
+          1.938,
+          2.102,
+          1.775,
+          0.567,
+          3.962,
+          1.283,
+          0.956,
+          1.611
+        ],
         "maxDensity": 3.07,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/06373eab-0cba-49e1-9cc8-f13522a5debf"
+        ]
       },
       "oni": {
         "level": 9,
         "isBranched": 0,
         "maxCombo": 765,
         "playTime": 133.74,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          16
+        ],
+        "rollTime": [
+          0.567,
+          3.962
+        ],
         "maxDensity": 5.72,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/d04906bb-51d1-463a-88b7-2277f59bd4d7"
+          "https://file.taiko.wiki/img/97906cab-551c-4e22-964f-24827a755cc7"
         ]
       },
       "ura": null
