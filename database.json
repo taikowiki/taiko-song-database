@@ -1,5 +1,206 @@
 [
   {
+    "songNo": "1328",
+    "order": 1276,
+    "title": "LUNATiC CiRCUiT",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 150,
+      "max": 340
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "YOFUKASHi Sound Team"
+    ],
+    "addedDate": 1740700800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1020,
+        "playTime": 0,
+        "balloon": [
+          8
+        ],
+        "rollTime": [
+          1,
+          0.8,
+          0.2,
+          0.4,
+          0.8,
+          3.882
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/eb349c06-61dd-4015-b80a-620c1b9594ab"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1329",
+    "order": 1277,
+    "title": "Synthesis.",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "tn-shi"
+    ],
+    "addedDate": 1740700800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 750,
+        "playTime": 0,
+        "balloon": [
+          30,
+          13,
+          12,
+          32
+        ],
+        "rollTime": [
+          1.333,
+          0.5,
+          0.167,
+          0.5,
+          0.5
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ac301ead-29ab-4dc7-936d-caa3c5f68cd0"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 999,
+        "playTime": 0,
+        "balloon": [
+          43
+        ],
+        "rollTime": [
+          1.333,
+          0.5,
+          0.5
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c2269d61-f329-43c3-8605-e0086861a561"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1354",
     "order": 1275,
     "title": "歌劇「リコレクトブルー」",
