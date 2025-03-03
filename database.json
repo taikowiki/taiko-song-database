@@ -1,5 +1,118 @@
 [
   {
+    "songNo": "1355",
+    "order": 1278,
+    "title": "Singularity Game",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 157.5,
+      "max": 225
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "oxygenvil"
+    ],
+    "addedDate": 1740787200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 198,
+        "playTime": 115.36,
+        "balloon": [
+          14,
+          14,
+          3
+        ],
+        "rollTime": [
+          0.833
+        ],
+        "maxDensity": 1.72,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6ffd1998-aaca-4ba8-a774-621bfc850c59"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 277,
+        "playTime": 115.36,
+        "balloon": [
+          16,
+          5
+        ],
+        "rollTime": [
+          1.167,
+          1.333,
+          1
+        ],
+        "maxDensity": 2.4,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2076c806-ee80-4ffb-865f-bb0f6bdc12a7"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 466,
+        "playTime": 115.36,
+        "balloon": [
+          25,
+          8
+        ],
+        "rollTime": [
+          1.167,
+          1.333,
+          1
+        ],
+        "maxDensity": 4.04,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/92afffe0-d6ad-4c8e-86c9-d1ee3c183fdc"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 811,
+        "playTime": 115.36,
+        "balloon": [
+          32
+        ],
+        "rollTime": [
+          1.167,
+          1
+        ],
+        "maxDensity": 7.03,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a7270b5b-87ef-4605-93ea-e9515eec214f",
+          "https://file.taiko.wiki/img/a9ac6686-0bd6-4164-83b4-d6a728a96796"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1328",
     "order": 1276,
     "title": "LUNATiC CiRCUiT",
@@ -29,44 +142,86 @@
       "easy": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 233,
+        "playTime": 133.68,
+        "balloon": [
+          4
+        ],
+        "rollTime": [
+          1,
+          0.8,
+          0.4,
+          0.6,
+          1.2,
+          1,
+          1,
+          0.8,
+          0.4,
+          1.059,
+          3.882
+        ],
+        "maxDensity": 1.74,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/bff42088-1a3a-46c6-ac16-2dcafb92c6ad"
+        ]
       },
       "normal": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 435,
+        "playTime": 133.68,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          1,
+          0.8,
+          0.4,
+          0.4,
+          0.6,
+          0.265,
+          0.265,
+          0.353,
+          3.882
+        ],
+        "maxDensity": 3.25,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/e96e662e-216c-4a9e-ad2e-72924a299abf"
+        ]
       },
       "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 713,
+        "playTime": 133.68,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          1,
+          0.8,
+          0.4,
+          0.2,
+          0.4,
+          0.8,
+          3.882
+        ],
+        "maxDensity": 5.33,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/c4c83900-e62e-4eba-97e1-93a064f2f91a"
+        ]
       },
       "oni": {
         "level": 10,
         "isBranched": 0,
         "maxCombo": 1020,
-        "playTime": 0,
+        "playTime": 133.68,
         "balloon": [
           8
         ],
@@ -78,11 +233,12 @@
           0.8,
           3.882
         ],
-        "maxDensity": 0,
+        "maxDensity": 7.63,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/eb349c06-61dd-4015-b80a-620c1b9594ab"
+          "https://file.taiko.wiki/img/8af56569-2a4d-4734-a436-0fa10374f49b",
+          "https://file.taiko.wiki/img/19e66c4c-bf05-4a50-8e11-a47e899d39d5"
         ]
       },
       "ura": null
@@ -119,44 +275,81 @@
       "easy": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 197,
+        "playTime": 130.76,
+        "balloon": [
+          11,
+          4,
+          15
+        ],
+        "rollTime": [
+          1.333,
+          1.333,
+          1.833,
+          1.333,
+          2.167
+        ],
+        "maxDensity": 1.51,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/ec60e7a6-7aed-4f4b-b94b-bf3c0621c7d3"
+        ]
       },
       "normal": {
         "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 301,
+        "playTime": 130.76,
+        "balloon": [
+          13,
+          5,
+          16
+        ],
+        "rollTime": [
+          1.333,
+          1.333,
+          2.333,
+          1.333,
+          2.167
+        ],
+        "maxDensity": 2.3,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/08a921dc-1f54-45fb-bfa9-fc243b2190ed"
+        ]
       },
       "hard": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 425,
+        "playTime": 130.76,
+        "balloon": [
+          24,
+          10,
+          26
+        ],
+        "rollTime": [
+          1.333,
+          1.333,
+          0.5,
+          0.5,
+          1.333,
+          2.333
+        ],
+        "maxDensity": 3.25,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://file.taiko.wiki/img/9c9f1f6c-9522-45f7-b8ae-4b466a012dc2"
+        ]
       },
       "oni": {
         "level": 9,
         "isBranched": 0,
         "maxCombo": 750,
-        "playTime": 0,
+        "playTime": 130.76,
         "balloon": [
           30,
           13,
@@ -170,31 +363,32 @@
           0.5,
           0.5
         ],
-        "maxDensity": 0,
+        "maxDensity": 5.74,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/ac301ead-29ab-4dc7-936d-caa3c5f68cd0"
+          "https://file.taiko.wiki/img/e5f30f46-90c3-49bc-8877-1f982017ab17"
         ]
       },
       "ura": {
         "level": 10,
         "isBranched": 0,
         "maxCombo": 999,
-        "playTime": 0,
+        "playTime": 130.76,
         "balloon": [
-          43
+          43,
+          6
         ],
         "rollTime": [
           1.333,
           0.5,
           0.5
         ],
-        "maxDensity": 0,
+        "maxDensity": 7.64,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/c2269d61-f329-43c3-8605-e0086861a561"
+          "https://file.taiko.wiki/img/8c815b5c-b0d6-41f5-a3f2-a6dbdd0d0cff"
         ]
       }
     },
