@@ -1,5 +1,165 @@
 [
   {
+    "songNo": "나오면 수정예정",
+    "order": 1279,
+    "title": "初音ミクの激唱",
+    "titleKo": "하츠네 미쿠의 격창",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 170.31,
+      "max": 200
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "PS4",
+      "PSPDX",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "cosMo＠暴走P"
+    ],
+    "addedDate": 1741478400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 244,
+        "playTime": 143.47,
+        "balloon": [
+          7,
+          8,
+          7
+        ],
+        "rollTime": [
+          1.175,
+          1.175,
+          1.175,
+          1.175
+        ],
+        "maxDensity": 1.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/3a11edb1-d9e1-4442-8093-a5adcbc26daf"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 338,
+        "playTime": 143.47,
+        "balloon": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          9
+        ],
+        "rollTime": [
+          0.575,
+          0.575
+        ],
+        "maxDensity": 2.36,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e92a1a2e-2de5-43c0-b6ab-eb5f077de5cf"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 422,
+        "playTime": 143.47,
+        "balloon": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          11
+        ],
+        "rollTime": [
+          0.575,
+          0.575,
+          0.575,
+          0.575,
+          0.575
+        ],
+        "maxDensity": 2.94,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4a947f98-9241-4a8e-8a5c-25eaec088459"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 703,
+        "playTime": 143.47,
+        "balloon": [
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          13,
+          6
+        ],
+        "rollTime": [
+          0.425,
+          0.425,
+          1.025,
+          0.575,
+          0.575,
+          0.575
+        ],
+        "maxDensity": 4.9,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/5f500b11-680d-4e2b-a5fe-a8b1542d3bc7"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 999,
+        "playTime": 143.47,
+        "balloon": [
+          7,
+          4,
+          4
+        ],
+        "rollTime": [
+          0.875
+        ],
+        "maxDensity": 6.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8f3a7a58-9694-42ba-8554-4e126817c0c8"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1355",
     "order": 1278,
     "title": "Singularity Game",
