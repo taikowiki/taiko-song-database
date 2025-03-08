@@ -1269,6 +1269,108 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS2_0019",
+    "order": 1280,
+    "title": "イガク",
+    "titleKo": null,
+    "aliasKo": "의학",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 42.5,
+      "max": 170
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "原口沙輔",
+      "重音テト"
+    ],
+    "addedDate": 1737590400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 162,
+        "playTime": 114.73,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/69433931-f958-4bfb-8452-4e4ad31243f8"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 281,
+        "playTime": 114.73,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.45,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d7a8235c-b351-4f5d-9f98-2218de159630"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 413,
+        "playTime": 114.73,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.6,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/68571ff2-ef09-48c2-893a-30bf585125a0"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 631,
+        "playTime": 114.73,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 5.5,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/fff7d981-4a23-4796-a8d8-1d3e90a5068f"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 763,
+        "playTime": 114.73,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/db230290-21aa-4bb1-a2b8-ec7af4a7faee"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1284",
     "order": 1227,
     "title": "Yesterday",
