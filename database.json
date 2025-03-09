@@ -1,6 +1,6 @@
 [
   {
-    "songNo": "나오면 수정예정",
+    "songNo": "1357",
     "order": 1279,
     "title": "初音ミクの激唱",
     "titleKo": "하츠네 미쿠의 격창",
@@ -23,6 +23,7 @@
     "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
+      "game",
       "vocaloid"
     ],
     "artists": [
