@@ -1,5 +1,145 @@
 [
   {
+    "songNo": "1356",
+    "order": 1281,
+    "title": "Soulway",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 185,
+      "max": 185
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "CHUBAY"
+    ],
+    "addedDate": 1741996800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 188,
+        "playTime": 146.6,
+        "balloon": [
+          5,
+          7,
+          7
+        ],
+        "rollTime": [
+          0.946,
+          0.784,
+          0.946,
+          0.946,
+          0.784,
+          1.108,
+          1.108,
+          1.108,
+          2.243,
+          1.027
+        ],
+        "maxDensity": 1.28,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e34ae4f3-9232-4264-b491-5ba96feb7468"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 358,
+        "playTime": 146.6,
+        "balloon": [
+          7,
+          6,
+          9,
+          9
+        ],
+        "rollTime": [
+          1.108,
+          0.946,
+          0.946,
+          0.946,
+          0.946,
+          1.108,
+          1.108,
+          1.27,
+          2.243,
+          1.189
+        ],
+        "maxDensity": 2.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/9594bada-690e-4570-ae19-8f0aa052901e"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 489,
+        "playTime": 146.6,
+        "balloon": [
+          10,
+          9,
+          12,
+          12
+        ],
+        "rollTime": [
+          1.108,
+          0.946,
+          0.946,
+          0.946,
+          0.946,
+          1.108,
+          1.27,
+          2.243,
+          1.189
+        ],
+        "maxDensity": 3.34,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b79af9dd-008b-4d5d-80a8-4e04571d6216"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 1,
+        "maxCombo": 1120,
+        "playTime": 146.6,
+        "balloon": [
+          2
+        ],
+        "rollTime": [
+          0.459,
+          1.108
+        ],
+        "maxDensity": 7.64,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/564d491e-7490-4564-8556-12fa090c8688",
+          "https://file.taiko.wiki/img/b7a6d1c2-b3fb-410f-84d4-a5c1db28be7d",
+          "https://file.taiko.wiki/img/18dfedfd-bc86-4a60-af88-0bdaf84de540"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1355",
     "order": 1278,
     "title": "Singularity Game",
