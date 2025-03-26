@@ -1,5 +1,450 @@
 [
   {
+    "songNo": "1359",
+    "order": 1284,
+    "title": "かわいいだけじゃだめですか？",
+    "titleKo": null,
+    "aliasKo": "귀여운 것 만으로는 안나요?",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 172,
+      "max": 172
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "CUTIE STREET",
+      "早川博隆",
+      "渡邉俊彦"
+    ],
+    "addedDate": 1742947200000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 90.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 90.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 90.24,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 370,
+        "playTime": 90.24,
+        "balloon": [
+          22,
+          8,
+          22
+        ],
+        "rollTime": [
+          0.669,
+          0.669,
+          2.674
+        ],
+        "maxDensity": 4.1,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c2baaf2f-ec8c-4923-9c6b-0cacecaba3c7"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1361",
+    "order": 1285,
+    "title": "しなこワールド",
+    "titleKo": null,
+    "aliasKo": "시나코 월드",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 115,
+      "max": 128
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "kids"
+    ],
+    "artists": [
+      "しなこ",
+      "NOVECHIKA",
+      "野口大志",
+      "Akira Sunset"
+    ],
+    "addedDate": 1742947200000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 114.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 114.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 114.5,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 387,
+        "playTime": 114.5,
+        "balloon": [],
+        "rollTime": [
+          1.133,
+          0.898,
+          1.133,
+          0.898
+        ],
+        "maxDensity": 3.38,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4436d9a0-972a-4be6-a07a-6a636ec281e2"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1360",
+    "order": 1286,
+    "title": "愛包ダンスホール",
+    "titleKo": null,
+    "aliasKo": "사랑파이 댄스홀",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 141,
+      "max": 141
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "HIMEHINA",
+      "涼木シンジ",
+      "Gohgo"
+    ],
+    "addedDate": 1742947200000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 136.29,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 136.29,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 136.29,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 676,
+        "playTime": 136.29,
+        "balloon": [],
+        "rollTime": [
+          0.816,
+          1.241,
+          1.241,
+          0.39,
+          0.177,
+          0.603,
+          0.071
+        ],
+        "maxDensity": 4.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ab38f0f1-996e-4621-9b93-84260ed224ea"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1330",
+    "order": 1287,
+    "title": "海闊天空",
+    "titleKo": null,
+    "aliasKo": "해활천공",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 77,
+      "max": 77
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "BEYOND",
+      "黄家駒"
+    ],
+    "addedDate": 1742947200000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 297,
+        "playTime": 0,
+        "balloon": [
+          26,
+          26,
+          26
+        ],
+        "rollTime": [
+          1.948,
+          1.948
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6e93bab6-abf0-471c-bb02-97ac0eab4c76"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1331",
+    "order": 1288,
+    "title": "Miss You 3000",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 65,
+      "max": 65
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "八三夭",
+      "李賢璞"
+    ],
+    "addedDate": 1742947200000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 211,
+        "playTime": 0,
+        "balloon": [
+          17
+        ],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/9a29b2ba-3e49-40ad-be28-9028a077912c"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1356",
     "order": 1281,
     "title": "Soulway",
@@ -133,6 +578,118 @@
           "https://file.taiko.wiki/img/564d491e-7490-4564-8556-12fa090c8688",
           "https://file.taiko.wiki/img/b7a6d1c2-b3fb-410f-84d4-a5c1db28be7d",
           "https://file.taiko.wiki/img/18dfedfd-bc86-4a60-af88-0bdaf84de540"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1362",
+    "order": 1283,
+    "title": "オトノケ",
+    "titleKo": null,
+    "aliasKo": "오토노케",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 170,
+      "max": 173
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "anime"
+    ],
+    "artists": [
+      "Creepy Nuts",
+      "DJ松永"
+    ],
+    "addedDate": 1741219200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 92,
+        "playTime": 88.85,
+        "balloon": [
+          6,
+          4,
+          6,
+          6,
+          6
+        ],
+        "rollTime": [
+          2.225,
+          2.225,
+          2.225,
+          1.358
+        ],
+        "maxDensity": 1.04,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/5036e467-df1b-43c0-b288-ed9ff81ff854"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 160,
+        "playTime": 88.85,
+        "balloon": [
+          7,
+          5,
+          7,
+          7
+        ],
+        "rollTime": [
+          2.399,
+          2.399,
+          2.399,
+          1.358
+        ],
+        "maxDensity": 1.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/03674653-7b53-4ab6-8754-68a088b00a7d"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 366,
+        "playTime": 88.85,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.12,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/141c0990-20bb-4f5c-93cd-6e1f61196c0c"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 542,
+        "playTime": 88.85,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.1,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0bc5b1d6-746f-4f1b-b5a2-0f045dc1c23c"
         ]
       },
       "ura": null
@@ -1698,7 +2255,9 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/0fe578b8-b045-41d6-87da-ee6b3fe7d285"
+          "https://file.taiko.wiki/img/25283b65-0f00-402f-beed-6c68dc1bfcfe",
+          "https://file.taiko.wiki/img/1428be34-1a76-4c94-8acc-e83ba0fc4763",
+          "https://file.taiko.wiki/img/5f0e15fb-2514-4d7b-8f0a-481d0af1d8b4"
         ]
       },
       "ura": null
@@ -6439,6 +6998,116 @@
           "https://file.taiko.wiki/img/1ea63bca-3fa6-4980-ad00-d5ead0369f94"
         ]
       }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1358",
+    "order": 1282,
+    "title": "晩餐歌",
+    "titleKo": null,
+    "aliasKo": "만찬가",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 103,
+      "max": 103
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "RC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "tuki"
+    ],
+    "addedDate": 1720051200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 116,
+        "playTime": 153.95,
+        "balloon": [
+          6,
+          14
+        ],
+        "rollTime": [
+          1.117,
+          0.825
+        ],
+        "maxDensity": 0.75,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0d8923ca-4139-43a5-877a-29acaa6aaabb"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 207,
+        "playTime": 153.95,
+        "balloon": [
+          7,
+          17
+        ],
+        "rollTime": [
+          1.117,
+          0.825
+        ],
+        "maxDensity": 1.34,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/29735d79-e8ce-4420-bce4-117ad24aef6e"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 319,
+        "playTime": 153.95,
+        "balloon": [
+          25
+        ],
+        "rollTime": [
+          1.117,
+          0.825
+        ],
+        "maxDensity": 2.07,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0aa81202-3f40-48ab-967f-f0501349d702"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 565,
+        "playTime": 153.95,
+        "balloon": [],
+        "rollTime": [
+          1.117,
+          0.825
+        ],
+        "maxDensity": 3.67,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cdb2c196-439e-4565-b0a8-2f141d54b8fc"
+        ]
+      },
+      "ura": null
     },
     "isDeleted": 0
   },
@@ -61416,7 +62085,7 @@
     "aliasKo": "백화요란",
     "titleEn": null,
     "aliasEn": null,
-    "romaji": "Hyakka Ryouran",
+    "romaji": "Hyakka Ryoran",
     "bpm": {
       "min": 148,
       "max": 148
