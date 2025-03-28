@@ -1,10 +1,290 @@
 [
   {
+    "songNo": "1368",
+    "order": 1293,
+    "title": "ハイテンション☆暗記SHOW!",
+    "titleKo": "Hyper☆Memorizing Show!",
+    "aliasKo": "하이텐션☆암기SHOW!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 188,
+      "max": 188
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "きつね",
+      "おかめ",
+      "ひょっとこ",
+      "ヒゲドライバー"
+    ],
+    "addedDate": 1743120000000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 192,
+        "playTime": 122.75,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          0.771,
+          1.729,
+          1.729,
+          0.931,
+          0.771,
+          1.888,
+          0.931
+        ],
+        "maxDensity": 1.56,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a0f62f1b-9b4a-4a8f-8741-37a2ee861a16"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 369,
+        "playTime": 122.75,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          0.771,
+          0.771,
+          0.771,
+          0.771,
+          0.771
+        ],
+        "maxDensity": 3.01,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/47eeb8bf-7897-49e1-be4c-2890e101a394"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 550,
+        "playTime": 122.75,
+        "balloon": [
+          9
+        ],
+        "rollTime": [
+          0.771,
+          0.452,
+          0.452,
+          0.771,
+          0.452
+        ],
+        "maxDensity": 4.48,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/45a6ce6c-51e7-436d-8361-b8dbcc4c0dd7"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 831,
+        "playTime": 122.75,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          0.771,
+          0.452,
+          0.452,
+          0.771,
+          0.293
+        ],
+        "maxDensity": 6.77,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/704e9e55-ba92-414c-a815-5e56e9d6aa80"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1364",
+    "order": 1289,
+    "title": "蒼鷺之火",
+    "titleKo": "Aosagi no hi",
+    "aliasKo": "창로의 불",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 174,
+      "max": 174
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "BlackY"
+    ],
+    "addedDate": 1743033600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 186,
+        "playTime": 127.19,
+        "balloon": [
+          5,
+          5,
+          9,
+          11,
+          5
+        ],
+        "rollTime": [
+          0.833,
+          0.833,
+          0.661,
+          0.661,
+          0.833,
+          2.04
+        ],
+        "maxDensity": 1.46,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c47a3d10-93fc-4153-850e-6fd0baa5f462"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 299,
+        "playTime": 127.19,
+        "balloon": [
+          8,
+          7,
+          11,
+          14,
+          7
+        ],
+        "rollTime": [
+          0.833,
+          0.833,
+          0.833,
+          0.661,
+          1.178,
+          0.661,
+          2.04
+        ],
+        "maxDensity": 2.35,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c6170f9c-3964-4784-9c0a-7c58d8ac5e3c"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 466,
+        "playTime": 127.19,
+        "balloon": [
+          11,
+          10,
+          16,
+          25,
+          10
+        ],
+        "rollTime": [
+          0.833,
+          1.178,
+          0.661,
+          2.04
+        ],
+        "maxDensity": 3.66,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4e2a97f4-65ad-4514-8f7b-41b3f6f48ddf"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 683,
+        "playTime": 127.19,
+        "balloon": [
+          14,
+          13,
+          18,
+          13
+        ],
+        "rollTime": [
+          1.178,
+          0.661
+        ],
+        "maxDensity": 5.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0bab321c-698e-439c-a47b-27f31ed1bd84"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 968,
+        "playTime": 127.19,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          0.316,
+          0.144,
+          1.178
+        ],
+        "maxDensity": 7.61,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7d8a8c5e-8c1a-4764-871b-68a292dc080c"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1367",
     "order": 1292,
     "title": "トロいか2000",
     "titleKo": "Toro-Ika 2000",
-    "aliasKo": "트로이카2000",
+    "aliasKo": "트로이카 2000",
     "titleEn": null,
     "aliasEn": null,
     "romaji": "",
@@ -7062,160 +7342,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "1364",
-    "order": 1289,
-    "title": "蒼鷺之火",
-    "titleKo": "Aosagi no hi",
-    "aliasKo": "창로의 불",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": "",
-    "bpm": {
-      "min": 174,
-      "max": 174
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC",
-      "DF",
-      "NS2"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "BlackY"
-    ],
-    "addedDate": 1720051200000,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "isBranched": 0,
-        "maxCombo": 186,
-        "playTime": 127.19,
-        "balloon": [
-          5,
-          5,
-          9,
-          11,
-          5
-        ],
-        "rollTime": [
-          0.833,
-          0.833,
-          0.661,
-          0.661,
-          0.833,
-          2.04
-        ],
-        "maxDensity": 1.46,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/c47a3d10-93fc-4153-850e-6fd0baa5f462"
-        ]
-      },
-      "normal": {
-        "level": 6,
-        "isBranched": 0,
-        "maxCombo": 299,
-        "playTime": 127.19,
-        "balloon": [
-          8,
-          7,
-          11,
-          14,
-          7
-        ],
-        "rollTime": [
-          0.833,
-          0.833,
-          0.833,
-          0.661,
-          1.178,
-          0.661,
-          2.04
-        ],
-        "maxDensity": 2.35,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/c6170f9c-3964-4784-9c0a-7c58d8ac5e3c"
-        ]
-      },
-      "hard": {
-        "level": 7,
-        "isBranched": 0,
-        "maxCombo": 466,
-        "playTime": 127.19,
-        "balloon": [
-          11,
-          10,
-          16,
-          25,
-          10
-        ],
-        "rollTime": [
-          0.833,
-          1.178,
-          0.661,
-          2.04
-        ],
-        "maxDensity": 3.66,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/4e2a97f4-65ad-4514-8f7b-41b3f6f48ddf"
-        ]
-      },
-      "oni": {
-        "level": 9,
-        "isBranched": 0,
-        "maxCombo": 683,
-        "playTime": 127.19,
-        "balloon": [
-          14,
-          13,
-          18,
-          13
-        ],
-        "rollTime": [
-          1.178,
-          0.661
-        ],
-        "maxDensity": 5.37,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/0bab321c-698e-439c-a47b-27f31ed1bd84"
-        ]
-      },
-      "ura": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": 968,
-        "playTime": 127.19,
-        "balloon": [
-          20
-        ],
-        "rollTime": [
-          0.316,
-          0.144,
-          1.178
-        ],
-        "maxDensity": 7.61,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/7d8a8c5e-8c1a-4764-871b-68a292dc080c"
-        ]
-      }
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "1310",
     "order": 1106,
     "title": "Genesis Ray",
@@ -9103,7 +9229,7 @@
     "songNo": "1295",
     "order": 1098,
     "title": "うんぴフレンズ",
-    "titleKo": null,
+    "titleKo": "응가 프렌즈",
     "aliasKo": "운피 프렌즈",
     "titleEn": null,
     "aliasEn": null,
@@ -137630,7 +137756,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -137656,7 +137783,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/221/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -137672,7 +137801,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/221/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -137688,7 +137819,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/221/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -137704,7 +137837,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/221/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -137717,7 +137852,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/221/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
