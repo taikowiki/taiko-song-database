@@ -160,6 +160,8 @@
         "playTime": 156.27,
         "balloon": [
           3,
+          3,
+          3,
           6,
           5,
           83
@@ -208,7 +210,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/c92ef018-1317-421e-b3a8-672310b45bfa"
+          "https://file.taiko.wiki/img/f0a34410-bd0d-45a3-8d19-5e864aa64454"
         ]
       },
       "oni": {
@@ -272,7 +274,8 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/03d55090-6499-4eff-afbd-943d8319e622"
+          "https://file.taiko.wiki/img/d5a8d5ff-f5c8-4059-8a28-ae177a127d6e",
+          "https://file.taiko.wiki/img/0d36cac8-132c-455e-9b40-c9cf5d8b9c11"
         ]
       },
       "ura": null
