@@ -1,5 +1,129 @@
 [
   {
+    "songNo": "1363",
+    "order": 1295,
+    "title": "GAME CHANGER",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 208,
+      "max": 208
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "variety"
+    ],
+    "artists": [
+      "アクア☆マジック"
+    ],
+    "addedDate": 1743638400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 103,
+        "playTime": 113.99,
+        "balloon": [
+          5,
+          5
+        ],
+        "rollTime": [
+          0.841,
+          0.841,
+          1.13,
+          1.707,
+          0.986,
+          1.13,
+          1.13,
+          1.13,
+          1.13
+        ],
+        "maxDensity": 0.9,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f369a64b-f102-4e31-ba71-91028a2a3f6b"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 195,
+        "playTime": 113.99,
+        "balloon": [
+          7,
+          7
+        ],
+        "rollTime": [
+          0.841,
+          0.841,
+          1.707,
+          0.986,
+          1.13,
+          1.13,
+          1.13,
+          1.13
+        ],
+        "maxDensity": 1.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b4d2a249-fa0d-4b61-a79a-0c82b3a8d0e0"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 407,
+        "playTime": 113.99,
+        "balloon": [
+          12,
+          12
+        ],
+        "rollTime": [
+          1.13
+        ],
+        "maxDensity": 3.57,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/08abbb7a-93f2-4107-9ca8-b872cc32e827"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 603,
+        "playTime": 113.99,
+        "balloon": [
+          15,
+          15
+        ],
+        "rollTime": [
+          1.13
+        ],
+        "maxDensity": 5.29,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1e43e2a4-c544-49f8-b46f-0f8ee57488ce"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1369",
     "order": 1294,
     "title": "ダーク・エクス・マキナ♡",
