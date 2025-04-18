@@ -14543,6 +14543,152 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS_p_602",
+    "order": 1297,
+    "title": "音虫を響かせろ！",
+    "titleKo": "오토무시오 히비카세로",
+    "aliasKo": "소리벌레를 울려라!",
+    "titleEn": "OTOMUSHI WO HIBIKASERO!",
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 150,
+      "max": 150
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "KiWi",
+      "Sho Okada"
+    ],
+    "addedDate": 1670457600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 116,
+        "playTime": 99,
+        "balloon": [
+          3,
+          7,
+          3,
+          3,
+          5
+        ],
+        "rollTime": [
+          1.967,
+          0.767,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.967,
+          1.367,
+          1.167,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567,
+          0.567
+        ],
+        "maxDensity": 1.174,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/TK3ebXX.png"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 211,
+        "playTime": 99,
+        "balloon": [
+          4,
+          10
+        ],
+        "rollTime": [
+          1.967,
+          0.967,
+          1.2,
+          0.367,
+          1.167,
+          0.367,
+          1.367
+        ],
+        "maxDensity": 2.131,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/VCOFJ6l.png"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 392,
+        "playTime": 99,
+        "balloon": [
+          6,
+          15
+        ],
+        "rollTime": [
+          1.967,
+          0.567,
+          0.967,
+          1.367,
+          0.367,
+          0.967,
+          0.367
+        ],
+        "maxDensity": 3.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/qlvdrzn.png"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 582,
+        "playTime": 99,
+        "balloon": [
+          7,
+          18
+        ],
+        "rollTime": [
+          1.967,
+          0.567,
+          0.567,
+          0.567
+        ],
+        "maxDensity": 5.879,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/x2cdbi8.png"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1145",
     "order": 641,
     "title": "LΔchesis",
