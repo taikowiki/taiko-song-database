@@ -1,5 +1,123 @@
 [
   {
+    "songNo": "1371",
+    "order": 1298,
+    "title": "沓の子を打つ",
+    "titleKo": "장사진을 이루다",
+    "aliasKo": null,
+    "titleEn": "THE CRUSH",
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 155,
+      "max": 310
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "風薙ぎ(kazenagh)"
+    ],
+    "addedDate": 1745020800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 200,
+        "playTime": 123.35,
+        "balloon": [],
+        "rollTime": [
+          1.323
+        ],
+        "maxDensity": 1.62,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/09029a8f-fc32-4a6b-8f40-3e70e5744a85"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 280,
+        "playTime": 123.35,
+        "balloon": [],
+        "rollTime": [
+          1.323
+        ],
+        "maxDensity": 2.27,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/5dd20e62-6861-4076-906a-0a0ac6b511ba"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 416,
+        "playTime": 123.35,
+        "balloon": [],
+        "rollTime": [
+          1.323
+        ],
+        "maxDensity": 3.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/117f7b2c-3548-47b1-aa0f-b06064d9c8eb"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 597,
+        "playTime": 123.35,
+        "balloon": [
+          4,
+          6
+        ],
+        "rollTime": [
+          0.468,
+          0.548
+        ],
+        "maxDensity": 4.84,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f664eec3-c376-4c09-8bdb-d134ec7b06a9",
+          "https://file.taiko.wiki/img/d29ee40e-6c34-4238-85ec-f64a1c34813e"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 819,
+        "playTime": 123.35,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          0.468
+        ],
+        "maxDensity": 6.64,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/efda808a-5b93-4f99-b184-48979adfcd17",
+          "https://file.taiko.wiki/img/e25c7dc1-3c30-473d-80eb-f5bed4b9e12a"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1370",
     "order": 1296,
     "title": "Extreme End",
