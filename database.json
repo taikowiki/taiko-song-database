@@ -1,5 +1,378 @@
 [
   {
+    "songNo": "1389",
+    "order": 1301,
+    "title": "キミとアイドルプリキュア♪ Light Up！",
+    "titleKo": "You and Idol Precure♪ Light Up!",
+    "aliasKo": "너와 아이돌 프리큐어♪ Light Up!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 166,
+      "max": 166
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "anime",
+      "kids"
+    ],
+    "artists": [
+      "石井あみ",
+      "熊田茜音",
+      "吉武千颯",
+      "広川恵一(MONACA)"
+    ],
+    "addedDate": 1745366400000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 87.76,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 87.76,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 87.76,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 344,
+        "playTime": 87.76,
+        "balloon": [],
+        "rollTime": [
+          2.861,
+          0.873
+        ],
+        "maxDensity": 3.92,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6f0f63e5-b13c-4c26-b23c-e1150ae48fec"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1388",
+    "order": 1302,
+    "title": "雑踏、僕らの街",
+    "titleKo": "Wrong World",
+    "aliasKo": "혼잡한 길, 우리의 도시",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 171,
+      "max": 171
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "トゲナシトゲアリ",
+      "大濱健悟"
+    ],
+    "addedDate": 1745366400000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 82.14,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 82.14,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 82.14,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 529,
+        "playTime": 82.14,
+        "balloon": [],
+        "rollTime": [
+          1.199
+        ],
+        "maxDensity": 6.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6cf1e517-2010-4c66-9987-a794d7744986"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 586,
+        "playTime": 82.14,
+        "balloon": [],
+        "rollTime": [
+          0.146,
+          0.673
+        ],
+        "maxDensity": 7.13,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0dfc733c-5ab1-4d8f-97e0-cc09231637f4"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1386",
+    "order": 1303,
+    "title": "NEW KAWAII",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 134,
+      "max": 134
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "FRUITS ZIPPER",
+      "ヤマモトショウ"
+    ],
+    "addedDate": 1745366400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 101.23,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 101.23,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 101.23,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 452,
+        "playTime": 101.23,
+        "balloon": [
+          3
+        ],
+        "rollTime": [],
+        "maxDensity": 4.47,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/690bde89-0bce-4cc9-8261-9df057db3a06"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1387",
+    "order": 1304,
+    "title": "バブリー革命 ～ばんばんバブル～",
+    "titleKo": "Bubbly Revolution -Bang Bang Bubble-",
+    "aliasKo": "버블리 혁명~뱅뱅버블~",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 155,
+      "max": 155
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "ジュリアナの祟り",
+      "江夏亜祐"
+    ],
+    "addedDate": 1745366400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 126.67,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 126.67,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 126.67,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 555,
+        "playTime": 126.67,
+        "balloon": [
+          9,
+          14
+        ],
+        "rollTime": [],
+        "maxDensity": 4.38,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f360bc92-fa27-4f67-a613-8cff50c48291"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 828,
+        "playTime": 126.67,
+        "balloon": [
+          2,
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 6.54,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/27942b5f-3459-4d13-b96c-29e44150a489"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1371",
     "order": 1298,
     "title": "沓の子を打つ",
@@ -1191,7 +1564,7 @@
     "songNo": "1359",
     "order": 1284,
     "title": "かわいいだけじゃだめですか？",
-    "titleKo": null,
+    "titleKo": "Can't we just be cute?",
     "aliasKo": "귀여운 것 만으로는 안나요?",
     "titleEn": null,
     "aliasEn": null,
@@ -1309,7 +1682,7 @@
     "songNo": "1361",
     "order": 1285,
     "title": "しなこワールド",
-    "titleKo": null,
+    "titleKo": "SHINAKO WORLD",
     "aliasKo": "시나코 월드",
     "titleEn": null,
     "aliasEn": null,
@@ -1933,7 +2306,7 @@
     "songNo": "1362",
     "order": 1283,
     "title": "オトノケ",
-    "titleKo": null,
+    "titleKo": "Otonoke",
     "aliasKo": "오토노케",
     "titleEn": null,
     "aliasEn": null,
@@ -3151,24 +3524,25 @@
     "isDeleted": 0
   },
   {
-    "songNo": "NS2_0019",
-    "order": 1280,
+    "songNo": "1390",
+    "order": 1300,
     "title": "イガク",
-    "titleKo": null,
+    "titleKo": "Medicine",
     "aliasKo": "의학",
     "titleEn": null,
     "aliasEn": null,
-    "romaji": null,
+    "romaji": "",
     "bpm": {
       "min": 42.5,
       "max": 170
     },
     "bpmShiver": 0,
     "version": [
+      "NAC",
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 0,
+    "isAsiaBanned": 1,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3184,13 +3558,31 @@
         "isBranched": 0,
         "maxCombo": 162,
         "playTime": 114.73,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          10,
+          4,
+          2
+        ],
+        "rollTime": [
+          0.676,
+          0.676,
+          0.676,
+          0.676,
+          0.676,
+          0.676,
+          0.5,
+          0.5,
+          0.853,
+          0.676,
+          0.676,
+          0.676,
+          0.676
+        ],
         "maxDensity": 1.41,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/69433931-f958-4bfb-8452-4e4ad31243f8"
+          "https://file.taiko.wiki/img/d30a42f6-9083-4f07-a30e-826376da781a"
         ]
       },
       "normal": {
@@ -3198,13 +3590,19 @@
         "isBranched": 0,
         "maxCombo": 281,
         "playTime": 114.73,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          12,
+          5,
+          2
+        ],
+        "rollTime": [
+          0.5
+        ],
         "maxDensity": 2.45,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/d7a8235c-b351-4f5d-9f98-2218de159630"
+          "https://file.taiko.wiki/img/1583b63b-7a5f-43a9-ae97-d13e729ce57c"
         ]
       },
       "hard": {
@@ -3212,13 +3610,19 @@
         "isBranched": 0,
         "maxCombo": 413,
         "playTime": 114.73,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          20,
+          7,
+          2
+        ],
+        "rollTime": [
+          0.5
+        ],
         "maxDensity": 3.6,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/68571ff2-ef09-48c2-893a-30bf585125a0"
+          "https://file.taiko.wiki/img/f27edd0b-105e-40cc-ad74-ba159dae6624"
         ]
       },
       "oni": {
@@ -3226,13 +3630,27 @@
         "isBranched": 0,
         "maxCombo": 631,
         "playTime": 114.73,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          23,
+          2,
+          2
+        ],
+        "rollTime": [
+          0.059,
+          0.059,
+          0.059,
+          0.059,
+          0.059,
+          0.059,
+          0.5,
+          0.059,
+          0.059
+        ],
         "maxDensity": 5.5,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/fff7d981-4a23-4796-a8d8-1d3e90a5068f"
+          "https://file.taiko.wiki/img/1a56d5af-e564-4faf-9d33-9dc9ead2c3bc"
         ]
       },
       "ura": {
@@ -3240,13 +3658,26 @@
         "isBranched": 0,
         "maxCombo": 763,
         "playTime": 114.73,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          2,
+          2
+        ],
+        "rollTime": [
+          0.059,
+          0.059,
+          0.059,
+          0.059,
+          0.059,
+          0.059,
+          0.147,
+          0.059,
+          0.059
+        ],
+        "maxDensity": 6.65,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/db230290-21aa-4bb1-a2b8-ec7af4a7faee"
+          "https://file.taiko.wiki/img/24f3ec29-514c-4e89-9e8a-db616769dda4"
         ]
       }
     },
@@ -8152,6 +8583,301 @@
     "isDeleted": 0
   },
   {
+    "songNo": "1385",
+    "order": 1299,
+    "title": "ケセラセラ",
+    "titleKo": "Que Sera Sera",
+    "aliasKo": "케세라세라",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 115,
+      "max": 115
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "Mrs. GREEN APPLE",
+      "大森元貴"
+    ],
+    "addedDate": 1717632000000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 70,
+        "playTime": 103.24,
+        "balloon": [
+          6,
+          6
+        ],
+        "rollTime": [
+          3.348,
+          3.348,
+          1.261,
+          2.043,
+          1.261
+        ],
+        "maxDensity": 0.68,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f97ba095-4d96-43da-bcc6-29aa8e85ea78"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 125,
+        "playTime": 103.24,
+        "balloon": [
+          9,
+          9
+        ],
+        "rollTime": [
+          3.609,
+          3.609,
+          1.522,
+          1.522,
+          1,
+          1
+        ],
+        "maxDensity": 1.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6ba75ba5-247b-482f-a551-6c632e4f1354"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 239,
+        "playTime": 103.24,
+        "balloon": [],
+        "rollTime": [
+          0.478,
+          1.522,
+          1
+        ],
+        "maxDensity": 2.31,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/db9c2376-d5c7-48a5-a79c-75ef403fb9eb"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 350,
+        "playTime": 103.24,
+        "balloon": [],
+        "rollTime": [
+          0.478,
+          1.522,
+          1
+        ],
+        "maxDensity": 3.39,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ae0186b4-ee6f-48ec-a311-5dc6241eb51e"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS_p_760",
+    "order": 1062,
+    "title": "文明開化",
+    "titleKo": "문명개화",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 155,
+      "max": 155
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "西込加久見"
+    ],
+    "addedDate": 1717632000000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 126,
+        "playTime": 131,
+        "balloon": [
+          4,
+          5,
+          5,
+          5,
+          14,
+          12
+        ],
+        "rollTime": [
+          1.129,
+          1.129,
+          0.742,
+          1.129,
+          0.742,
+          1.129,
+          0.742,
+          1.129,
+          0.742,
+          1.516,
+          1.129,
+          0.935,
+          1.516
+        ],
+        "maxDensity": 1.04,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/oFpi2IE.png"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 263,
+        "playTime": 131,
+        "balloon": [
+          5,
+          6,
+          6,
+          6,
+          17,
+          15
+        ],
+        "rollTime": [
+          1.129,
+          1.129,
+          0.742,
+          1.129,
+          0.742,
+          1.129,
+          0.742,
+          1.129,
+          0.742,
+          0.742
+        ],
+        "maxDensity": 2.18,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/lyKK8Qd.png"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 391,
+        "playTime": 131,
+        "balloon": [
+          7,
+          9,
+          9,
+          9,
+          25,
+          22
+        ],
+        "rollTime": [
+          1.129,
+          1.129,
+          0.935,
+          1.129,
+          0.935,
+          1.129,
+          0.935,
+          1.129,
+          0.935,
+          1.516
+        ],
+        "maxDensity": 3.14,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/p7njt0p.png"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 1,
+        "maxCombo": 788,
+        "playTime": 131,
+        "balloon": [
+          10
+        ],
+        "rollTime": [
+          1.129,
+          1.129,
+          1.129,
+          1.129
+        ],
+        "maxDensity": 6.54,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/H0mhg5k.png"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 1,
+        "maxCombo": 765,
+        "playTime": 131,
+        "balloon": [],
+        "rollTime": [
+          0.161,
+          0.742,
+          0.355,
+          1.129,
+          0.742,
+          0.161,
+          1.129,
+          0.742,
+          0.161,
+          1.129,
+          0.742,
+          0.161,
+          1.129
+        ],
+        "maxDensity": 6.35,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/gA8qOL9.png"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1309",
     "order": 1087,
     "title": "ココドコ？多分ドッカ島！",
@@ -10129,6 +10855,115 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS_p_773",
+    "order": 1305,
+    "title": "ドンバルディアの踊り子",
+    "titleKo": "동바르디아의 무희",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 125.5,
+      "max": 125.5
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "山本由貴子"
+    ],
+    "addedDate": 1712188800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 145,
+        "playTime": 128,
+        "balloon": [
+          10,
+          4
+        ],
+        "rollTime": [
+          1.394,
+          1.155,
+          1.155
+        ],
+        "maxDensity": 1.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/txQTvd4.png"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 261,
+        "playTime": 128,
+        "balloon": [
+          15.7
+        ],
+        "rollTime": [
+          1.394,
+          1.155
+        ],
+        "maxDensity": 2.19,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/sd9cNl0.png"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 454,
+        "playTime": 128,
+        "balloon": [
+          22,
+          10
+        ],
+        "rollTime": [
+          1.633
+        ],
+        "maxDensity": 3.82,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/vXL4hfK.png"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 583,
+        "playTime": 128,
+        "balloon": [
+          30
+        ],
+        "rollTime": [
+          1.633
+        ],
+        "maxDensity": 4.91,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/3O14tcI.png"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1278",
     "order": 591,
     "title": "†††カオスタイム the DARK†††",
@@ -11088,6 +11923,134 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS_p_514",
+    "order": 1307,
+    "title": "バブル・リップ・レイヴ・マシン",
+    "titleKo": "BUBBLE LIP RAVE MACHINE",
+    "aliasKo": "버블 립 레이브 머신",
+    "titleEn": "BUBBLE LIP RAVE MACHINE",
+    "aliasEn": "Bubble Lip Rave Machine",
+    "romaji": null,
+    "bpm": {
+      "min": 160,
+      "max": 160
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Sho Okada",
+      "ボンジュール鈴木"
+    ],
+    "addedDate": 1706745600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 154,
+        "playTime": 128,
+        "balloon": [
+          23,
+          23
+        ],
+        "rollTime": [
+          1.469,
+          2.031,
+          3.906,
+          1.656,
+          0.906
+        ],
+        "maxDensity": 1.43,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/eR1DLeP.png"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 244,
+        "playTime": 128,
+        "balloon": [
+          29,
+          29
+        ],
+        "rollTime": [
+          1.094,
+          2.031,
+          3.719,
+          1.094,
+          0.906
+        ],
+        "maxDensity": 2.27,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/GFKsetS.png"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 424,
+        "playTime": 128,
+        "balloon": [
+          22,
+          43
+        ],
+        "rollTime": [
+          0.906,
+          2.031,
+          0.531,
+          3.906,
+          1.469,
+          1.094
+        ],
+        "maxDensity": 3.94,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/XW5Gr4K.png"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 687,
+        "playTime": 128,
+        "balloon": [
+          4,
+          25,
+          55
+        ],
+        "rollTime": [
+          0.25,
+          0.156,
+          3.906,
+          1.469,
+          1,
+          0.25
+        ],
+        "maxDensity": 6.36,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/g4tFeKY.png"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1249",
     "order": 607,
     "title": "最果の魔法使い",
@@ -11937,6 +12900,212 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS_p_516",
+    "order": 1310,
+    "title": "Beat Again",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 15,
+      "max": 240
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "川元義徳",
+      "yuzuki"
+    ],
+    "addedDate": 1698883200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 105,
+        "playTime": 101,
+        "balloon": [],
+        "rollTime": [
+          0.344,
+          0.344,
+          0.2,
+          0.333,
+          0.5,
+          0.875,
+          0.219,
+          0.219,
+          0.719,
+          0.219,
+          0.219,
+          0.469,
+          0.469,
+          0.219,
+          0.219,
+          0.719,
+          0.469,
+          0.469
+        ],
+        "maxDensity": 1.042,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/GGo6Zq1.png"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 202,
+        "playTime": 101,
+        "balloon": [],
+        "rollTime": [
+          0.469,
+          0.469,
+          0.5,
+          0.5,
+          0.714,
+          0.75,
+          0.219,
+          0.219,
+          0.469,
+          0.219,
+          0.219,
+          0.469,
+          0.469,
+          0.469,
+          0.219,
+          0.219,
+          0.469,
+          0.469,
+          0.469,
+          0.469
+        ],
+        "maxDensity": 2.005,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/jmj7qhx.png"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 349,
+        "playTime": 101,
+        "balloon": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2
+        ],
+        "rollTime": [
+          0.219,
+          0.219,
+          0.344,
+          0.219,
+          0.6,
+          0.714,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.188,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.188,
+          0.219
+        ],
+        "maxDensity": 3.464,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/iXjo4i6.png"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 475,
+        "playTime": 101,
+        "balloon": [
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          4,
+          2,
+          2,
+          2,
+          2
+        ],
+        "rollTime": [
+          0.219,
+          0.219,
+          0.219,
+          0.188,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.219,
+          0.219
+        ],
+        "maxDensity": 4.715,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/GltzDBK.png"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 733,
+        "playTime": 101,
+        "balloon": [],
+        "rollTime": [
+          1.5
+        ],
+        "maxDensity": 7.222,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/ITZTkar.png"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1231",
     "order": 613,
     "title": "RHYTHM CONNECT",
@@ -12354,6 +13523,111 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS_p_534",
+    "order": 1308,
+    "title": "神鬼争乱",
+    "titleKo": "JINKI SOURAN",
+    "aliasKo": "신귀쟁란",
+    "titleEn": "JINKI SOURAN",
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 176,
+      "max": 176
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "翡翠",
+      "祇羽"
+    ],
+    "addedDate": 1696464000000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 191,
+        "playTime": 125.11,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          4.063
+        ],
+        "maxDensity": 1.527,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ab00c394-32d2-46c3-8cd8-e96c04f6b27c"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 373,
+        "playTime": 125.11,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          4.034
+        ],
+        "maxDensity": 2.981,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/phJtqhd.png"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 563,
+        "playTime": 125.11,
+        "balloon": [
+          8
+        ],
+        "rollTime": [
+          4.034
+        ],
+        "maxDensity": 4.5,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/EFyGzNm.png"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 794,
+        "playTime": 125.11,
+        "balloon": [
+          10
+        ],
+        "rollTime": [
+          4.091
+        ],
+        "maxDensity": 6.346,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/e1hBS4f.png"
+        ]
       },
       "ura": null
     },
@@ -12976,6 +14250,254 @@
     "isDeleted": 0
   },
   {
+    "songNo": "NS_p_683",
+    "order": 1309,
+    "title": "時空町３丁目",
+    "titleKo": "JIKUCHO 3-CHOME",
+    "aliasKo": "시공번 3번가",
+    "titleEn": "JIKUCHO 3-CHOME",
+    "aliasEn": "Space-Time Town 3rd Street",
+    "romaji": null,
+    "bpm": {
+      "min": 47.5,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "きゅんちゃこ"
+    ],
+    "addedDate": 1694044800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 147,
+        "playTime": 107,
+        "balloon": [
+          15
+        ],
+        "rollTime": [
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.421,
+          0.737,
+          0.421
+        ],
+        "maxDensity": 1.385,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7d949104-8a7f-4351-9e77-9e4c17228e38"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 293,
+        "playTime": 107,
+        "balloon": [
+          18
+        ],
+        "rollTime": [
+          0.579,
+          0.579,
+          0.579,
+          0.579,
+          0.737,
+          0.737
+        ],
+        "maxDensity": 2.745,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/76944e7a-8a56-4a80-b7e3-73823f9c3f3b"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 424,
+        "playTime": 107,
+        "balloon": [
+          27
+        ],
+        "rollTime": [
+          0.579,
+          0.579,
+          0.579,
+          0.579,
+          0.737,
+          0.737
+        ],
+        "maxDensity": 3.967,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/555779af-6b7f-4af9-b780-6f81d6a7cf0f"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 698,
+        "playTime": 107,
+        "balloon": [
+          40
+        ],
+        "rollTime": [],
+        "maxDensity": 6.511,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8aef1a65-a780-4481-9fc8-9d679fffa47d"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS_p_515",
+    "order": 1311,
+    "title": "ミンナノカキゴオリ",
+    "titleKo": "MINNA NO KAKIGOORI",
+    "aliasKo": "모두의 빙수",
+    "titleEn": "MINNA NO KAKIGOORI",
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 143,
+      "max": 143
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "ボンジュール鈴木",
+      "塚越雄一朗(NanosizeMir)",
+      "祇羽"
+    ],
+    "addedDate": 1691020800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 193,
+        "playTime": 134,
+        "balloon": [
+          4,
+          7,
+          3
+        ],
+        "rollTime": [
+          2.273,
+          2.902,
+          1.853,
+          4.79
+        ],
+        "maxDensity": 1.442,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/w79t8T1.png"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 331,
+        "playTime": 134,
+        "balloon": [
+          7,
+          10,
+          6
+        ],
+        "rollTime": [
+          2.273,
+          0.594,
+          2.902,
+          4.79
+        ],
+        "maxDensity": 2.473,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/iP3nIOf.png"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 489,
+        "playTime": 134,
+        "balloon": [
+          10,
+          15,
+          8
+        ],
+        "rollTime": [
+          2.273,
+          2.902,
+          4.79
+        ],
+        "maxDensity": 3.642,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/rSFbkV2.png"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 765,
+        "playTime": 134,
+        "balloon": [
+          13,
+          20,
+          10
+        ],
+        "rollTime": [
+          2.273,
+          2.902,
+          4.79
+        ],
+        "maxDensity": 5.69,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/FxZz2sR.png"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "NS2_0005",
     "order": 1261,
     "title": "可愛くてごめん",
@@ -13380,6 +14902,134 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "NS_p_518",
+    "order": 1312,
+    "title": "TAIKO-TONGUE-TWISTER",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 170,
+      "max": 170
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Cory Tarrow",
+      "M.Polak",
+      "Avigail D.",
+      "L.Munoz and Bryan D."
+    ],
+    "addedDate": 1686182400000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 189,
+        "playTime": 139,
+        "balloon": [
+          2,
+          2,
+          2,
+          2,
+          9
+        ],
+        "rollTime": [
+          1.029,
+          0.5,
+          0.5,
+          1.294,
+          0.5,
+          1.029,
+          0.676,
+          0.853,
+          0.853
+        ],
+        "maxDensity": 1.359,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/gFlMtVS.png"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 360,
+        "playTime": 139,
+        "balloon": [
+          3,
+          3,
+          3,
+          3,
+          12
+        ],
+        "rollTime": [
+          0.5,
+          0.5,
+          1.294,
+          0.324,
+          1.029,
+          1.029
+        ],
+        "maxDensity": 2.589,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/EXBiPCy.png"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 536,
+        "playTime": 139,
+        "balloon": [
+          4
+        ],
+        "rollTime": [
+          1.294,
+          0.324,
+          0.676
+        ],
+        "maxDensity": 3.854,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/EC7l9qH.png"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 765,
+        "playTime": 139,
+        "balloon": [
+          5
+        ],
+        "rollTime": [],
+        "maxDensity": 5.501,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/eq2Sy5B.png"
+        ]
       },
       "ura": null
     },
@@ -29498,120 +31148,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "760",
-    "order": 1062,
-    "title": "青天の黎明",
-    "titleKo": "세이텐노 레이메이",
-    "aliasKo": "청천의 여명",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": "Seiten no Reimei",
-    "bpm": {
-      "min": 166.5,
-      "max": 222
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC",
-      "NS2",
-      "PS4",
-      "PLUS",
-      "RC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "steμ",
-      "siroa"
-    ],
-    "addedDate": 1540425600000,
-    "courses": {
-      "easy": {
-        "level": 3,
-        "playTime": 135.81,
-        "balloon": [
-          117
-        ],
-        "rollTime": [
-          10.75
-        ],
-        "maxCombo": 90,
-        "maxDensity": 0.66,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/ddd495ae-394b-40a7-b6f0-dfc159e30736"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "normal": {
-        "level": 6,
-        "playTime": 135.81,
-        "balloon": [
-          129
-        ],
-        "rollTime": [
-          9.9
-        ],
-        "maxCombo": 180,
-        "maxDensity": 1.33,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/1b129c9d-43d3-4037-9cf6-96f43eb09ca2"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "hard": {
-        "level": 7,
-        "playTime": 135.81,
-        "balloon": [
-          162
-        ],
-        "rollTime": [
-          11.07
-        ],
-        "maxCombo": 360,
-        "maxDensity": 2.65,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/a6464505-8541-401f-a61f-ce7739f5319c"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "oni": {
-        "level": 10,
-        "playTime": 135.81,
-        "balloon": [
-          74
-        ],
-        "rollTime": [
-          1.75
-        ],
-        "maxCombo": 1000,
-        "maxDensity": 7.36,
-        "dani": [
-          {
-            "version": "green",
-            "dan": "chojin",
-            "order": 2
-          }
-        ],
-        "images": [
-          "https://file.taiko.wiki/img/93bbb5c3-b88f-4298-a114-96ba9fe656a8"
-        ],
-        "daniUsed": 1,
-        "isBranched": 0
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "757",
     "order": 358,
     "title": "Xevel",
@@ -38391,6 +39927,126 @@
         "daniUsed": 1,
         "isBranched": 0
       }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "P4_G_D11",
+    "order": 1306,
+    "title": "Next Life",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 147,
+      "max": 147
+    },
+    "bpmShiver": 0,
+    "version": [
+      "PS4",
+      "IDM"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "遠山明孝"
+    ],
+    "addedDate": 1449705600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 151,
+        "playTime": 119.18,
+        "balloon": [
+          10,
+          3
+        ],
+        "rollTime": [
+          0.782,
+          0.782,
+          0.578,
+          1.19,
+          2.619,
+          2.619,
+          3.231
+        ],
+        "maxDensity": 1.267,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/aoFsbFO.png"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 182,
+        "playTime": 119.18,
+        "balloon": [
+          10,
+          3
+        ],
+        "rollTime": [
+          0.782,
+          0.782,
+          0.578,
+          1.19,
+          2.619,
+          2.619,
+          3.231
+        ],
+        "maxDensity": 1.527,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/UhoadK9.png"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 374,
+        "playTime": 119.9,
+        "balloon": [
+          13
+        ],
+        "rollTime": [
+          0.782,
+          0.782,
+          0.578,
+          1.19,
+          2.619,
+          2.619,
+          3.231
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/Yh1XJlk.png"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 876,
+        "playTime": 119.9,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 7.306,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://i.imgur.com/qOCY550.png"
+        ]
+      },
+      "ura": null
     },
     "isDeleted": 0
   },
