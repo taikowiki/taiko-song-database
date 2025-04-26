@@ -31834,6 +31834,120 @@
     "isDeleted": 0
   },
   {
+    "songNo": "760",
+    "order": 1317,
+    "title": "青天の黎明",
+    "titleKo": "세이텐노 레이메이",
+    "aliasKo": "청천의 여명",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 166.5,
+      "max": 222
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2",
+      "PS4",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "steμ",
+      "siroa"
+    ],
+    "addedDate": 1540425600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 90,
+        "playTime": 135.81,
+        "balloon": [
+          117
+        ],
+        "rollTime": [
+          10.75
+        ],
+        "maxDensity": 0.66,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1db03e11-e557-4aa1-b528-5c74a75f59d7"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 180,
+        "playTime": 135.81,
+        "balloon": [
+          129
+        ],
+        "rollTime": [
+          9.9
+        ],
+        "maxDensity": 1.33,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8e1f0e13-0baf-4ca5-8d40-f76004bd4bc1"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 360,
+        "playTime": 135.81,
+        "balloon": [
+          162
+        ],
+        "rollTime": [
+          11.07
+        ],
+        "maxDensity": 2.65,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/aedd9557-71d5-4843-9522-f0cdd2d92ebf"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1000,
+        "playTime": 135.81,
+        "balloon": [
+          74
+        ],
+        "rollTime": [
+          1.75
+        ],
+        "maxDensity": 7.36,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "green",
+            "dan": "chojin",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/img/385bfdd4-cd91-4fbe-8003-c6da5979897a"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "757",
     "order": 358,
     "title": "Xevel",
