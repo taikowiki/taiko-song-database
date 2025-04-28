@@ -1,5 +1,134 @@
 [
   {
+    "songNo": "1391",
+    "order": 1318,
+    "title": "EXRiXiS",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 185,
+      "max": 350
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "よみぃ"
+    ],
+    "addedDate": 1745625600000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 176,
+        "playTime": 120.22,
+        "balloon": [
+          4,
+          7,
+          14,
+          4
+        ],
+        "rollTime": [
+          0.946,
+          0.946,
+          0.459,
+          0.946,
+          0.838,
+          3.383
+        ],
+        "maxDensity": 1.46,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/049ecb4b-5162-4c9b-86be-c497a5b19ec5"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 299,
+        "playTime": 120.22,
+        "balloon": [
+          6,
+          18,
+          5
+        ],
+        "rollTime": [
+          0.946,
+          0.946,
+          0.459,
+          0.865,
+          3.383
+        ],
+        "maxDensity": 2.49,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/42f4f729-3735-46c1-87ab-29f151ac775e"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 534,
+        "playTime": 120.22,
+        "balloon": [
+          8,
+          24,
+          6
+        ],
+        "rollTime": [
+          0.297,
+          0.135,
+          0.459,
+          0.459,
+          0.459,
+          3.383
+        ],
+        "maxDensity": 4.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/0fff4f24-474f-440b-b7a4-53ad4c7a1e41"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 761,
+        "playTime": 120.22,
+        "balloon": [
+          10,
+          30
+        ],
+        "rollTime": [
+          0.297,
+          0.459,
+          0.459,
+          0.459,
+          3.383
+        ],
+        "maxDensity": 6.33,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8a439106-c0eb-446d-bcac-4afa5c60e695"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1389",
     "order": 1301,
     "title": "キミとアイドルプリキュア♪ Light Up！",
