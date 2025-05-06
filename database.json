@@ -1,5 +1,110 @@
 [
   {
+    "songNo": "1392",
+    "order": 1319,
+    "title": "RAGING FIRE",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 300,
+      "max": 300
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Δ→Low"
+    ],
+    "addedDate": 1746230400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 187,
+        "playTime": 109.03,
+        "balloon": [
+          13,
+          13
+        ],
+        "rollTime": [
+          0.683,
+          1.183
+        ],
+        "maxDensity": 1.72,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ea6e7243-e15b-4331-b694-1cf88828ce63"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 312,
+        "playTime": 109.03,
+        "balloon": [
+          16,
+          16
+        ],
+        "rollTime": [
+          0.783
+        ],
+        "maxDensity": 2.86,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/baf3100e-ea53-48a0-996f-467b0a3fcb68"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 496,
+        "playTime": 109.03,
+        "balloon": [
+          24,
+          24
+        ],
+        "rollTime": [],
+        "maxDensity": 4.55,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/da423cf0-5ef9-4521-8050-5ce4e4be4efb"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 700,
+        "playTime": 109.03,
+        "balloon": [
+          30,
+          30
+        ],
+        "rollTime": [],
+        "maxDensity": 6.42,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/420f6aca-4ba0-4857-9570-bc492c3cebdf",
+          "https://file.taiko.wiki/img/e5a299c6-92b7-4097-b5cd-7f5edc8f73bf"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1391",
     "order": 1318,
     "title": "EXRiXiS",
