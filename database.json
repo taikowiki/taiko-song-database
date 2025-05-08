@@ -126760,11 +126760,17 @@
         ],
         "maxCombo": 852,
         "maxDensity": 7.03,
-        "dani": [],
+        "dani": [
+          {
+            "version": "22",
+            "dan": "chojin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/01d84194-015b-45c3-85ee-66956e91e4d4"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
