@@ -1,5 +1,143 @@
 [
   {
+    "songNo": "1393",
+    "order": 1320,
+    "title": "Ka.Ma.Se",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "RIZARDI"
+    ],
+    "addedDate": 1746835200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 169,
+        "playTime": 106.25,
+        "balloon": [
+          5,
+          5,
+          5
+        ],
+        "rollTime": [
+          0.972,
+          0.972,
+          0.806,
+          0.972,
+          0.639,
+          0.972,
+          0.806,
+          0.972,
+          0.639
+        ],
+        "maxDensity": 1.59,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/fd5d64ea-5faf-48af-afcb-dac1d2d9de68"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 240,
+        "playTime": 106.25,
+        "balloon": [
+          6,
+          2,
+          2,
+          6,
+          6
+        ],
+        "rollTime": [
+          0.972,
+          0.972,
+          0.806,
+          0.972,
+          0.639,
+          0.972,
+          0.806,
+          0.972
+        ],
+        "maxDensity": 2.26,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/49132822-3fdf-4810-b0b1-ab390d1aab24"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 402,
+        "playTime": 106.25,
+        "balloon": [
+          9,
+          2,
+          2,
+          9,
+          9
+        ],
+        "rollTime": [
+          0.972,
+          0.806,
+          0.806,
+          0.472,
+          0.472
+        ],
+        "maxDensity": 3.78,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/d99417ac-6d45-46be-a137-a83a216aeff0"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 527,
+        "playTime": 106.25,
+        "balloon": [
+          11,
+          2,
+          2,
+          11,
+          11
+        ],
+        "rollTime": [
+          0.806,
+          0.806,
+          0.472
+        ],
+        "maxDensity": 4.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/983f2162-92d1-4692-8378-c797b217ee12"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1392",
     "order": 1319,
     "title": "RAGING FIRE",
@@ -12057,7 +12195,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -13077,7 +13216,7 @@
     "songNo": "1251",
     "order": 474,
     "title": "リヒト",
-    "titleKo": "Llcht",
+    "titleKo": "Licht",
     "aliasKo": "리히트",
     "titleEn": null,
     "aliasEn": null,
@@ -36402,7 +36541,7 @@
     "songNo": "43",
     "order": 809,
     "title": "さよならワーリャ",
-    "titleKo": "사요나라 바르 야",
+    "titleKo": "사요나라 Varya",
     "aliasKo": "사요나라 와랴",
     "titleEn": null,
     "aliasEn": null,
@@ -39617,7 +39756,9 @@
         "maxCombo": 235,
         "maxDensity": 1.73,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/44b67c50-f7d6-437f-953e-660081ea8660"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -39633,7 +39774,9 @@
         "maxCombo": 427,
         "maxDensity": 3.14,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/bfa7159f-a85e-480d-9c53-e648b2a7a634"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -39649,7 +39792,9 @@
         "maxCombo": 763,
         "maxDensity": 5.62,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/dbb91a65-a136-4d7f-9cb5-9cb6ba71c1b4"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -39662,7 +39807,9 @@
         "maxCombo": 889,
         "maxDensity": 6.55,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/060ea70b-1659-4bd7-b564-28900995d608"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -39675,7 +39822,9 @@
         "maxCombo": 1083,
         "maxDensity": 7.98,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://file.taiko.wiki/img/154c9df5-891e-423d-9fe7-f454a86f9102"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       }
@@ -111176,7 +111325,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -135955,7 +136105,11 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "DF",
+      "NS2",
+      "PLUS",
+      "RC"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -135979,7 +136133,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1006/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -135992,7 +136148,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1006/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -136005,7 +136163,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1006/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -136018,7 +136178,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1006/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
