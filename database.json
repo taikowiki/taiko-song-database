@@ -1,5 +1,84 @@
 [
   {
+    "songNo": "1394",
+    "order": 1321,
+    "title": "雲間を游ぐ",
+    "titleKo": "구름 틈을 헤엄치다",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "kumona wo oyogu",
+    "bpm": {
+      "min": 128,
+      "max": 256
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "くるぶっこちゃん"
+    ],
+    "addedDate": 1747440000000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 145,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 209,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 352,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 678,
+        "playTime": 111.88,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.06,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1393",
     "order": 1320,
     "title": "Ka.Ma.Se",
