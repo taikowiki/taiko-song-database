@@ -1,5 +1,201 @@
 [
   {
+    "songNo": "1395",
+    "order": 1322,
+    "title": "潮騒205号SSS線",
+    "titleKo": "파도소리 205호 SSS선",
+    "aliasKo": null,
+    "titleEn": "The Highway No.205 [SSS]",
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 200,
+      "max": 200
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "TAKIO"
+    ],
+    "addedDate": 1748044800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 225,
+        "playTime": 135,
+        "balloon": [
+          10,
+          10,
+          24
+        ],
+        "rollTime": [],
+        "maxDensity": 1.66,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/dd8a2cb4-451d-481a-980b-1b5a1c3bf9fa"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 375,
+        "playTime": 135,
+        "balloon": [
+          30
+        ],
+        "rollTime": [],
+        "maxDensity": 2.77,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a5cd145f-a9b6-40d9-8531-4d591e6203a2"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 548,
+        "playTime": 135,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.05,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/13cb9651-0e78-42f0-b7ac-6dd1a8e95fe9"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 926,
+        "playTime": 135,
+        "balloon": [],
+        "rollTime": [
+          0.125,
+          0.125,
+          3.125,
+          0.125
+        ],
+        "maxDensity": 6.84,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e7c3c294-e8bc-46bd-9c8b-3bb48a0261fe"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1395",
+    "order": 1323,
+    "title": "潮騒205号SSS線",
+    "titleKo": "파도소리 205호 SSS선",
+    "aliasKo": null,
+    "titleEn": "The Highway No.205 [SSS]",
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 200,
+      "max": 200
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "TAKIO"
+    ],
+    "addedDate": 1748044800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 225,
+        "playTime": 135,
+        "balloon": [
+          10,
+          10,
+          24
+        ],
+        "rollTime": [],
+        "maxDensity": 1.66,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/dd8a2cb4-451d-481a-980b-1b5a1c3bf9fa"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 375,
+        "playTime": 135,
+        "balloon": [
+          30
+        ],
+        "rollTime": [],
+        "maxDensity": 2.77,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/a5cd145f-a9b6-40d9-8531-4d591e6203a2"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 548,
+        "playTime": 135,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.05,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/13cb9651-0e78-42f0-b7ac-6dd1a8e95fe9"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 926,
+        "playTime": 135,
+        "balloon": [],
+        "rollTime": [
+          0.125,
+          0.125,
+          3.125,
+          0.125
+        ],
+        "maxDensity": 6.84,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e7c3c294-e8bc-46bd-9c8b-3bb48a0261fe"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1394",
     "order": 1321,
     "title": "雲間を游ぐ",
@@ -7,7 +203,7 @@
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
-    "romaji": "kumona wo oyogu",
+    "romaji": "Kumoma wo Oyogu",
     "bpm": {
       "min": 128,
       "max": 256
@@ -2175,7 +2371,7 @@
     "order": 1284,
     "title": "かわいいだけじゃだめですか？",
     "titleKo": "Can't we just be cute?",
-    "aliasKo": "귀여운 것 만으로는 안나요?",
+    "aliasKo": "귀여운 것 만으로는 안 되나요?",
     "titleEn": null,
     "aliasEn": null,
     "romaji": "",
@@ -25247,7 +25443,7 @@
     "aliasKo": "환부에서 멈춰서 바로 녹는다~광기의 우동게인",
     "titleEn": null,
     "aliasEn": null,
-    "romaji": "Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udogein",
+    "romaji": "Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udongein",
     "bpm": {
       "min": 40,
       "max": 200
