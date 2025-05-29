@@ -88567,11 +88567,27 @@
         ],
         "maxCombo": 802,
         "maxDensity": 6.54,
-        "dani": [],
+        "dani": [
+          {
+            "version": "katsudon",
+            "dan": "taisho",
+            "order": 3
+          },
+          {
+            "version": "sorairo",
+            "dan": "9dan",
+            "order": 3
+          },
+          {
+            "version": "white",
+            "dan": "kuroto",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/26e60ee2-530d-4828-bc61-e40d01b47dc9"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
