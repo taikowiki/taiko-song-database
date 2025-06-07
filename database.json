@@ -1,5 +1,94 @@
 [
   {
+    "songNo": "1383",
+    "order": 1324,
+    "title": "SoulStone -闇喰イサァカス団-",
+    "titleKo": "SoulStone -어둠 먹는 서커스단-",
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 100,
+      "max": 212
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "清風明月（Drop×葉月ゆら）"
+    ],
+    "addedDate": 1749168000000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1079,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [
+          1.367
+        ],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "25",
+            "dan": "10dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/img/b0eaffb6-5cb4-4c73-941d-386575342385"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1395",
     "order": 1322,
     "title": "潮騒205号SSS線",
