@@ -27,7 +27,7 @@
     "addedDate": 1749168000000,
     "courses": {
       "easy": {
-        "level": 1,
+        "level": 3,
         "isBranched": 0,
         "maxCombo": 0,
         "playTime": 0,
@@ -39,7 +39,7 @@
         "images": []
       },
       "normal": {
-        "level": 1,
+        "level": 6,
         "isBranched": 0,
         "maxCombo": 0,
         "playTime": 0,
@@ -51,7 +51,7 @@
         "images": []
       },
       "hard": {
-        "level": 1,
+        "level": 7,
         "isBranched": 0,
         "maxCombo": 0,
         "playTime": 0,
@@ -82,6 +82,918 @@
         ],
         "images": [
           "https://file.taiko.wiki/img/b0eaffb6-5cb4-4c73-941d-386575342385"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1332",
+    "order": 1332,
+    "title": "王妃",
+    "titleKo": null,
+    "aliasKo": "왕비",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 127,
+      "max": 127
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "蕭敬騰",
+      "李偲菘"
+    ],
+    "addedDate": 1749168000000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 85,
+        "playTime": 97.2,
+        "balloon": [],
+        "rollTime": [
+          4.134
+        ],
+        "maxDensity": 0.87,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f2426351-bff5-4010-9d1f-4e399f023e78"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 152,
+        "playTime": 97.2,
+        "balloon": [],
+        "rollTime": [
+          4.134
+        ],
+        "maxDensity": 1.56,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/748d25e1-c721-46cf-941a-94f7506f810b"
+        ]
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 212,
+        "playTime": 97.2,
+        "balloon": [],
+        "rollTime": [
+          2.008
+        ],
+        "maxDensity": 2.18,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/558e48c0-3589-41a7-9997-d65c7bdb6c7d"
+        ]
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 313,
+        "playTime": 97.2,
+        "balloon": [],
+        "rollTime": [
+          2.008
+        ],
+        "maxDensity": 3.22,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/b9be9606-9460-4294-b0b5-dc86ba843a32"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1333",
+    "order": 1333,
+    "title": "淘汰",
+    "titleKo": null,
+    "aliasKo": "도태",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 59,
+      "max": 59
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "陳奕迅",
+      "周杰倫"
+    ],
+    "addedDate": 1749168000000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 40,
+        "playTime": 109.55,
+        "balloon": [],
+        "rollTime": [
+          8.729
+        ],
+        "maxDensity": 0.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/c3ee3226-bf39-4caf-a823-19795dbcd34b"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 65,
+        "playTime": 109.55,
+        "balloon": [],
+        "rollTime": [
+          9.237
+        ],
+        "maxDensity": 0.59,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/625971f2-549f-4cf6-90d3-53c13b54542a"
+        ]
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 116,
+        "playTime": 109.55,
+        "balloon": [],
+        "rollTime": [
+          8.729
+        ],
+        "maxDensity": 1.06,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/8bd7519b-bab6-497c-ac06-ae56d5b41615"
+        ]
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 172,
+        "playTime": 109.55,
+        "balloon": [],
+        "rollTime": [
+          3.39
+        ],
+        "maxDensity": 1.57,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/6b3a8e90-e201-42c3-a7ce-e47e40171494"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1403",
+    "order": 1331,
+    "title": "UNBIAS",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 160,
+      "max": 160
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "mezz",
+      "ᴴᴬᴷᵁ",
+      "Masayoshi Iimori",
+      "Native Rapper"
+    ],
+    "addedDate": 1749081600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 143,
+        "playTime": 119.42,
+        "balloon": [],
+        "rollTime": [
+          4.438
+        ],
+        "maxDensity": 1.2,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/3c477913-909a-40db-99bc-1719282ac98d"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 221,
+        "playTime": 119.42,
+        "balloon": [],
+        "rollTime": [
+          4.438
+        ],
+        "maxDensity": 1.85,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7d1b13ac-b182-40da-b6da-cdf590ae4771"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 351,
+        "playTime": 119.42,
+        "balloon": [],
+        "rollTime": [
+          4.438
+        ],
+        "maxDensity": 2.94,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4b911f88-b3e3-4bb4-aeb6-334ae4f272cd"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 578,
+        "playTime": 119.42,
+        "balloon": [],
+        "rollTime": [
+          4.594
+        ],
+        "maxDensity": 4.84,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1895b776-c9d4-4aa4-95be-7bd5ff87c478"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1400",
+    "order": 1325,
+    "title": "I wonder",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 125,
+      "max": 125
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "Da-iCE",
+      "花村想太",
+      "MEG.ME",
+      "Louis"
+    ],
+    "addedDate": 1748995200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 71,
+        "playTime": 89.29,
+        "balloon": [
+          5,
+          2,
+          2,
+          5,
+          7
+        ],
+        "rollTime": [
+          1.4,
+          1.4,
+          1.4
+        ],
+        "maxDensity": 0.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/2157d9f6-5f09-4e37-aa98-b5d98001e9fa"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 110,
+        "playTime": 89.29,
+        "balloon": [
+          6,
+          3,
+          3,
+          6,
+          9
+        ],
+        "rollTime": [
+          1.4,
+          1.4,
+          1.4
+        ],
+        "maxDensity": 1.23,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/fbacbb6b-9ded-4ce9-9cb7-9c101a951f72"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 170,
+        "playTime": 89.29,
+        "balloon": [
+          8,
+          5,
+          5,
+          8,
+          14
+        ],
+        "rollTime": [
+          1.4,
+          1.4,
+          1.4
+        ],
+        "maxDensity": 1.9,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/bcfe4ba0-3efa-44e4-916b-4dfbabd3e260"
+        ]
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 275,
+        "playTime": 89.29,
+        "balloon": [
+          10,
+          6,
+          6,
+          10
+        ],
+        "rollTime": [
+          1.4,
+          1.4,
+          1.4,
+          1.4
+        ],
+        "maxDensity": 3.08,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/07b0efdc-db86-4535-b860-22bd5719d751"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1401",
+    "order": 1326,
+    "title": "テトリス",
+    "titleKo": null,
+    "aliasKo": "테토리스",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "TETORIS",
+    "bpm": {
+      "min": 170,
+      "max": 170
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "重音テト",
+      "柊マグネタイト"
+    ],
+    "addedDate": 1748995200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 219,
+        "playTime": 139.24,
+        "balloon": [],
+        "rollTime": [
+          2.853
+        ],
+        "maxDensity": 1.57,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/35439e75-be1e-466c-a48c-e4b6f324ce75"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 406,
+        "playTime": 139.24,
+        "balloon": [],
+        "rollTime": [
+          2.324
+        ],
+        "maxDensity": 2.92,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/316860d5-62f1-4097-8f86-f3298e07f4dd"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 554,
+        "playTime": 139.24,
+        "balloon": [],
+        "rollTime": [
+          2.324
+        ],
+        "maxDensity": 3.98,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/4f6efde6-6359-4586-b797-ccc911b435a9"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 919,
+        "playTime": 139.24,
+        "balloon": [],
+        "rollTime": [
+          2.324
+        ],
+        "maxDensity": 6.6,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/397ea00d-1b83-496a-96f3-9bd8471c3c8e"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1399",
+    "order": 1327,
+    "title": "Walk with your smile",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 110,
+      "max": 110
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "南雲鉄虎",
+      "高峯翠",
+      "仙石忍",
+      "守沢千秋",
+      "深海奏汰",
+      "中土智博"
+    ],
+    "addedDate": 1748995200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 64,
+        "playTime": 100,
+        "balloon": [],
+        "rollTime": [
+          6.136
+        ],
+        "maxDensity": 0.64,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cebe0175-8fe6-4cb6-8f4c-da4d4ec09af3"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 103,
+        "playTime": 100,
+        "balloon": [],
+        "rollTime": [
+          6.136
+        ],
+        "maxDensity": 1.03,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/93d52663-dc21-4f6a-b97e-20b8e3d3e212"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 210,
+        "playTime": 100,
+        "balloon": [],
+        "rollTime": [
+          6.136
+        ],
+        "maxDensity": 2.1,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/3744db9f-4adc-4034-9369-d7b79df9ab98"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 311,
+        "playTime": 100,
+        "balloon": [],
+        "rollTime": [
+          8
+        ],
+        "maxDensity": 3.11,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/24ced93a-f360-488e-a125-b2d866106ba1"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1396",
+    "order": 1328,
+    "title": "BRIGHTEST STARS!!",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 144,
+      "max": 288
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "蓮巳敬人",
+      "鬼龍紅郎",
+      "神崎颯馬",
+      "滝維吹",
+      "桑原聖"
+    ],
+    "addedDate": 1748995200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 118,
+        "playTime": 129.08,
+        "balloon": [],
+        "rollTime": [
+          3.698
+        ],
+        "maxDensity": 0.91,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/cd863960-e819-4be4-b2d9-c2045726bb80"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 203,
+        "playTime": 129.08,
+        "balloon": [],
+        "rollTime": [
+          5.347
+        ],
+        "maxDensity": 1.57,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/baaf3322-2532-4e72-911c-08b4b2577a7f"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 417,
+        "playTime": 129.08,
+        "balloon": [],
+        "rollTime": [
+          5.191
+        ],
+        "maxDensity": 3.23,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/1aeab769-4a1b-4d21-8c2e-386d48421f0b"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 617,
+        "playTime": 129.08,
+        "balloon": [],
+        "rollTime": [
+          5.191
+        ],
+        "maxDensity": 4.78,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/52c05419-85b0-469a-9435-c829afbe5998"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1398",
+    "order": 1329,
+    "title": "BRAND NEW STARS!!",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 117.5,
+      "max": 117.5
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "三毛縞斑",
+      "桑原聖"
+    ],
+    "addedDate": 1748995200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 70,
+        "playTime": 110.66,
+        "balloon": [],
+        "rollTime": [
+          7.66
+        ],
+        "maxDensity": 0.63,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/ab5bdf0a-fd3e-448f-8d6e-67ac75d9ba9f"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 108,
+        "playTime": 110.66,
+        "balloon": [],
+        "rollTime": [
+          6.681
+        ],
+        "maxDensity": 0.98,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/79b67240-2063-4bb5-b9c3-0d1baee30a70"
+        ]
+      },
+      "hard": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 179,
+        "playTime": 110.66,
+        "balloon": [],
+        "rollTime": [
+          8.426
+        ],
+        "maxDensity": 1.62,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/7020561e-8730-428c-b9db-e8f2a0c20260"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 353,
+        "playTime": 110.66,
+        "balloon": [],
+        "rollTime": [
+          8.298
+        ],
+        "maxDensity": 3.19,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/42fbddf1-a9d3-42a0-b209-1b49d5d5460c"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1397",
+    "order": 1330,
+    "title": "LIMIT BREAK DREAMERS",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 198,
+      "max": 198
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "エス",
+      "カンナ",
+      "ユメ",
+      "ライカ",
+      "白戸佑輔"
+    ],
+    "addedDate": 1748995200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 107,
+        "playTime": 149.03,
+        "balloon": [],
+        "rollTime": [
+          8.384
+        ],
+        "maxDensity": 0.72,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/e5de3d29-240f-4190-81f6-87bf3f4525ca"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 157,
+        "playTime": 149.03,
+        "balloon": [],
+        "rollTime": [
+          8.384
+        ],
+        "maxDensity": 1.05,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/5b87d4e1-3279-4858-bf5e-a6ddef976169"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 292,
+        "playTime": 149.03,
+        "balloon": [],
+        "rollTime": [
+          8.384
+        ],
+        "maxDensity": 1.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/fd230e73-37ae-4e1a-a88c-e1f7cd8e9558"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 617,
+        "playTime": 149.03,
+        "balloon": [],
+        "rollTime": [
+          5.126
+        ],
+        "maxDensity": 4.14,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/f7f74995-62d2-42f4-9b20-473cca34ab4b"
         ]
       },
       "ura": null
@@ -4030,7 +4942,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -4116,7 +5028,7 @@
     "order": 1255,
     "title": "ファタール",
     "titleKo": "Fatal",
-    "aliasKo": "파탈",
+    "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
     "romaji": "Fatal",
@@ -4129,7 +5041,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -5583,7 +6495,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -6548,7 +7460,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "vocaloid"
@@ -7264,7 +8176,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -17134,7 +18046,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1194",
@@ -20121,7 +21033,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1099",
@@ -31273,11 +32185,17 @@
         "playTime": 103.56,
         "maxCombo": 648,
         "maxDensity": 6.26,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "9dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/51cf5361-ff19-4304-a7b1-90ddb7fb4ab7"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       }
     },
@@ -57639,7 +58557,7 @@
       },
       "ura": null
     },
-    "isDeleted": 1
+    "isDeleted": 0
   },
   {
     "songNo": "100",
@@ -73070,6 +73988,11 @@
             "version": "red",
             "dan": "3dan",
             "order": 3
+          },
+          {
+            "version": "25",
+            "dan": "3dan",
+            "order": 2
           }
         ],
         "images": [],
@@ -82725,11 +83648,17 @@
         ],
         "maxCombo": 777,
         "maxDensity": 6.34,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "9dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/96a58d8c-d828-45d1-8c01-fd8eaaa2fdbe"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -84976,7 +85905,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1101/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -84992,7 +85923,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1101/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -85005,7 +85938,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1101/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -85018,11 +85953,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1101/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "574",
@@ -88821,7 +89758,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/615/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 7,
@@ -88837,7 +89776,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/615/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -88853,7 +89794,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/615/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -88863,10 +89806,28 @@
         ],
         "maxCombo": 734,
         "maxDensity": 4.79,
-        "dani": [],
+        "dani": [
+          {
+            "version": "red",
+            "dan": "8dan",
+            "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "7dan",
+            "order": 2
+          },
+          {
+            "version": "25",
+            "dan": "10dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/615/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -109246,7 +110207,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/359/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -109262,7 +110225,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/359/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -109278,7 +110243,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/359/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -109291,10 +110258,18 @@
         ],
         "maxCombo": 536,
         "maxDensity": 4.47,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "9dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/359/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -119255,11 +120230,17 @@
         ],
         "maxCombo": 748,
         "maxDensity": 5.67,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "10dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/92d9a9ce-7315-4800-8554-a05490e92a0d"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
