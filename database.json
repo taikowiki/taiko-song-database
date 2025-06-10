@@ -2665,7 +2665,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "variety"
@@ -3585,7 +3585,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3703,7 +3703,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -3827,7 +3827,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -4329,7 +4329,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -6897,7 +6897,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "kids"
@@ -8200,7 +8200,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -8318,7 +8318,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -8851,7 +8851,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -10790,7 +10790,7 @@
       "NS2",
       "RC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -68416,6 +68416,11 @@
             "version": "kimidori",
             "dan": "8dan",
             "order": 1
+          },
+          {
+            "version": "25",
+            "dan": "7dan",
+            "order": 3
           }
         ],
         "images": [
@@ -109450,7 +109455,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -109477,7 +109483,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/377/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -109493,7 +109501,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/377/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -109509,7 +109519,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/377/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -109519,10 +109531,18 @@
         ],
         "maxCombo": 361,
         "maxDensity": 4.03,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "3dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/377/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
