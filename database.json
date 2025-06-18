@@ -1,5 +1,98 @@
 [
   {
+    "songNo": "1404",
+    "order": 1335,
+    "title": "みんなのうた",
+    "titleKo": null,
+    "aliasKo": "모두의 노래",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "",
+    "bpm": {
+      "min": 174,
+      "max": 174
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "Taku Inoue",
+      "SaChi (harineko)"
+    ],
+    "addedDate": 1750204800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 136.12,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 136.12,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 136.12,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 1,
+        "maxCombo": 829,
+        "playTime": 136.12,
+        "balloon": [],
+        "rollTime": [
+          0.489,
+          0.489,
+          0.489,
+          1.695,
+          0.489,
+          0.316,
+          0.316,
+          0.661,
+          0.661
+        ],
+        "maxDensity": 6.09,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/acdd15dc-bb45-4814-a0a5-ffad9fb7ca1e",
+          "https://file.taiko.wiki/img/54851e34-6134-4e0f-b7f1-266b0506db02"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1383",
     "order": 1324,
     "title": "SoulStone -闇喰イサァカス団-",
@@ -26504,11 +26597,17 @@
         ],
         "maxCombo": 1240,
         "maxDensity": 9.33,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "tatsujin",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/8c680a26-965f-45ab-9ac1-e0ec2408d7a7"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       }
     },
@@ -136376,7 +136475,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/886/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -136389,7 +136490,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/886/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -136402,7 +136505,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/886/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 6,
@@ -136412,10 +136517,18 @@
         ],
         "maxCombo": 349,
         "maxDensity": 2.95,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "1dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/886/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
