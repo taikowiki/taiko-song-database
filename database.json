@@ -90351,7 +90351,7 @@
         "maxDensity": 1.08,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/615/easy"
+          "https://file.taiko.wiki/img/ec9c21c0-7dff-4a7c-a50e-f13f01aef28f"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -90369,7 +90369,7 @@
         "maxDensity": 1.77,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/615/normal"
+          "https://file.taiko.wiki/img/147508ea-2931-4585-86d4-a256da65e4e9"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -90387,7 +90387,7 @@
         "maxDensity": 2.97,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/615/hard"
+          "https://file.taiko.wiki/img/80ed7f69-81e9-4ca1-a75d-e90c49efd3a2"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -90418,7 +90418,8 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/fumen/615/oni"
+          "https://file.taiko.wiki/img/47732ffd-a071-4d21-95cf-cbfdbcced844",
+          "https://file.taiko.wiki/img/26dcb517-83f8-4569-bb34-ef245b730155"
         ],
         "daniUsed": 1,
         "isBranched": 0
@@ -91069,7 +91070,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1206/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -91085,7 +91088,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1206/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -91101,7 +91106,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1206/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -91114,10 +91121,18 @@
         ],
         "maxCombo": 817,
         "maxDensity": 5.55,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "8dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/1206/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
