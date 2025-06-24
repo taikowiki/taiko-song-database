@@ -26777,11 +26777,17 @@
         ],
         "maxCombo": 580,
         "maxDensity": 4.64,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "2dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/951/oni"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
