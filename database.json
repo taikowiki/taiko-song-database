@@ -74289,7 +74289,9 @@
         "maxCombo": 889,
         "maxDensity": 7.64,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%89%E3%83%89%E3%83%89%E3%83%89%E3%83%89%E3%83%B3%E3%81%A0%E3%83%95%E3%83%AB%EF%BC%81%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/haya_x.png?rev=d8c310a3e6fb39ae5c557196412b0e05&t=20230226205602"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       }
