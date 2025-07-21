@@ -1,5 +1,113 @@
 [
   {
+    "songNo": "1406",
+    "order": 1337,
+    "title": "siren's eye",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 54,
+      "max": 324
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "かたぎり",
+      "Frums",
+      "知声"
+    ],
+    "addedDate": 1752883200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 210,
+        "playTime": 135.65,
+        "balloon": [
+          14
+        ],
+        "rollTime": [
+          2.093,
+          2.13
+        ],
+        "maxDensity": 1.55,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/siren%27s%20eye/::ref/siren%27s%20eye_%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=2b94737b54bd4be1d27fbda3a36823a5&t=20250719170315"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 293,
+        "playTime": 135.65,
+        "balloon": [
+          16
+        ],
+        "rollTime": [
+          2.093,
+          2.13
+        ],
+        "maxDensity": 2.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/siren%27s%20eye/::ref/siren%27s%20eye_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=de3e3758e16a5219823cb1a357c82f4b&t=20250719170314"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 466,
+        "playTime": 135.65,
+        "balloon": [
+          26
+        ],
+        "rollTime": [
+          2.093,
+          2.13
+        ],
+        "maxDensity": 3.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/siren%27s%20eye/::ref/siren%27s%20eye_%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=be033df04d5285817ae99a4a4c76a268&t=20250719170313"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 997,
+        "playTime": 135.65,
+        "balloon": [],
+        "rollTime": [
+          2.093
+        ],
+        "maxDensity": 7.35,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/siren%27s%20eye/::ref/siren%27s%20eye_7.png?rev=bfb9120f167ce8fbb91b594107a6cf60&t=20250719164554",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/siren%27s%20eye/::ref/siren%27s%20eye_BPM270_4.png?rev=905454b989dc72e046211206b8ff9164&t=20250719164514",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/siren%27s%20eye/::ref/siren%27s%20eye_%E8%A6%8B%E3%81%9F%E7%9B%AE_2.png?rev=06b67f733df1d8fd68fa15920327ed7b&t=20250719165850"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1405",
     "order": 1336,
     "title": "閃光天舞",
@@ -16501,7 +16609,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -83746,7 +83855,9 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2",
+      "NS1"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
