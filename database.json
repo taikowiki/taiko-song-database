@@ -44676,6 +44676,161 @@
     "isDeleted": 0
   },
   {
+    "songNo": "140",
+    "order": 263,
+    "title": "+♂(プラス男子)",
+    "titleKo": null,
+    "aliasKo": "플러스 남자",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "+♂(Plus Danshi)",
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "V"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "ギガれをる",
+      "鏡音レン"
+    ],
+    "addedDate": 1436400000000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 133.11,
+        "rollTime": [
+          1.306,
+          8,
+          0.867,
+          1.306
+        ],
+        "maxCombo": 239,
+        "maxDensity": 1.8,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%EF%BC%8B%E2%99%82%28%E3%83%97%E3%83%A9%E3%82%B9%E7%94%B7%E5%AD%90%29/::ref/%2B%E2%99%82_e.png?rev=50e38f78387fe7285b5c69023e52ac79&t=20230227184302"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 5,
+        "playTime": 133.11,
+        "rollTime": [
+          1.306,
+          7.73,
+          1.067,
+          0.533,
+          1.306
+        ],
+        "maxCombo": 326,
+        "maxDensity": 2.45,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%EF%BC%8B%E2%99%82%28%E3%83%97%E3%83%A9%E3%82%B9%E7%94%B7%E5%AD%90%29/::ref/%2B%E2%99%82_n.png?rev=85e187bdd4c52856fdf611ab59abab6a&t=20230227184407"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 6,
+        "playTime": 133.11,
+        "rollTime": [
+          1.154,
+          9.066,
+          1.154
+        ],
+        "maxCombo": 479,
+        "maxDensity": 3.6,
+        "dani": [
+          {
+            "version": "green",
+            "dan": "3kyu",
+            "order": 3
+          },
+          {
+            "version": "20",
+            "dan": "2kyu",
+            "order": 1
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%EF%BC%8B%E2%99%82%28%E3%83%97%E3%83%A9%E3%82%B9%E7%94%B7%E5%AD%90%29/::ref/plusman_h.png?rev=e558b6f2989e4c4ad1848eaa9f6b7cbd&t=20230227184536"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 7,
+        "playTime": 133.11,
+        "balloon": [
+          108,
+          4,
+          4,
+          4,
+          2,
+          2,
+          2
+        ],
+        "maxCombo": 583,
+        "maxDensity": 4.38,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%EF%BC%8B%E2%99%82%28%E3%83%97%E3%83%A9%E3%82%B9%E7%94%B7%E5%AD%90%29/::ref/rlnpls_m%282%29.png?rev=1130f09711f63957ceed4cd0d0cabf23&t=20230227184700"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "ura": {
+        "level": 9,
+        "playTime": 133.11,
+        "balloon": [
+          108,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "rollTime": [
+          0.139,
+          0.139,
+          0.139,
+          0.139
+        ],
+        "maxCombo": 900,
+        "maxDensity": 6.76,
+        "dani": [
+          {
+            "version": "yellow",
+            "dan": "8dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%EF%BC%8B%E2%99%82%28%E3%83%97%E3%83%A9%E3%82%B9%E7%94%B7%E5%AD%90%29%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/rlnpls_x%282%29.png?rev=618c412cfbda5d47e788b11b87afa43f&t=20230227184827"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "499",
     "order": 1080,
     "title": "ノるどん2000",
@@ -46624,6 +46779,133 @@
     "isDeleted": 0
   },
   {
+    "songNo": "136",
+    "order": 966,
+    "title": "Evidence of evil",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "WiiU3",
+      "V",
+      "3DS2",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "AJURIKA"
+    ],
+    "addedDate": 1417478400000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "playTime": 106.68,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          1.138,
+          0.972,
+          0.805,
+          0.638,
+          0.638
+        ],
+        "maxCombo": 317,
+        "maxDensity": 2.97,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Evidence%20of%20evil/::ref/%E6%9A%87%E6%9A%87_e.png?rev=6a52c6ab9e75052e13f3ad9bf9f0346c&t=20230228030246"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 7,
+        "playTime": 106.68,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          1.138,
+          0.972,
+          0.972,
+          0.638,
+          0.638
+        ],
+        "maxCombo": 391,
+        "maxDensity": 3.67,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Evidence%20of%20evil/::ref/%E6%9A%87%E6%9A%87_n.png?rev=e246a371ae2e250ea61d938191c06d4b&t=20230228030306"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 8,
+        "playTime": 106.68,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          1.138,
+          0.972,
+          0.638,
+          0.638
+        ],
+        "maxCombo": 564,
+        "maxDensity": 5.29,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Evidence%20of%20evil/::ref/%E6%9A%87%E6%9A%87_h.png?rev=c0f3095f60e619cba26b7beea62f18bb&t=20230228030325"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 10,
+        "playTime": 106.68,
+        "balloon": [
+          9
+        ],
+        "rollTime": [
+          0.972
+        ],
+        "maxCombo": 814,
+        "maxDensity": 7.63,
+        "dani": [
+          {
+            "version": "21",
+            "dan": "kuroto",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Evidence%20of%20evil/::ref/%E6%9A%87%E3%81%A0%E3%82%88_%E5%B0%8F%E7%AF%80%E7%B7%9A%E4%BF%AE%E6%AD%A3.png?rev=5d66159ca5b968b5984feb5ed06e0249&t=20230228030344"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "148",
     "order": 356,
     "title": "FUJIN Rumble",
@@ -46824,6 +47106,117 @@
           "https://file.taiko.wiki/img/b25d5252-8b5d-4a6a-8578-4d82136d22a7"
         ],
         "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "138",
+    "order": 372,
+    "title": "Scars of FAUNA",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 165,
+      "max": 165
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "猫叉Master"
+    ],
+    "addedDate": 1416960000000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 112.07,
+        "rollTime": [
+          0.5152,
+          2.152,
+          0.5152,
+          1.606
+        ],
+        "maxCombo": 188,
+        "maxDensity": 1.68,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Scars%20of%20FAUNA/::ref/fauna_e.png?rev=ff090788c54c0de235e25bf21a610c8f&t=20230220173928"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 5,
+        "playTime": 112.07,
+        "balloon": [
+          6,
+          6
+        ],
+        "rollTime": [
+          0.727,
+          0.545,
+          0.545,
+          0.545,
+          1.091,
+          0.727,
+          0.727,
+          0.727,
+          1.424,
+          0.727
+        ],
+        "maxCombo": 293,
+        "maxDensity": 2.61,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Scars%20of%20FAUNA/::ref/fauna_n.png?rev=896655feb7bd7b5f5537b6b7a09dfeb3&t=20230220173727"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 7,
+        "playTime": 112.07,
+        "rollTime": [
+          0.333,
+          1.424
+        ],
+        "maxCombo": 573,
+        "maxDensity": 5.11,
+        "dani": [
+          {
+            "version": "red",
+            "dan": "1kyu",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Scars%20of%20FAUNA/::ref/FAUNA_h.png?rev=cb85c57e4788348cd9f1e453412864e5&t=20230220173450"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 9,
+        "playTime": 112.07,
+        "maxCombo": 780,
+        "maxDensity": 6.96,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Scars%20of%20FAUNA/::ref/Scars%20of%20FAUNA_%E5%B0%8F%E7%AF%80%E7%B7%9A%E4%BF%AE%E6%AD%A3.png?rev=8e68330cc492ce6122e59c4942a68e35&t=20230220173235"
+        ],
+        "daniUsed": 0,
         "isBranched": 0
       },
       "ura": null
@@ -57968,6 +58361,167 @@
     "isDeleted": 0
   },
   {
+    "songNo": "137",
+    "order": 896,
+    "title": "ファミレスウォーズ",
+    "titleKo": "Families wars",
+    "aliasKo": "패밀리 레스토랑 워즈",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "Famires Wars",
+    "bpm": {
+      "min": 190,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "Wii5",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "みらゐ",
+      "愛原圭織"
+    ],
+    "addedDate": 1343174400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "playTime": 131.45,
+        "balloon": [
+          6,
+          6,
+          6,
+          6,
+          6,
+          8
+        ],
+        "rollTime": [
+          0.921,
+          0.605,
+          0.605,
+          1.079,
+          0.605,
+          0.605,
+          0.605,
+          0.605,
+          1.079
+        ],
+        "maxCombo": 121,
+        "maxDensity": 0.92,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AC%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA/::ref/fa3res_e.png?rev=1bd7cad3413b339a3bcb647407f623f5&t=20230224202116"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 4,
+        "playTime": 131.45,
+        "balloon": [
+          8,
+          6,
+          8,
+          8,
+          8,
+          10
+        ],
+        "rollTime": [
+          0.605,
+          0.605,
+          0.605,
+          1.079,
+          0.605,
+          0.605,
+          0.605,
+          0.605,
+          1.079
+        ],
+        "maxCombo": 197,
+        "maxDensity": 1.5,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AC%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA/::ref/fa3res_n.png?rev=f8235132a44b4d8b2d5d65e02b24835c&t=20230224202135"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 5,
+        "playTime": 131.45,
+        "balloon": [
+          5,
+          5,
+          5,
+          5
+        ],
+        "rollTime": [
+          0.605,
+          0.605,
+          0.605,
+          1.079,
+          0.605,
+          0.605,
+          0.605,
+          0.605,
+          0.605,
+          1.079
+        ],
+        "maxCombo": 387,
+        "maxDensity": 2.94,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AC%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA/::ref/fa3res_h.png?rev=aeabc3fd8a57e6f69c7dcf1b01c0cf42&t=20230224202156"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 8,
+        "playTime": 131.45,
+        "balloon": [
+          5,
+          9,
+          9
+        ],
+        "rollTime": [
+          0.605,
+          1.079,
+          0.605,
+          0.605,
+          0.921,
+          0.605,
+          1.079
+        ],
+        "maxCombo": 723,
+        "maxDensity": 5.5,
+        "dani": [
+          {
+            "version": "22",
+            "dan": "4dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AC%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA/::ref/fa3res_h.png?rev=aeabc3fd8a57e6f69c7dcf1b01c0cf42&t=20230224202156"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "324",
     "order": 897,
     "title": "Phantom Rider",
@@ -60950,6 +61504,146 @@
         "isBranched": 0
       },
       "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "139",
+    "order": 996,
+    "title": "dance storm",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 190,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "TDM",
+      "WiiU2",
+      "Wii4",
+      "3DS2",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "細江慎治"
+    ],
+    "addedDate": 1322006400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 121.51,
+        "balloon": [
+          13,
+          4,
+          19
+        ],
+        "rollTime": [
+          0.632,
+          0.447,
+          0.789
+        ],
+        "maxCombo": 212,
+        "maxDensity": 1.74,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/dance%20storm/::ref/fgod_e.png?rev=63e7df03f74d24e269569dba60bd3db1&t=20230227161704"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 6,
+        "playTime": 121.51,
+        "balloon": [
+          16,
+          5,
+          24
+        ],
+        "rollTime": [
+          0.632,
+          0.789
+        ],
+        "maxCombo": 325,
+        "maxDensity": 2.67,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/dance%20storm/::ref/fgod_n.png?rev=080772e4ea97df5db6cf45a69415b20c&t=20230227161913"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 6,
+        "playTime": 121.51,
+        "balloon": [
+          22,
+          7,
+          33
+        ],
+        "rollTime": [
+          0.789
+        ],
+        "maxCombo": 474,
+        "maxDensity": 3.9,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/dance%20storm/::ref/fgod_h.png?rev=7695e81bda39761ff318cf67f8d159ab&t=20230227162112"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 7,
+        "playTime": 121.51,
+        "balloon": [
+          11,
+          49
+        ],
+        "maxCombo": 644,
+        "maxDensity": 5.3,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/dance%20storm/::ref/fgod.png?rev=9da4017c7e3fdc69844da8d07ff1d121&t=20230227161502"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "ura": {
+        "level": 9,
+        "playTime": 121.51,
+        "rollTime": [
+          0.447,
+          0.921,
+          3.447
+        ],
+        "maxCombo": 765,
+        "maxDensity": 6.3,
+        "dani": [
+          {
+            "version": "green",
+            "dan": "8dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/dance%20storm%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/exfgod.png?rev=9ec56c6f49806230e1a567191157a1e9&t=20230227161607"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      }
     },
     "isDeleted": 0
   },
@@ -79122,105 +79816,6 @@
         ]
       },
       "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "140",
-    "order": 263,
-    "title": "+♂(プラス男子)",
-    "titleKo": null,
-    "aliasKo": "플러스 남자",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": "+♂(Plus Danshi)",
-    "bpm": {
-      "min": 180,
-      "max": 180
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "vocaloid"
-    ],
-    "artists": [
-      "ギガれをる",
-      "鏡音レン"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 137.33,
-        "rollTime": [
-          11.39
-        ],
-        "maxCombo": 239,
-        "maxDensity": 1.74,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/140/easy"
-        ]
-      },
-      "normal": {
-        "level": 5,
-        "playTime": 137.33,
-        "rollTime": [
-          11.7
-        ],
-        "maxCombo": 326,
-        "maxDensity": 2.37,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/140/normal"
-        ]
-      },
-      "hard": {
-        "level": 6,
-        "playTime": 137.33,
-        "rollTime": [
-          11.42
-        ],
-        "maxCombo": 479,
-        "maxDensity": 3.49,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/140/hard"
-        ]
-      },
-      "oni": {
-        "level": 7,
-        "playTime": 137.33,
-        "balloon": [
-          126
-        ],
-        "maxCombo": 583,
-        "maxDensity": 4.25,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/140/oni"
-        ]
-      },
-      "ura": {
-        "level": 9,
-        "playTime": 137.33,
-        "balloon": [
-          128
-        ],
-        "rollTime": [
-          0.56
-        ],
-        "maxCombo": 900,
-        "maxDensity": 6.55,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/140/ura"
-        ]
-      }
     },
     "isDeleted": 0
   },
@@ -110140,89 +110735,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "138",
-    "order": 372,
-    "title": "Scars of FAUNA",
-    "titleKo": null,
-    "aliasKo": null,
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": null,
-    "bpm": {
-      "min": 165,
-      "max": 165
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "game"
-    ],
-    "artists": [
-      "猫叉Master"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 115.64,
-        "rollTime": [
-          4.79
-        ],
-        "maxCombo": 188,
-        "maxDensity": 1.63,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/138/easy"
-        ]
-      },
-      "normal": {
-        "level": 5,
-        "playTime": 115.64,
-        "balloon": [
-          12
-        ],
-        "rollTime": [
-          7.51
-        ],
-        "maxCombo": 293,
-        "maxDensity": 2.53,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/138/normal"
-        ]
-      },
-      "hard": {
-        "level": 7,
-        "playTime": 115.64,
-        "rollTime": [
-          1.76
-        ],
-        "maxCombo": 573,
-        "maxDensity": 4.96,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/138/hard"
-        ]
-      },
-      "oni": {
-        "level": 9,
-        "playTime": 115.64,
-        "maxCombo": 780,
-        "maxDensity": 6.75,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/138/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "1171",
     "order": 628,
     "title": "共奏鼓祭",
@@ -114015,116 +114527,6 @@
         "daniUsed": 0,
         "isBranched": 0
       }
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "137",
-    "order": 896,
-    "title": "ファミレスウォーズ",
-    "titleKo": "Families wars",
-    "aliasKo": "패밀리 레스토랑 워즈",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": "Famires Wars",
-    "bpm": {
-      "min": 190,
-      "max": 190
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "みらゐ",
-      "愛原圭織"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 2,
-        "playTime": 137.05,
-        "balloon": [
-          38
-        ],
-        "rollTime": [
-          6.95
-        ],
-        "maxCombo": 121,
-        "maxDensity": 0.88,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/137/easy"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "normal": {
-        "level": 4,
-        "playTime": 137.05,
-        "balloon": [
-          48
-        ],
-        "rollTime": [
-          6.63
-        ],
-        "maxCombo": 197,
-        "maxDensity": 1.44,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/137/normal"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "hard": {
-        "level": 5,
-        "playTime": 137.05,
-        "balloon": [
-          20
-        ],
-        "rollTime": [
-          7.27
-        ],
-        "maxCombo": 387,
-        "maxDensity": 2.82,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/137/hard"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "oni": {
-        "level": 8,
-        "playTime": 137.05,
-        "balloon": [
-          23
-        ],
-        "rollTime": [
-          5.69
-        ],
-        "maxCombo": 723,
-        "maxDensity": 5.28,
-        "dani": [
-          {
-            "version": "22",
-            "dan": "4dan",
-            "order": 3
-          }
-        ],
-        "images": [
-          "https://file.taiko.wiki/fumen/137/oni"
-        ],
-        "daniUsed": 1,
-        "isBranched": 0
-      },
-      "ura": null
     },
     "isDeleted": 0
   },
@@ -131340,110 +131742,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "136",
-    "order": 966,
-    "title": "Evidence of evil",
-    "titleKo": null,
-    "aliasKo": null,
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": null,
-    "bpm": {
-      "min": 180,
-      "max": 180
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "AJURIKA",
-      "AJURIKA"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 5,
-        "playTime": 110.67,
-        "balloon": [
-          5
-        ],
-        "rollTime": [
-          4.2
-        ],
-        "maxCombo": 317,
-        "maxDensity": 2.86,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/0f64eccd-cf77-484e-b740-fc3bcb4e5a6b"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "normal": {
-        "level": 7,
-        "playTime": 110.67,
-        "balloon": [
-          5
-        ],
-        "rollTime": [
-          4.36
-        ],
-        "maxCombo": 391,
-        "maxDensity": 3.53,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/0d15a137-d57f-462c-a4ea-4b2c2d176af3"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "hard": {
-        "level": 8,
-        "playTime": 110.67,
-        "balloon": [
-          7
-        ],
-        "rollTime": [
-          3.39
-        ],
-        "maxCombo": 564,
-        "maxDensity": 5.1,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/b1e9e9ae-1fb8-410e-9e1b-d5b7ab174568"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "oni": {
-        "level": 10,
-        "playTime": 110.67,
-        "balloon": [
-          9
-        ],
-        "rollTime": [
-          0.97
-        ],
-        "maxCombo": 814,
-        "maxDensity": 7.36,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/5d7f37f1-afd3-407a-b2e1-92ea5f5127ab"
-        ],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "1346",
     "order": 1222,
     "title": "リトルホワイトウィッチ",
@@ -138552,110 +138850,6 @@
         ]
       },
       "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "139",
-    "order": 996,
-    "title": "dance storm",
-    "titleKo": null,
-    "aliasKo": null,
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": null,
-    "bpm": {
-      "min": 190,
-      "max": 190
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "細江慎治"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 126.32,
-        "balloon": [
-          36
-        ],
-        "rollTime": [
-          1.81
-        ],
-        "maxCombo": 212,
-        "maxDensity": 1.68,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/139/easy"
-        ]
-      },
-      "normal": {
-        "level": 6,
-        "playTime": 126.32,
-        "balloon": [
-          45
-        ],
-        "rollTime": [
-          1.37
-        ],
-        "maxCombo": 325,
-        "maxDensity": 2.57,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/139/normal"
-        ]
-      },
-      "hard": {
-        "level": 6,
-        "playTime": 126.32,
-        "balloon": [
-          62
-        ],
-        "rollTime": [
-          0.76
-        ],
-        "maxCombo": 474,
-        "maxDensity": 3.75,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/139/hard"
-        ]
-      },
-      "oni": {
-        "level": 7,
-        "playTime": 126.32,
-        "balloon": [
-          60
-        ],
-        "maxCombo": 644,
-        "maxDensity": 5.1,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/139/oni"
-        ]
-      },
-      "ura": {
-        "level": 9,
-        "playTime": 126.32,
-        "rollTime": [
-          4.82
-        ],
-        "maxCombo": 765,
-        "maxDensity": 6.06,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/139/ura"
-        ]
-      }
     },
     "isDeleted": 0
   },
