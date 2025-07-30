@@ -1,5 +1,285 @@
 [
   {
+    "songNo": "1410",
+    "order": 1342,
+    "title": "WINNER！ゴジュウジャー！",
+    "titleKo": null,
+    "aliasKo": "WINNER! 고쥬저!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 190,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "kids"
+    ],
+    "artists": [
+      "Wienners",
+      "玉屋2060%"
+    ],
+    "addedDate": 1753833600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 85.57,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 85.57,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 85.57,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 433,
+        "playTime": 85.57,
+        "balloon": [],
+        "rollTime": [
+          0.605,
+          0.605,
+          2.5
+        ],
+        "maxDensity": 5.06,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/WINNER%EF%BC%81%E3%82%B4%E3%82%B8%E3%83%A5%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%81/::ref/%E3%82%B4%E3%82%B8%E3%83%A5%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%BC.png?rev=308a14981117643ba672ace97847709c&t=20250730084835"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1407",
+    "order": 1343,
+    "title": "On-Party!",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 182,
+      "max": 182
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "kids"
+    ],
+    "artists": [
+      "カラフルピーチ",
+      "辻村有記",
+      "伊藤賢"
+    ],
+    "addedDate": 1753833600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 88.04,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 88.04,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 88.04,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 346,
+        "playTime": 88.04,
+        "balloon": [
+          13,
+          32,
+          17
+        ],
+        "rollTime": [
+          1.621,
+          1.621
+        ],
+        "maxDensity": 3.93,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/On-Party%21/::ref/On-Party%21.png?rev=988657a422faa802ba4a7dd9c0bf9e47&t=20250730085036"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1409",
+    "order": 1344,
+    "title": "愛♡スクリ～ム！",
+    "titleKo": null,
+    "aliasKo": "아이♡스크~림!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 132,
+      "max": 132
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "AiScReam",
+      "黒澤ルビィ",
+      "上原歩夢",
+      "若菜四季",
+      "DJ Chika a.k.a. INHERIT",
+      "Hayato Yamamoto"
+    ],
+    "addedDate": 1753833600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 107.31,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 107.31,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 107.31,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 323,
+        "playTime": 107.31,
+        "balloon": [
+          14,
+          3,
+          3,
+          3
+        ],
+        "rollTime": [
+          0.871,
+          0.644,
+          0.644,
+          0.644,
+          0.417,
+          0.644,
+          0.417,
+          0.417,
+          0.417,
+          0.417,
+          0.417
+        ],
+        "maxDensity": 3.01,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%84%9B%E2%99%A1%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81/::ref/%E6%B0%B7%E8%8F%93.png?rev=ed624c6920627c333f05d84b7f3ee533&t=20250730083605"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1402",
     "order": 1340,
     "title": "アイドル戦士(feat. 初音ミク)",
@@ -599,6 +879,129 @@
         "dani": [],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%96%83%E5%85%89%E5%A4%A9%E8%88%9E/::ref/%E9%96%83%E5%85%89%E5%A4%A9%E8%88%9E.png?rev=b999e1aa9a62bfe144abc99920f1b300&t=20250705073505"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1408",
+    "order": 1341,
+    "title": "倍倍FIGHT!",
+    "titleKo": null,
+    "aliasKo": "배배 FIGHT!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 176,
+      "max": 176
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "CANDY TUNE",
+      "玉屋2060%"
+    ],
+    "addedDate": 1751500800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 124,
+        "playTime": 106.97,
+        "balloon": [
+          9,
+          6,
+          6
+        ],
+        "rollTime": [
+          2.188,
+          2.188
+        ],
+        "maxDensity": 1.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%80%8D%E5%80%8DFIGHT%21/::ref/bbfigh_e.png?rev=7781503b5bf585d78bf5f289410f010d&t=20250703015844"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 215,
+        "playTime": 106.97,
+        "balloon": [
+          12,
+          7,
+          7
+        ],
+        "rollTime": [
+          2.358,
+          2.358
+        ],
+        "maxDensity": 2.01,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%80%8D%E5%80%8DFIGHT%21/::ref/bbfigh_n.png?rev=a2eb877da2c3323fec23240bec65d484&t=20250703015739"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 339,
+        "playTime": 106.97,
+        "balloon": [
+          9,
+          10,
+          10
+        ],
+        "rollTime": [
+          0.994,
+          0.313,
+          0.994,
+          0.313
+        ],
+        "maxDensity": 3.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%80%8D%E5%80%8DFIGHT%21/::ref/bbfigh_h.png?rev=2e55ad2010be186838a4161c03820331&t=20250703015636"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 629,
+        "playTime": 106.97,
+        "balloon": [
+          10,
+          11
+        ],
+        "rollTime": [
+          0.313,
+          0.313,
+          0.313,
+          0.313,
+          0.313,
+          0.313
+        ],
+        "maxDensity": 5.88,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%80%8D%E5%80%8DFIGHT%21/::ref/bbfigh_m.png?rev=40797e8c78f31623cdaf7d6ed49cc26d&t=20250703003823"
         ]
       },
       "ura": null
@@ -30575,7 +30978,7 @@
     "songNo": "850",
     "order": 763,
     "title": "コネクトカラーズ",
-    "titleKo": "Connect Colors",
+    "titleKo": "Connect Colours",
     "aliasKo": "커넥트 컬러즈",
     "titleEn": null,
     "aliasEn": null,
