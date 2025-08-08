@@ -40103,72 +40103,86 @@
     "courses": {
       "easy": {
         "level": 2,
-        "playTime": 88.03,
+        "playTime": 84.05,
         "balloon": [
           4
         ],
         "rollTime": [
-          5.87
+          0.808,
+          0.805,
+          1.105,
+          0.8,
+          0.803,
+          0.806,
+          0.813
         ],
         "maxCombo": 66,
-        "maxDensity": 0.75,
+        "maxDensity": 0.79,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/569b52e8-8161-4e2f-af10-a96c641b9cbe"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%A8%E3%83%93%E3%82%AB%E3%83%8B%E3%82%AF%E3%82%B9/::ref/%E8%9D%A6%E8%9F%B9%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=5dd1721a6a30541ac2d149dd1e1978a7&t=20230225174506"
         ],
         "daniUsed": 0,
         "isBranched": 0
       },
       "normal": {
         "level": 2,
-        "playTime": 88.03,
+        "playTime": 84.05,
         "balloon": [
           6
         ],
         "rollTime": [
-          6.08
+          0.808,
+          0.805,
+          1.225,
+          0.8,
+          0.803,
+          0.806,
+          0.813
         ],
         "maxCombo": 97,
-        "maxDensity": 1.1,
+        "maxDensity": 1.15,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/63201aec-f861-4efb-b2cf-20d3e3c7d41a"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%A8%E3%83%93%E3%82%AB%E3%83%8B%E3%82%AF%E3%82%B9/::ref/%E8%9D%A6%E8%9F%B9%E3%81%B5%E3%81%A4%E3%81%86.png?rev=d28448e4e5efa5ab7b16b212e2291711&t=20230225174605"
         ],
         "daniUsed": 0,
         "isBranched": 0
       },
       "hard": {
         "level": 3,
-        "playTime": 88.03,
+        "playTime": 84.05,
         "balloon": [
           10
         ],
         "rollTime": [
-          2.04
+          1.225,
+          0.8
         ],
         "maxCombo": 234,
-        "maxDensity": 2.66,
+        "maxDensity": 2.78,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/fc02eff9-9560-4f80-a6df-1847a0f3338b"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%A8%E3%83%93%E3%82%AB%E3%83%8B%E3%82%AF%E3%82%B9/::ref/%E8%9D%A6%E8%9F%B9%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=d78d313f78a18eeb42df7c8a5f19337b&t=20230225174910"
         ],
         "daniUsed": 0,
         "isBranched": 0
       },
       "oni": {
         "level": 6,
-        "playTime": 88.03,
+        "playTime": 84.05,
         "balloon": [
-          19
+          7,
+          12
         ],
         "rollTime": [
-          0.8
+          0.805
         ],
         "maxCombo": 353,
-        "maxDensity": 4.01,
+        "maxDensity": 4.2,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/a447e461-8edb-408a-814d-ef4e61d1c362"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%A8%E3%83%93%E3%82%AB%E3%83%8B%E3%82%AF%E3%82%B9/::ref/ebika2_m.png?rev=7a6d618f548064b8ebeb344f8be394e7&t=20230225174307"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -55635,6 +55649,158 @@
     "isDeleted": 1
   },
   {
+    "songNo": "142",
+    "order": 100,
+    "title": "ファッションモンスター",
+    "titleKo": null,
+    "aliasKo": "패션 몬스터",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "Fashion Monster",
+    "bpm": {
+      "min": 160,
+      "max": 160
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "PLUS"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "中田ヤスタカ",
+      "きゃりーぱみゅぱみゅ"
+    ],
+    "addedDate": 1363132800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "playTime": 108.09,
+        "balloon": [
+          11,
+          11,
+          10,
+          10
+        ],
+        "rollTime": [
+          1.469,
+          0.531,
+          0.531,
+          0.531,
+          0.531,
+          0.531,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094
+        ],
+        "maxCombo": 82,
+        "maxDensity": 0.76,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/::ref/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_E.png?rev=20609327b724fdb9648392964379e70c&t=20230302022432"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 4,
+        "playTime": 108.09,
+        "balloon": [
+          16,
+          16,
+          15,
+          15
+        ],
+        "rollTime": [
+          1.469,
+          0.906,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094
+        ],
+        "maxCombo": 136,
+        "maxDensity": 1.26,
+        "dani": [
+          {
+            "version": "sorairo",
+            "dan": "4kyu",
+            "order": 1
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/::ref/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_N.png?rev=6c54c0121deac5c0c8a00e62bacf37d1&t=20230302022452"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 5,
+        "playTime": 108.09,
+        "balloon": [
+          23,
+          23,
+          21,
+          21
+        ],
+        "rollTime": [
+          1.469,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094
+        ],
+        "maxCombo": 204,
+        "maxDensity": 1.89,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/::ref/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_H.png?rev=1140fc6f1c466050fcc6a474e288d737&t=20230302022512"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 7,
+        "playTime": 108.09,
+        "balloon": [
+          28,
+          28,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "rollTime": [
+          1.469,
+          1.094
+        ],
+        "maxCombo": 374,
+        "maxDensity": 3.46,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/::ref/fmonst_m.png?rev=1a842ba7b2ae690bb0a63f7dda2661ea&t=20230302022540"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "AC_10015",
     "order": 1124,
     "title": "夜の踊り子",
@@ -59155,6 +59321,138 @@
         "daniUsed": 0,
         "isBranched": 0
       }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "141",
+    "order": 898,
+    "title": "Fly away",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 200,
+      "max": 200
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "PS4",
+      "Wii5",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "矢野義人",
+      "谷本貴義"
+    ],
+    "addedDate": 1343174400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 111.99,
+        "balloon": [
+          3,
+          10,
+          3
+        ],
+        "rollTime": [
+          1.5,
+          1.8,
+          1.05,
+          1.65,
+          1.05,
+          1.05,
+          1.65,
+          1.65
+        ],
+        "maxCombo": 195,
+        "maxDensity": 1.74,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Fly%20away/::ref/flyawy_e.png?rev=bd6bd1b44faf461c26fd89282492e18f&t=20230228033401"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 5,
+        "playTime": 111.99,
+        "balloon": [
+          5,
+          13,
+          5
+        ],
+        "rollTime": [
+          1.5,
+          1.8,
+          1.05,
+          1.65,
+          1.05,
+          1.05,
+          1.65,
+          1.65
+        ],
+        "maxCombo": 241,
+        "maxDensity": 2.15,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Fly%20away/::ref/flyawy_n.png?rev=d7691316063ec3ff2623c616d1a81ad8&t=20230228033421"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 5,
+        "playTime": 111.99,
+        "rollTime": [
+          1.8,
+          1.05,
+          1.65,
+          1.65,
+          1.65
+        ],
+        "maxCombo": 437,
+        "maxDensity": 3.9,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Fly%20away/::ref/flyaway_h.png?rev=fe383e7bfc8242b20eb18467a9b4dcb8&t=20230228033441"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 7,
+        "playTime": 111.99,
+        "rollTime": [
+          2.735
+        ],
+        "maxCombo": 579,
+        "maxDensity": 5.17,
+        "dani": [
+          {
+            "version": "20",
+            "dan": "3dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Fly%20away/::ref/flyaway_2.png?rev=78f503287f58bbca9537c44dfc793768&t=20230228033501"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
     },
     "isDeleted": 0
   },
@@ -107651,102 +107949,6 @@
     "isDeleted": 0
   },
   {
-    "songNo": "142",
-    "order": 100,
-    "title": "ファッションモンスター",
-    "titleKo": null,
-    "aliasKo": "패션 몬스터",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": "Fashion Monster",
-    "bpm": {
-      "min": 160,
-      "max": 160
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 1,
-    "isKrBanned": 0,
-    "genre": [
-      "pops"
-    ],
-    "artists": [
-      "中田ヤスタカ",
-      "きゃりーぱみゅぱみゅ"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 3,
-        "playTime": 102,
-        "balloon": [
-          42
-        ],
-        "rollTime": [
-          10.7
-        ],
-        "maxCombo": 82,
-        "maxDensity": 0.8,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/142/easy"
-        ]
-      },
-      "normal": {
-        "level": 4,
-        "playTime": 102,
-        "balloon": [
-          62
-        ],
-        "rollTime": [
-          10.04
-        ],
-        "maxCombo": 136,
-        "maxDensity": 1.33,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/142/normal"
-        ]
-      },
-      "hard": {
-        "level": 5,
-        "playTime": 102,
-        "balloon": [
-          88
-        ],
-        "rollTime": [
-          8.04
-        ],
-        "maxCombo": 204,
-        "maxDensity": 2,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/142/hard"
-        ]
-      },
-      "oni": {
-        "level": 7,
-        "playTime": 102,
-        "balloon": [
-          71
-        ],
-        "rollTime": [
-          2.57
-        ],
-        "maxCombo": 374,
-        "maxDensity": 3.67,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/142/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
     "songNo": "647",
     "order": 357,
     "title": "マサカリブレイド",
@@ -115238,96 +115440,6 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/364/oni"
-        ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "141",
-    "order": 898,
-    "title": "Fly away",
-    "titleKo": "Fly Away",
-    "aliasKo": "Fly away",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": null,
-    "bpm": {
-      "min": 200,
-      "max": 200
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "矢野義人",
-      "谷本貴義"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 116.4,
-        "balloon": [
-          16
-        ],
-        "rollTime": [
-          11.11
-        ],
-        "maxCombo": 195,
-        "maxDensity": 1.68,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/141/easy"
-        ]
-      },
-      "normal": {
-        "level": 5,
-        "playTime": 116.4,
-        "balloon": [
-          23
-        ],
-        "rollTime": [
-          11.11
-        ],
-        "maxCombo": 241,
-        "maxDensity": 2.07,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/141/normal"
-        ]
-      },
-      "hard": {
-        "level": 5,
-        "playTime": 116.4,
-        "rollTime": [
-          7.8
-        ],
-        "maxCombo": 437,
-        "maxDensity": 3.75,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/141/hard"
-        ]
-      },
-      "oni": {
-        "level": 7,
-        "playTime": 116.4,
-        "rollTime": [
-          2.4
-        ],
-        "maxCombo": 579,
-        "maxDensity": 4.97,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/141/oni"
         ]
       },
       "ura": null
