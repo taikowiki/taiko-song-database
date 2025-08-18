@@ -27,46 +27,81 @@
     "addedDate": 1755302400000,
     "courses": {
       "easy": {
-        "level": 1,
+        "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 266,
+        "playTime": 114.15,
+        "balloon": [
+          7,
+          8,
+          6
+        ],
+        "rollTime": [
+          2.778,
+          0.911,
+          1.711,
+          1.711,
+          1.711,
+          2.644
+        ],
+        "maxDensity": 2.33,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Lightning%20Boys/::ref/Lightning%20Boys_e.png?rev=ec2bf7237e8a0b8efdeb351536d26c2d&t=20250816113011"
+        ]
       },
       "normal": {
-        "level": 1,
+        "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 340,
+        "playTime": 114.15,
+        "balloon": [
+          10,
+          6
+        ],
+        "rollTime": [
+          2.778,
+          0.911,
+          1.711,
+          1.711,
+          1.711,
+          2.644
+        ],
+        "maxDensity": 2.98,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Lightning%20Boys/::ref/Lightning%20Boys_n.png?rev=c08799836a28e3a61ff839dbb162f599&t=20250816112024"
+        ]
       },
       "hard": {
-        "level": 1,
+        "level": 8,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 542,
+        "playTime": 114.15,
+        "balloon": [
+          12
+        ],
+        "rollTime": [
+          0.911,
+          1.711,
+          1.711,
+          1.711,
+          2.644
+        ],
+        "maxDensity": 4.75,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Lightning%20Boys/::ref/Lightning%20Boys_h.png?rev=e86f4621a92875388107938ab0b882e4&t=20250816110718"
+        ]
       },
       "oni": {
         "level": 10,
         "isBranched": 0,
         "maxCombo": 815,
-        "playTime": 114.145658263,
+        "playTime": 114.15,
         "balloon": [
           10
         ],
