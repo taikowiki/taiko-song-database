@@ -1,5 +1,113 @@
 [
   {
+    "songNo": "1412",
+    "order": 1346,
+    "title": "案山子姫 -Princess Scarecrow-",
+    "titleKo": null,
+    "aliasKo": "허수아비 공주 -Princess Scarecrow-",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 125,
+      "max": 250
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "はるなば",
+      "石黒千尋"
+    ],
+    "addedDate": 1755907200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 131,
+        "playTime": 116.98,
+        "balloon": [
+          17
+        ],
+        "rollTime": [
+          9.76
+        ],
+        "maxDensity": 1.12,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_e.png?rev=6f3e7faee0cc5df34696bdcbec24bb2b&t=202508231145333",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_e_mitame.png?rev=afdbe7c93ea377d10b3d5a1617abf154&t=20250823114535"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 242,
+        "playTime": 116.98,
+        "balloon": [
+          23
+        ],
+        "rollTime": [
+          11.58
+        ],
+        "maxDensity": 2.07,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_n.png?rev=9ba9160da89784c7c3eab9843145ff7a&t=20250823114556",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_n_mitame.png?rev=0bacb0407611ab4313cb8339d8832dec&t=20250823114558"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 445,
+        "playTime": 116.98,
+        "balloon": [
+          31
+        ],
+        "rollTime": [
+          3.38
+        ],
+        "maxDensity": 3.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_h.png?rev=b5c62da60af9d4ad3358cca6e64155a9&t=20250823114618",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_h_mitame.png?rev=44ba42361eb39700e515d66a120e72c2&t=20250823114620"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 629,
+        "playTime": 116.98,
+        "balloon": [
+          29
+        ],
+        "rollTime": [
+          2.8
+        ],
+        "maxDensity": 5.38,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_2.png?rev=4a98899eea0496d748b92ba578090af6&t=20250823075423",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_mitame_2.png?rev=13bfa192e4e204c3425bf5857f360220&t=20250823103242"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1411",
     "order": 1345,
     "title": "Lightning Boys",
@@ -137664,7 +137772,9 @@
         "maxCombo": 839,
         "maxDensity": 5.66,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://i.namu.wiki/i/DIR8A6_l9GXhdm_Bya6WS-D0S3V33rFSrsKjxtlDNwbB-B_BmklWnGGKTtJgCytqPkQLRCeZ1Uv5P_Uv4DJRLD_G2JyJJ9tdDlHzp_W4iGnMzfSeNtkeeEYwyIRz32Ee_VBys-xL5Q2YeDl0OEfJqA.png"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
