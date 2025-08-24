@@ -24561,11 +24561,17 @@
         ],
         "maxCombo": 742,
         "maxDensity": 4.97,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "8dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/94aff97a-74d1-4770-b65f-f13f09422bff"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -120086,7 +120092,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/545/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -120099,7 +120107,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/545/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -120112,7 +120122,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/545/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -120122,10 +120134,28 @@
         ],
         "maxCombo": 602,
         "maxDensity": 5.45,
-        "dani": [],
+        "dani": [
+          {
+            "version": "white",
+            "dan": "3dan",
+            "order": 3
+          },
+          {
+            "version": "red",
+            "dan": "3dan",
+            "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "3dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/545/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -137773,7 +137803,7 @@
         "maxDensity": 5.66,
         "dani": [],
         "images": [
-          "https://i.namu.wiki/i/DIR8A6_l9GXhdm_Bya6WS-D0S3V33rFSrsKjxtlDNwbB-B_BmklWnGGKTtJgCytqPkQLRCeZ1Uv5P_Uv4DJRLD_G2JyJJ9tdDlHzp_W4iGnMzfSeNtkeeEYwyIRz32Ee_VBys-xL5Q2YeDl0OEfJqA.png"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA%E2%80%90%E2%85%A6%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/sora7x_z_resized.png?rev=78988d8b0a401547e79b4510b28206a3&t=20230522011502"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -139718,7 +139748,8 @@
     },
     "bpmShiver": 1,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
