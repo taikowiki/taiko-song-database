@@ -1,5 +1,165 @@
 [
   {
+    "songNo": "1413",
+    "order": 1347,
+    "title": "ピッチフェイダ",
+    "titleKo": "pitchfader",
+    "aliasKo": "피치 페이더",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 135,
+      "max": 250
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Sho Okada",
+      "ボンジュール鈴木"
+    ],
+    "addedDate": 1756512000000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 142,
+        "playTime": 119.39,
+        "balloon": [
+          18,
+          4
+        ],
+        "rollTime": [
+          0.139,
+          0.806,
+          0.806,
+          0.139,
+          0.139,
+          0.806,
+          0.972,
+          1.306,
+          1.528,
+          1.044,
+          0.639,
+          2.62,
+          3.58
+        ],
+        "maxDensity": 1.19,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=73d03a971e30e027aa920e00579ba4b2&t=20250830231006"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 229,
+        "playTime": 119.39,
+        "balloon": [
+          26,
+          8
+        ],
+        "rollTime": [
+          0.139,
+          0.806,
+          0.806,
+          0.139,
+          0.139,
+          0.806,
+          0.972,
+          1.306,
+          1.528,
+          1.311,
+          0.639,
+          2.62,
+          3.58
+        ],
+        "maxDensity": 1.92,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=2254f72e61c642c53dec3fc6fa6eac14&t=20250830231005"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 383,
+        "playTime": 119.39,
+        "balloon": [
+          8,
+          8,
+          8,
+          15
+        ],
+        "rollTime": [
+          0.139,
+          0.806,
+          0.806,
+          0.139,
+          0.139,
+          0.806,
+          0.972,
+          1.311,
+          0.639,
+          3.58
+        ],
+        "maxDensity": 3.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=59829e64e6121134eb29f85b4cdf2ca9&t=20250830231004"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 622,
+        "playTime": 119.39,
+        "balloon": [
+          3,
+          5,
+          3,
+          3,
+          2,
+          3,
+          5,
+          20
+        ],
+        "rollTime": [
+          0.139,
+          0.806,
+          0.806,
+          0.139,
+          0.139,
+          0.806,
+          0.972,
+          0.139,
+          0.139,
+          1.311,
+          3.58
+        ],
+        "maxDensity": 5.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_4.png?rev=e2b79260ad361e7a8b97c082a0c4e317&t=20250830193128",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_%E8%A6%8B%E3%81%9F%E7%9B%AE%E9%87%8D%E8%A6%96.png?rev=15acf73f57963f3e943839fcf3a4bca2&t=20250830231451"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1412",
     "order": 1346,
     "title": "案山子姫 -Princess Scarecrow-",
@@ -26861,11 +27021,17 @@
         ],
         "maxCombo": 511,
         "maxDensity": 4.03,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "2dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/d0d4933f-2af5-46eb-a4b6-59be59ac8f3f"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -34001,11 +34167,17 @@
         ],
         "maxCombo": 555,
         "maxDensity": 5.36,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "7dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/1ceed377-a979-4802-889a-ccd37d19e702"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -50191,12 +50363,18 @@
         ],
         "maxCombo": 675,
         "maxDensity": 5.3,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "5dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/252f93a4-f849-40c2-85c2-87d60490390b",
           "https://file.taiko.wiki/img/7803be7f-533f-4d1e-9712-1f62bd53170b"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -71573,7 +71751,7 @@
   {
     "songNo": "390",
     "order": 983,
-    "title": "SORA-II グリーゼ581",
+    "title": "SORA‐Ⅱ グリーゼ581",
     "titleKo": "SORA-Ⅱ 글리제581",
     "aliasKo": "SORA-II 글리제 581",
     "titleEn": null,
@@ -71617,7 +71795,9 @@
         "maxCombo": 84,
         "maxDensity": 0.67,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/SORA%E2%80%90%E2%85%A1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BC581/::ref/sora2x.png?rev=dfe0145ad5f951163132a2f3d146f9ef&t=20230225172628"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -71633,7 +71813,9 @@
         "maxCombo": 145,
         "maxDensity": 1.16,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/SORA%E2%80%90%E2%85%A1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BC581/::ref/sora2x.png?rev=5e6cac0b79d5b9a52555f76900514eed&t=20230225172710"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -71646,7 +71828,9 @@
         "maxCombo": 382,
         "maxDensity": 3.06,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/SORA%E2%80%90%E2%85%A1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BC581/::ref/sora2.png?rev=fba90b02207e3f541ff4c49343c73963&t=20230225172810"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -71665,7 +71849,9 @@
             "order": 1
           }
         ],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA%E2%80%90%E2%85%A1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BC581/::ref/sora2x_m.png?rev=520932dbe0b4e6591ec7b83e8ffa8f7b&t=20230225172906"
+        ],
         "daniUsed": 1,
         "isBranched": 0
       },
@@ -79150,7 +79336,9 @@
         "maxCombo": 147,
         "maxDensity": 1.19,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%20%E7%B5%84%E6%9B%B2%E4%B8%80%E7%95%AA%E7%B5%82%E6%9B%B2/::ref/clsca_e.png?rev=b669c9d246217d0be87459c3a4b7ca44&t=20230225010016"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -79173,7 +79361,9 @@
             "order": 3
           }
         ],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%20%E7%B5%84%E6%9B%B2%E4%B8%80%E7%95%AA%E7%B5%82%E6%9B%B2/::ref/clsca_n.png?rev=be2d136ba0e8de5d2a9979eecd1b5140&t=20230225010100"
+        ],
         "daniUsed": 1,
         "isBranched": 0
       },
@@ -79201,7 +79391,9 @@
             "order": 1
           }
         ],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%20%E7%B5%84%E6%9B%B2%E4%B8%80%E7%95%AA%E7%B5%82%E6%9B%B2/::ref/%E3%82%AB%E3%83%A1%E3%83%AB%E3%83%BC%E3%83%B3.png?rev=cab86e7b906baab75395dd864b10093f&t=20230225010155"
+        ],
         "daniUsed": 1,
         "isBranched": 0
       },
@@ -79215,7 +79407,9 @@
         "maxCombo": 518,
         "maxDensity": 4.18,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%20%E7%B5%84%E6%9B%B2%E4%B8%80%E7%95%AA%E7%B5%82%E6%9B%B2/::ref/clsca_3.png?rev=93993602de7328be2886228a5c022ce0&t=20230728012037"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -79231,7 +79425,10 @@
         "maxCombo": 957,
         "maxDensity": 7.72,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%20%E7%B5%84%E6%9B%B2%E4%B8%80%E7%95%AA%E7%B5%82%E6%9B%B2%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/clsca_x.png?rev=a48289a68d32f2304aa723876dfcf5fc&t=20231101212824",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%20%E7%B5%84%E6%9B%B2%E4%B8%80%E7%95%AA%E7%B5%82%E6%9B%B2%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E5%80%8D%E9%80%9F%E3%81%AA%E3%82%93%E3%81%98%E3%82%83%E3%81%93%E3%82%8A%E3%82%83%EF%BD%9E%EF%BD%9E.png?rev=04bd1f424418c61f823ea84f5bdfff37&t=20230225010344"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       }
@@ -83150,7 +83347,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/428/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -83166,7 +83365,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/428/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -83182,7 +83383,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/428/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -83195,10 +83398,18 @@
         ],
         "maxCombo": 840,
         "maxDensity": 5.83,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "5dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/428/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -83434,7 +83645,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/800/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -83450,7 +83663,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/800/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -83466,7 +83681,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/800/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -83476,10 +83693,18 @@
         ],
         "maxCombo": 657,
         "maxDensity": 5.82,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "7dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/800/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -84258,11 +84483,17 @@
         ],
         "maxCombo": 669,
         "maxDensity": 5.33,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "4dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/89d0e6ab-8e6f-4a79-9167-659f2ff4a254"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -84873,7 +85104,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/809/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -84889,7 +85122,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/809/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -84905,7 +85140,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/809/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -84915,10 +85152,18 @@
         ],
         "maxCombo": 434,
         "maxDensity": 4.61,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "1dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/809/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -85112,11 +85357,17 @@
         ],
         "maxCombo": 949,
         "maxDensity": 7.02,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "meijin",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/0d18a620-286c-41e1-a350-b6be316aa068"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -85744,7 +85995,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -88917,7 +89169,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/431/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -88933,7 +89187,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/431/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -88949,7 +89205,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/431/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -88962,10 +89220,18 @@
         ],
         "maxCombo": 777,
         "maxDensity": 6.86,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "8dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/431/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -90225,7 +90491,9 @@
         "maxCombo": 181,
         "maxDensity": 1.44,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%A9%E3%83%B4%E2%99%A1%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E2%99%A1%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%A6%E3%83%BC%21%21%21/::ref/Love%20Spice%20Like%20You_e.png?rev=cce86edcdc5590a3ddf79755dcfdee28&t=20230220211413"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -90241,7 +90509,9 @@
         "maxCombo": 331,
         "maxDensity": 2.63,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%A9%E3%83%B4%E2%99%A1%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E2%99%A1%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%A6%E3%83%BC%21%21%21/::ref/Love%20Spice%20Like%20You_n.png?rev=702a49649e7987faace80080b316b2f8&t=20230220211438"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -90257,7 +90527,9 @@
         "maxCombo": 573,
         "maxDensity": 4.55,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%A9%E3%83%B4%E2%99%A1%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E2%99%A1%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%A6%E3%83%BC%21%21%21/::ref/Love%20Spice%20Like%20You_Hard.png?rev=ca59a1cd80df2b67c3a5afb4443f3757&t=20230220211519"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -90270,7 +90542,9 @@
         "maxCombo": 934,
         "maxDensity": 7.41,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%A9%E3%83%B4%E2%99%A1%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E2%99%A1%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%A6%E3%83%BC%21%21%21/::ref/Love%20Spice%20Like%20You_3.png?rev=161e077e6586c8037bd48e1e55d99335&t=20230220211602"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -92012,7 +92286,7 @@
     "songNo": "714",
     "order": 798,
     "title": "OK I’m blue rat",
-    "titleKo": "OK I'm blue rat",
+    "titleKo": null,
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -92047,7 +92321,9 @@
         "maxCombo": 115,
         "maxDensity": 0.79,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/OK%20I%27m%20blue%20rat/::ref/%E9%9D%92%E3%81%84%E9%BC%A0_%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=21995550166a2f03e808d2cc4c45017d&t=20230226151134"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -92063,7 +92339,9 @@
         "maxCombo": 192,
         "maxDensity": 1.32,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/OK%20I%27m%20blue%20rat/::ref/%E9%9D%92%E3%81%84%E9%BC%A0_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=e4bc30bd800f6b392c90473eb4557e64&t=20230226151232"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -92079,7 +92357,9 @@
         "maxCombo": 411,
         "maxDensity": 2.82,
         "dani": [],
-        "images": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/OK%20I%27m%20blue%20rat/::ref/%E9%9D%92%E3%81%84%E9%BC%A0_%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=34b0cc99170cf1eb7cbc0d76668c4040&t=20230226151318"
+        ],
         "daniUsed": 0,
         "isBranched": 0
       },
@@ -92094,9 +92374,17 @@
         ],
         "maxCombo": 816,
         "maxDensity": 5.6,
-        "dani": [],
-        "images": [],
-        "daniUsed": 0,
+        "dani": [
+          {
+            "version": "20",
+            "dan": "kuroto",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/OK%20I%27m%20blue%20rat/::ref/bluert_m.png?rev=36483b0b9fbfe02f878a7c920884d756&t=20240308175431"
+        ],
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -94265,7 +94553,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/629/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -94281,7 +94571,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/629/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -94297,7 +94589,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/629/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -94307,10 +94601,18 @@
         ],
         "maxCombo": 765,
         "maxDensity": 6.1,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "7dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/629/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -94858,7 +95160,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/861/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 2,
@@ -94874,7 +95178,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/861/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 4,
@@ -94890,7 +95196,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/861/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -94900,10 +95208,18 @@
         ],
         "maxCombo": 416,
         "maxDensity": 4.85,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "2dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/861/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -99943,7 +100259,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/561/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -99959,7 +100277,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/561/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -99975,7 +100295,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/561/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -99988,10 +100310,18 @@
         ],
         "maxCombo": 471,
         "maxDensity": 4.67,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "4dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/561/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -102766,11 +103096,17 @@
         ],
         "maxCombo": 765,
         "maxDensity": 6.88,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "kuroto",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/99d3b501-a9d1-42c2-808f-34d6004014f4"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -103148,11 +103484,17 @@
         ],
         "maxCombo": 500,
         "maxDensity": 4.06,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "5dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/b5253ebf-8854-4d33-b495-88c016ad2542"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -103974,8 +104316,10 @@
         "maxDensity": 0.63,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/224/easy"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC%E3%80%80%E3%83%96%E3%83%AC%E3%82%B9%20%E3%82%AA%E3%83%96%20%E3%82%B6%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%80%80%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/::ref/zeldsw_e.png?rev=73112c9f746a431ba6397493cdb0da11&t=20230227225313"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -103990,8 +104334,10 @@
         "maxDensity": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/224/normal"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC%E3%80%80%E3%83%96%E3%83%AC%E3%82%B9%20%E3%82%AA%E3%83%96%20%E3%82%B6%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%80%80%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/::ref/zeldsw_n.png?rev=b1c667cddefae3674624e6037f942fd2&t=20230227230005"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -104006,8 +104352,10 @@
         "maxDensity": 1.99,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/224/hard"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC%E3%80%80%E3%83%96%E3%83%AC%E3%82%B9%20%E3%82%AA%E3%83%96%20%E3%82%B6%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%80%80%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/::ref/zeldsw_h.png?rev=10ff770e186b14b9e667bbe1a76a3c33&t=20230227230239"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -104022,8 +104370,10 @@
         "maxDensity": 3.35,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/224/oni"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC%E3%80%80%E3%83%96%E3%83%AC%E3%82%B9%20%E3%82%AA%E3%83%96%20%E3%82%B6%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%80%80%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/::ref/zeldsw_m.png?rev=826199dfba73fe37309b2777fe96b416&t=20230227225016"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -107187,7 +107537,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/239/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -107203,7 +107555,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/239/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -107216,7 +107570,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/239/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -107226,10 +107582,18 @@
         ],
         "maxCombo": 689,
         "maxDensity": 6.6,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "8dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/239/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -107596,7 +107960,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/183/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -107612,7 +107978,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/183/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -107628,7 +107996,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/183/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -107641,10 +108011,18 @@
         ],
         "maxCombo": 999,
         "maxDensity": 6.47,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "7dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/183/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -109138,7 +109516,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/726/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -109154,7 +109534,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/726/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -109170,7 +109552,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/726/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -109180,10 +109564,18 @@
         ],
         "maxCombo": 496,
         "maxDensity": 4.64,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "2dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/726/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -111041,7 +111433,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/523/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -111057,7 +111451,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/523/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -111073,7 +111469,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/523/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -111086,10 +111484,18 @@
         ],
         "maxCombo": 441,
         "maxDensity": 3.51,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "4dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/523/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -111553,8 +111959,10 @@
         "maxDensity": 0.85,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/444/easy"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E7%8B%82%E6%83%B3%E6%9B%B2/::ref/ter_e.png?rev=cfab6455a9d5e8b5bc8ae5461d6d3866&t=20230301211053"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -111566,8 +111974,10 @@
         "maxDensity": 1.09,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/444/normal"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E7%8B%82%E6%83%B3%E6%9B%B2/::ref/ter_n.png?rev=ac11ac352d464829d6b6a84d2ee0d444&t=20230301211203"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -111579,8 +111989,11 @@
         "maxDensity": 1.84,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/444/hard"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E7%8B%82%E6%83%B3%E6%9B%B2/::ref/ter_h2.png?rev=978055784bc0f97e1dfcd95cd91c5c2b&t=20230301211416",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E7%8B%82%E6%83%B3%E6%9B%B2/::ref/ter_h_v2.png?rev=3149055619799ad4e1231951a21dd6a8&t=20230301211420"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -111590,10 +112003,19 @@
         ],
         "maxCombo": 401,
         "maxDensity": 3.16,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "2dan",
+            "order": 3
+          }
+        ],
         "images": [
-          "https://file.taiko.wiki/fumen/444/oni"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E7%8B%82%E6%83%B3%E6%9B%B2/::ref/w3at1x_m.png?rev=1efdc871b69b4a641aadaeb18012851f&t=20230301211544",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E7%8B%82%E6%83%B3%E6%9B%B2/::ref/ter_o_v2.png?rev=728a5c439db5b63143f9d15d5a989966&t=20230301211548"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -111781,11 +112203,17 @@
         ],
         "maxCombo": 840,
         "maxDensity": 6.8,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "10dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/a1d39c17-2bb3-4d51-b741-99c1e4eb0124"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -116405,7 +116833,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/357/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 7,
@@ -116421,7 +116851,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/357/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 8,
@@ -116431,17 +116863,27 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/357/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
         "playTime": 154.67,
         "maxCombo": 733,
         "maxDensity": 4.74,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "4dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/357/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -116451,7 +116893,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/357/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -118017,11 +118461,17 @@
         ],
         "maxCombo": 765,
         "maxDensity": 6.3,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "7dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/af474f6f-baf6-4544-ae18-de0d19d3812c"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -119358,7 +119808,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/780/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -119374,7 +119826,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/780/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -119390,7 +119844,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/780/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -119403,10 +119859,18 @@
         ],
         "maxCombo": 726,
         "maxDensity": 4.73,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "9dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/780/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -123525,7 +123989,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/510/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -123541,7 +124007,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/510/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -123554,7 +124022,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/510/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -123567,10 +124037,18 @@
         ],
         "maxCombo": 603,
         "maxDensity": 4.76,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "4dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/510/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -124879,11 +125357,17 @@
         ],
         "maxCombo": 850,
         "maxDensity": 5.36,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "5dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/aa364875-5566-42c4-864d-c12b0ed4310b"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -124975,11 +125459,17 @@
         "playTime": 124.66,
         "maxCombo": 558,
         "maxDensity": 4.48,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "1dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/b8b98514-b450-48e8-bf93-ca2167820bb2"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -125729,7 +126219,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/631/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -125745,7 +126237,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/631/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -125761,7 +126255,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/631/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -125771,10 +126267,18 @@
         ],
         "maxCombo": 495,
         "maxDensity": 4.39,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "1dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/631/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -126113,7 +126617,8 @@
     },
     "bpmShiver": 1,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -126139,7 +126644,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/663/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -126155,7 +126662,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/663/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -126171,7 +126680,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/663/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -126187,7 +126698,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/663/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -127861,7 +128374,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/462/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -127874,7 +128389,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/462/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -127888,7 +128405,8 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/462/hard"
-        ]
+        ],
+        "daniUsed": 0
       },
       "oni": {
         "level": 9,
@@ -127898,10 +128416,18 @@
         ],
         "maxCombo": 701,
         "maxDensity": 5.36,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "6dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/462/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -129344,7 +129870,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/270/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -129360,7 +129888,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/270/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -129376,7 +129906,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/270/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -129386,10 +129918,18 @@
         ],
         "maxCombo": 594,
         "maxDensity": 5.38,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "6dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/270/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -129399,7 +129939,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/270/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -133249,7 +133791,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/645/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -133265,7 +133809,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/645/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -133281,7 +133827,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/645/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -133291,10 +133839,18 @@
         ],
         "maxCombo": 765,
         "maxDensity": 6.44,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "6dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/645/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -133307,7 +133863,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/645/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -135126,7 +135684,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/481/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -135142,7 +135702,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/481/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 4,
@@ -135155,7 +135717,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/481/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -135168,7 +135732,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/481/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 7,
@@ -135178,10 +135744,18 @@
         ],
         "maxCombo": 475,
         "maxDensity": 3.82,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "2dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/481/ura"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -137310,7 +137884,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/315/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -137326,7 +137902,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/315/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 4,
@@ -137342,7 +137920,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/315/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -137355,10 +137935,18 @@
         ],
         "maxCombo": 539,
         "maxDensity": 4.6,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "1dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/315/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -137567,7 +138155,7 @@
   {
     "songNo": "389",
     "order": 982,
-    "title": "SORA-I アースライズ",
+    "title": "SORA‐Ⅰ アースライズ",
     "titleKo": "SORA-Ⅰ Earth Rise",
     "aliasKo": "SORA-I 어스 라이즈",
     "titleEn": null,
@@ -137604,8 +138192,10 @@
         "maxDensity": 1.04,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/389/easy"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/SORA%E2%80%90%E2%85%A0%20%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%BA/::ref/sora1x_e.png?rev=2ed2f5ba1896ef6ec8c02f9f9e8bc6a1&t=20230225173010"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -137620,8 +138210,10 @@
         "maxDensity": 1.38,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/389/normal"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/SORA%E2%80%90%E2%85%A0%20%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%BA/::ref/sora1x_n.png?rev=c9a6acd667603eed4144f54bf1d49963&t=20230225173045"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -137636,8 +138228,10 @@
         "maxDensity": 2.48,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/389/hard"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/SORA%E2%80%90%E2%85%A0%20%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%BA/::ref/SORA1.png?rev=37d72ec8afeddb350ca53f0c8ca45c12&t=20230225173157"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -137649,8 +138243,10 @@
         "maxDensity": 3.75,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/389/oni"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA%E2%80%90%E2%85%A0%20%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%BA/::ref/sora1x_m.png?rev=3b2f80b5d609e4b294d79bece9cbfe16&t=20230225173235"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -138051,7 +138647,7 @@
   {
     "songNo": "391",
     "order": 984,
-    "title": "SORA-VI 火ノ鳥",
+    "title": "SORA‐Ⅵ 火ノ鳥",
     "titleKo": "SORA-Ⅵ 히노토리",
     "aliasKo": "SORA-VI 불의 새",
     "titleEn": null,
@@ -138095,7 +138691,7 @@
         "maxDensity": 1.49,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/391/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/SORA%E2%80%90%E2%85%A5%20%E7%81%AB%E3%83%8E%E9%B3%A5/::ref/hinotori_e2.png?rev=e1229e94a4c974a866a471e98e943019&t=20230225170831"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -138113,7 +138709,7 @@
         "maxDensity": 1.97,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/391/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/SORA%E2%80%90%E2%85%A5%20%E7%81%AB%E3%83%8E%E9%B3%A5/::ref/hinotori_n2.png?rev=9cbf1676a5b07c0c3c2584f6eb7d91ce&t=20230225170903"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -138131,7 +138727,7 @@
         "maxDensity": 3.11,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/391/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/SORA%E2%80%90%E2%85%A5%20%E7%81%AB%E3%83%8E%E9%B3%A5/::ref/hinotori_h2.png?rev=0321949ea6fadff557dc0357f8b95060&t=20230225170937"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -138152,7 +138748,7 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/fumen/391/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA%E2%80%90%E2%85%A5%20%E7%81%AB%E3%83%8E%E9%B3%A5/::ref/sora6x_m.png?rev=e7faba856351696bd7770ab83ba34052&t=20230225171013"
         ],
         "daniUsed": 1,
         "isBranched": 0
@@ -138339,11 +138935,17 @@
         ],
         "maxCombo": 839,
         "maxDensity": 5.66,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "10dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA%E2%80%90%E2%85%A6%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/sora7x_z_resized.png?rev=78988d8b0a401547e79b4510b28206a3&t=20230522011502"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -139819,7 +140421,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/277/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -139835,7 +140439,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/277/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -139851,7 +140457,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/277/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -139867,7 +140475,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/277/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 8,
@@ -139880,10 +140490,18 @@
         ],
         "maxCombo": 585,
         "maxDensity": 4.51,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "3dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/277/ura"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -140678,7 +141296,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -141402,7 +142021,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/403/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 7,
@@ -141415,7 +142036,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/403/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 8,
@@ -141428,7 +142051,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/403/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -141438,10 +142063,18 @@
         ],
         "maxCombo": 625,
         "maxDensity": 4.79,
-        "dani": [],
+        "dani": [
+          {
+            "version": "21",
+            "dan": "5dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/403/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": {
         "level": 8,
@@ -141451,7 +142084,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/403/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -146097,11 +146732,17 @@
         ],
         "maxCombo": 821,
         "maxDensity": 7.2,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "meijin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/703cc779-1f93-4e49-86df-1e6cee8681ee"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -146762,11 +147403,17 @@
         ],
         "maxCombo": 983,
         "maxDensity": 7.88,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "9dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/06d8a38c-09f2-47a6-80d8-c091bb3898aa"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -146815,7 +147462,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/474/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -146831,7 +147480,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/474/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -146847,7 +147498,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/474/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -146860,10 +147513,18 @@
         ],
         "maxCombo": 381,
         "maxDensity": 4.7,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "3dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/474/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -146961,11 +147622,17 @@
         ],
         "maxCombo": 540,
         "maxDensity": 3.56,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "3dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/4ba91dff-5b75-4d66-b706-77817a192d03"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -147027,7 +147694,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/805/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -147040,7 +147709,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/805/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -147053,17 +147724,27 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/805/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
         "playTime": 143.99,
         "maxCombo": 740,
         "maxDensity": 5.14,
-        "dani": [],
+        "dani": [
+          {
+            "version": "20",
+            "dan": "7dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/805/oni"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
