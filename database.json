@@ -101481,7 +101481,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -105082,7 +105083,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1127/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -105098,7 +105101,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1127/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -105114,7 +105119,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1127/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -105127,11 +105134,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1127/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "609",
@@ -120713,7 +120722,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1123/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -120729,7 +120740,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1123/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -120745,7 +120758,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1123/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -120761,11 +120776,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1123/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "362",
@@ -127797,7 +127814,7 @@
         "isBranched": 0
       }
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "407",
