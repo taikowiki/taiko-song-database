@@ -1,5 +1,273 @@
 [
   {
+    "songNo": "1415",
+    "order": 1348,
+    "title": "怪獣",
+    "titleKo": null,
+    "aliasKo": "괴수",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "anime"
+    ],
+    "artists": [
+      "サカナクション"
+    ],
+    "addedDate": 1757462400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 86.65,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 86.65,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 86.65,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 370,
+        "playTime": 86.65,
+        "balloon": [
+          30
+        ],
+        "rollTime": [],
+        "maxDensity": 4.27,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%80%AA%E7%8D%A3/::ref/%E6%80%AA%E7%8D%A3.png?rev=41de1586437f839c0daf5ff3802284d3&t=20250910083718"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1416",
+    "order": 1349,
+    "title": "Love Love Love Love Loveばきゅーんっ！",
+    "titleKo": null,
+    "aliasKo": "Love Love Love Love Love 바큥!",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 222,
+      "max": 222
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "渡邉俊彦",
+      "ふぇありーているず！"
+    ],
+    "addedDate": 1757462400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 112.58,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 112.58,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 112.58,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 555,
+        "playTime": 112.58,
+        "balloon": [
+          3,
+          4,
+          3,
+          50
+        ],
+        "rollTime": [
+          0.788,
+          1.059,
+          0.653,
+          0.923,
+          0.518,
+          0.518,
+          0.383,
+          0.518,
+          4.302
+        ],
+        "maxDensity": 4.93,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Love%20Love%20Love%20Love%20Love%E3%81%B0%E3%81%8D%E3%82%85%E3%83%BC%E3%82%93%E3%81%A3%EF%BC%81/::ref/Love%20Love%20Love%20Love%20Love%E3%81%B0%E3%81%8D%E3%82%85%E3%83%BC%E3%82%93%E3%81%A3%EF%BC%81_2.png?rev=c3fa0e498ef7e2aed331bcb90e712713&t=20250910091649"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1417",
+    "order": 1350,
+    "title": "初",
+    "titleKo": null,
+    "aliasKo": "처음",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 170,
+      "max": 170
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "原口沙輔",
+      "初星学園"
+    ],
+    "addedDate": 1757462400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 93.06,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 93.06,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 93.06,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 416,
+        "playTime": 93.06,
+        "balloon": [
+          15
+        ],
+        "rollTime": [
+          1.206,
+          2.794
+        ],
+        "maxDensity": 4.47,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%88%9D/::ref/%E5%88%9D.png?rev=59c18e6f665caae85475fea44104e7df&t=20250910083520"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1413",
     "order": 1347,
     "title": "ピッチフェイダ",
@@ -674,7 +942,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 1,
     "isKrBanned": 0,
@@ -35293,6 +35562,7 @@
     "bpmShiver": 0,
     "version": [
       "NAC",
+      "NS2",
       "PLUS",
       "RC"
     ],
@@ -105638,7 +105908,8 @@
     },
     "bpmShiver": 1,
     "version": [
-      "NAC"
+      "NAC",
+      "NS1"
     ],
     "isAsiaBanned": 1,
     "isKrBanned": 0,
@@ -105665,7 +105936,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/601/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -105681,7 +105954,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/601/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -105694,7 +105969,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/601/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -105707,7 +105984,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/601/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -105720,7 +105999,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/601/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
