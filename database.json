@@ -1,5 +1,112 @@
 [
   {
+    "songNo": "1419",
+    "order": 1351,
+    "title": "vs.VIGVANGS",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 150,
+      "max": 360
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "MisoilePunch"
+    ],
+    "addedDate": 1757721600000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1055,
+        "playTime": 148.24742268,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 7.12,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/vs.VIGVANGS/::ref/vs.VIGVANGS_%E8%A1%A8%E5%9C%A7.png?rev=e6d3b4556752999dc14e3fb6af8aa7a6&t=20250913101052"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1438,
+        "playTime": 148.24742268,
+        "balloon": [],
+        "rollTime": [
+          0.306,
+          0.306,
+          0.306,
+          0.139,
+          0.472,
+          0.139,
+          0.139,
+          0.472,
+          0.472,
+          0.139,
+          0.139,
+          0.472
+        ],
+        "maxDensity": 9.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/vs.VIGVANGS%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/vs.VIGVANGS%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29_2.png?rev=934ad8e29ea7d7848d2cb685d8ab5f93&t=20250913111405"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1415",
     "order": 1348,
     "title": "怪獣",
@@ -423,7 +530,26 @@
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_%E8%A6%8B%E3%81%9F%E7%9B%AE%E9%87%8D%E8%A6%96.png?rev=15acf73f57963f3e943839fcf3a4bca2&t=20250830231451"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 866,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "25",
+            "dan": "meijin",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E3%83%94%E3%83%83%E3%83%81%E3%83%95%E3%82%A7%E3%82%A4%E3%83%80_EX3.png?rev=d728f5a2f61ac105754afed05906bcde&t=20250913120049"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -563,7 +689,26 @@
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_mitame_2.png?rev=13bfa192e4e204c3425bf5857f360220&t=20250823103242"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 987,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "25",
+            "dan": "kuroto",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB%20-Princess%20Scarecrow-%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E6%A1%88%E5%B1%B1%E5%AD%90%E5%A7%AB_EX2.png?rev=168c93e38ebf42f56b0ba25d208052a7&t=20250913093154"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -686,7 +831,26 @@
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Lightning%20Boys/::ref/Lightning%20Boys_3.png?rev=6002b1416e99c1b16b40abba7aa21074&t=20250816073135"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1030,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "25",
+            "dan": "chojin",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Lightning%20Boys%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Lightning%20Boys_EX2.png?rev=c5fbb157f1d1a4f0978622b56dcab852&t=20250913074109"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -11974,8 +12138,14 @@
           0.111
         ],
         "maxDensity": 9.02,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "25",
+            "dan": "tatsujin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/84fdf32c-7b00-494a-bb26-ee3130bad0af"
         ]
@@ -16098,11 +16268,17 @@
         ],
         "maxCombo": 901,
         "maxDensity": 7.73,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "meijin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/92ce2421-721c-4f25-a5be-9e5c35eee091"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -26258,8 +26434,14 @@
           3.423
         ],
         "maxDensity": 8.37,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "25",
+            "dan": "tatsujin",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/73ec455e-4cd1-481f-9c76-4dc84a45bcda",
           "https://file.taiko.wiki/img/426d0d7d-a546-46e2-855c-acdd57b41d5f",
@@ -36770,6 +36952,11 @@
             "version": "green",
             "dan": "chojin",
             "order": 1
+          },
+          {
+            "version": "25",
+            "dan": "chojin",
+            "order": 2
           }
         ],
         "images": [
@@ -122376,11 +122563,17 @@
         ],
         "maxCombo": 929,
         "maxDensity": 6.55,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "kuroto",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/1dd57184-7286-44e2-b37b-0b524c77a6f0"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       }
     },
@@ -126137,11 +126330,17 @@
         ],
         "maxCombo": 1138,
         "maxDensity": 8.92,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "meijin",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/5835458a-61d2-4e91-9991-ff081717995a"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -128727,11 +128926,17 @@
         ],
         "maxCombo": 888,
         "maxDensity": 6.77,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "kuroto",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/6a9e1878-6757-4799-b86b-cd24aa7a263e"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -136029,11 +136234,17 @@
         ],
         "maxCombo": 757,
         "maxDensity": 6.07,
-        "dani": [],
+        "dani": [
+          {
+            "version": "25",
+            "dan": "chojin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/58c8ea05-76df-4341-ae15-5cef8cbe3d2b"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
