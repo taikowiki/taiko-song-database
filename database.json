@@ -1,5 +1,273 @@
 [
   {
+    "songNo": "1379",
+    "order": 1356,
+    "title": "Valsqotch",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 125,
+      "max": 125
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "owl＊tree"
+    ],
+    "addedDate": 1758758400000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 254,
+        "playTime": 149.29,
+        "balloon": [
+          28,
+          10
+        ],
+        "rollTime": [
+          0.68,
+          0.68,
+          0.92
+        ],
+        "maxDensity": 1.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Valsqotch/::ref/valsqo_e.png?rev=57e363df7e6c43e4239ed86d0bcba89e&t=20250925004542"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 375,
+        "playTime": 149.29,
+        "balloon": [
+          13
+        ],
+        "rollTime": [
+          0.44,
+          0.44,
+          0.68,
+          0.92
+        ],
+        "maxDensity": 2.51,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Valsqotch/::ref/valsqo_n.png?rev=053429bc4e635553b38ddfde4c440413&t=20250925004436"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 633,
+        "playTime": 149.29,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          0.44,
+          0.2,
+          0.2,
+          0.44,
+          0.68,
+          0.92
+        ],
+        "maxDensity": 4.24,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Valsqotch/::ref/valsqo_h.png?rev=d9975b5f92b08cdc46b28de9f661ac7c&t=20250925004306"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1057,
+        "playTime": 149.29,
+        "balloon": [
+          25
+        ],
+        "rollTime": [
+          0.44,
+          0.2,
+          0.2,
+          0.44,
+          0.68
+        ],
+        "maxDensity": 7.08,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Valsqotch/::ref/valsqo_m.png?rev=c18b2ad6355cf075daee18a5c3f628f4&t=20250925002303",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Valsqotch/::ref/valsqo_m_mitame.png?rev=b38c562228fc26070af46a8456ee6fd6&t=20250925054539"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1380",
+    "order": 1357,
+    "title": "Oshama Scramble!",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 190,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "t+pazolite"
+    ],
+    "addedDate": 1758758400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 201,
+        "playTime": 119.82,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          1.395,
+          0.763,
+          0.763,
+          0.763,
+          0.921,
+          4.237
+        ],
+        "maxDensity": 1.68,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Oshama%20Scramble%21/::ref/oshama_e.png?rev=c3381787c883299867ee084bc8d3feca&t=20250925005120"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 323,
+        "playTime": 119.82,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          1.395,
+          0.763,
+          0.763,
+          0.289,
+          0.289,
+          4.553
+        ],
+        "maxDensity": 2.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Oshama%20Scramble%21/::ref/oshama_n.png?rev=883abf2a4d2a9144a008e69b2c6e739f&t=20250925005012"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 429,
+        "playTime": 119.82,
+        "balloon": [
+          10
+        ],
+        "rollTime": [
+          1.395,
+          0.763,
+          0.763,
+          0.289,
+          0.289,
+          1.237,
+          4.553
+        ],
+        "maxDensity": 3.58,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Oshama%20Scramble%21/::ref/oshama_h.png?rev=181fac118a6de2dc6d5204200da87272&t=20250925004901"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 677,
+        "playTime": 119.82,
+        "balloon": [
+          5,
+          12
+        ],
+        "rollTime": [
+          1.395,
+          0.289,
+          0.605,
+          0.605,
+          0.289,
+          0.289,
+          0.605,
+          4.553
+        ],
+        "maxDensity": 5.65,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Oshama%20Scramble%21/::ref/oshama_m.png?rev=f0d574043b9ff24dd46a9ec121c0448f&t=20250925001001"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 865,
+        "playTime": 119.82,
+        "balloon": [],
+        "rollTime": [
+          0.289,
+          0.289,
+          0.289,
+          4.553
+        ],
+        "maxDensity": 7.22,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Oshama%20Scramble%21%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/oshama_x.png?rev=4c09190d75f7c0a352f98afd134e20c0&t=20250925001321"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1423",
     "order": 1355,
     "title": "★楽園☆CASINO GALAXY！",
