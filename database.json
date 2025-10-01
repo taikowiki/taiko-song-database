@@ -1,5 +1,88 @@
 [
   {
+    "songNo": "1418",
+    "order": 1358,
+    "title": "Sync Your World",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 155,
+      "max": 175
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "ミフメイ"
+    ],
+    "addedDate": 1759276800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 187,
+        "playTime": 137.3,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 1.36,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 291,
+        "playTime": 137.3,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 2.12,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 541,
+        "playTime": 137.3,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 3.94,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 876,
+        "playTime": 137.3,
+        "balloon": [
+          96
+        ],
+        "rollTime": [],
+        "maxDensity": 6.38,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Sync%20Your%20World/::ref/Sync%20Your%20World_1.png?rev=ac0a27bf5f8e621d0a68f5d3610b0cf6&t=20251001090620"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1379",
     "order": 1356,
     "title": "Valsqotch",
