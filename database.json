@@ -83164,6 +83164,7 @@
       "NAC",
       "AC13",
       "AC14",
+      "NS2",
       "PS4",
       "DS3",
       "RC"
@@ -121113,7 +121114,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
