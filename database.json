@@ -1,5 +1,157 @@
 [
   {
+    "songNo": "1384",
+    "order": 1359,
+    "title": "YOU're your HERO",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 216.25,
+      "max": 247.14
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "steμ",
+      "siroa",
+      "はぁち"
+    ],
+    "addedDate": 1760745600000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 255,
+        "playTime": 130.21,
+        "balloon": [
+          6,
+          5,
+          6,
+          5,
+          18
+        ],
+        "rollTime": [
+          1.315,
+          1.457,
+          1.457,
+          0.971,
+          1.092,
+          1.315,
+          1.457,
+          0.971,
+          1.092,
+          1.214,
+          1.821
+        ],
+        "maxDensity": 1.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/YOU%27re%20your%20HERO/::ref/YOU%27re%20your%20HERO_%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=b8bdd5481a2427d072e294ee6d37a056&t=20251018192419"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 353,
+        "playTime": 130.21,
+        "balloon": [
+          10,
+          8,
+          10,
+          8,
+          24
+        ],
+        "rollTime": [
+          0.486,
+          1.457,
+          0.971,
+          1.092,
+          0.486,
+          1.457,
+          0.971,
+          1.092,
+          1.214,
+          1.821
+        ],
+        "maxDensity": 2.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/YOU%27re%20your%20HERO/::ref/YOU%27re%20your%20HERO_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=2171c9403ddf4771a3e6b8bfa6c678c9&t=20251018192418"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 535,
+        "playTime": 130.21,
+        "balloon": [
+          15,
+          13,
+          15,
+          13,
+          30
+        ],
+        "rollTime": [
+          0.486,
+          1.457,
+          0.971,
+          0.728,
+          0.486,
+          1.457,
+          0.971,
+          0.728,
+          1.396,
+          0.85
+        ],
+        "maxDensity": 4.11,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/YOU%27re%20your%20HERO/::ref/YOU%27re%20your%20HERO_%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=25d9cbc8c12932f51320772251eadcf6&t=20251018192418"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 888,
+        "playTime": 130.21,
+        "balloon": [
+          2,
+          2,
+          2,
+          39
+        ],
+        "rollTime": [
+          0.223,
+          0.344,
+          0.344,
+          1.315
+        ],
+        "maxDensity": 6.82,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YOU%27re%20your%20HERO/::ref/YOU%27re%20your%20HERO_2.png?rev=a492bd6ad41062c29656fec5754ca66b&t=20251018080331",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YOU%27re%20your%20HERO/::ref/YOU%27re%20your%20HERO_%E8%A6%8B%E3%81%9F%E7%9B%AE%E9%87%8D%E8%A6%96.png?rev=8d400437cc4b22844db53ffb28d0b778&t=20251018191449"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1418",
     "order": 1358,
     "title": "Sync Your World",
@@ -150626,7 +150778,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
