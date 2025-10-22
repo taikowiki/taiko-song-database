@@ -1629,6 +1629,108 @@
     "isDeleted": 0
   },
   {
+    "songNo": "1435",
+    "order": 1360,
+    "title": "モニタリング",
+    "titleKo": "Monitoring",
+    "aliasKo": "모니터링",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 132,
+      "max": 132
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "DECO*27",
+      "初音ミク"
+    ],
+    "addedDate": 1754006400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 77,
+        "playTime": 81,
+        "balloon": [],
+        "rollTime": [
+          0.871,
+          0.871
+        ],
+        "maxDensity": 0.95,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0/::ref/mikmon_e.png?rev=ec8c1e5b148642b8f2c08d73898e6887&t=20250801204044"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 123,
+        "playTime": 81,
+        "balloon": [],
+        "rollTime": [
+          0.871,
+          0.871
+        ],
+        "maxDensity": 1.52,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0/::ref/mikmon_n.png?rev=e8d4f4344cf90d380154a2db51c30ae5&t=20250801203923"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 288,
+        "playTime": 81,
+        "balloon": [],
+        "rollTime": [
+          0.417,
+          0.417
+        ],
+        "maxDensity": 3.56,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0/::ref/mikmon_h.png?rev=f92cca14a37681f9672a70b4e07dbd95&t=20250801203800"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 422,
+        "playTime": 81,
+        "balloon": [],
+        "rollTime": [
+          0.417,
+          0.417
+        ],
+        "maxDensity": 5.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0/::ref/mikmon_m.png?rev=9644440c91a74308a918777512dfe165&t=20250801183138"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1410",
     "order": 1342,
     "title": "WINNER！ゴジュウジャー！",
@@ -11733,6 +11835,137 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/img/a54d38ff-0398-4d68-9816-f2639257855c"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1436",
+    "order": 1361,
+    "title": "混沌ブギ",
+    "titleKo": "Konton Boogie",
+    "aliasKo": "혼돈 부기",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 190,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "jon-YAKITORY",
+      "初音ミク"
+    ],
+    "addedDate": 1727913600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 226,
+        "playTime": 151.54,
+        "balloon": [
+          3,
+          3,
+          3,
+          9
+        ],
+        "rollTime": [
+          1.237,
+          1.237,
+          0.763,
+          1.237
+        ],
+        "maxDensity": 1.49,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%B7%B7%E6%B2%8C%E3%83%96%E3%82%AE/::ref/mikktb_e.png?rev=22117659386e23962a59d00bfeda9184&t=20241003011537"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 366,
+        "playTime": 151.54,
+        "balloon": [
+          5,
+          5,
+          5,
+          11
+        ],
+        "rollTime": [
+          1.237,
+          1.237,
+          0.921,
+          1.237
+        ],
+        "maxDensity": 2.42,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%B7%B7%E6%B2%8C%E3%83%96%E3%82%AE/::ref/mikktb_n.png?rev=96429cf1a19be84b500a18da4c4b2723&t=20241003011354"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 561,
+        "playTime": 151.54,
+        "balloon": [
+          8,
+          8,
+          8,
+          16
+        ],
+        "rollTime": [
+          1.237,
+          1.079,
+          1.079,
+          1.237
+        ],
+        "maxDensity": 3.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%B7%B7%E6%B2%8C%E3%83%96%E3%82%AE/::ref/mikktb_h.png?rev=63e333b287be2150932881b12b0315f4&t=20241003011214"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 885,
+        "playTime": 151.54,
+        "balloon": [
+          10,
+          10,
+          10,
+          20
+        ],
+        "rollTime": [
+          0.447,
+          0.763,
+          1.079,
+          1.079,
+          1.237
+        ],
+        "maxDensity": 5.84,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B7%B7%E6%B2%8C%E3%83%96%E3%82%AE/::ref/mikktb_m.png?rev=c5cce6496c8edc699593d1484f93a5ad&t=20241003001246"
         ]
       },
       "ura": null
