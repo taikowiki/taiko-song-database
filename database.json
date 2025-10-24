@@ -29,49 +29,74 @@
       "easy": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 140,
+        "playTime": 103.87,
+        "balloon": [
+          5,
+          7
+        ],
+        "rollTime": [
+          0.968,
+          2.903,
+          2.903,
+          5.806
+        ],
+        "maxDensity": 1.35,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E7%A5%9E%E3%80%85%E3%81%8C%E6%81%8B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7/::ref/%E7%A5%9E%E3%80%85%E3%81%8C%E6%81%8B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7_%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=74097a9efd64de9bf190186867d5d454&t=20251023180726"
+        ]
       },
       "normal": {
         "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 275,
+        "playTime": 103.87,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          1.742,
+          2.903,
+          2.903,
+          5.806
+        ],
+        "maxDensity": 2.65,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E7%A5%9E%E3%80%85%E3%81%8C%E6%81%8B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7/::ref/%E7%A5%9E%E3%80%85%E3%81%8C%E6%81%8B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=98bb64798aa120f75d12a9634cd123da&t=20251023180724"
+        ]
       },
       "hard": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 491,
+        "playTime": 103.87,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          2.903,
+          2.903,
+          5.806
+        ],
+        "maxDensity": 4.73,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E7%A5%9E%E3%80%85%E3%81%8C%E6%81%8B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7/::ref/%E7%A5%9E%E3%80%85%E3%81%8C%E6%81%8B%E3%81%97%E3%81%9F%E5%B9%BB%E6%83%B3%E9%83%B7_%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=843283f55dfd6abd06cd3e6407cd1320&t=20251023180724"
+        ]
       },
       "oni": {
         "level": 9,
         "isBranched": 0,
         "maxCombo": 806,
-        "playTime": 0,
+        "playTime": 103.87,
         "balloon": [],
         "rollTime": [
           5.806
         ],
-        "maxDensity": 0,
+        "maxDensity": 7.76,
         "daniUsed": 0,
         "dani": [],
         "images": [
