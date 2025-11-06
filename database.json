@@ -17452,7 +17452,9 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "DF",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -115026,7 +115028,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -115051,8 +115054,11 @@
         "maxDensity": 1.02,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/560/easy"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Choco%20Chiptune./::ref/c0.png?rev=5e98d83c922298f8e4d97e9a4cc29cd2&t=20230227010031",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Choco%20Chiptune./::ref/c0_mitame.png?rev=8c0e1a0c70293172037d6347c80a4fb1&t=20250821064231"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -115067,8 +115073,11 @@
         "maxDensity": 1.91,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/560/normal"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Choco%20Chiptune./::ref/c1.png?rev=37ddb22287efef1ac4bf4b7e9188d506&t=20230227010101",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Choco%20Chiptune./::ref/c1_mitame.png?rev=e2b03e2a0bd6c5df82405cd876d55072&t=20250821064239"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -115083,8 +115092,11 @@
         "maxDensity": 3.02,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/560/hard"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Choco%20Chiptune./::ref/c2.png?rev=c33ac28f97a6c755067df91383a50668&t=20230227010127",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Choco%20Chiptune./::ref/c2_mitame.png?rev=d5fed4e9b46c3c31aa6b5d56957e7598&t=20250821064248"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -115099,8 +115111,11 @@
         "maxDensity": 4.79,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/560/oni"
-        ]
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Choco%20Chiptune./::ref/%E7%99%BB%E5%A0%B4%E3%81%8C%E3%81%A1%E3%82%87%E3%81%93%E3%81%A3%E3%81%A8%E9%81%85%E3%81%8B%E3%81%A3%E3%81%9F_2.png?rev=c077e62ed71f1bbd4659640296b6b746&t=20250821064412",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Choco%20Chiptune./::ref/Choco%20Chiptune_f_2.png?rev=39f4a69fa99af87a3e14c1c83ef93fda&t=20250821064416"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
