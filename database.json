@@ -1,5 +1,110 @@
 [
   {
+    "songNo": "1438",
+    "order": 1363,
+    "title": "SORA-VIII ネビュラトレイル",
+    "titleKo": "SORA-VIII Nebula Trail",
+    "aliasKo": "SORA-VIII 네뷸라 트레일",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 170,
+      "max": 170
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Shin Sazaki"
+    ],
+    "addedDate": 1763251200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 188,
+        "playTime": 134.95,
+        "balloon": [],
+        "rollTime": [
+          2.088,
+          0.853,
+          2.088,
+          1.029,
+          1.029,
+          2.088,
+          2.088
+        ],
+        "maxDensity": 1.39,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/SORA-VIII%20%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/::ref/%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB_e.png?rev=f348c79331f6543418c2bd85ac310c5c&t=20251116090245"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 308,
+        "playTime": 134.95,
+        "balloon": [],
+        "rollTime": [
+          2.088,
+          0.853,
+          2.088,
+          2.088,
+          2.088,
+          2.088
+        ],
+        "maxDensity": 2.28,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/SORA-VIII%20%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/::ref/%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB_n.png?rev=289c65f0ee05096a476162237c24b17e&t=20251116090155"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 508,
+        "playTime": 134.95,
+        "balloon": [],
+        "rollTime": [
+          2.088,
+          2.088
+        ],
+        "maxDensity": 3.76,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/SORA-VIII%20%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/::ref/%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB_h.png?rev=57a87672ef3ea676f69ab76b183bf2e8&t=20251116090050"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 888,
+        "playTime": 134.95,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 6.58,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA-VIII%20%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/::ref/%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB.png?rev=7a38db28584ee9adf22ba2ae7d91f39e&t=20251116072626"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1437",
     "order": 1362,
     "title": "神々が恋した幻想郷",
@@ -107666,7 +107771,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
