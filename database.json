@@ -107982,8 +107982,17 @@
         "isBranched": 0,
         "maxCombo": 641,
         "playTime": 86.27,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          2
+        ],
+        "rollTime": [
+          0.142,
+          0.142,
+          0.142,
+          0.142,
+          0.142,
+          0.142
+        ],
         "maxDensity": 7.43,
         "daniUsed": 0,
         "dani": [],
