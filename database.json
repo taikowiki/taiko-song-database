@@ -104973,7 +104973,7 @@
     "songNo": "514",
     "order": 1044,
     "title": "聖徳たいこの「日いずるまで飛鳥」",
-    "titleKo": "쇼우토쿠타이코노 「히이즈루마데아스카」",
+    "titleKo": "쇼우토쿠타이코노 '히이즈루마데아스카'",
     "aliasKo": "성덕 태고의 「해질 때까지 나는 새」",
     "titleEn": null,
     "aliasEn": null,
@@ -105011,7 +105011,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/514/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -105027,7 +105029,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/514/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -105043,7 +105047,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/514/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 9,
@@ -105060,7 +105066,8 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/514/oni"
-        ]
+        ],
+        "daniUsed": 0
       },
       "ura": null
     },
