@@ -1,5 +1,357 @@
 [
   {
+    "songNo": "1374",
+    "order": 1364,
+    "title": "永不失聯的愛 Unbreakable Love",
+    "titleKo": null,
+    "aliasKo": "영원히 깨지지 않는 사랑",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 85,
+      "max": 85
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "周興哲"
+    ],
+    "addedDate": 1765152000000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 89,
+        "playTime": 129.84,
+        "balloon": [
+          12,
+          14
+        ],
+        "rollTime": [
+          1,
+          2.059,
+          2.412
+        ],
+        "maxDensity": 0.69,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B%20Unbreakable%20Love/::ref/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B_e.png?rev=381bea4ce2d31e04a04e1419295a25f3&t=20250817144448"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 126,
+        "playTime": 129.84,
+        "balloon": [
+          15,
+          17
+        ],
+        "rollTime": [
+          1,
+          1.706,
+          2.412
+        ],
+        "maxDensity": 0.97,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B%20Unbreakable%20Love/::ref/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B_n.png?rev=77a63d750f9aa2b1fdfc246c5e133a97&t=20250817144350"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 222,
+        "playTime": 129.84,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          1,
+          1.706,
+          0.824,
+          2.412
+        ],
+        "maxDensity": 1.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B%20Unbreakable%20Love/::ref/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B_h.png?rev=435e89de96d8722a9759c81483e04714&t=20250817144242"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 322,
+        "playTime": 129.84,
+        "balloon": [
+          24
+        ],
+        "rollTime": [
+          1,
+          1.706,
+          2.412
+        ],
+        "maxDensity": 2.48,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B%20Unbreakable%20Love/::ref/%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%AF%E7%9A%84%E6%84%9B.png?rev=ae126def29e906d4488e2781217e1773&t=20250716074348"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1375",
+    "order": 1365,
+    "title": "YIN XING DE CHI BANG",
+    "titleKo": null,
+    "aliasKo": "숨겨진 날개",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 29,
+      "max": 72
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "張韶涵",
+      "王雅君"
+    ],
+    "addedDate": 1765152000000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 53,
+        "playTime": 101.6,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          0.764,
+          0.764,
+          0.764,
+          1.341
+        ],
+        "maxDensity": 0.52,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/YIN%20XING%20DE%20CHI%20BANG/::ref/%E9%9A%A0%E5%BD%A2%E7%9A%84%E7%BF%85%E8%86%80_e2.png?rev=52fcd3d1aecf082a5c79e3b5c5623209&t=20250817150737"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 81,
+        "playTime": 101.6,
+        "balloon": [
+          7,
+          17
+        ],
+        "rollTime": [
+          0.764,
+          0.764,
+          0.764,
+          1.833
+        ],
+        "maxDensity": 0.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/YIN%20XING%20DE%20CHI%20BANG/::ref/%E9%9A%A0%E5%BD%A2%E7%9A%84%E7%BF%85%E8%86%80_n2.png?rev=abc3129bfc0fc832118bf8881fae01b9&t=20250817150729"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 148,
+        "playTime": 101.6,
+        "balloon": [
+          11
+        ],
+        "rollTime": [
+          0.764,
+          0.764,
+          0.764,
+          1.341
+        ],
+        "maxDensity": 1.46,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/YIN%20XING%20DE%20CHI%20BANG/::ref/%E9%9A%A0%E5%BD%A2%E7%9A%84%E7%BF%85%E8%86%80_h2.png?rev=fa51cb439ca2553d9c1b519ef58d9fd8&t=20250817150706"
+        ]
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 190,
+        "playTime": 101.6,
+        "balloon": [
+          14,
+          30
+        ],
+        "rollTime": [
+          0.764,
+          0.764,
+          0.764,
+          1.341
+        ],
+        "maxDensity": 1.87,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YIN%20XING%20DE%20CHI%20BANG/::ref/%E9%9A%A0%E5%BD%A2%E7%9A%84%E7%BF%85%E8%86%80_m.png?rev=6ff02900f91bf99cbfba6c7030ccb6ae&t=20250817150542"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1376",
+    "order": 1366,
+    "title": "Those Bygone Years",
+    "titleKo": null,
+    "aliasKo": "그 시절",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 79,
+      "max": 79
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "胡夏",
+      "木村充利"
+    ],
+    "addedDate": 1765152000000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 62,
+        "playTime": 118.53,
+        "balloon": [
+          16,
+          10,
+          9,
+          9,
+          11
+        ],
+        "rollTime": [
+          1.835
+        ],
+        "maxDensity": 0.52,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Those%20Bygone%20Years/::ref/%E9%82%A3%E4%BA%9B%E5%B9%B4_e_2.png?rev=0eaef0f3f211c3d9c786f11b99888830&t=20250817143546"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 92,
+        "playTime": 118.53,
+        "balloon": [
+          20,
+          13,
+          11,
+          11,
+          13
+        ],
+        "rollTime": [
+          1.835
+        ],
+        "maxDensity": 0.78,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Those%20Bygone%20Years/::ref/%E9%82%A3%E4%BA%9B%E5%B9%B4_n.png?rev=d01fa5ed58ef40e64514a16cf7c8b877&t=20250817141615"
+        ]
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 164,
+        "playTime": 118.53,
+        "balloon": [
+          18,
+          16,
+          16,
+          22
+        ],
+        "rollTime": [
+          1.835
+        ],
+        "maxDensity": 1.38,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Those%20Bygone%20Years/::ref/%E9%82%A3%E4%BA%9B%E5%B9%B4_h.png?rev=d41657c76b13421b533cff38ed9c6cfb&t=20250817141438"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 275,
+        "playTime": 118.53,
+        "balloon": [
+          28,
+          19,
+          19,
+          26
+        ],
+        "rollTime": [
+          1.456,
+          1.835,
+          0.696
+        ],
+        "maxDensity": 2.32,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Those%20Bygone%20Years/::ref/%E9%82%A3%E4%BA%9B%E5%B9%B4.png?rev=8698ed60c3f2512f70ac3587a97431b5&t=20250716060513"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1438",
     "order": 1363,
     "title": "SORA-VIII ネビュラトレイル",
@@ -734,7 +1086,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "vocaloid"
@@ -1029,7 +1381,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -1131,7 +1483,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -1246,7 +1598,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "game"
@@ -1960,7 +2312,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "kids"
@@ -2073,7 +2425,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -2198,7 +2550,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -2341,13 +2693,14 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "vocaloid"
     ],
     "artists": [
-      "Mitchie M"
+      "Mitchie M",
+      "初音ミク"
     ],
     "addedDate": 1753401600000,
     "courses": {
@@ -2949,7 +3302,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3050,6 +3403,187 @@
         ]
       },
       "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "ns2_martan",
+    "order": 1367,
+    "title": "マルトーアンフェール",
+    "titleKo": "Marteau en fer",
+    "aliasKo": "마르토 앙페르",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 326,
+      "max": 326
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "塚越雄一朗",
+      "祇羽",
+      "愛原圭織"
+    ],
+    "addedDate": 1750291200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 205,
+        "playTime": 145,
+        "balloon": [
+          5,
+          10,
+          5,
+          8
+        ],
+        "rollTime": [
+          1.457,
+          1.273,
+          1.181,
+          0.629,
+          1.181,
+          1.089,
+          0.721,
+          1.273,
+          0.537,
+          0.997
+        ],
+        "maxDensity": 1.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB/::ref/martan_e.png?rev=51239f3fa0ce69bdba2550d438081726&t=20250619013404"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 350,
+        "playTime": 145,
+        "balloon": [
+          6,
+          2,
+          2,
+          3,
+          12,
+          7,
+          10
+        ],
+        "rollTime": [
+          1.457,
+          0.537,
+          1.273,
+          1.181,
+          0.629,
+          1.181,
+          1.089,
+          0.721,
+          0.537,
+          0.537,
+          1.273,
+          0.537,
+          0.997
+        ],
+        "maxDensity": 2.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB/::ref/martan_n.png?rev=aa3c5888caaf08c917f27be905aa8de9&t=20250619013245"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 542,
+        "playTime": 145,
+        "balloon": [
+          10,
+          2,
+          2,
+          5,
+          18,
+          11
+        ],
+        "rollTime": [
+          1.457,
+          0.537,
+          1.273,
+          0.629,
+          1.089,
+          0.721,
+          0.537,
+          0.537,
+          0.537,
+          0.997
+        ],
+        "maxDensity": 3.74,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB/::ref/martan_h.png?rev=99291305b3ef37fc1dc172af800e3fe2&t=20250619013047"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 779,
+        "playTime": 146,
+        "balloon": [
+          12,
+          3,
+          3,
+          3,
+          3,
+          15
+        ],
+        "rollTime": [
+          1.273,
+          1.733,
+          1.089,
+          0.537,
+          0.997
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB/::ref/martan_m.png?rev=94f376a546ed2f18ba10dadac8684a3f&t=20250619001833"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1226,
+        "playTime": 146,
+        "balloon": [
+          13,
+          3,
+          3,
+          3,
+          3
+        ],
+        "rollTime": [
+          1.273,
+          0.997
+        ],
+        "maxDensity": 8.4,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/martan_x.png?rev=8d560a791c1343cd2d89d893ab8cde6c&t=20250619002109"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -3721,7 +4255,7 @@
       "NAC",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3851,7 +4385,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -5117,7 +5651,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime",
@@ -5226,7 +5760,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime"
@@ -5352,7 +5886,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -5462,7 +5996,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -8895,7 +9429,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -14358,7 +14892,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
