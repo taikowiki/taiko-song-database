@@ -43996,7 +43996,23 @@
         "daniUsed": 0,
         "isBranched": 0
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 765,
+        "playTime": 114.13,
+        "balloon": [],
+        "rollTime": [
+          0.479,
+          0.479
+        ],
+        "maxDensity": 6.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%A3%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/warya_x.png?rev=d981d738aa247a5ee6db40db878840c1&t=20250529111757"
+        ]
+      }
     },
     "isDeleted": 0
   },
