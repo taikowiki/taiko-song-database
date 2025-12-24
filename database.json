@@ -734,38 +734,68 @@
       "easy": {
         "level": 1,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 40,
         "playTime": 83.71,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          12,
+          12,
+          17
+        ],
+        "rollTime": [
+          1.074,
+          1.741
+        ],
+        "maxDensity": 0.48,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/GET%20BACK/::ref/GB_e.png?rev=6ef81185a7ac02c602b3430ce9f907a9&t=20251223202307"
+        ]
       },
       "normal": {
         "level": 1,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 62,
         "playTime": 83.71,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          15,
+          15,
+          25
+        ],
+        "rollTime": [
+          1.296,
+          1.519,
+          1.741,
+          1.296
+        ],
+        "maxDensity": 0.74,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/GET%20BACK/::ref/GB_n.png?rev=c6a92daa9cd63a3d212d03f76cec1e55&t=20251223202221"
+        ]
       },
       "hard": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 293,
         "playTime": 83.71,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "balloon": [
+          17,
+          17,
+          34
+        ],
+        "rollTime": [
+          1.296,
+          1.519,
+          1.296
+        ],
+        "maxDensity": 3.5,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/GET%20BACK/::ref/GB_h.png?rev=c87cafcf0cd490862bf4fdbc2d1b3264&t=20251223202059"
+        ]
       },
       "oni": {
         "level": 5,
