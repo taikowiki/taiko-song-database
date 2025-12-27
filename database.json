@@ -1,5 +1,98 @@
 [
   {
+    "songNo": "1434",
+    "order": 1378,
+    "title": "YOU're our HEROES",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 216.25,
+      "max": 247.17
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "steμ",
+      "siroa",
+      "はぁち"
+    ],
+    "addedDate": 1766793600000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 987,
+        "playTime": 0,
+        "balloon": [
+          3,
+          93
+        ],
+        "rollTime": [
+          0.971,
+          0.971,
+          0.364,
+          0.971,
+          1.092,
+          0.121
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_resized.png?rev=e8ba2eec0840430e1da71c1cfeb5a796&t=20251227074601"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1449",
     "order": 1376,
     "title": "クラシックメドレー（冬休み編）",
