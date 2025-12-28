@@ -31,61 +31,108 @@
       "easy": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 243,
+        "playTime": 140.2,
+        "balloon": [
+          13,
+          29
+        ],
+        "rollTime": [
+          0.829,
+          0.829,
+          0.829,
+          1.315,
+          1.642,
+          1.436,
+          2.165,
+          1.922,
+          0.708,
+          1.194
+        ],
+        "maxDensity": 1.73,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=500bdf6ef8cdc95ec6b660dd90e81cf0&t=20251227205451"
+        ]
       },
       "normal": {
         "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 418,
+        "playTime": 140.2,
+        "balloon": [
+          16,
+          39
+        ],
+        "rollTime": [
+          0.829,
+          0.829,
+          0.829,
+          0.809,
+          1.558,
+          2.165,
+          1.072,
+          0.708,
+          0.344,
+          0.405
+        ],
+        "maxDensity": 2.98,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=b626cda8b8e114a3d57614a66f4bf575&t=20251227205449"
+        ]
       },
       "hard": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 639,
+        "playTime": 140.2,
+        "balloon": [
+          59
+        ],
+        "rollTime": [
+          0.829,
+          0.829,
+          0.829,
+          0.809,
+          0.344,
+          0.951,
+          1.072,
+          0.344,
+          0.405
+        ],
+        "maxDensity": 4.56,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=7fc1259ea6f45ab557bde85833a2b994&t=20251227205448"
+        ]
       },
       "oni": {
         "level": 10,
         "isBranched": 0,
         "maxCombo": 987,
-        "playTime": 0,
+        "playTime": 140.2,
         "balloon": [
           3,
           93
         ],
         "rollTime": [
-          0.971,
-          0.971,
-          0.364,
-          0.971,
-          1.092,
-          0.121
+          0.829,
+          0.829,
+          0.344,
+          0.951,
+          1.072,
+          0.101
         ],
-        "maxDensity": 0,
+        "maxDensity": 7.04,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_resized.png?rev=e8ba2eec0840430e1da71c1cfeb5a796&t=20251227074601"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_3.png?rev=8ce76c40e0143ff259f5a035dabae162&t=20251227204338",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/YOU%27re%20our%20HEROES/::ref/YOU%27re%20our%20HEROES_%E8%A6%8B%E3%81%9F%E7%9B%AE%E9%87%8D%E8%A6%96.png?rev=fb1f6fa6baa029177652adc6cb7af2b0&t=20251227204343"
         ]
       },
       "ura": null
