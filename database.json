@@ -1,5 +1,344 @@
 [
   {
+    "songNo": "1450",
+    "order": 1379,
+    "title": "UMAのフォーストレーニ千グ 【BPM150編】",
+    "titleKo": "UMA의 FORCE TRAINnisenING【BPM150편】",
+    "aliasKo": "UMA의 포스 트레이천【BPM150편】",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 9.38,
+      "max": 300
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "LindaAI-CUE",
+      "マスブチ",
+      "坪井リヒト",
+      "Kawagen Kollagen"
+    ],
+    "addedDate": 1767225600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 56,
+        "playTime": 31.95,
+        "balloon": [
+          26
+        ],
+        "rollTime": [],
+        "maxDensity": 1.75,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM150%E7%B7%A8%E3%80%91/::ref/150_e.png?rev=3b8ae77c67bf8b66672d02f4a9b4cd60&t=20260101124856"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 96,
+        "playTime": 31.95,
+        "balloon": [
+          26
+        ],
+        "rollTime": [],
+        "maxDensity": 3,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM150%E7%B7%A8%E3%80%91/::ref/150_n.png?rev=93a62fb2aaeee4c366dd52c207f2d518&t=20260101124422"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 156,
+        "playTime": 31.95,
+        "balloon": [
+          26
+        ],
+        "rollTime": [],
+        "maxDensity": 4.88,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM150%E7%B7%A8%E3%80%91/::ref/150_h.png?rev=ea92cfa4159daf2c5e32a9975926dcaf&t=20260101123904"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 208,
+        "playTime": 31.95,
+        "balloon": [
+          26
+        ],
+        "rollTime": [],
+        "maxDensity": 6.51,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM150%E7%B7%A8%E3%80%91/::ref/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83150_2.png?rev=00297f685d04994db348e152da97515f&t=20260101114104"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 356,
+        "playTime": 31.95,
+        "balloon": [
+          26
+        ],
+        "rollTime": [],
+        "maxDensity": 11.14,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM150%E7%B7%A8%E3%80%91%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83150%E8%A3%8F_2.png?rev=906fe138d131438c205c238326b837c8&t=20260101114219"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1451",
+    "order": 1380,
+    "title": "UMAのフォーストレーニ千グ 【BPM180編】",
+    "titleKo": "UMA의 FORCE TRAINnisenING【BPM180편】",
+    "aliasKo": "UMA의 포스 트레이천【BPM180편】",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "LindaAI-CUE",
+      "マスブチ",
+      "坪井リヒト",
+      "Kawagen Kollagen"
+    ],
+    "addedDate": 1767225600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 82,
+        "playTime": 34.63,
+        "balloon": [
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 2.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM180%E7%B7%A8%E3%80%91/::ref/180_e.png?rev=397af2dcc0ac4236e04556fbafd7fc3a&t=20260101123049"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 144,
+        "playTime": 34.63,
+        "balloon": [
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 4.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM180%E7%B7%A8%E3%80%91/::ref/180_n.png?rev=bcbb4aac203091040db2329fcc1fd353&t=20260101122613"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 204,
+        "playTime": 34.63,
+        "balloon": [
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 5.89,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM180%E7%B7%A8%E3%80%91/::ref/180_h.png?rev=02dc1830a3e3bc16cf5fb7b9096ff470&t=20260101121912"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 276,
+        "playTime": 34.63,
+        "balloon": [
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 7.97,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM180%E7%B7%A8%E3%80%91/::ref/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83180.png?rev=5e15e8b5f7876233faeb4422816704ae&t=20260101080440"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 334,
+        "playTime": 34.63,
+        "balloon": [
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 9.64,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM180%E7%B7%A8%E3%80%91%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83180%E8%A3%8F.png?rev=f160d340e528d43426b4ca9eae3da265&t=20260101081539"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1452",
+    "order": 1381,
+    "title": "UMAのフォーストレーニ千グ 【BPM240編】",
+    "titleKo": "UMA의 FORCE TRAINnisenING【BPM240편】",
+    "aliasKo": "UMA의 포스 트레이천【BPM240편】",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 240,
+      "max": 240
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "LindaAI-CUE",
+      "マスブチ",
+      "坪井リヒト",
+      "Kawagen Kollagen"
+    ],
+    "addedDate": 1767225600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 84,
+        "playTime": 33.98,
+        "balloon": [],
+        "rollTime": [
+          0.604
+        ],
+        "maxDensity": 2.47,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM240%E7%B7%A8%E3%80%91/::ref/240_e.png?rev=244ea662b5ae08c3295022cd93f3e26d&t=20260101121047"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 124,
+        "playTime": 33.98,
+        "balloon": [],
+        "rollTime": [
+          0.604
+        ],
+        "maxDensity": 3.65,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM240%E7%B7%A8%E3%80%91/::ref/240_n.png?rev=818ec160eea062986e3efc3d52363b4c&t=20260101120629"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 184,
+        "playTime": 33.98,
+        "balloon": [],
+        "rollTime": [
+          0.604
+        ],
+        "maxDensity": 5.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM240%E7%B7%A8%E3%80%91/::ref/240_h.png?rev=aa059dcc25861cf1384ece4571818f32&t=20260101115813"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 316,
+        "playTime": 33.98,
+        "balloon": [],
+        "rollTime": [
+          0.604
+        ],
+        "maxDensity": 9.3,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM240%E7%B7%A8%E3%80%91/::ref/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83240_3.png?rev=d683cf966d8398f074b6cf8505b7c824&t=20260101111913"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 364,
+        "playTime": 33.98,
+        "balloon": [],
+        "rollTime": [
+          0.604
+        ],
+        "maxDensity": 10.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83%E3%82%B0%20%E3%80%90BPM240%E7%B7%A8%E3%80%91%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/UMA%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E5%8D%83240%E8%A3%8F_2.png?rev=940d20d1a33f27b1783b9fa419656d36&t=20260101111909"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1434",
     "order": 1378,
     "title": "YOU're our HEROES",
@@ -163,7 +502,9 @@
       "classic"
     ],
     "artists": [
-      ""
+      "ジェームズ・ロード・ピアポント",
+      "ベートーヴェン",
+      "滝廉太郎"
     ],
     "addedDate": 1766016000000,
     "courses": {
