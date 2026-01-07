@@ -60664,6 +60664,7 @@
     "bpmShiver": 0,
     "version": [
       "NAC",
+      "NS2",
       "PS4",
       "WiiU3",
       "V",
@@ -126943,6 +126944,135 @@
     "isDeleted": 0
   },
   {
+    "songNo": "ACX_0026",
+    "order": 1382,
+    "title": "天装戦隊ゴセイジャー",
+    "titleKo": null,
+    "aliasKo": "천장전대 고세이저",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 184,
+      "max": 184
+    },
+    "bpmShiver": 0,
+    "version": [
+      "AC14",
+      "Wii3",
+      "DS3",
+      "PLUS"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "NoB",
+      "YOFFY"
+    ],
+    "addedDate": null,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 72,
+        "playTime": 72.93,
+        "balloon": [
+          13,
+          10,
+          10,
+          10
+        ],
+        "rollTime": [
+          0.788,
+          0.788,
+          0.788,
+          1.63,
+          0.788
+        ],
+        "maxDensity": 0.99,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 111,
+        "playTime": 72.93,
+        "balloon": [
+          15,
+          12,
+          12,
+          12
+        ],
+        "rollTime": [
+          0.788,
+          0.788,
+          0.788,
+          0.652,
+          1.957,
+          0.788
+        ],
+        "maxDensity": 1.52,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%A4%A9%E8%A3%85%E6%88%A6%E9%9A%8A%E3%82%B4%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC/::ref/10sou.png?rev=3e507930633e46ffd98588fe1ed00860&t=20230301214406"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 239,
+        "playTime": 72.93,
+        "balloon": [
+          15,
+          16,
+          18
+        ],
+        "rollTime": [
+          0.897,
+          0.897,
+          0.788,
+          0.788
+        ],
+        "maxDensity": 3.28,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%A4%A9%E8%A3%85%E6%88%A6%E9%9A%8A%E3%82%B4%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC/::ref/10sou.png?rev=9c252cb30a432fe6c247e7a5ceb3cba9&t=20230301214457"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 299,
+        "playTime": 72.93,
+        "balloon": [
+          20,
+          4,
+          20,
+          22
+        ],
+        "rollTime": [
+          0.788,
+          0.788
+        ],
+        "maxDensity": 4.1,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%A9%E8%A3%85%E6%88%A6%E9%9A%8A%E3%82%B4%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC/::ref/%E3%82%B4%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC.png?rev=27a5f3971691888c4ba934a8ddf34616&t=20230301214615"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "894",
     "order": 103,
     "title": "今",
@@ -156451,7 +156581,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
