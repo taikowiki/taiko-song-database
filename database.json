@@ -1,5 +1,132 @@
 [
   {
+    "songNo": "1373",
+    "order": 1383,
+    "title": "千年之恋",
+    "titleKo": "QIAN NIAN ZHI LIAN",
+    "aliasKo": "천년의 사랑",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 125,
+      "max": 200
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "F.I.R."
+    ],
+    "addedDate": 1768435200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 64,
+        "playTime": 115.09,
+        "balloon": [
+          11,
+          14,
+          11,
+          35
+        ],
+        "rollTime": [
+          1.643,
+          1.643,
+          2.098,
+          1.014,
+          1.014
+        ],
+        "maxDensity": 0.56,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B/::ref/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B_e.png?rev=3d9e191fdb87d503974350eac0ab1714&t=20260115204455"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 114,
+        "playTime": 115.09,
+        "balloon": [
+          5,
+          17,
+          16,
+          45
+        ],
+        "rollTime": [
+          1.014,
+          1.643,
+          2.098,
+          1.014,
+          1.014
+        ],
+        "maxDensity": 0.99,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B/::ref/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B_n.png?rev=57f5d759d6be89fab3d54cd2917fb2a5&t=20260115204449"
+        ]
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 196,
+        "playTime": 115.09,
+        "balloon": [
+          25,
+          60
+        ],
+        "rollTime": [
+          1.014,
+          1.643,
+          2.098,
+          1.014,
+          1.014
+        ],
+        "maxDensity": 1.7,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B/::ref/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B_h.png?rev=b89e05cbfa5461e29e89598be3544ef7&t=20260115204441"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 389,
+        "playTime": 115.09,
+        "balloon": [
+          30,
+          45
+        ],
+        "rollTime": [
+          1.434,
+          1.643,
+          2.273,
+          1.014,
+          1.014
+        ],
+        "maxDensity": 3.38,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B/::ref/%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%81%8B_3.png?rev=84a9e5bd3fc507bd145015cb27301bd0&t=20260114183226"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1450",
     "order": 1379,
     "title": "UMAのフォーストレーニ千グ 【BPM150編】",
