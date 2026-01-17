@@ -766,16 +766,16 @@
         "maxCombo": 102,
         "playTime": 114.77,
         "balloon": [
+          16,
+          10,
+          8
+        ],
+        "rollTime": [
           1.107,
           1.336,
           1.107,
           1.794,
           2.71
-        ],
-        "rollTime": [
-          16,
-          10,
-          8
         ],
         "maxDensity": 0.89,
         "daniUsed": 0,
