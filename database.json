@@ -1,5 +1,236 @@
 [
   {
+    "songNo": "1414",
+    "order": 1384,
+    "title": "桂月",
+    "titleKo": "KEIGETSU",
+    "aliasKo": "계월",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 19.38,
+      "max": 150
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "詹勳偉",
+      "留聲姬"
+    ],
+    "addedDate": 1768953600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 109.35,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 109.35,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 109.35,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 421,
+        "playTime": 109.35,
+        "balloon": [
+          9,
+          15,
+          33
+        ],
+        "rollTime": [
+          0.167,
+          0.167,
+          0.167,
+          1.167,
+          0.167,
+          1.167,
+          2.333,
+          1.533,
+          0.167,
+          1.167,
+          0.167
+        ],
+        "maxDensity": 3.85,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%82%E6%9C%88/::ref/%E6%A1%82%E6%9C%88%E8%A1%A8.png?rev=17b8b4e59e7f6ea0f6685e83025bda2b&t=20260121080103"
+        ]
+      },
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 524,
+        "playTime": 109.35,
+        "balloon": [
+          15
+        ],
+        "rollTime": [
+          1.167,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          3.133,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          2.333,
+          0.733
+        ],
+        "maxDensity": 4.79,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%82%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E6%A1%82%E6%9C%88%E8%A3%8F.png?rev=5098ae5faf6d802eabf28673c2e7ae58&t=20260121080316"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1430",
+    "order": 1385,
+    "title": "【双打】 桂月",
+    "titleKo": "【SouUchi】 KEIGETSU",
+    "aliasKo": "[쌍타] 계월",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 9.38,
+      "max": 150
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "詹勳偉",
+      "留聲姬"
+    ],
+    "addedDate": 1768953600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 109.47,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 109.47,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 109.47,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 266,
+        "playTime": 109.47,
+        "balloon": [
+          33
+        ],
+        "rollTime": [
+          0.167,
+          0.167,
+          0.167,
+          1.167,
+          0.167,
+          1.167,
+          2.333,
+          1.533,
+          0.167,
+          1.167,
+          0.167
+        ],
+        "maxDensity": 2.43,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%80%90%E5%8F%8C%E6%89%93%E3%80%91%20%E6%A1%82%E6%9C%88/::ref/%E6%A1%82%E6%9C%88%E5%8F%8C%E6%89%93.png?rev=2b6ac44c7e1622ec20c047b7cc7ef84b&t=20260121083226"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1373",
     "order": 1383,
     "title": "千年之恋",
@@ -25171,7 +25402,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1323",
@@ -135978,7 +136209,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "3DS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -136005,7 +136237,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/347/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -136021,7 +136255,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/347/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -136037,7 +136273,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/347/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -136053,7 +136291,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/347/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -154697,7 +154937,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "3DS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -154721,7 +154962,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/348/easy"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -154735,7 +154977,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/348/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -154749,7 +154992,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/348/hard"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -154771,7 +155015,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/348/oni"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -154794,7 +155039,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/348/ura"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
@@ -155486,7 +155732,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -159051,7 +159298,7 @@
       },
       "ura": null
     },
-    "isDeleted": 1
+    "isDeleted": 0
   },
   {
     "songNo": "852",
