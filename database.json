@@ -7418,7 +7418,29 @@
           "https://file.taiko.wiki/img/983f2162-92d1-4692-8378-c797b217ee12"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 694,
+        "playTime": 106.25,
+        "balloon": [
+          13,
+          2,
+          2,
+          13
+        ],
+        "rollTime": [
+          0.806,
+          0.806,
+          0.472
+        ],
+        "maxDensity": 6.53,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Ka.Ma.Se%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Ka.Ma.Se_EX.png?rev=e22f2912ec662f15d87dbea8ea99f38c&t=20260124072330"
+        ]
+      }
     },
     "isDeleted": 0
   },
