@@ -4683,6 +4683,140 @@
     "isDeleted": 0
   },
   {
+    "songNo": "ns2_mikrol",
+    "order": 1389,
+    "title": "ローリンガール",
+    "titleKo": "Rollin Girl",
+    "aliasKo": "롤링 걸",
+    "titleEn": "Rollin Girl",
+    "aliasEn": "Rolling Girl",
+    "romaji": null,
+    "bpm": {
+      "min": 195,
+      "max": 195
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "wowaka"
+    ],
+    "addedDate": 1754006400000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 78,
+        "playTime": 120,
+        "balloon": [
+          4,
+          4
+        ],
+        "rollTime": [
+          2.282,
+          0.897,
+          2.282,
+          1.974,
+          1.667,
+          1.667
+        ],
+        "maxDensity": 0.65,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB/::ref/mikrol_e.png?rev=c2c6324db43f504ab02d5efb7d0350f5&t=20250801204825"
+        ]
+      },
+      "normal": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 145,
+        "playTime": 120,
+        "balloon": [
+          5,
+          5
+        ],
+        "rollTime": [
+          2.436,
+          1.051,
+          2.282,
+          2.128,
+          1.513,
+          1.513
+        ],
+        "maxDensity": 1.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB/::ref/mikrol_n.png?rev=13497231080928813d0ba6afd8ecec46&t=20250801204719"
+        ]
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 322,
+        "playTime": 120,
+        "balloon": [],
+        "rollTime": [
+          0.744,
+          0.59,
+          0.744,
+          1.051,
+          0.436,
+          0.436,
+          1.051,
+          0.744,
+          0.744,
+          2.128,
+          1.513,
+          1.513
+        ],
+        "maxDensity": 2.68,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB/::ref/mikrol_h.png?rev=7e3fa993069904dc39b5d453fa0a8722&t=20250801204553"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 665,
+        "playTime": 120,
+        "balloon": [],
+        "rollTime": [
+          0.744,
+          0.744,
+          0.897,
+          1.205,
+          0.59,
+          0.59,
+          1.205,
+          0.744,
+          0.436,
+          0.897,
+          0.744,
+          0.59
+        ],
+        "maxDensity": 5.54,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB/::ref/%28%E3%80%80%E3%82%9C%E2%88%80%E3%82%9C%29o%E5%BD%A1%EF%BE%9F%E3%82%82%E3%81%86%E4%B8%80%E5%9B%9E%EF%BC%81%EF%BC%81%28%E3%80%80%E3%82%9C%E2%88%80%E3%82%9C%29o%E5%BD%A1%EF%BE%9F%E3%82%82%E3%81%86%E4%B8%80%E5%9B%9E%EF%BC%81%EF%BC%81.png?rev=0febb2df48795495cdc04416c8925dba&t=20250801153603"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1410",
     "order": 1342,
     "title": "WINNER！ゴジュウジャー！",
@@ -8794,7 +8928,20 @@
           "https://file.taiko.wiki/img/2d83f46d-d722-46fb-a9c2-72a3546cf778"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1123,
+        "playTime": 119.09,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 9.43,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/061db180-c08d-4276-a426-b9ad89ead949"
+        ]
+      }
     },
     "isDeleted": 0
   },
