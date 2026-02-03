@@ -8933,13 +8933,22 @@
         "isBranched": 0,
         "maxCombo": 1123,
         "playTime": 119.09,
-        "balloon": [],
-        "rollTime": [],
+        "balloon": [
+          30
+        ],
+        "rollTime": [
+          0.483,
+          0.583,
+          0.783,
+          0.683,
+          0.583,
+          0.383
+        ],
         "maxDensity": 9.43,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/061db180-c08d-4276-a426-b9ad89ead949"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Extreme%20End%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Extreme%20End_EX_2.png?rev=4fbcbdeaf6bb9747327d5866d5af58c3&t=20260131080243"
         ]
       }
     },
@@ -109326,7 +109335,7 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/514/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E8%81%96%E5%BE%B3%E3%81%9F%E3%81%84%E3%81%93%E3%81%AE%E3%80%8C%E6%97%A5%E3%81%84%E3%81%9A%E3%82%8B%E3%81%BE%E3%81%A7%E9%A3%9B%E9%B3%A5%E3%80%8D/::ref/shoto9_m_resized.png?rev=c8888ca20499d5ec02e7ea165e6ef342&t=20230521210556"
         ],
         "daniUsed": 0
       },
