@@ -5451,7 +5451,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -8173,7 +8174,27 @@
           "https://file.taiko.wiki/img/8a439106-c0eb-446d-bcac-4afa5c60e695"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1015,
+        "playTime": 120.22,
+        "balloon": [],
+        "rollTime": [
+          0.297,
+          0.135,
+          0.459,
+          0.459,
+          0.459,
+          3.383
+        ],
+        "maxDensity": 8.44,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/img/989f262f-8ea9-4a58-a610-3495bb5a7e73.png"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -62343,6 +62364,7 @@
     "bpmShiver": 1,
     "version": [
       "NAC",
+      "NS2",
       "NSRPG",
       "WiiU2",
       "V",
