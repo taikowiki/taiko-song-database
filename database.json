@@ -1,5 +1,272 @@
 [
   {
+    "songNo": "1431",
+    "order": 1390,
+    "title": "Aria",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "ナナツカゼ",
+      "nakotanmaru",
+      "PIKASONIC"
+    ],
+    "addedDate": 1770940800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 178,
+        "playTime": 136.59,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          2
+        ],
+        "maxDensity": 1.3,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Aria/::ref/Aria_e.png?rev=3106c1daa3b82461c3cc148953bbc6ac&t=20260213204323"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 344,
+        "playTime": 136.59,
+        "balloon": [
+          24
+        ],
+        "rollTime": [
+          0.833,
+          0.833,
+          0.833,
+          0.833,
+          0.833,
+          1,
+          1,
+          1.5
+        ],
+        "maxDensity": 2.52,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Aria/::ref/Aria_n.png?rev=e89c60c9ac2fa1308cbfc5b216779203&t=20260213203333"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 526,
+        "playTime": 136.59,
+        "balloon": [
+          35
+        ],
+        "rollTime": [
+          0.833,
+          0.833,
+          1.139,
+          1,
+          1,
+          1.5
+        ],
+        "maxDensity": 3.85,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Aria/::ref/Aria_h.png?rev=1aa3f8d74e61430adb87438185c50570&t=20260213202122"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 825,
+        "playTime": 136.59,
+        "balloon": [],
+        "rollTime": [
+          0.306,
+          0.306,
+          0.306,
+          1.139,
+          0.139,
+          1.306
+        ],
+        "maxDensity": 6.04,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Aria/::ref/Aria_3.png?rev=6b99917e6120692175a4d7234fcb8a21&t=20260213181016"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1432",
+    "order": 1391,
+    "title": "CHAOTiC BATTLE",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 145,
+      "max": 175
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "YOFUKASHi Sound Team"
+    ],
+    "addedDate": 1770940800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 212,
+        "playTime": 145.04,
+        "balloon": [
+          4,
+          4
+        ],
+        "rollTime": [
+          0.793,
+          0.379,
+          0.379,
+          0.379,
+          0.379,
+          0.379,
+          0.379,
+          0.486,
+          0.486,
+          1.028,
+          0.686,
+          1.857
+        ],
+        "maxDensity": 1.46,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/CHAOTiC%20BATTLE/::ref/CHAOTiC%20BATTLE_e.png?rev=4e92d3adbbad8bd3718295e7b7b2e9f6&t=20260213215010"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 444,
+        "playTime": 145.04,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          0.793,
+          0.379,
+          0.379,
+          0.379,
+          0.379,
+          0.379,
+          0.486,
+          0.486,
+          0.829,
+          1.857
+        ],
+        "maxDensity": 3.06,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/CHAOTiC%20BATTLE/::ref/CHAOTiC%20BATTLE_n.png?rev=42673408796c90809182ed6af84ddd65&t=20260213213527"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 718,
+        "playTime": 145.04,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          0.793,
+          0.172,
+          0.172,
+          0.172,
+          0.172,
+          0.379,
+          0.586,
+          0.486,
+          0.486,
+          0.829,
+          0.143,
+          1.857
+        ],
+        "maxDensity": 4.95,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/CHAOTiC%20BATTLE/::ref/CHAOTiC%20BATTLE_h.png?rev=2dee1c4a309fc2ac99c8f279178a3629&t=20260213211940"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1053,
+        "playTime": 145.04,
+        "balloon": [
+          2,
+          7
+        ],
+        "rollTime": [
+          0.793,
+          0.172,
+          0.172,
+          0.172,
+          0.172,
+          0.379,
+          0.586,
+          0.486,
+          0.486,
+          0.829,
+          0.143,
+          1.857
+        ],
+        "maxDensity": 7.26,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/CHAOTiC%20BATTLE/::ref/CHAOTiC%20BATTLE_3.png?rev=c7bff9bdaf7a02217ac4e64df8cae844&t=20260213161734"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "ns2_miksst",
     "order": 1386,
     "title": "初音ミクの消失",
@@ -1526,7 +1793,7 @@
     "songNo": "1440",
     "order": 1369,
     "title": "Daddy's Style -今夜はダディダディ-",
-    "titleKo": null,
+    "titleKo": "Daddy's Style",
     "aliasKo": "Daddy's Style -오늘 밤은 대디대디-",
     "titleEn": null,
     "aliasEn": null,
@@ -1678,7 +1945,7 @@
     "songNo": "1443",
     "order": 1370,
     "title": "カーマイン",
-    "titleKo": null,
+    "titleKo": "CARMINE",
     "aliasKo": "카민",
     "titleEn": null,
     "aliasEn": null,
@@ -1907,7 +2174,7 @@
     "songNo": "1442",
     "order": 1372,
     "title": "残酷な夜に輝け",
-    "titleKo": null,
+    "titleKo": "Shine in the Cruel Night",
     "aliasKo": "잔혹한 밤에 빛나라",
     "titleEn": null,
     "aliasEn": null,
@@ -2152,7 +2419,7 @@
     "songNo": "1439",
     "order": 1374,
     "title": "汚れなきクソ野郎ども",
-    "titleKo": null,
+    "titleKo": "순수한 쓰레기들",
     "aliasKo": "더러움 없는 망할놈들",
     "titleEn": null,
     "aliasEn": null,
@@ -8045,7 +8312,21 @@
           "https://file.taiko.wiki/img/e5a299c6-92b7-4097-b5cd-7f5edc8f73bf"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1022,
+        "playTime": 109.03,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 9.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/RAGING%20FIRE%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/RAGING%20FIRE_EX5_resized.png?rev=9e0d2f8665812acaac7653667a0bac71&t=20260214074245",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/RAGING%20FIRE%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/RAGING%20FIRE_EX_rev.png?rev=b1c52bc2e2843f0aace8e8231be66065&t=20260214080432"
+        ]
+      }
     },
     "isDeleted": 0
   },
