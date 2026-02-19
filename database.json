@@ -1,5 +1,255 @@
 [
   {
+    "songNo": "1456",
+    "order": 1395,
+    "title": "World Keeps Turning",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 160,
+      "max": 160
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "illiomote",
+      "藍川涼"
+    ],
+    "addedDate": 1771459200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 153,
+        "playTime": 124.96,
+        "balloon": [
+          5,
+          4
+        ],
+        "rollTime": [
+          1.844,
+          0.719,
+          1.281,
+          0.906,
+          1.844,
+          1.469,
+          0.719,
+          2.406,
+          0.531
+        ],
+        "maxDensity": 1.22,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/World%20Keeps%20Turning/::ref/wkturn_e.png?rev=251198357640ff72b25d13a145cf9d31&t=20260219003231"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 274,
+        "playTime": 124.96,
+        "balloon": [
+          9,
+          5
+        ],
+        "rollTime": [
+          0.906,
+          0.719,
+          1.281,
+          0.531,
+          1.094,
+          1.844,
+          1.469,
+          0.719,
+          2.594
+        ],
+        "maxDensity": 2.19,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/World%20Keeps%20Turning/::ref/wkturn_n.png?rev=d19379fabd7c52dbcc43d57cc8e3d67e&t=20260219003150"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 459,
+        "playTime": 124.96,
+        "balloon": [
+          12,
+          7
+        ],
+        "rollTime": [
+          0.906,
+          0.719,
+          1.281,
+          0.531,
+          1.094,
+          1.844,
+          1.469,
+          0.719,
+          2.594
+        ],
+        "maxDensity": 3.67,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/World%20Keeps%20Turning/::ref/wkturn_h.png?rev=0f560109face91fffcdd4c108cadca4a&t=20260219003053"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 701,
+        "playTime": 124.96,
+        "balloon": [
+          16
+        ],
+        "rollTime": [
+          0.906,
+          0.344,
+          0.344,
+          0.344,
+          2.594
+        ],
+        "maxDensity": 5.61,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/World%20Keeps%20Turning/::ref/wkturn_m.png?rev=d5aa7d2a6237aa7e60e88719cc23fc74&t=20260219001137"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1457",
+    "order": 1396,
+    "title": "ツナガリズム",
+    "titleKo": "Tsunaga-rhythm",
+    "aliasKo": "츠나가리듬",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 140,
+      "max": 140
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "川口ケイ",
+      "川嶋志乃舞"
+    ],
+    "addedDate": 1771459200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 120,
+        "playTime": 99.36,
+        "balloon": [
+          4
+        ],
+        "rollTime": [
+          0.607,
+          0.821,
+          2.964
+        ],
+        "maxDensity": 1.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%84%E3%83%8A%E3%82%AC%E3%83%AA%E3%82%BA%E3%83%A0/::ref/tu7gar_e.png?rev=660a1896581c0e6f2ad9c64a50ad73ea&t=20260219002643"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 230,
+        "playTime": 99.36,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          0.607,
+          0.821,
+          2.964
+        ],
+        "maxDensity": 2.31,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%84%E3%83%8A%E3%82%AC%E3%83%AA%E3%82%BA%E3%83%A0/::ref/tu7gar_n.png?rev=9d19772968084617929a955ac92bc355&t=20260219002621"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 396,
+        "playTime": 99.36,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          0.607,
+          0.821,
+          2.964
+        ],
+        "maxDensity": 3.99,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%84%E3%83%8A%E3%82%AC%E3%83%AA%E3%82%BA%E3%83%A0/::ref/tu7gar_h.png?rev=baae9e3653c52b04012dd4f8d6ba7e49&t=20260219002603"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 622,
+        "playTime": 99.36,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          0.607,
+          2.964
+        ],
+        "maxDensity": 6.26,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%84%E3%83%8A%E3%82%AC%E3%83%AA%E3%82%BA%E3%83%A0/::ref/tu7gar_m.png?rev=239bd30b286e7994fddfa94c2452715a&t=20260219001534"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1453",
     "order": 1392,
     "title": "THE REVO",
@@ -2204,7 +2454,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -2356,7 +2606,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -2465,7 +2715,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "kids"
@@ -2585,7 +2835,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -2707,7 +2957,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "anime",
@@ -2830,7 +3080,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops"
@@ -3311,7 +3561,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "pops",
@@ -5264,7 +5514,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "vocaloid"
@@ -15875,7 +16125,7 @@
       "DF",
       "NS2"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "vocaloid"
@@ -59494,6 +59744,125 @@
         "dani": [],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%20%E3%83%9E%E3%83%83%E3%83%94%E3%83%BC/::ref/%E5%85%83%E3%81%8B%E3%82%89%E3%83%94%E3%82%B3%E3%81%A3%E3%81%A6%E3%82%8B%E4%BB%B62.png?rev=909dc1842cb18733068339d2d4463625&t=20230302020504"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "446",
+    "order": 260,
+    "title": "ワールズエンド・ダンスホール",
+    "titleKo": null,
+    "aliasKo": "월즈 엔드 댄스 홀",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": "World's End Dancehall",
+    "bpm": {
+      "min": 171,
+      "max": 171
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "WiiU2",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "wowaka",
+      "初音ミク、巡音ルカ"
+    ],
+    "addedDate": 1410307200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 115.09,
+        "balloon": [
+          22
+        ],
+        "rollTime": [
+          10.53
+        ],
+        "maxCombo": 147,
+        "maxDensity": 1.28,
+        "dani": [
+          {
+            "version": "murasaki",
+            "dan": "beginner",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/fumen/446/easy"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 5,
+        "playTime": 115.09,
+        "balloon": [
+          19
+        ],
+        "rollTime": [
+          9.53
+        ],
+        "maxCombo": 216,
+        "maxDensity": 1.88,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/fumen/446/normal"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 6,
+        "playTime": 115.09,
+        "rollTime": [
+          12.84
+        ],
+        "maxCombo": 361,
+        "maxDensity": 3.14,
+        "dani": [
+          {
+            "version": "blue",
+            "dan": "4kyu",
+            "order": 3
+          },
+          {
+            "version": "white",
+            "dan": "3kyu",
+            "order": 1
+          }
+        ],
+        "images": [
+          "https://file.taiko.wiki/fumen/446/hard"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 9,
+        "playTime": 115.09,
+        "rollTime": [
+          5.38
+        ],
+        "maxCombo": 700,
+        "maxDensity": 6.08,
+        "dani": [],
+        "images": [
+          "https://file.taiko.wiki/fumen/446/oni"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -105890,117 +106259,6 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "446",
-    "order": 260,
-    "title": "ワールズエンド・ダンスホール",
-    "titleKo": null,
-    "aliasKo": "월즈 엔드 댄스 홀",
-    "titleEn": null,
-    "aliasEn": null,
-    "romaji": "World's End Dancehall",
-    "bpm": {
-      "min": 171,
-      "max": 171
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "vocaloid"
-    ],
-    "artists": [
-      "wowaka",
-      "初音ミク、巡音ルカ"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 115.09,
-        "balloon": [
-          22
-        ],
-        "rollTime": [
-          10.53
-        ],
-        "maxCombo": 147,
-        "maxDensity": 1.28,
-        "dani": [
-          {
-            "version": "murasaki",
-            "dan": "beginner",
-            "order": 3
-          }
-        ],
-        "images": [
-          "https://file.taiko.wiki/fumen/446/easy"
-        ],
-        "daniUsed": 1
-      },
-      "normal": {
-        "level": 5,
-        "playTime": 115.09,
-        "balloon": [
-          19
-        ],
-        "rollTime": [
-          9.53
-        ],
-        "maxCombo": 216,
-        "maxDensity": 1.88,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/446/normal"
-        ],
-        "daniUsed": 0
-      },
-      "hard": {
-        "level": 6,
-        "playTime": 115.09,
-        "rollTime": [
-          12.84
-        ],
-        "maxCombo": 361,
-        "maxDensity": 3.14,
-        "dani": [
-          {
-            "version": "blue",
-            "dan": "4kyu",
-            "order": 3
-          },
-          {
-            "version": "white",
-            "dan": "3kyu",
-            "order": 1
-          }
-        ],
-        "images": [
-          "https://file.taiko.wiki/fumen/446/hard"
-        ],
-        "daniUsed": 1
-      },
-      "oni": {
-        "level": 9,
-        "playTime": 115.09,
-        "rollTime": [
-          5.38
-        ],
-        "maxCombo": 700,
-        "maxDensity": 6.08,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/fumen/446/oni"
-        ],
-        "daniUsed": 0
       },
       "ura": null
     },
