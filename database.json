@@ -1,5 +1,147 @@
 [
   {
+    "songNo": "1433",
+    "order": 1397,
+    "title": "Re:Play!!",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 190,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "坪井リヒト",
+      "矢野義人",
+      "ななひら",
+      "たかみつようこ"
+    ],
+    "addedDate": 1771632000000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 145,
+        "playTime": 116.39,
+        "balloon": [
+          8,
+          3,
+          3,
+          10
+        ],
+        "rollTime": [
+          2.5,
+          0.921,
+          0.921,
+          0.763,
+          0.605,
+          1.237,
+          0.763,
+          0.763,
+          0.605
+        ],
+        "maxDensity": 1.25,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Re%EF%BC%9APlay%21%21/::ref/25t1st_e.png?rev=9dc59ff95dfe6e2c929207a087cda000&t=20260221103059"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 213,
+        "playTime": 116.39,
+        "balloon": [
+          10,
+          15
+        ],
+        "rollTime": [
+          2.5,
+          1.079,
+          0.921,
+          0.921,
+          0.605,
+          0.605,
+          1.237,
+          0.921,
+          0.605,
+          0.921,
+          0.605
+        ],
+        "maxDensity": 1.83,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Re%EF%BC%9APlay%21%21/::ref/25t1st_n.png?rev=d22c184cf13cd9eb53011c3a0d9cd6f0&t=20260221102941"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 364,
+        "playTime": 116.39,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          1.079,
+          1.079,
+          0.921,
+          0.605,
+          0.605,
+          1.237,
+          0.921,
+          0.605,
+          0.921
+        ],
+        "maxDensity": 3.13,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Re%EF%BC%9APlay%21%21/::ref/25t1st_h.png?rev=b7bd7f9d75228901501eb836d5ecad96&t=20260221102821"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 625,
+        "playTime": 116.39,
+        "balloon": [
+          25
+        ],
+        "rollTime": [
+          1.079,
+          1.079,
+          0.605,
+          1.237,
+          0.921
+        ],
+        "maxDensity": 5.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Re%EF%BC%9APlay%21%21/::ref/Re%20Play%21%21_2.png?rev=3ce0b0b3118df14dbe043a8bb1718e30&t=20260221104850"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1456",
     "order": 1395,
     "title": "World Keeps Turning",
@@ -9752,7 +9894,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -126652,7 +126795,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "3DS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
