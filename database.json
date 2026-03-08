@@ -103546,6 +103546,136 @@
     "isDeleted": 0
   },
   {
+    "songNo": "1458",
+    "order": 1406,
+    "title": "闇の魂",
+    "titleKo": "야미노 타마시이",
+    "aliasKo": "어둠의 혼",
+    "titleEn": null,
+    "aliasEn": null,
+    "romaji": null,
+    "bpm": {
+      "min": 142,
+      "max": 142
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "AC12.5",
+      "AC13",
+      "AC14",
+      "WiiU3",
+      "DS2",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "矢野義人",
+      "みすみ",
+      "山本由貴子",
+      "山本由貴子",
+      "渡辺量"
+    ],
+    "addedDate": 1208995200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 122,
+        "playTime": 103.68,
+        "balloon": [
+          10,
+          12,
+          14,
+          16
+        ],
+        "rollTime": [
+          2.077,
+          1.866,
+          1.866,
+          1.866,
+          0.81
+        ],
+        "maxDensity": 1.18,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E9%97%87%E3%81%AE%E9%AD%82/::ref/ds2bs3.png?rev=61d9677b80d5e03b580944c42c9140e1&t=20230228051219"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 187,
+        "playTime": 103.68,
+        "balloon": [
+          12,
+          14,
+          16,
+          16
+        ],
+        "rollTime": [
+          2.077,
+          0.81
+        ],
+        "maxDensity": 1.8,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E9%97%87%E3%81%AE%E9%AD%82/::ref/ds2bs3.png?rev=80e95cda96948b6e0083f24d07cfe585&t=20230228051307"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 335,
+        "playTime": 103.68,
+        "balloon": [
+          16,
+          18,
+          20,
+          28,
+          16
+        ],
+        "rollTime": [
+          0.81
+        ],
+        "maxDensity": 3.23,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E9%97%87%E3%81%AE%E9%AD%82/::ref/darksoul_hard_fixed2.png?rev=af987d2ff30c8462f5cb10703655850f&t=20230228051342"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 592,
+        "playTime": 103.68,
+        "balloon": [
+          37,
+          37
+        ],
+        "rollTime": [
+          2.5
+        ],
+        "maxDensity": 5.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%97%87%E3%81%AE%E9%AD%82/::ref/ds2bs3_m_diff.png?rev=897ac18f42e5dd6485557dd88c6b317f&t=20231213002100"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "363",
     "order": 383,
     "title": "Kamikaze Remix",
