@@ -103111,7 +103111,7 @@
     "isDeleted": 0
   },
   {
-    "songNo": "TEMP",
+    "songNo": "1459",
     "order": 1411,
     "title": "ワルルーさまの歌を聴けぇ！",
     "titleKo": "Waruloo 사마노 우타오 키이테!",
@@ -103200,7 +103200,7 @@
         ]
       },
       "hard": {
-        "level": 8,
+        "level": 7,
         "isBranched": 0,
         "maxCombo": 380,
         "playTime": 117.27,
@@ -103221,7 +103221,7 @@
         ]
       },
       "oni": {
-        "level": 9,
+        "level": 8,
         "isBranched": 0,
         "maxCombo": 516,
         "playTime": 117.27,
