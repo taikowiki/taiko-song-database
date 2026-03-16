@@ -145463,7 +145463,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1167/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -145479,7 +145481,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1167/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -145495,7 +145499,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1167/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -145511,11 +145517,13 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1167/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
-    "isDeleted": 0
+    "isDeleted": 1
   },
   {
     "songNo": "1158",
