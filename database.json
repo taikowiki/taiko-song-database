@@ -1,5 +1,284 @@
 [
   {
+    "songNo": "1461",
+    "order": 1413,
+    "title": "革命道中",
+    "titleKo": "On The Way",
+    "aliasKo": "혁명도중",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 186,
+      "max": 186
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "anime"
+    ],
+    "artists": [
+      "アイナ・ジ・エンド",
+      "Shin Sakiura"
+    ],
+    "addedDate": 1774396800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 87.78,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 87.78,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 87.78,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 438,
+        "playTime": 87.78,
+        "balloon": [],
+        "rollTime": [
+          0.457,
+          0.296
+        ],
+        "maxDensity": 4.99,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD/::ref/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD_2.png?rev=699cb153d12e58c673035a5e696a13ef&t=20260325085441"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1462",
+    "order": 1414,
+    "title": "コドモオトナヒーロー (feat. 竹ぱら, しなこ, リアピ)",
+    "titleKo": "Adults Hero With a Child's Heart (feat. Takepara, Shinako, Riapi)",
+    "aliasKo": "아이 어른 히어로 (feat. 타케바라, 시나코, 리아피)",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 163,
+      "max": 163
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "kids"
+    ],
+    "artists": [
+      "原宿ヒーローズ",
+      "NOVECHIKA",
+      "野口大志",
+      "Akira Sunset"
+    ],
+    "addedDate": 1774396800000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 108.92,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 108.92,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 108.92,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 354,
+        "playTime": 108.92,
+        "balloon": [
+          36
+        ],
+        "rollTime": [
+          0.706,
+          0.89,
+          1.258,
+          1.258,
+          1.074,
+          1.074,
+          1.258
+        ],
+        "maxDensity": 3.25,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%B3%E3%83%89%E3%83%A2%E3%82%AA%E3%83%88%E3%83%8A%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%20%28feat.%20%E7%AB%B9%E3%81%B1%E3%82%89%2C%20%E3%81%97%E3%81%AA%E3%81%93%2C%20%E3%83%AA%E3%82%A2%E3%83%94%29/::ref/%E3%82%B3%E3%83%89%E3%83%A2%E3%82%AA%E3%83%88%E3%83%8A%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC.png?rev=17ecff5d3dd4c631acf842a3b2f793bc&t=20260325084148"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1463",
+    "order": 1415,
+    "title": "チェリーポップ",
+    "titleKo": "Cherry Pop",
+    "aliasKo": "체리 팝",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 192,
+      "max": 192
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "vocaloid"
+    ],
+    "artists": [
+      "DECO*27",
+      "初音ミク",
+      "しぐれうい"
+    ],
+    "addedDate": 1774396800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 70.13,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 70.13,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 70.13,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 432,
+        "playTime": 70.13,
+        "balloon": [
+          2
+        ],
+        "rollTime": [
+          0.13,
+          0.13,
+          0.13,
+          0.13,
+          0.599,
+          0.13,
+          0.13,
+          0.13,
+          0.13
+        ],
+        "maxDensity": 6.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%83%E3%83%97/::ref/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%83%E3%83%97_2.png?rev=b28906159611a372b595dd501344f09b&t=20260325090104"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "ns2_anohap",
     "order": 1407,
     "title": "ハッピーラッキーチャッピー",
@@ -1658,9 +1937,9 @@
   {
     "songNo": "1431",
     "order": 1390,
-    "title": "Aria",
+    "title": "アリア",
     "titleKo": null,
-    "aliasKo": null,
+    "aliasKo": "아리아",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -5058,6 +5337,115 @@
         "dani": [],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA-VIII%20%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB/::ref/%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB.png?rev=7a38db28584ee9adf22ba2ae7d91f39e&t=20251116072626"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1460",
+    "order": 1412,
+    "title": "クスシキ",
+    "titleKo": "KUSUSHIKI",
+    "aliasKo": "쿠스시키",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 138,
+      "max": 138
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "anime"
+    ],
+    "artists": [
+      "Mrs. GREEN APPLE",
+      "大森元貴"
+    ],
+    "addedDate": 1762387200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 65,
+        "playTime": 88.6,
+        "balloon": [
+          6,
+          6
+        ],
+        "rollTime": [
+          1.703,
+          1.051
+        ],
+        "maxDensity": 0.73,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%AF%E3%82%B9%E3%82%B7%E3%82%AD/::ref/mgaks4_e.png?rev=18ee2709a6c6383b8cc32032c4635e5b&t=20251106023502"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 97,
+        "playTime": 88.6,
+        "balloon": [
+          9,
+          9
+        ],
+        "rollTime": [
+          0.833,
+          0.833,
+          0.833,
+          0.833
+        ],
+        "maxDensity": 1.09,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%AF%E3%82%B9%E3%82%B7%E3%82%AD/::ref/mgaks4_n.png?rev=442afd67f0866106f929e5fbd8b95c50&t=20251106023325"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 240,
+        "playTime": 88.6,
+        "balloon": [
+          12,
+          12
+        ],
+        "rollTime": [],
+        "maxDensity": 2.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%AF%E3%82%B9%E3%82%B7%E3%82%AD/::ref/mgaks4_h.png?rev=c52423050e67317bab7a4ff87f5597d3&t=20251106023001"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 412,
+        "playTime": 88.6,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 4.65,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AF%E3%82%B9%E3%82%B7%E3%82%AD/::ref/mgaks4_m.png?rev=58bc11b9562c65d4cf230da04427c1b4&t=20251106020935"
         ]
       },
       "ura": null
