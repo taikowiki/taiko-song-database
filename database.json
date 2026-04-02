@@ -30,38 +30,57 @@
       "easy": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 252,
         "playTime": 104.59,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.875,
+          1.175,
+          0.875,
+          0.875,
+          0.875,
+          0.875
+        ],
+        "maxDensity": 2.41,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE2001/::ref/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE2001_e.png?rev=1459765e002f142e23d2fcedeab0dded&t=20260401181029"
+        ]
       },
       "normal": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 366,
         "playTime": 104.59,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.875,
+          1.175
+        ],
+        "maxDensity": 3.5,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE2001/::ref/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE2001_n.png?rev=11f5deec3ea3c37592de1dbe6b223a2a&t=20260401181048"
+        ]
       },
       "hard": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 489,
         "playTime": 104.59,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.875,
+          1.175
+        ],
+        "maxDensity": 4.68,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE2001/::ref/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE2001_h.png?rev=cf2b932b0c3a60bad6d7a6a2a672ccb7&t=20260401181141"
+        ]
       },
       "oni": {
         "level": 7,
@@ -23304,7 +23323,7 @@
     "order": 593,
     "title": "とける",
     "titleKo": "melting",
-    "aliasKo": "녹다",
+    "aliasKo": "토케루 / 녹다",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": "融化",
