@@ -1,5 +1,113 @@
 [
   {
+    "songNo": "temp_asobi",
+    "order": 1419,
+    "title": "あそびかた説明",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 90,
+      "max": 90
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "steμ"
+    ],
+    "addedDate": 1776297600000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 11,
+        "playTime": 64.706,
+        "balloon": [
+          7,
+          9
+        ],
+        "rollTime": [
+          1.278
+        ],
+        "maxDensity": 0.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E8%AA%AC%E6%98%8E/::ref/%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E3%82%92%E3%81%8A%E3%81%97%E3%81%88%E3%82%8B%E3%82%88.png?rev=941cff5968574e75c93f01b3fe5b2ef0&t=20260416152943"
+        ]
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 11,
+        "playTime": 64.706,
+        "balloon": [
+          7,
+          9
+        ],
+        "rollTime": [
+          1.278
+        ],
+        "maxDensity": 0.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E8%AA%AC%E6%98%8E/::ref/%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E3%82%92%E3%81%8A%E3%81%97%E3%81%88%E3%82%8B%E3%82%88.png?rev=941cff5968574e75c93f01b3fe5b2ef0&t=20260416152943"
+        ]
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 12,
+        "playTime": 64.706,
+        "balloon": [
+          7,
+          9
+        ],
+        "rollTime": [
+          1.278
+        ],
+        "maxDensity": 0.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E8%AA%AC%E6%98%8E/::ref/%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E3%82%92%E3%81%8A%E3%81%97%E3%81%88%E3%82%8B%E3%82%88.png?rev=941cff5968574e75c93f01b3fe5b2ef0&t=20260416152943"
+        ]
+      },
+      "oni": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 11,
+        "playTime": 64.706,
+        "balloon": [
+          7,
+          9
+        ],
+        "rollTime": [
+          1.278
+        ],
+        "maxDensity": 0.17,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E8%AA%AC%E6%98%8E/::ref/%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%82%E3%81%9D%E3%81%B3%E3%81%8B%E3%81%9F%E3%82%92%E3%81%8A%E3%81%97%E3%81%88%E3%82%8B%E3%82%88.png?rev=941cff5968574e75c93f01b3fe5b2ef0&t=20260416152943"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1467",
     "order": 1418,
     "title": "さいたま2001",
