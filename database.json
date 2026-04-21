@@ -3,9 +3,9 @@
     "songNo": "apr26_key1",
     "order": 1441,
     "title": "第1の鍵",
-    "titleKo": null,
+    "titleKo": "제1의 열쇠",
     "aliasKo": null,
-    "titleEn": null,
+    "titleEn": "Key No. 1",
     "aliasEn": null,
     "titleZhCN": null,
     "romaji": null,
@@ -223,9 +223,9 @@
     "songNo": "apr26_key2",
     "order": 1442,
     "title": "第2の鍵",
-    "titleKo": null,
+    "titleKo": "제2의 열쇠",
     "aliasKo": null,
-    "titleEn": null,
+    "titleEn": "Key No. 2",
     "aliasEn": null,
     "titleZhCN": null,
     "romaji": null,
@@ -490,9 +490,9 @@
     "songNo": "apr26_key3",
     "order": 1443,
     "title": "第3の鍵",
-    "titleKo": null,
+    "titleKo": "제3의 열쇠",
     "aliasKo": null,
-    "titleEn": null,
+    "titleEn": "Key No. 3",
     "aliasEn": null,
     "titleZhCN": null,
     "romaji": null,
@@ -611,7 +611,7 @@
       "hard": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 50,
         "playTime": 0,
         "balloon": [],
         "rollTime": [
@@ -667,7 +667,7 @@
       "oni": {
         "level": 2,
         "isBranched": 0,
-        "maxCombo": 0,
+        "maxCombo": 46,
         "playTime": 0,
         "balloon": [],
         "rollTime": [
@@ -727,9 +727,9 @@
     "songNo": "apr26_key4",
     "order": 1444,
     "title": "第4の鍵",
-    "titleKo": null,
+    "titleKo": "제4의 열쇠",
     "aliasKo": null,
-    "titleEn": null,
+    "titleEn": "Key No. 4",
     "aliasEn": null,
     "titleZhCN": null,
     "romaji": null,
@@ -961,7 +961,7 @@
     "songNo": "apr26_help",
     "order": 1436,
     "title": "ヘルプ・エクス・マキナ",
-    "titleKo": null,
+    "titleKo": "HELP EX MACHINA",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -1050,8 +1050,8 @@
     "songNo": "apr26_machina1",
     "order": 1437,
     "title": "エール・エクス・マキナ！(異変)",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "YELL EX MACHINA!",
+    "aliasKo": "옐 엑스 마키나!(이변)",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -1154,8 +1154,8 @@
     "songNo": "apr26_machina2",
     "order": 1438,
     "title": "ダーク・エクス・マキナ♡(異変)",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "DARK EX MACHINA♡",
+    "aliasKo": "다크 엑스 마키나♡(이변)",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -1437,7 +1437,7 @@
     "songNo": "apr26_machina3",
     "order": 1439,
     "title": "エール・エクス・◯◯◯！",
-    "titleKo": null,
+    "titleKo": "YELL EX ◯◯◯◯◯◯◯!",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -1541,7 +1541,7 @@
     "songNo": "apr26_machina4",
     "order": 1440,
     "title": "ダーク・エクス・◯◯◯♡",
-    "titleKo": null,
+    "titleKo": "DARK EX ◯◯◯◯◯◯◯♡",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -1824,8 +1824,8 @@
     "songNo": "apr26_linda",
     "order": 1431,
     "title": "リンダは今日も絶不調",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "린다와 쿄우모 젯후쵸",
+    "aliasKo": "린다는 오늘도 절부조",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -1921,8 +1921,8 @@
     "songNo": "apr26_hurtling",
     "order": 1432,
     "title": "Hurtling Boys(異変)",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "Hurtling Boys",
+    "aliasKo": "Hurtling Boys(이변)",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -2041,8 +2041,8 @@
     "songNo": "apr26_lightning",
     "order": 1433,
     "title": "Lightning Boys(異変)",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "Lightning Boys",
+    "aliasKo": "Lightning Boys(이변)",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -2481,7 +2481,7 @@
     "songNo": "apr26_fukkatsu2",
     "order": 1427,
     "title": "新・復活連打",
-    "titleKo": null,
+    "titleKo": "신 부활 연타",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -2577,7 +2577,7 @@
     "songNo": "apr26_fukkatsu",
     "order": 1428,
     "title": "復活連打",
-    "titleKo": null,
+    "titleKo": "부활 연타",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -2673,7 +2673,7 @@
     "songNo": "apr26_asobi",
     "order": 1419,
     "title": "あそびかた説明",
-    "titleKo": null,
+    "titleKo": "플레이 방법 설명",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -3231,8 +3231,8 @@
     "songNo": "1467",
     "order": 1418,
     "title": "さいたま2001",
-    "titleKo": null,
-    "aliasKo": "사이타마2001",
+    "titleKo": "사이타마 2001",
+    "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -15562,8 +15562,8 @@
     "aliasKo": "다크 엑스 마키나♡",
     "titleEn": "DARK EX MACHINA♡",
     "aliasEn": null,
-    "titleZhCN": null,
-    "romaji": "",
+    "titleZhCN": "DARK EX MACHINA♡",
+    "romaji": null,
     "bpm": {
       "min": 95,
       "max": 435
@@ -154904,11 +154904,11 @@
     "songNo": "1170",
     "order": 629,
     "title": "エール・エクス・マキナ！",
-    "titleKo": "YELL EX MAKINA!",
+    "titleKo": "YELL EX MACHINA!",
     "aliasKo": "옐 엑스 마키나!",
-    "titleEn": null,
+    "titleEn": "YELL EX MACHINA!",
     "aliasEn": null,
-    "titleZhCN": "YELL EX MAKINA!",
+    "titleZhCN": "YELL EX MACHINA!",
     "romaji": "Yell Ex Machina!",
     "bpm": {
       "min": 160,
@@ -156201,7 +156201,7 @@
     "songNo": "1157",
     "order": 637,
     "title": "リンダは今日も絶好調",
-    "titleKo": "린다와 코우모 젯코쵸",
+    "titleKo": "린다와 쿄우모 젯코쵸",
     "aliasKo": "린다는 오늘도 절호조",
     "titleEn": null,
     "aliasEn": null,
@@ -156239,7 +156239,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1157/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -156255,7 +156257,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1157/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 7,
@@ -156271,7 +156275,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1157/hard"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -156287,7 +156293,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1157/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": {
         "level": 9,
@@ -156300,7 +156308,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1157/ura"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       }
     },
     "isDeleted": 0
