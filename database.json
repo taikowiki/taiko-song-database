@@ -1,5 +1,107 @@
 [
   {
+    "songNo": "temp_CHA0Z",
+    "order": 1445,
+    "title": "Rough: CHA0Z",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 19.14,
+      "max": 333
+    },
+    "bpmShiver": 1,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Nothing But Requiem"
+    ],
+    "addedDate": 1777680000000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 987,
+        "playTime": 127.19,
+        "balloon": [
+          11
+        ],
+        "rollTime": [
+          0.139,
+          0.332,
+          0.332,
+          0.449,
+          0.801,
+          0.684,
+          0.332,
+          0.332,
+          0.332,
+          0.098,
+          0.098,
+          0.098,
+          0.332,
+          0.098,
+          0.075
+        ],
+        "maxDensity": 7.76,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_5.png?rev=1ae890cb531b831c71e4c6c914b45822&t=20260510053525",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_113-120.png?rev=03977b4d6420a151d55a0f1d325e8d61&t=20260510182305",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_113-120kakudai.png?rev=b18bd377d6cce264bd52104c1da17228&t=20260510052441"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1486",
     "order": 1441,
     "title": "第1の鍵",
@@ -3076,13 +3178,13 @@
   {
     "songNo": "1494",
     "order": 1422,
-    "title": "好きすぎて滅めつ！",
+    "title": "好きすぎて滅！",
     "titleKo": null,
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
-    "romaji": null,
+    "romaji": "Suki sugite metsu!",
     "bpm": {
       "min": 149,
       "max": 149
