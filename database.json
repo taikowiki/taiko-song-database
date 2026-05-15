@@ -30,38 +30,88 @@
       "easy": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 239,
+        "playTime": 127.128,
+        "balloon": [
+          7,
+          3,
+          3,
+          7
+        ],
+        "rollTime": [
+          0.139,
+          0.332,
+          0.332,
+          0.449,
+          0.684,
+          0.684,
+          0.332,
+          0.449
+        ],
+        "maxDensity": 1.88,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_e.png?rev=769bf0cfb4ced6443fd99829f662204f&t=20260514193805"
+        ]
       },
       "normal": {
-        "level": 6,
+        "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 462,
+        "playTime": 127.27,
+        "balloon": [
+          9,
+          4,
+          4,
+          4,
+          9
+        ],
+        "rollTime": [
+          0.139,
+          0.332,
+          0.332,
+          0.449,
+          0.684,
+          0.684,
+          0.332,
+          0.332,
+          0.332,
+          0.332,
+          0.449
+        ],
+        "maxDensity": 3.63,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_n_2.png?rev=03714cc7013e02c3f989502e541f690b&t=20260515095923"
+        ]
       },
       "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 604,
+        "playTime": 127.16,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.139,
+          0.332,
+          0.332,
+          0.449,
+          0.801,
+          0.684,
+          0.332,
+          0.332,
+          0.332,
+          0.332,
+          0.449
+        ],
+        "maxDensity": 4.75,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_h_1.png?rev=7f10444fa40a59d73b977a57de59840c&t=20260515095930"
+        ]
       },
       "oni": {
         "level": 10,
