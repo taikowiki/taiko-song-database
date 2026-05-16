@@ -112654,6 +112654,153 @@
     "isDeleted": 1
   },
   {
+    "songNo": "1468",
+    "order": 1446,
+    "title": "地獄の大王",
+    "titleKo": "지고쿠노 다이오",
+    "aliasKo": "지옥의 대왕",
+    "titleEn": "King of Hell",
+    "aliasEn": null,
+    "titleZhCN": "地獄的大王",
+    "romaji": null,
+    "bpm": {
+      "min": 75,
+      "max": 150
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "WiiU2",
+      "DS3",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "矢野義人",
+      "テノール大王",
+      "山本由貴子"
+    ],
+    "addedDate": 1277942400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 179,
+        "playTime": 128.777,
+        "balloon": [
+          16,
+          16,
+          6,
+          6,
+          8,
+          10,
+          16
+        ],
+        "rollTime": [
+          0.567,
+          0.567,
+          0.967,
+          0.967,
+          0.967,
+          0.767,
+          0.567
+        ],
+        "maxDensity": 1.39,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%9C%B0%E7%8D%84%E3%81%AE%E5%A4%A7%E7%8E%8B/::ref/taiko7377%EF%BC%954.png?rev=8fc855af9d97a2f629204f04a9ed65ba&t=20230227182232"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 230,
+        "playTime": 128.492,
+        "balloon": [
+          18,
+          18,
+          8,
+          8,
+          10,
+          12,
+          20
+        ],
+        "rollTime": [
+          0.567,
+          0.567,
+          0.9,
+          0.9,
+          0.9,
+          0.767,
+          0.567
+        ],
+        "maxDensity": 1.79,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%9C%B0%E7%8D%84%E3%81%AE%E5%A4%A7%E7%8E%8B/::ref/%E3%82%B6%E3%83%83%E3%82%B6%E3%82%B6%E3%83%83%E3%82%B6%E3%83%83.png?rev=5d7be71072e8af534917f3c152fac296&t=20230227182036"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 405,
+        "playTime": 128.165,
+        "balloon": [
+          20,
+          20,
+          10,
+          10,
+          12,
+          14,
+          22
+        ],
+        "rollTime": [
+          0.567,
+          0.567,
+          0.9,
+          0.9,
+          0.567,
+          1.167,
+          0.567,
+          0.567
+        ],
+        "maxDensity": 3.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%9C%B0%E7%8D%84%E3%81%AE%E5%A4%A7%E7%8E%8B/::ref/ds3bs3.png?rev=cc7fe2d74f0dfb4e7c04f53bac758ff3&t=20230227181751"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 765,
+        "playTime": 128.141,
+        "balloon": [
+          30,
+          16
+        ],
+        "rollTime": [
+          1.167
+        ],
+        "maxDensity": 5.97,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%9C%B0%E7%8D%84%E3%81%AE%E5%A4%A7%E7%8E%8B/::ref/ds3bs3_m.png?rev=175b65c88e19991b256c992aed7eb814&t=20230227181710"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "435",
     "order": 428,
     "title": "戦え！ T3防衛隊 ～GDI mix～",
