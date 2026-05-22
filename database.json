@@ -1,5 +1,269 @@
 [
   {
+    "songNo": "1504",
+    "order": 1447,
+    "title": "レナセールセレナーデ",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 137,
+      "max": 137
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "ももいろクローバーZ"
+    ],
+    "addedDate": 1779235200000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 408,
+        "playTime": 86.624,
+        "balloon": [
+          9,
+          3
+        ],
+        "rollTime": [
+          0.839,
+          0.839,
+          0.839,
+          0.839
+        ],
+        "maxDensity": 4.71,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%AC%E3%83%8A%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87/::ref/%E3%83%AC%E3%83%8A%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87.png?rev=86a7c0a19a2be8d7ee73c6a62965732d&t=20260520105500"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1505",
+    "order": 1448,
+    "title": "絵空事",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 200,
+      "max": 200
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime"
+    ],
+    "artists": [
+      "藍井エイル"
+    ],
+    "addedDate": 1779235200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 525,
+        "playTime": 86.207,
+        "balloon": [],
+        "rollTime": [
+          0.3
+        ],
+        "maxDensity": 6.09,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%B5%B5%E7%A9%BA%E4%BA%8B/::ref/%E7%B5%B5%E7%A9%BA%E4%BA%8B_2.png?rev=02b76c71bebde2503603beada2a8db6e&t=20260520114539"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1506",
+    "order": 1449,
+    "title": "トンツカタンタン",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": 1779235200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 564,
+        "playTime": 116.049,
+        "balloon": [
+          12,
+          15,
+          12,
+          17
+        ],
+        "rollTime": [
+          0.639,
+          1.306
+        ],
+        "maxDensity": 4.86,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%88%E3%83%B3%E3%83%84%E3%82%AB%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%B3/::ref/%E3%83%88%E3%83%B3%E3%83%84%E3%82%AB%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%B3.png?rev=a51611633d7a56bec748ca8a1797d2a8&t=20260520112802"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1470",
     "order": 1445,
     "title": "Rough: CHA0Z",
@@ -5639,7 +5903,7 @@
     "title": "アリア",
     "titleKo": null,
     "aliasKo": "아리아",
-    "titleEn": null,
+    "titleEn": "Aria",
     "aliasEn": null,
     "titleZhCN": null,
     "romaji": null,
