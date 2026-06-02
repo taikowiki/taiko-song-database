@@ -5329,8 +5329,14 @@
           0.921
         ],
         "maxDensity": 5.37,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "3dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Re%EF%BC%9APlay%21%21/::ref/Re%20Play%21%21_2.png?rev=3ce0b0b3118df14dbe043a8bb1718e30&t=20260221104850"
         ]
@@ -8002,8 +8008,14 @@
           0.42
         ],
         "maxDensity": 2.66,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "1kyu",
+            "order": 1
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%A7%E3%81%83%E3%82%93%E3%81%B4%E3%83%BC%E3%81%A7%E3%81%83%E3%82%93%E3%81%B1%E3%83%BC%EF%BC%81/::ref/dimpy_h.png?rev=5ae236d8474f94e40a89654da18f57a9&t=20251218021000"
         ]
@@ -8255,8 +8267,14 @@
           1
         ],
         "maxDensity": 1.84,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "5kyu",
+            "order": 2
+          }
+        ],
         "images": []
       },
       "hard": {
@@ -9377,8 +9395,14 @@
           2.407
         ],
         "maxDensity": 3.63,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "3kyu",
+            "order": 3
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/IRIS%20OUT/::ref/ynzirs_h.png?rev=f629bd094793f6f8e7422ec23b8704ca&t=20251204004550"
         ]
@@ -12049,8 +12073,14 @@
           1.326
         ],
         "maxDensity": 1.48,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "5kyu",
+            "order": 1
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%84%9B%E2%99%A1%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81/::ref/%E6%84%9B%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=712d5bc482bf7956cdd49973b1ceb677&t=20250801164345"
         ]
@@ -13887,8 +13917,14 @@
           0.324
         ],
         "maxDensity": 2.92,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "4kyu",
+            "order": 3
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/5a13f50f-d21c-4701-9f87-3e4f168199b5"
         ]
@@ -14851,8 +14887,14 @@
           0.472
         ],
         "maxDensity": 4.96,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "5dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/983f2162-92d1-4692-8378-c797b217ee12"
         ]
@@ -15455,8 +15497,14 @@
           0.414
         ],
         "maxDensity": 1.96,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "4kyu",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/4fbbe405-4467-4a05-a9c2-5e1e857b4754"
         ]
@@ -30673,8 +30721,14 @@
           4.79
         ],
         "maxDensity": 5.69,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "8dan",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/22031c51-b5e7-4a7c-a940-e6dd19781ff8"
         ]
@@ -34609,11 +34663,17 @@
         ],
         "maxCombo": 228,
         "maxDensity": 2.54,
-        "dani": [],
+        "dani": [
+          {
+            "version": "26",
+            "dan": "3kyu",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/12d4c1f2-add3-43a7-b396-05e0d3f33326"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "oni": {
@@ -45168,14 +45228,14 @@
         "maxDensity": 8.55,
         "dani": [
           {
-            "version": "23",
-            "dan": "tatsujin",
-            "order": 2
-          },
-          {
             "version": "green",
             "dan": "tatsujin",
             "order": 1
+          },
+          {
+            "version": "23",
+            "dan": "tatsujin",
+            "order": 2
           }
         ],
         "images": [
@@ -48781,7 +48841,7 @@
     "isDeleted": 0
   },
   {
-    "songNo": "AC_743",
+    "songNo": "743",
     "order": 1138,
     "title": "U.S.A.",
     "titleKo": null,
@@ -48891,7 +48951,7 @@
     "isDeleted": 1
   },
   {
-    "songNo": "AC_729",
+    "songNo": "729",
     "order": 1139,
     "title": "Lemon",
     "titleKo": null,
@@ -49430,14 +49490,14 @@
         "maxDensity": 2.44,
         "dani": [
           {
-            "version": "23",
-            "dan": "4kyu",
-            "order": 1
-          },
-          {
             "version": "green",
             "dan": "6kyu",
             "order": 3
+          },
+          {
+            "version": "23",
+            "dan": "4kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -49835,14 +49895,14 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "green",
-            "dan": "5kyu",
-            "order": 2
-          },
-          {
             "version": "blue",
             "dan": "5kyu",
             "order": 1
+          },
+          {
+            "version": "green",
+            "dan": "5kyu",
+            "order": 2
           }
         ],
         "images": [
@@ -50506,7 +50566,7 @@
     "isDeleted": 0
   },
   {
-    "songNo": "AC_710",
+    "songNo": "710",
     "order": 1151,
     "title": "TT -Japanese ver.-",
     "titleKo": null,
@@ -56081,12 +56141,7 @@
         "maxDensity": 8,
         "dani": [
           {
-            "version": "22",
-            "dan": "tatsujin",
-            "order": 1
-          },
-          {
-            "version": "yellow",
+            "version": "white",
             "dan": "tatsujin",
             "order": 2
           },
@@ -56096,9 +56151,14 @@
             "order": 2
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "tatsujin",
             "order": 2
+          },
+          {
+            "version": "22",
+            "dan": "tatsujin",
+            "order": 1
           }
         ],
         "images": [
@@ -56389,7 +56449,9 @@
         "maxDensity": 0.85,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8/::ref/JY%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=627fc53cc0c70634ee258f9cf8035441&t=20230301034102"
+        ]
       },
       "normal": {
         "level": 4,
@@ -56403,7 +56465,9 @@
         "maxDensity": 1.19,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8/::ref/JY%E3%81%B5%E3%81%A4%E3%81%86.png?rev=a10655492105515414cb35a6da53b8a6&t=20230301034136"
+        ]
       },
       "hard": {
         "level": 6,
@@ -56417,7 +56481,9 @@
         "maxDensity": 2.18,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8/::ref/JY%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=69be739ee27b61ac0c0e0d5490c3d9a0&t=20230301034205"
+        ]
       },
       "oni": {
         "level": 7,
@@ -56437,7 +56503,10 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8/::ref/jysuki_m.png?rev=3416b5e7045aae5a0678b00653d5e7f0&t=20240706202207",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8/::ref/jy_o2x.png?rev=7bb10553be2a2997e530b441513313ea&t=20230301034032"
+        ]
       },
       "ura": null
     },
@@ -56485,7 +56554,9 @@
         "maxDensity": 0.97,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/::ref/bnxmas_e.png?rev=d3ec87dcd59e261cec241f576c2b6f96&t=20251025145622"
+        ]
       },
       "normal": {
         "level": 4,
@@ -56499,7 +56570,9 @@
         "maxDensity": 1.41,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/::ref/%E3%81%8A%E6%AD%A3%E6%9C%88%E3%81%B5%E3%81%A4%E3%81%86.png?rev=6f3f971b3554413e54aae0d92bacf9be&t=20230226205120"
+        ]
       },
       "hard": {
         "level": 5,
@@ -56513,7 +56586,9 @@
         "maxDensity": 2.33,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/::ref/%E3%81%8A%E6%AD%A3%E6%9C%88%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=737090706b3403f8a8b48f77f443c8c1&t=20230226205150"
+        ]
       },
       "oni": {
         "level": 7,
@@ -56533,7 +56608,9 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/::ref/bnxmas_m.png?rev=3b0599a3a7daa53f0213befd9bd2b80a&t=20230226204957"
+        ]
       },
       "ura": null
     },
@@ -56886,13 +56963,13 @@
         "maxDensity": 1.86,
         "dani": [
           {
-            "version": "blue",
-            "dan": "8kyu",
+            "version": "yellow",
+            "dan": "7kyu",
             "order": 1
           },
           {
-            "version": "yellow",
-            "dan": "7kyu",
+            "version": "blue",
+            "dan": "8kyu",
             "order": 1
           }
         ],
@@ -57381,12 +57458,12 @@
         "maxDensity": 1.44,
         "dani": [
           {
-            "version": "blue",
+            "version": "yellow",
             "dan": "9kyu",
             "order": 3
           },
           {
-            "version": "yellow",
+            "version": "blue",
             "dan": "9kyu",
             "order": 3
           }
@@ -57839,7 +57916,9 @@
         "maxDensity": 1.14,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Soup/::ref/%E3%82%BD%E3%83%BC%E3%83%97%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=ece914aa97ddcf5dc7ec6e16b9185a71&t=20230225153245"
+        ]
       },
       "normal": {
         "level": 5,
@@ -57853,7 +57932,9 @@
         "maxDensity": 1.63,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Soup/::ref/%E3%82%BD%E3%83%BC%E3%83%97%E3%81%B5%E3%81%A4%E3%81%86.png?rev=11d3389281c10689a611db64d6adf076&t=20230225153319"
+        ]
       },
       "hard": {
         "level": 6,
@@ -57867,7 +57948,9 @@
         "maxDensity": 2.64,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Soup/::ref/%E3%82%BD%E3%83%BC%E3%83%97%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84_2.png?rev=156a9e5318096e484c3dc06416a29483&t=20241114072258"
+        ]
       },
       "oni": {
         "level": 8,
@@ -57887,7 +57970,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Soup/::ref/soup3.png?rev=3ab95accb88ba767df81e6ca79827fe7&t=20230225153422"
+        ]
       },
       "ura": null
     },
@@ -58660,7 +58745,7 @@
         "isBranched": 1,
         "dani": [
           {
-            "version": "20",
+            "version": "yellow",
             "dan": "tatsujin",
             "order": 1
           },
@@ -58670,7 +58755,7 @@
             "order": 2
           },
           {
-            "version": "yellow",
+            "version": "20",
             "dan": "tatsujin",
             "order": 1
           }
@@ -58900,14 +58985,14 @@
         "maxDensity": 3.4,
         "dani": [
           {
-            "version": "24",
-            "dan": "1dan",
-            "order": 2
-          },
-          {
             "version": "red",
             "dan": "2dan",
             "order": 1
+          },
+          {
+            "version": "24",
+            "dan": "1dan",
+            "order": 2
           }
         ],
         "images": [
@@ -58967,12 +59052,12 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "yellow",
+            "version": "red",
             "dan": "beginner",
             "order": 1
           },
           {
-            "version": "red",
+            "version": "yellow",
             "dan": "beginner",
             "order": 1
           }
@@ -59082,23 +59167,39 @@
         "isBranched": 0,
         "maxCombo": 63,
         "playTime": 64.62,
-        "balloon": [],
+        "balloon": [
+          5,
+          6,
+          7
+        ],
         "rollTime": [
-          4.957
+          1.239,
+          1.239,
+          1.239,
+          1.239
         ],
         "maxDensity": 0.97,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E8%8B%B1%E9%9B%84/::ref/%E3%81%82%E3%83%BC%E3%81%86%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=8f9cb727f94114485555a8a81e21f673&t=20230301003358"
+        ]
       },
       "normal": {
         "level": 3,
         "isBranched": 0,
         "maxCombo": 97,
         "playTime": 64.62,
-        "balloon": [],
+        "balloon": [
+          6,
+          8,
+          10
+        ],
         "rollTime": [
-          5.983
+          1.496,
+          1.496,
+          1.496,
+          1.496
         ],
         "maxDensity": 1.5,
         "daniUsed": 1,
@@ -59109,7 +59210,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E8%8B%B1%E9%9B%84/::ref/%E3%81%82%E3%83%BC%E3%81%86%E3%81%B5%E3%81%A4%E3%81%86.png?rev=65eb6e9f70c2fbf29c0a2551cf2095d7&t=20230301003418"
+        ]
       },
       "hard": {
         "level": 4,
@@ -59118,12 +59221,17 @@
         "playTime": 65.13,
         "balloon": [],
         "rollTime": [
-          5.983
+          1.496,
+          1.496,
+          1.496,
+          1.496
         ],
         "maxDensity": 2.61,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E8%8B%B1%E9%9B%84/::ref/%E3%81%82%E3%83%BC%E3%81%86%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=ad2cc90bafe807f6054d2c02864d4e1d&t=20230301003437"
+        ]
       },
       "oni": {
         "level": 6,
@@ -59137,7 +59245,9 @@
         "maxDensity": 3.71,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E8%8B%B1%E9%9B%84/::ref/au2.png?rev=78078ba891fb8cce5af3e052e3cb804e&t=20230301003256"
+        ]
       },
       "ura": null
     },
@@ -59187,7 +59297,9 @@
         "maxDensity": 0.45,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%81/::ref/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=074c9620c35e22dc838a7921eefd2792&t=20230301034857"
+        ]
       },
       "normal": {
         "level": 2,
@@ -59207,7 +59319,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%81/::ref/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%B5%E3%81%A4%E3%81%86.png?rev=b9c6aba113ce84602de4c3950cde8529&t=20230301034932"
+        ]
       },
       "hard": {
         "level": 3,
@@ -59221,7 +59335,9 @@
         "maxDensity": 2.35,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%81/::ref/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=a2fca64dcbcf6426ceefd96115d384fd&t=20230301035004"
+        ]
       },
       "oni": {
         "level": 6,
@@ -59235,7 +59351,9 @@
         "maxDensity": 3.7,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%81/::ref/startl.png?rev=e49a19879369e647446649ebc5df270a&t=20230301034824"
+        ]
       },
       "ura": null
     },
@@ -59525,14 +59643,14 @@
         "maxDensity": 7.14,
         "dani": [
           {
-            "version": "21",
-            "dan": "chojin",
-            "order": 1
-          },
-          {
             "version": "red",
             "dan": "chojin",
             "order": 2
+          },
+          {
+            "version": "21",
+            "dan": "chojin",
+            "order": 1
           }
         ],
         "images": [
@@ -60120,14 +60238,14 @@
         "maxDensity": 6.66,
         "dani": [
           {
-            "version": "24",
-            "dan": "9dan",
-            "order": 1
-          },
-          {
             "version": "red",
             "dan": "9dan",
             "order": 3
+          },
+          {
+            "version": "24",
+            "dan": "9dan",
+            "order": 1
           }
         ],
         "images": [
@@ -60182,7 +60300,9 @@
         "maxDensity": 1.15,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%8B%E3%81%8F%E3%81%97%E3%82%93%E7%9A%84%E2%98%86%E3%82%81%E3%81%9F%E3%81%BE%E3%82%8B%E3%81%B5%E3%81%89%EF%BD%9E%E3%81%9C%E3%81%A3%EF%BC%81/::ref/UMR_e.png?rev=d4d53d64286898bc810ec29d67e3a973&t=20230224001307"
+        ]
       },
       "normal": {
         "level": 4,
@@ -60196,7 +60316,9 @@
         "maxDensity": 1.91,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%8B%E3%81%8F%E3%81%97%E3%82%93%E7%9A%84%E2%98%86%E3%82%81%E3%81%9F%E3%81%BE%E3%82%8B%E3%81%B5%E3%81%89%EF%BD%9E%E3%81%9C%E3%81%A3%EF%BC%81/::ref/UMR_n.png?rev=32f9e41ff9320a172cbbfdf2a2f8f750&t=20230224001354"
+        ]
       },
       "hard": {
         "level": 6,
@@ -60216,7 +60338,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%8B%E3%81%8F%E3%81%97%E3%82%93%E7%9A%84%E2%98%86%E3%82%81%E3%81%9F%E3%81%BE%E3%82%8B%E3%81%B5%E3%81%89%EF%BD%9E%E3%81%9C%E3%81%A3%EF%BC%81/::ref/UMR_h.png?rev=b0f782f32da5c0a0198be1b161cf56d5&t=20230224001457"
+        ]
       },
       "oni": {
         "level": 8,
@@ -60230,7 +60354,9 @@
         "maxDensity": 4.74,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%8B%E3%81%8F%E3%81%97%E3%82%93%E7%9A%84%E2%98%86%E3%82%81%E3%81%9F%E3%81%BE%E3%82%8B%E3%81%B5%E3%81%89%EF%BD%9E%E3%81%9C%E3%81%A3%EF%BC%81/::ref/umaru_m.png?rev=6ab6d04ddbe7f1acbd636d630e3a9f69&t=20230224001539"
+        ]
       },
       "ura": null
     },
@@ -60505,12 +60631,12 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "yellow",
+            "version": "red",
             "dan": "8kyu",
             "order": 3
           },
           {
-            "version": "red",
+            "version": "yellow",
             "dan": "8kyu",
             "order": 3
           }
@@ -60641,12 +60767,12 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "yellow",
+            "version": "red",
             "dan": "7kyu",
             "order": 2
           },
           {
-            "version": "red",
+            "version": "yellow",
             "dan": "7kyu",
             "order": 2
           }
@@ -61242,14 +61368,14 @@
         "maxDensity": 6.21,
         "dani": [
           {
-            "version": "21",
-            "dan": "8dan",
-            "order": 3
-          },
-          {
             "version": "red",
             "dan": "9dan",
             "order": 2
+          },
+          {
+            "version": "21",
+            "dan": "8dan",
+            "order": 3
           }
         ],
         "images": [
@@ -61935,6 +62061,11 @@
             "version": "green",
             "dan": "2kyu",
             "order": 3
+          },
+          {
+            "version": "26",
+            "dan": "1kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -62469,14 +62600,14 @@
         "maxDensity": 4.46,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "4dan",
-            "order": 1
-          },
-          {
             "version": "white",
             "dan": "4dan",
             "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "4dan",
+            "order": 1
           }
         ],
         "images": [
@@ -62657,7 +62788,9 @@
         "maxDensity": 0.89,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/ANTI-HERO/::ref/skoant_e_2.png?rev=35ee163ee80416484fdc967a0548024b&t=20231130042439"
+        ]
       },
       "normal": {
         "level": 4,
@@ -62677,7 +62810,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/ANTI-HERO/::ref/skoant_n_2.png?rev=4f387b855b670a74b10ab9fbdb7e52c3&t=20231130041000"
+        ]
       },
       "hard": {
         "level": 6,
@@ -62697,7 +62832,9 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/ANTI-HERO/::ref/skoant_h_2.png?rev=cdd94f48fc437386d42a688d37fe1341&t=20231130002636"
+        ]
       },
       "oni": {
         "level": 8,
@@ -62711,7 +62848,9 @@
         "maxDensity": 3.4,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/ANTI-HERO/::ref/skoant_m.png?rev=6ea62815bb44ad72fb692df8df564ac4&t=20230224193232"
+        ]
       },
       "ura": {
         "level": 9,
@@ -62723,7 +62862,9 @@
         "maxDensity": 4.63,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/ANTI-HERO%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/ex_skoant.png?rev=17c1abbd8fe0ead3a4b000f3a155f447&t=20230224193121"
+        ]
       }
     },
     "isDeleted": 1
@@ -63102,7 +63243,7 @@
         "maxDensity": 1.55,
         "dani": [
           {
-            "version": "blue",
+            "version": "red",
             "dan": "8kyu",
             "order": 2
           },
@@ -63112,7 +63253,7 @@
             "order": 2
           },
           {
-            "version": "red",
+            "version": "blue",
             "dan": "8kyu",
             "order": 2
           }
@@ -63627,7 +63768,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Hard%20Knock%20Days/::ref/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=07d1befd6bb57b495ab7f5686a2b3619&t=20230228031640"
+        ]
       },
       "normal": {
         "level": 4,
@@ -63641,7 +63784,9 @@
         "maxDensity": 1.78,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Hard%20Knock%20Days/::ref/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%81%B5%E3%81%A4%E3%81%86.png?rev=a8fc7736291a8ca02864d1e128f0f120&t=20230228031718"
+        ]
       },
       "hard": {
         "level": 5,
@@ -63655,7 +63800,9 @@
         "maxDensity": 3.53,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Hard%20Knock%20Days/::ref/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=bd8ca5f0cd5e0eef2c69b47980f34560&t=20230228031804"
+        ]
       },
       "oni": {
         "level": 6,
@@ -63675,7 +63822,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Hard%20Knock%20Days/::ref/HKD_%E3%82%B4%E3%83%BC%E3%82%B4%E3%83%BC%E4%BF%AE%E6%AD%A3.png?rev=cb2232b06fb8396d9cebdaf12b6284c6&t=20230228031556"
+        ]
       },
       "ura": null
     },
@@ -63942,9 +64091,9 @@
         "maxDensity": 3.53,
         "dani": [
           {
-            "version": "yellow",
+            "version": "white",
             "dan": "2kyu",
-            "order": 2
+            "order": 1
           },
           {
             "version": "red",
@@ -63952,9 +64101,9 @@
             "order": 3
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "2kyu",
-            "order": 1
+            "order": 2
           }
         ],
         "images": [
@@ -65133,12 +65282,12 @@
         "maxDensity": 7.65,
         "dani": [
           {
-            "version": "24",
+            "version": "yellow",
             "dan": "meijin",
             "order": 1
           },
           {
-            "version": "yellow",
+            "version": "24",
             "dan": "meijin",
             "order": 1
           }
@@ -65267,14 +65416,14 @@
         "maxDensity": 3.35,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "2kyu",
-            "order": 1
-          },
-          {
             "version": "white",
             "dan": "2kyu",
             "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "2kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -65951,14 +66100,14 @@
         "maxDensity": 3.6,
         "dani": [
           {
-            "version": "20",
-            "dan": "2kyu",
-            "order": 1
-          },
-          {
             "version": "green",
             "dan": "3kyu",
             "order": 3
+          },
+          {
+            "version": "20",
+            "dan": "2kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -66313,13 +66462,13 @@
         "maxDensity": 6.86,
         "dani": [
           {
-            "version": "24",
-            "dan": "10dan",
+            "version": "white",
+            "dan": "kuroto",
             "order": 1
           },
           {
-            "version": "white",
-            "dan": "kuroto",
+            "version": "24",
+            "dan": "10dan",
             "order": 1
           }
         ],
@@ -66871,13 +67020,13 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "8kyu",
+            "version": "white",
+            "dan": "7kyu",
             "order": 1
           },
           {
-            "version": "white",
-            "dan": "7kyu",
+            "version": "yellow",
+            "dan": "8kyu",
             "order": 1
           }
         ],
@@ -67019,7 +67168,7 @@
         "maxDensity": 5.55,
         "dani": [
           {
-            "version": "yellow",
+            "version": "white",
             "dan": "3dan",
             "order": 3
           },
@@ -67029,7 +67178,7 @@
             "order": 2
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "3dan",
             "order": 3
           }
@@ -67706,7 +67855,7 @@
         "maxDensity": 3.91,
         "dani": [
           {
-            "version": "green",
+            "version": "white",
             "dan": "1kyu",
             "order": 2
           },
@@ -67716,7 +67865,7 @@
             "order": 2
           },
           {
-            "version": "white",
+            "version": "green",
             "dan": "1kyu",
             "order": 2
           }
@@ -67748,6 +67897,11 @@
             "version": "yellow",
             "dan": "4dan",
             "order": 3
+          },
+          {
+            "version": "26",
+            "dan": "7dan",
+            "order": 1
           }
         ],
         "images": [
@@ -69017,23 +69171,44 @@
         "isBranched": 0,
         "maxCombo": 88,
         "playTime": 87.97,
-        "balloon": [],
+        "balloon": [
+          10,
+          10,
+          10,
+          8
+        ],
         "rollTime": [
-          6.767
+          0.767,
+          0.967,
+          0.767,
+          0.967,
+          0.967,
+          0.967,
+          1.367
         ],
         "maxDensity": 1,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Daydream%20caf%C3%A9/::ref/%E3%81%94%E3%81%A1%E3%81%86%E3%81%95%E7%B0%A1%E6%B0%91.png?rev=ce23dcc0b39a27728ef77a3e4c016d4f&t=20230220214112"
+        ]
       },
       "normal": {
         "level": 5,
         "isBranched": 0,
         "maxCombo": 160,
         "playTime": 87.97,
-        "balloon": [],
+        "balloon": [
+          7,
+          7
+        ],
         "rollTime": [
-          5.4
+          0.567,
+          0.567,
+          0.567,
+          0.967,
+          1.367,
+          1.367
         ],
         "maxDensity": 1.82,
         "daniUsed": 1,
@@ -69044,7 +69219,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Daydream%20caf%C3%A9/::ref/%E3%81%94%E3%81%A1%E3%81%86%E3%81%95%E6%99%AE%E6%B0%91.png?rev=3744655f780bfbf448910f495a8fc823&t=20230220214212"
+        ]
       },
       "hard": {
         "level": 6,
@@ -69053,7 +69230,8 @@
         "playTime": 87.97,
         "balloon": [],
         "rollTime": [
-          1.633
+          0.767,
+          0.967
         ],
         "maxDensity": 3.43,
         "daniUsed": 1,
@@ -69064,7 +69242,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Daydream%20caf%C3%A9/::ref/%E3%81%94%E3%81%A1%E3%81%86%E3%81%95%E9%9B%A3%E6%B0%91.png?rev=8fc31917be9a87f709cf833ac1bf9fad&t=20230220214332"
+        ]
       },
       "oni": {
         "level": 7,
@@ -69078,7 +69258,9 @@
         "maxDensity": 4.22,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Daydream%20caf%C3%A9/::ref/5tiusa_m.png?rev=3d307894cd75240796c13e1d798d2f49&t=20230220214415"
+        ]
       },
       "ura": null
     },
@@ -69540,14 +69722,14 @@
         "maxDensity": 7.37,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "kuroto",
-            "order": 1
-          },
-          {
             "version": "white",
             "dan": "kuroto",
             "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "kuroto",
+            "order": 1
           }
         ],
         "images": [
@@ -69776,14 +69958,14 @@
         "maxDensity": 1.3,
         "dani": [
           {
-            "version": "red",
-            "dan": "9kyu",
-            "order": 1
-          },
-          {
             "version": "white",
             "dan": "9kyu",
             "order": 2
+          },
+          {
+            "version": "red",
+            "dan": "9kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -69924,9 +70106,9 @@
         "maxDensity": 2.63,
         "dani": [
           {
-            "version": "yellow",
+            "version": "white",
             "dan": "6kyu",
-            "order": 3
+            "order": 2
           },
           {
             "version": "red",
@@ -69934,9 +70116,9 @@
             "order": 1
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "6kyu",
-            "order": 2
+            "order": 3
           }
         ],
         "images": [
@@ -70938,12 +71120,12 @@
         "maxDensity": 4.69,
         "dani": [
           {
-            "version": "yellow",
+            "version": "white",
             "dan": "8dan",
             "order": 2
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "8dan",
             "order": 2
           }
@@ -71095,14 +71277,14 @@
         "maxDensity": 6.02,
         "dani": [
           {
-            "version": "white",
-            "dan": "7dan",
-            "order": 3
-          },
-          {
             "version": "murasaki",
             "dan": "7dan",
             "order": 2
+          },
+          {
+            "version": "white",
+            "dan": "7dan",
+            "order": 3
           }
         ],
         "images": [
@@ -71546,11 +71728,17 @@
         "playTime": 116.77,
         "maxCombo": 773,
         "maxDensity": 6.62,
-        "dani": [],
+        "dani": [
+          {
+            "version": "26",
+            "dan": "6dan",
+            "order": 1
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%99%82%E7%A9%BA%E5%BA%81%E6%8D%9C%E6%9F%BB2%E8%AA%B2/::ref/%E6%8D%9C%E6%9F%BB2%E8%AA%B2%E3%80%80%E8%A8%82.png?rev=78b3e1e16707c085914889394d2b6e0a&t=20230226112511"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": null
@@ -72732,7 +72920,12 @@
         "maxDensity": 7.78,
         "dani": [
           {
-            "version": "yellow",
+            "version": "murasaki",
+            "dan": "9dan",
+            "order": 3
+          },
+          {
+            "version": "white",
             "dan": "9dan",
             "order": 3
           },
@@ -72742,14 +72935,14 @@
             "order": 1
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "9dan",
             "order": 3
           },
           {
-            "version": "murasaki",
+            "version": "26",
             "dan": "9dan",
-            "order": 3
+            "order": 1
           }
         ],
         "images": [
@@ -72809,7 +73002,9 @@
         "maxDensity": 1.21,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Highschool%20love%21/::ref/hisch_e.png?rev=8703fbc21d7faed7928c23a94acd2077&t=20230220215641"
+        ]
       },
       "normal": {
         "level": 4,
@@ -72824,17 +73019,19 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "red",
-            "dan": "9kyu",
-            "order": 2
-          },
-          {
             "version": "white",
             "dan": "9kyu",
             "order": 3
+          },
+          {
+            "version": "red",
+            "dan": "9kyu",
+            "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Highschool%20love%21/::ref/hisch_n.png?rev=71e6d89a8afe16f2e9b4dd5e92df7501&t=20230220215714"
+        ]
       },
       "hard": {
         "level": 6,
@@ -72848,7 +73045,9 @@
         "maxDensity": 2.65,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Highschool%20love%21/::ref/hisch_h.png?rev=d3ec487bc85697665863cfa8f35160ef&t=20230220220315"
+        ]
       },
       "oni": {
         "level": 7,
@@ -72862,7 +73061,9 @@
         "maxDensity": 3.77,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Highschool%20love%21/::ref/tekwiu_m.png?rev=d84832a3fc30910055b04badc3e29ab9&t=20230220220205"
+        ]
       },
       "ura": null
     },
@@ -73268,14 +73469,14 @@
         "maxDensity": 1.93,
         "dani": [
           {
-            "version": "white",
-            "dan": "5kyu",
-            "order": 3
-          },
-          {
             "version": "murasaki",
             "dan": "5kyu",
             "order": 1
+          },
+          {
+            "version": "white",
+            "dan": "5kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -74046,14 +74247,14 @@
         "maxDensity": 5.71,
         "dani": [
           {
-            "version": "green",
-            "dan": "8dan",
-            "order": 2
-          },
-          {
             "version": "murasaki",
             "dan": "7dan",
             "order": 3
+          },
+          {
+            "version": "green",
+            "dan": "8dan",
+            "order": 2
           }
         ],
         "images": [
@@ -75332,7 +75533,7 @@
     "isDeleted": 0
   },
   {
-    "songNo": "AC_129",
+    "songNo": "129",
     "order": 1181,
     "title": "Du-Du-Wa DO IT!!",
     "titleKo": null,
@@ -75375,7 +75576,9 @@
         "maxDensity": 0.88,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Du-Du-Wa%20DO%20IT%21%21/::ref/Du-Du-Wa%20DO%20IT%21%21%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=e2d8cda41cc828e4a3c55b357737d95f&t=20230228024742"
+        ]
       },
       "normal": {
         "level": 3,
@@ -75389,7 +75592,9 @@
         "maxDensity": 1.13,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Du-Du-Wa%20DO%20IT%21%21/::ref/Du-Du-Wa%20DO%20IT%21%21%E3%81%B5%E3%81%A4%E3%81%86.png?rev=6d1e1c365c853a55ba53be856c8aca91&t=20230228024816"
+        ]
       },
       "hard": {
         "level": 7,
@@ -75403,7 +75608,9 @@
         "maxDensity": 2.72,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Du-Du-Wa%20DO%20IT%21%21/::ref/Du-Du-Wa%20DO%20IT%21%21%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=208b4832fd08db68ca96577a6e024919&t=20230228024832"
+        ]
       },
       "oni": {
         "level": 7,
@@ -75418,17 +75625,19 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "red",
-            "dan": "2dan",
-            "order": 2
-          },
-          {
             "version": "white",
             "dan": "4dan",
             "order": 1
+          },
+          {
+            "version": "red",
+            "dan": "2dan",
+            "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Du-Du-Wa%20DO%20IT%21%21/::ref/duduwa_m2.png?rev=69af4d8bcc506d1d98cc59f6ae597f9c&t=20230228024859"
+        ]
       },
       "ura": null
     },
@@ -76207,14 +76416,14 @@
         "maxDensity": 3.22,
         "dani": [
           {
-            "version": "blue",
-            "dan": "4kyu",
-            "order": 3
-          },
-          {
             "version": "white",
             "dan": "3kyu",
             "order": 1
+          },
+          {
+            "version": "blue",
+            "dan": "4kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -76535,7 +76744,9 @@
         "maxDensity": 1.36,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%96%A7%E5%98%A9%E4%B8%8A%E7%AD%89/::ref/joutou_e.png?rev=98d2a057912199bf8d358c683b7943da&t=20230226224413"
+        ]
       },
       "normal": {
         "level": 4,
@@ -76555,7 +76766,9 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%96%A7%E5%98%A9%E4%B8%8A%E7%AD%89/::ref/joutou_n.png?rev=ce7b159b805999b4c04750b77c8ba41b&t=20230226224603"
+        ]
       },
       "hard": {
         "level": 5,
@@ -76575,7 +76788,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%96%A7%E5%98%A9%E4%B8%8A%E7%AD%89/::ref/joutou_h.png?rev=d822d89d0554eedf396252443ef74a2d&t=20230226224639"
+        ]
       },
       "oni": {
         "level": 8,
@@ -76589,7 +76804,9 @@
         "maxDensity": 4.53,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%96%A7%E5%98%A9%E4%B8%8A%E7%AD%89/::ref/kenkaj_m.png?rev=daa3a72c22e1e3576b027693e76ff870&t=20240706202057"
+        ]
       },
       "ura": null
     },
@@ -76640,7 +76857,9 @@
         "maxDensity": 1.55,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/FUTURE%20FISH/::ref/ffish_e.png?rev=81586ccadee40f1da20d2ce014eda226&t=20230228034447"
+        ]
       },
       "normal": {
         "level": 5,
@@ -76654,7 +76873,9 @@
         "maxDensity": 2.22,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/FUTURE%20FISH/::ref/ffish_n.png?rev=3e63f4bee5248497888ede61ece54457&t=20230228034510"
+        ]
       },
       "hard": {
         "level": 5,
@@ -76674,7 +76895,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/FUTURE%20FISH/::ref/ffish_h.png?rev=61cd32acd9fca58ac2c9fe9076b1cd74&t=20230228034530"
+        ]
       },
       "oni": {
         "level": 6,
@@ -76688,7 +76911,9 @@
         "maxDensity": 4.18,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/FUTURE%20FISH/::ref/ffish_o.png?rev=47385adefb0740ba5b80f18a5eaff0e9&t=20230228034554"
+        ]
       },
       "ura": null
     },
@@ -76789,19 +77014,9 @@
         "maxDensity": 8.22,
         "dani": [
           {
-            "version": "green",
+            "version": "kimidori",
             "dan": "tatsujin",
             "order": 2
-          },
-          {
-            "version": "red",
-            "dan": "tatsujin",
-            "order": 1
-          },
-          {
-            "version": "white",
-            "dan": "tatsujin",
-            "order": 1
           },
           {
             "version": "murasaki",
@@ -76809,7 +77024,17 @@
             "order": 2
           },
           {
-            "version": "kimidori",
+            "version": "white",
+            "dan": "tatsujin",
+            "order": 1
+          },
+          {
+            "version": "red",
+            "dan": "tatsujin",
+            "order": 1
+          },
+          {
+            "version": "green",
             "dan": "tatsujin",
             "order": 2
           }
@@ -76939,14 +77164,14 @@
         "maxDensity": 6.02,
         "dani": [
           {
-            "version": "20",
-            "dan": "5dan",
-            "order": 3
-          },
-          {
             "version": "red",
             "dan": "7dan",
             "order": 1
+          },
+          {
+            "version": "20",
+            "dan": "5dan",
+            "order": 3
           }
         ],
         "images": [
@@ -77583,9 +77808,9 @@
         "maxDensity": 1.97,
         "dani": [
           {
-            "version": "red",
-            "dan": "9kyu",
-            "order": 3
+            "version": "murasaki",
+            "dan": "8kyu",
+            "order": 1
           },
           {
             "version": "white",
@@ -77593,9 +77818,9 @@
             "order": 2
           },
           {
-            "version": "murasaki",
-            "dan": "8kyu",
-            "order": 1
+            "version": "red",
+            "dan": "9kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -78053,14 +78278,14 @@
         "maxDensity": 5.73,
         "dani": [
           {
-            "version": "red",
-            "dan": "8dan",
-            "order": 3
-          },
-          {
             "version": "white",
             "dan": "9dan",
             "order": 1
+          },
+          {
+            "version": "red",
+            "dan": "8dan",
+            "order": 3
           }
         ],
         "images": [
@@ -78627,14 +78852,14 @@
         "maxDensity": 1.7,
         "dani": [
           {
-            "version": "22",
-            "dan": "5kyu",
-            "order": 1
-          },
-          {
             "version": "blue",
             "dan": "7kyu",
             "order": 2
+          },
+          {
+            "version": "22",
+            "dan": "5kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -78814,9 +79039,9 @@
         "maxDensity": 4.58,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "6dan",
-            "order": 2
+            "version": "white",
+            "dan": "7dan",
+            "order": 1
           },
           {
             "version": "red",
@@ -78824,9 +79049,9 @@
             "order": 2
           },
           {
-            "version": "white",
-            "dan": "7dan",
-            "order": 1
+            "version": "yellow",
+            "dan": "6dan",
+            "order": 2
           }
         ],
         "images": [
@@ -79418,12 +79643,12 @@
         "maxDensity": 3.35,
         "dani": [
           {
-            "version": "22",
+            "version": "yellow",
             "dan": "1dan",
             "order": 1
           },
           {
-            "version": "yellow",
+            "version": "22",
             "dan": "1dan",
             "order": 1
           }
@@ -79559,7 +79784,7 @@
         "maxDensity": 7.86,
         "dani": [
           {
-            "version": "green",
+            "version": "murasaki",
             "dan": "meijin",
             "order": 1
           },
@@ -79569,7 +79794,7 @@
             "order": 1
           },
           {
-            "version": "murasaki",
+            "version": "green",
             "dan": "meijin",
             "order": 1
           }
@@ -80429,13 +80654,13 @@
         "maxDensity": 5.43,
         "dani": [
           {
-            "version": "green",
-            "dan": "7dan",
+            "version": "murasaki",
+            "dan": "6dan",
             "order": 2
           },
           {
-            "version": "murasaki",
-            "dan": "6dan",
+            "version": "green",
+            "dan": "7dan",
             "order": 2
           }
         ],
@@ -80652,9 +80877,9 @@
         "maxDensity": 1.02,
         "dani": [
           {
-            "version": "yellow",
+            "version": "kimidori",
             "dan": "10kyu",
-            "order": 1
+            "order": 2
           },
           {
             "version": "murasaki",
@@ -80662,9 +80887,9 @@
             "order": 2
           },
           {
-            "version": "kimidori",
+            "version": "yellow",
             "dan": "10kyu",
-            "order": 2
+            "order": 1
           }
         ],
         "images": [
@@ -80781,23 +81006,43 @@
         "isBranched": 0,
         "maxCombo": 70,
         "playTime": 76.66,
-        "balloon": [],
+        "balloon": [
+          6,
+          18
+        ],
         "rollTime": [
-          7.844
+          2.219,
+          1.656,
+          1.094,
+          1.094,
+          0.719,
+          0.719,
+          0.719
         ],
         "maxDensity": 0.91,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%AD%E3%83%9F%E3%81%AB100%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88/::ref/kim100_fix.png?rev=c07581e9b58966e122ac27cf5880c9c1&t=20230225225238"
+        ]
       },
       "normal": {
         "level": 3,
         "isBranched": 0,
         "maxCombo": 108,
         "playTime": 76.66,
-        "balloon": [],
+        "balloon": [
+          9,
+          28
+        ],
         "rollTime": [
-          8.219
+          2.219,
+          1.656,
+          1.094,
+          1.094,
+          0.719,
+          0.719,
+          0.719
         ],
         "maxDensity": 1.41,
         "daniUsed": 1,
@@ -80808,35 +81053,47 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%AD%E3%83%9F%E3%81%AB100%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88/::ref/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3_%E3%81%B5%E3%81%A4%E3%81%86.png?rev=faee4f1617eb3da1949ced41f51f2c89&t=20230225225314"
+        ]
       },
       "hard": {
         "level": 5,
         "isBranched": 0,
         "maxCombo": 230,
         "playTime": 76.66,
-        "balloon": [],
+        "balloon": [
+          38
+        ],
         "rollTime": [
-          2.188
+          1.094,
+          1.094
         ],
         "maxDensity": 3,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%AD%E3%83%9F%E3%81%AB100%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88/::ref/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=187a7cea6a6cd89c227f609c7254f24f&t=20230225225345"
+        ]
       },
       "oni": {
         "level": 5,
         "isBranched": 0,
         "maxCombo": 302,
         "playTime": 76.66,
-        "balloon": [],
+        "balloon": [
+          1.094,
+          1.094
+        ],
         "rollTime": [
-          2.188
+          4
         ],
         "maxDensity": 3.94,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AD%E3%83%9F%E3%81%AB100%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88/::ref/%E3%82%AD%E3%83%9F%E3%81%AB100%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88.png?rev=c10c7c1cda08836b67f59a460a540113&t=20230225225157"
+        ]
       },
       "ura": null
     },
@@ -81094,8 +81351,8 @@
         "maxDensity": 2.04,
         "dani": [
           {
-            "version": "20",
-            "dan": "5kyu",
+            "version": "yellow",
+            "dan": "6kyu",
             "order": 2
           },
           {
@@ -81104,8 +81361,8 @@
             "order": 1
           },
           {
-            "version": "yellow",
-            "dan": "6kyu",
+            "version": "20",
+            "dan": "5kyu",
             "order": 2
           }
         ],
@@ -81278,17 +81535,7 @@
         "maxDensity": 10.5,
         "dani": [
           {
-            "version": "20",
-            "dan": "tatsujin",
-            "order": 2
-          },
-          {
-            "version": "red",
-            "dan": "tatsujin",
-            "order": 3
-          },
-          {
-            "version": "white",
+            "version": "kimidori",
             "dan": "tatsujin",
             "order": 3
           },
@@ -81298,9 +81545,19 @@
             "order": 3
           },
           {
-            "version": "kimidori",
+            "version": "white",
             "dan": "tatsujin",
             "order": 3
+          },
+          {
+            "version": "red",
+            "dan": "tatsujin",
+            "order": 3
+          },
+          {
+            "version": "20",
+            "dan": "tatsujin",
+            "order": 2
           }
         ],
         "images": [
@@ -82289,12 +82546,12 @@
         "maxDensity": 4.49,
         "dani": [
           {
-            "version": "yellow",
+            "version": "white",
             "dan": "9dan",
             "order": 2
           },
           {
-            "version": "white",
+            "version": "yellow",
             "dan": "9dan",
             "order": 2
           },
@@ -82910,12 +83167,12 @@
         "maxDensity": 3.33,
         "dani": [
           {
-            "version": "blue",
+            "version": "kimidori",
             "dan": "3kyu",
             "order": 2
           },
           {
-            "version": "kimidori",
+            "version": "blue",
             "dan": "3kyu",
             "order": 2
           }
@@ -83092,9 +83349,9 @@
         "maxDensity": 3.43,
         "dani": [
           {
-            "version": "20",
-            "dan": "2kyu",
-            "order": 2
+            "version": "murasaki",
+            "dan": "1kyu",
+            "order": 3
           },
           {
             "version": "green",
@@ -83102,9 +83359,9 @@
             "order": 1
           },
           {
-            "version": "murasaki",
-            "dan": "1kyu",
-            "order": 3
+            "version": "20",
+            "dan": "2kyu",
+            "order": 2
           }
         ],
         "images": [
@@ -83358,8 +83615,8 @@
         "maxDensity": 2.34,
         "dani": [
           {
-            "version": "21",
-            "dan": "5kyu",
+            "version": "momoiro",
+            "dan": "3kyu",
             "order": 2
           },
           {
@@ -83368,8 +83625,8 @@
             "order": 2
           },
           {
-            "version": "momoiro",
-            "dan": "3kyu",
+            "version": "21",
+            "dan": "5kyu",
             "order": 2
           }
         ],
@@ -83393,9 +83650,9 @@
         "maxDensity": 3.74,
         "dani": [
           {
-            "version": "red",
-            "dan": "4kyu",
-            "order": 2
+            "version": "kimidori",
+            "dan": "3kyu",
+            "order": 1
           },
           {
             "version": "white",
@@ -83403,9 +83660,9 @@
             "order": 3
           },
           {
-            "version": "kimidori",
-            "dan": "3kyu",
-            "order": 1
+            "version": "red",
+            "dan": "4kyu",
+            "order": 2
           }
         ],
         "images": [
@@ -84723,14 +84980,14 @@
         "maxDensity": 6.59,
         "dani": [
           {
-            "version": "21",
-            "dan": "7dan",
-            "order": 1
-          },
-          {
             "version": "white",
             "dan": "7dan",
             "order": 2
+          },
+          {
+            "version": "21",
+            "dan": "7dan",
+            "order": 1
           }
         ],
         "images": [
@@ -84846,19 +85103,9 @@
         "maxDensity": 5.6,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "6dan",
-            "order": 1
-          },
-          {
-            "version": "red",
-            "dan": "6dan",
+            "version": "kimidori",
+            "dan": "5dan",
             "order": 2
-          },
-          {
-            "version": "white",
-            "dan": "6dan",
-            "order": 3
           },
           {
             "version": "murasaki",
@@ -84866,9 +85113,19 @@
             "order": 3
           },
           {
-            "version": "kimidori",
-            "dan": "5dan",
+            "version": "white",
+            "dan": "6dan",
+            "order": 3
+          },
+          {
+            "version": "red",
+            "dan": "6dan",
             "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "6dan",
+            "order": 1
           }
         ],
         "images": [
@@ -85027,7 +85284,9 @@
         "maxDensity": 1.23,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%9E%E3%82%B8LOVE2000%25/::ref/2000%25_e.png?rev=e308451f01bbcd1b7f6a181e6e499569&t=20230301034608"
+        ]
       },
       "normal": {
         "level": 5,
@@ -85041,7 +85300,9 @@
         "maxDensity": 1.63,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%9E%E3%82%B8LOVE2000%25/::ref/2000%25_n.png?rev=772f3c7d4d7c20d8ba1fa705d37f2f8b&t=20230301034652"
+        ]
       },
       "hard": {
         "level": 5,
@@ -85061,7 +85322,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%9E%E3%82%B8LOVE2000%25/::ref/2000%25_h.png?rev=8072747ac7e96fe48d9d79d6b4dd049f&t=20230301034804"
+        ]
       },
       "oni": {
         "level": 8,
@@ -85075,7 +85338,9 @@
         "maxDensity": 4.79,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%9E%E3%82%B8LOVE2000%25/::ref/mlov2k_m.png?rev=cc4447300081a62111b364df345d6d42&t=20230301034521"
+        ]
       },
       "ura": null
     },
@@ -85672,13 +85937,8 @@
         "maxDensity": 7.96,
         "dani": [
           {
-            "version": "red",
-            "dan": "10dan",
-            "order": 3
-          },
-          {
-            "version": "white",
-            "dan": "10dan",
+            "version": "kimidori",
+            "dan": "9dan",
             "order": 3
           },
           {
@@ -85687,8 +85947,13 @@
             "order": 1
           },
           {
-            "version": "kimidori",
-            "dan": "9dan",
+            "version": "white",
+            "dan": "10dan",
+            "order": 3
+          },
+          {
+            "version": "red",
+            "dan": "10dan",
             "order": 3
           }
         ],
@@ -85910,13 +86175,13 @@
         "maxDensity": 1.98,
         "dani": [
           {
-            "version": "green",
-            "dan": "6kyu",
+            "version": "momoiro",
+            "dan": "3kyu",
             "order": 1
           },
           {
-            "version": "momoiro",
-            "dan": "3kyu",
+            "version": "green",
+            "dan": "6kyu",
             "order": 1
           }
         ],
@@ -85943,12 +86208,12 @@
         "maxDensity": 3.38,
         "dani": [
           {
-            "version": "blue",
+            "version": "murasaki",
             "dan": "3kyu",
             "order": 1
           },
           {
-            "version": "murasaki",
+            "version": "blue",
             "dan": "3kyu",
             "order": 1
           }
@@ -87675,14 +87940,14 @@
         "maxDensity": 6.91,
         "dani": [
           {
-            "version": "24",
-            "dan": "kuroto",
-            "order": 2
-          },
-          {
             "version": "murasaki",
             "dan": "10dan",
             "order": 1
+          },
+          {
+            "version": "24",
+            "dan": "kuroto",
+            "order": 2
           }
         ],
         "images": [
@@ -88051,14 +88316,14 @@
         "maxDensity": 7.03,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "10dan",
-            "order": 1
-          },
-          {
             "version": "momoiro",
             "dan": "9dan",
             "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "10dan",
+            "order": 1
           }
         ],
         "images": [
@@ -88188,12 +88453,12 @@
         "maxDensity": 6.89,
         "dani": [
           {
-            "version": "blue",
+            "version": "murasaki",
             "dan": "8dan",
             "order": 1
           },
           {
-            "version": "murasaki",
+            "version": "blue",
             "dan": "8dan",
             "order": 1
           }
@@ -88319,13 +88584,13 @@
         "maxDensity": 6.09,
         "dani": [
           {
-            "version": "blue",
-            "dan": "chojin",
+            "version": "kimidori",
+            "dan": "10dan",
             "order": 2
           },
           {
-            "version": "kimidori",
-            "dan": "10dan",
+            "version": "blue",
+            "dan": "chojin",
             "order": 2
           }
         ],
@@ -88854,13 +89119,13 @@
         "maxDensity": 6.13,
         "dani": [
           {
-            "version": "22",
-            "dan": "5dan",
+            "version": "red",
+            "dan": "6dan",
             "order": 3
           },
           {
-            "version": "red",
-            "dan": "6dan",
+            "version": "22",
+            "dan": "5dan",
             "order": 3
           }
         ],
@@ -89943,7 +90208,9 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%A4%9C%E5%92%84%E3%83%87%E3%82%A3%E3%82%BB%E3%82%A4%E3%83%96/::ref/yobanashi_e.png?rev=e9653eed750efc518cf589d500fc3e8c&t=20230227213306"
+        ]
       },
       "normal": {
         "level": 4,
@@ -89957,7 +90224,9 @@
         "maxDensity": 1.69,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%A4%9C%E5%92%84%E3%83%87%E3%82%A3%E3%82%BB%E3%82%A4%E3%83%96/::ref/yobanashi_n2.png?rev=a173ba3fee77d84ca1cf48b1ca88024e&t=20230227213753"
+        ]
       },
       "hard": {
         "level": 6,
@@ -89977,7 +90246,9 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%A4%9C%E5%92%84%E3%83%87%E3%82%A3%E3%82%BB%E3%82%A4%E3%83%96/::ref/yobanashi_h2.png?rev=8bfc361553555c342ad8e542da5d8172&t=20230227213925"
+        ]
       },
       "oni": {
         "level": 9,
@@ -89991,7 +90262,9 @@
         "maxDensity": 5.44,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%9C%E5%92%84%E3%83%87%E3%82%A3%E3%82%BB%E3%82%A4%E3%83%96/::ref/iaybns_m.png?rev=51ca07adbb950d06195927e300504f21&t=20230227214105"
+        ]
       },
       "ura": null
     },
@@ -90038,7 +90311,9 @@
         "maxDensity": 1.31,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%BB%B6%E5%91%BD%E6%B2%BB%E7%99%82/::ref/enmei_e.png?rev=b0e4c4fdb69b09b1fe789d9d9a24b967&t=20230225170314"
+        ]
       },
       "normal": {
         "level": 5,
@@ -90052,7 +90327,9 @@
         "maxDensity": 1.7,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%BB%B6%E5%91%BD%E6%B2%BB%E7%99%82/::ref/enmei_n.png?rev=e3bb88865867f215564fa8d89309e45d&t=20230225170354"
+        ]
       },
       "hard": {
         "level": 6,
@@ -90072,7 +90349,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%BB%B6%E5%91%BD%E6%B2%BB%E7%99%82/::ref/enmei_h.png?rev=91bfadc7aa5adabf9c85e53c9eabf885&t=20230225170435"
+        ]
       },
       "oni": {
         "level": 8,
@@ -90086,7 +90365,9 @@
         "maxDensity": 4.6,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%BB%B6%E5%91%BD%E6%B2%BB%E7%99%82/::ref/iaenme.png?rev=808658dec4678a1f3f1fa04802a6f66f&t=20230225170138"
+        ]
       },
       "ura": null
     },
@@ -91601,7 +91882,9 @@
         "maxDensity": 0,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/::ref/children_e.png?rev=ea785d258bf9b38a685149cb8f0b8944&t=20230227212448"
+        ]
       },
       "normal": {
         "level": 6,
@@ -91616,7 +91899,7 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "red",
+            "version": "murasaki",
             "dan": "6kyu",
             "order": 3
           },
@@ -91626,12 +91909,14 @@
             "order": 3
           },
           {
-            "version": "murasaki",
+            "version": "red",
             "dan": "6kyu",
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/::ref/chirec_n.png?rev=f690e14157d4bdf4adf78f41190a2c07&t=20230227212622"
+        ]
       },
       "hard": {
         "level": 6,
@@ -91645,7 +91930,9 @@
         "maxDensity": 3.51,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/::ref/chirec_h.png?rev=142a8597fc09320ae118da3e682e1ef1&t=20230227212756"
+        ]
       },
       "oni": {
         "level": 9,
@@ -91657,7 +91944,9 @@
         "maxDensity": 5.58,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89/::ref/iachil_m.png?rev=d019ed999801f282aa09b7722d80df2d&t=20230227212917"
+        ]
       },
       "ura": null
     },
@@ -91841,7 +92130,9 @@
         "maxDensity": 1.57,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E4%BA%BA%E7%94%9F%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%83%9C%E3%82%BF%E3%83%B3/::ref/reset_e.png?rev=5c7517e6022fb381aecc01ee52ca0789&t=20230226180111"
+        ]
       },
       "normal": {
         "level": 6,
@@ -91861,7 +92152,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E4%BA%BA%E7%94%9F%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%83%9C%E3%82%BF%E3%83%B3/::ref/reset_n.png?rev=d31508d34d07d194615d0b78d87f1c25&t=20230226180200"
+        ]
       },
       "hard": {
         "level": 6,
@@ -91875,7 +92168,9 @@
         "maxDensity": 3.74,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E4%BA%BA%E7%94%9F%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%83%9C%E3%82%BF%E3%83%B3/::ref/jinsei_h.png?rev=a836b15e4f6ff0fbb58963b540d3610b&t=20230226180255"
+        ]
       },
       "oni": {
         "level": 9,
@@ -91889,7 +92184,9 @@
         "maxDensity": 5.96,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E4%BA%BA%E7%94%9F%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%83%9C%E3%82%BF%E3%83%B3/::ref/gumire_resized.png?rev=122b6f511f3605235c46171824a99654&t=20230521233628"
+        ]
       },
       "ura": null
     },
@@ -92739,18 +93036,13 @@
         "maxDensity": 4.01,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "5dan",
+            "version": "momoiro",
+            "dan": "4dan",
             "order": 3
           },
           {
-            "version": "red",
+            "version": "kimidori",
             "dan": "5dan",
-            "order": 3
-          },
-          {
-            "version": "white",
-            "dan": "6dan",
             "order": 1
           },
           {
@@ -92759,13 +93051,18 @@
             "order": 1
           },
           {
-            "version": "kimidori",
-            "dan": "5dan",
+            "version": "white",
+            "dan": "6dan",
             "order": 1
           },
           {
-            "version": "momoiro",
-            "dan": "4dan",
+            "version": "red",
+            "dan": "5dan",
+            "order": 3
+          },
+          {
+            "version": "yellow",
+            "dan": "5dan",
             "order": 3
           }
         ],
@@ -93455,12 +93752,12 @@
         "maxDensity": 7.42,
         "dani": [
           {
-            "version": "22",
+            "version": "momoiro",
             "dan": "10dan",
             "order": 2
           },
           {
-            "version": "momoiro",
+            "version": "22",
             "dan": "10dan",
             "order": 2
           }
@@ -94407,7 +94704,7 @@
         "maxDensity": 5.71,
         "dani": [
           {
-            "version": "blue",
+            "version": "sorairo",
             "dan": "7dan",
             "order": 2
           },
@@ -94417,7 +94714,7 @@
             "order": 2
           },
           {
-            "version": "sorairo",
+            "version": "blue",
             "dan": "7dan",
             "order": 2
           }
@@ -95317,7 +95614,9 @@
         "maxDensity": 0.89,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E7%9C%9F%E5%A4%8F%E3%81%AESounds%20good%21/::ref/akbsg_e.png?rev=3f6b5fb7eeed91361814a07630616d7a&t=20230224223903"
+        ]
       },
       "normal": {
         "level": 3,
@@ -95337,7 +95636,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E7%9C%9F%E5%A4%8F%E3%81%AESounds%20good%21/::ref/akbsg_n.png?rev=5f0a29ebc4818b207104a82ce7486b0f&t=20230224223921"
+        ]
       },
       "hard": {
         "level": 3,
@@ -95351,7 +95652,9 @@
         "maxDensity": 2.16,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E7%9C%9F%E5%A4%8F%E3%81%AESounds%20good%21/::ref/akbsg_h.png?rev=01ad2fb816b138d0b8a3bfc4afc203fb&t=20230224223943"
+        ]
       },
       "oni": {
         "level": 5,
@@ -95365,7 +95668,9 @@
         "maxDensity": 3.05,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E5%A4%8F%E3%81%AESounds%20good%21/::ref/akbsg_2.png?rev=d82f87fe7976c716d5784d3aba5f405d&t=20230224224005"
+        ]
       },
       "ura": null
     },
@@ -96171,14 +96476,14 @@
         "maxDensity": 2.26,
         "dani": [
           {
-            "version": "21",
-            "dan": "3kyu",
-            "order": 3
-          },
-          {
             "version": "blue",
             "dan": "2kyu",
             "order": 1
+          },
+          {
+            "version": "21",
+            "dan": "3kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -96986,7 +97291,7 @@
     "isDeleted": 0
   },
   {
-    "songNo": "AC_165",
+    "songNo": "165",
     "order": 1192,
     "title": "十面相 colorful ver.",
     "titleKo": null,
@@ -97027,7 +97332,9 @@
         "maxDensity": 1.19,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%8D%81%E9%9D%A2%E7%9B%B8%20colorful%20ver./::ref/%E5%8D%81%E9%9D%A2%E7%9B%B8%20k.png?rev=cd43248c66fc225236a5695f47e2d126&t=20230227190343"
+        ]
       },
       "normal": {
         "level": 5,
@@ -97041,7 +97348,9 @@
         "maxDensity": 1.53,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%8D%81%E9%9D%A2%E7%9B%B8%20colorful%20ver./::ref/10mensou_n.png?rev=bd3d9b35fed05897bc4b433c5cbe651a&t=20230227190502"
+        ]
       },
       "hard": {
         "level": 3,
@@ -97055,7 +97364,9 @@
         "maxDensity": 2.11,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%8D%81%E9%9D%A2%E7%9B%B8%20colorful%20ver./::ref/10menso_hard.png?rev=7c345e57c50ec673c445fc6484d48c97&t=20230227190609"
+        ]
       },
       "oni": {
         "level": 6,
@@ -97075,7 +97386,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%8D%81%E9%9D%A2%E7%9B%B8%20colorful%20ver./::ref/gumi10_resized.png?rev=0a4d18d5aaced42f628a7f1cbbf42844&t=20230521212216"
+        ]
       },
       "ura": {
         "level": 8,
@@ -97089,7 +97402,9 @@
         "maxDensity": 4.63,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%8D%81%E9%9D%A2%E7%9B%B8%20colorful%20ver.%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/ex_gumi10_m_resized.png?rev=2685f31ac721aee9f6d9a1ee799542a3&t=20230521212237"
+        ]
       }
     },
     "isDeleted": 1
@@ -97142,7 +97457,9 @@
         "maxDensity": 0,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%82%B7%E3%82%AB/::ref/mtrsk_e.png?rev=c74dbc43d0c333b1401c540cdc281dee&t=20230224210948"
+        ]
       },
       "normal": {
         "level": 6,
@@ -97162,7 +97479,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%82%B7%E3%82%AB/::ref/mtrsk_n.png?rev=c2ba7d7d687178037eb3234d6d3f52dd&t=20230224211118"
+        ]
       },
       "hard": {
         "level": 5,
@@ -97176,7 +97495,9 @@
         "maxDensity": 4.18,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%82%B7%E3%82%AB/::ref/mtrshk_h.png?rev=44250d74753267face8dd930d0573a44&t=20230224211251"
+        ]
       },
       "oni": {
         "level": 7,
@@ -97190,7 +97511,9 @@
         "maxDensity": 5.23,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%82%B7%E3%82%AB/::ref/gumima_m.png?rev=1002fcf1b9216c6f259c6e8cbdd1d14f&t=20230224211457"
+        ]
       },
       "ura": {
         "level": 9,
@@ -97204,7 +97527,9 @@
         "maxDensity": 6.46,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%82%B7%E3%82%AB%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/gumima_x.png?rev=88de62dc7ed3363ca5fdcd1f2951abe7&t=20230224211642"
+        ]
       }
     },
     "isDeleted": 1
@@ -97547,14 +97872,14 @@
         "maxDensity": 5.27,
         "dani": [
           {
-            "version": "kimidori",
-            "dan": "3dan",
-            "order": 3
-          },
-          {
             "version": "momoiro",
             "dan": "3dan",
             "order": 1
+          },
+          {
+            "version": "kimidori",
+            "dan": "3dan",
+            "order": 3
           }
         ],
         "images": [
@@ -98105,12 +98430,12 @@
         "maxDensity": 5.52,
         "dani": [
           {
-            "version": "white",
+            "version": "murasaki",
             "dan": "chojin",
             "order": 1
           },
           {
-            "version": "murasaki",
+            "version": "white",
             "dan": "chojin",
             "order": 1
           }
@@ -98243,8 +98568,8 @@
         "maxDensity": 2.7,
         "dani": [
           {
-            "version": "22",
-            "dan": "3kyu",
+            "version": "sorairo",
+            "dan": "1kyu",
             "order": 1
           },
           {
@@ -98253,8 +98578,8 @@
             "order": 3
           },
           {
-            "version": "sorairo",
-            "dan": "1kyu",
+            "version": "22",
+            "dan": "3kyu",
             "order": 1
           }
         ],
@@ -98663,12 +98988,12 @@
         "maxDensity": 3.88,
         "dani": [
           {
-            "version": "momoiro",
+            "version": "sorairo",
             "dan": "1dan",
             "order": 1
           },
           {
-            "version": "sorairo",
+            "version": "momoiro",
             "dan": "1dan",
             "order": 1
           }
@@ -99414,7 +99739,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/KISS%20KISS%20BANG%20BANG/::ref/%E3%82%AD%E3%82%B9_2.png?rev=6f2a416c7708ea580e0644398477d319&t=20260402163122"
         ]
       },
       "normal": {
@@ -99843,9 +100168,9 @@
         "maxDensity": 4.49,
         "dani": [
           {
-            "version": "green",
+            "version": "momoiro",
             "dan": "4dan",
-            "order": 2
+            "order": 1
           },
           {
             "version": "kimidori",
@@ -99853,9 +100178,9 @@
             "order": 1
           },
           {
-            "version": "momoiro",
+            "version": "green",
             "dan": "4dan",
-            "order": 1
+            "order": 2
           }
         ],
         "images": [
@@ -99929,7 +100254,9 @@
         "maxDensity": 0,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%28%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%29/::ref/aruite_e.png?rev=000de9c7c331e0456c18b6cd28bc7fb3&t=20230224133004"
+        ]
       },
       "normal": {
         "level": 2,
@@ -99945,7 +100272,9 @@
         "maxDensity": 0.9,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%28%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%29/::ref/aruite_n.png?rev=1ad9cc8c4477985d8cb1cd822b63e324&t=20230224133044"
+        ]
       },
       "hard": {
         "level": 1,
@@ -99962,7 +100291,9 @@
         "maxDensity": 1.41,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%28%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%29/::ref/aruite_h.png?rev=26607171777d3882196951a187bd43a6&t=20230224133124"
+        ]
       },
       "oni": {
         "level": 3,
@@ -99979,7 +100310,9 @@
         "maxDensity": 1.89,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%28%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%29/::ref/aruitef.png?rev=0963aea0f1c7f5d7d5f44022c8177516&t=20230224133222"
+        ]
       },
       "ura": null
     },
@@ -100224,14 +100557,14 @@
         "maxDensity": 5.93,
         "dani": [
           {
-            "version": "momoiro",
-            "dan": "8dan",
-            "order": 1
-          },
-          {
             "version": "sorairo",
             "dan": "8dan",
             "order": 3
+          },
+          {
+            "version": "momoiro",
+            "dan": "8dan",
+            "order": 1
           }
         ],
         "images": [
@@ -100587,12 +100920,12 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "momoiro",
+            "version": "sorairo",
             "dan": "beginner",
             "order": 2
           },
           {
-            "version": "sorairo",
+            "version": "momoiro",
             "dan": "beginner",
             "order": 2
           }
@@ -101613,14 +101946,14 @@
         "maxDensity": 4.69,
         "dani": [
           {
-            "version": "white",
-            "dan": "3dan",
-            "order": 1
-          },
-          {
             "version": "sorairo",
             "dan": "4dan",
             "order": 2
+          },
+          {
+            "version": "white",
+            "dan": "3dan",
+            "order": 1
           }
         ],
         "images": [
@@ -101759,14 +102092,14 @@
         "maxDensity": 6.21,
         "dani": [
           {
-            "version": "blue",
-            "dan": "5dan",
-            "order": 3
-          },
-          {
             "version": "katsudon",
             "dan": "fukusho",
             "order": 1
+          },
+          {
+            "version": "blue",
+            "dan": "5dan",
+            "order": 3
           }
         ],
         "images": [
@@ -102432,12 +102765,12 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "momoiro",
+            "version": "sorairo",
             "dan": "3kyu",
             "order": 3
           },
           {
-            "version": "sorairo",
+            "version": "momoiro",
             "dan": "3kyu",
             "order": 3
           }
@@ -102730,13 +103063,13 @@
         "maxDensity": 6.42,
         "dani": [
           {
-            "version": "20",
-            "dan": "7dan",
+            "version": "blue",
+            "dan": "8dan",
             "order": 3
           },
           {
-            "version": "blue",
-            "dan": "8dan",
+            "version": "20",
+            "dan": "7dan",
             "order": 3
           }
         ],
@@ -104901,13 +105234,13 @@
         "maxDensity": 5.57,
         "dani": [
           {
-            "version": "23",
-            "dan": "7dan",
+            "version": "momoiro",
+            "dan": "5dan",
             "order": 2
           },
           {
-            "version": "momoiro",
-            "dan": "5dan",
+            "version": "23",
+            "dan": "7dan",
             "order": 2
           }
         ],
@@ -105044,9 +105377,9 @@
         "maxDensity": 6.1,
         "dani": [
           {
-            "version": "kimidori",
-            "dan": "7dan",
-            "order": 1
+            "version": "sorairo",
+            "dan": "6dan",
+            "order": 3
           },
           {
             "version": "momoiro",
@@ -105054,9 +105387,9 @@
             "order": 3
           },
           {
-            "version": "sorairo",
-            "dan": "6dan",
-            "order": 3
+            "version": "kimidori",
+            "dan": "7dan",
+            "order": 1
           }
         ],
         "images": [
@@ -105790,14 +106123,14 @@
         "maxDensity": 4.24,
         "dani": [
           {
-            "version": "22",
-            "dan": "4dan",
-            "order": 2
-          },
-          {
             "version": "sorairo",
             "dan": "4dan",
             "order": 1
+          },
+          {
+            "version": "22",
+            "dan": "4dan",
+            "order": 2
           }
         ],
         "images": [
@@ -106234,12 +106567,12 @@
         "maxDensity": 4.26,
         "dani": [
           {
-            "version": "kimidori",
+            "version": "momoiro",
             "dan": "3dan",
             "order": 2
           },
           {
-            "version": "momoiro",
+            "version": "kimidori",
             "dan": "3dan",
             "order": 2
           }
@@ -107556,14 +107889,14 @@
         "maxDensity": 7.31,
         "dani": [
           {
-            "version": "murasaki",
-            "dan": "10dan",
-            "order": 2
-          },
-          {
             "version": "momoiro",
             "dan": "8dan",
             "order": 3
+          },
+          {
+            "version": "murasaki",
+            "dan": "10dan",
+            "order": 2
           }
         ],
         "images": [
@@ -107799,14 +108132,14 @@
         "maxDensity": 3.43,
         "dani": [
           {
-            "version": "24",
-            "dan": "1kyu",
-            "order": 3
-          },
-          {
             "version": "white",
             "dan": "1kyu",
             "order": 1
+          },
+          {
+            "version": "24",
+            "dan": "1kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -108496,7 +108829,7 @@
         "maxDensity": 4.52,
         "dani": [
           {
-            "version": "murasaki",
+            "version": "sorairo",
             "dan": "3dan",
             "order": 3
           },
@@ -108506,7 +108839,7 @@
             "order": 3
           },
           {
-            "version": "sorairo",
+            "version": "murasaki",
             "dan": "3dan",
             "order": 3
           }
@@ -108851,14 +109184,14 @@
         "maxDensity": 6.89,
         "dani": [
           {
-            "version": "23",
-            "dan": "10dan",
-            "order": 2
-          },
-          {
             "version": "momoiro",
             "dan": "9dan",
             "order": 3
+          },
+          {
+            "version": "23",
+            "dan": "10dan",
+            "order": 2
           }
         ],
         "images": [
@@ -108953,14 +109286,14 @@
         "maxDensity": 1.78,
         "dani": [
           {
-            "version": "kimidori",
-            "dan": "8kyu",
-            "order": 3
-          },
-          {
             "version": "sorairo",
             "dan": "3kyu",
             "order": 2
+          },
+          {
+            "version": "kimidori",
+            "dan": "8kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -109148,9 +109481,9 @@
         "maxDensity": 8.29,
         "dani": [
           {
-            "version": "white",
-            "dan": "chojin",
-            "order": 2
+            "version": "momoiro",
+            "dan": "tatsujin",
+            "order": 3
           },
           {
             "version": "murasaki",
@@ -109158,9 +109491,9 @@
             "order": 2
           },
           {
-            "version": "momoiro",
-            "dan": "tatsujin",
-            "order": 3
+            "version": "white",
+            "dan": "chojin",
+            "order": 2
           }
         ],
         "images": [
@@ -109347,7 +109680,9 @@
         "maxDensity": 2.13,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%96%B0%E3%81%97%E3%81%84%E5%85%89%289mm%20Parabellum%20Bullet%29/::ref/9mm_k.png?rev=e6b0b2850a572def72425dfcb1c9862a&t=20230221133636"
+        ]
       },
       "normal": {
         "level": 6,
@@ -109367,7 +109702,9 @@
         "maxDensity": 2.47,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%96%B0%E3%81%97%E3%81%84%E5%85%89%289mm%20Parabellum%20Bullet%29/::ref/m9_n.png?rev=c7110c6db739613c2254a32092cbf34d&t=20230221133702"
+        ]
       },
       "hard": {
         "level": 8,
@@ -109379,7 +109716,9 @@
         "maxDensity": 5.3,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%96%B0%E3%81%97%E3%81%84%E5%85%89%289mm%20Parabellum%20Bullet%29/::ref/m9_h.png?rev=9b3ab3243acf2bd6a1c821f7fa2f4544&t=20230221133727"
+        ]
       },
       "oni": {
         "level": 9,
@@ -109393,7 +109732,9 @@
         "maxDensity": 7.94,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%96%B0%E3%81%97%E3%81%84%E5%85%89%289mm%20Parabellum%20Bullet%29/::ref/nulite_m.png?rev=6b5465fcc0d6a63606d501dead0dc56e&t=20260303000743"
+        ]
       },
       "ura": null
     },
@@ -109549,7 +109890,22 @@
         "isBranched": 1,
         "dani": [
           {
-            "version": "yellow",
+            "version": "sorairo",
+            "dan": "10dan",
+            "order": 3
+          },
+          {
+            "version": "momoiro",
+            "dan": "10dan",
+            "order": 3
+          },
+          {
+            "version": "kimidori",
+            "dan": "tatsujin",
+            "order": 1
+          },
+          {
+            "version": "murasaki",
             "dan": "chojin",
             "order": 3
           },
@@ -109559,23 +109915,8 @@
             "order": 3
           },
           {
-            "version": "murasaki",
+            "version": "yellow",
             "dan": "chojin",
-            "order": 3
-          },
-          {
-            "version": "kimidori",
-            "dan": "tatsujin",
-            "order": 1
-          },
-          {
-            "version": "momoiro",
-            "dan": "10dan",
-            "order": 3
-          },
-          {
-            "version": "sorairo",
-            "dan": "10dan",
             "order": 3
           }
         ],
@@ -110127,14 +110468,9 @@
         "maxDensity": 6.77,
         "dani": [
           {
-            "version": "green",
-            "dan": "kuroto",
-            "order": 2
-          },
-          {
-            "version": "murasaki",
-            "dan": "kuroto",
-            "order": 2
+            "version": "sorairo",
+            "dan": "10dan",
+            "order": 1
           },
           {
             "version": "momoiro",
@@ -110142,9 +110478,14 @@
             "order": 1
           },
           {
-            "version": "sorairo",
-            "dan": "10dan",
-            "order": 1
+            "version": "murasaki",
+            "dan": "kuroto",
+            "order": 2
+          },
+          {
+            "version": "green",
+            "dan": "kuroto",
+            "order": 2
           }
         ],
         "images": [
@@ -110606,8 +110947,8 @@
         "maxDensity": 8,
         "dani": [
           {
-            "version": "21",
-            "dan": "10dan",
+            "version": "sorairo",
+            "dan": "9dan",
             "order": 2
           },
           {
@@ -110616,8 +110957,8 @@
             "order": 3
           },
           {
-            "version": "sorairo",
-            "dan": "9dan",
+            "version": "21",
+            "dan": "10dan",
             "order": 2
           }
         ],
@@ -111771,13 +112112,13 @@
         "maxDensity": 4.98,
         "dani": [
           {
-            "version": "murasaki",
-            "dan": "5dan",
+            "version": "kimidori",
+            "dan": "4dan",
             "order": 3
           },
           {
-            "version": "kimidori",
-            "dan": "4dan",
+            "version": "murasaki",
+            "dan": "5dan",
             "order": 3
           }
         ],
@@ -111930,9 +112271,9 @@
         "maxDensity": 6.74,
         "dani": [
           {
-            "version": "momoiro",
-            "dan": "7dan",
-            "order": 3
+            "version": "katsudon",
+            "dan": "taisho",
+            "order": 1
           },
           {
             "version": "sorairo",
@@ -111940,9 +112281,9 @@
             "order": 2
           },
           {
-            "version": "katsudon",
-            "dan": "taisho",
-            "order": 1
+            "version": "momoiro",
+            "dan": "7dan",
+            "order": 3
           }
         ],
         "images": [
@@ -112946,7 +113287,9 @@
         "maxDensity": 0.96,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B/::ref/%E3%81%9F%E3%81%84%E3%81%A3%EF%BC%81%E3%81%9F%E3%81%84%E3%81%A3%EF%BC%81%E3%81%9F%E3%81%84%E3%81%A3%EF%BC%81%E3%80%80%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=e3da6d0a89733f3b936ff46d28ebaed8&t=20230228223342"
+        ]
       },
       "normal": {
         "level": 4,
@@ -112966,7 +113309,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B/::ref/%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B%E3%80%80%E3%81%B5%E3%81%A4%E3%81%86.png?rev=2c588317a390f5c27e24e6ff49e8c1a4&t=20230228223448"
+        ]
       },
       "hard": {
         "level": 6,
@@ -112986,7 +113331,9 @@
             "order": 2
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B/::ref/JOY%E3%81%8C%E3%83%95%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%9C%EF%BC%81%EF%BC%9F.png?rev=842ab6e483ba165f4cf2c17fae2e9cac&t=20230228223601"
+        ]
       },
       "oni": {
         "level": 6,
@@ -113006,7 +113353,9 @@
             "order": 3
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B/::ref/joyful.png?rev=7dfdf432e81dcf17ffb655f7b0a63020&t=20230228223717"
+        ]
       },
       "ura": null
     },
@@ -114035,9 +114384,9 @@
         "maxDensity": 7.39,
         "dani": [
           {
-            "version": "white",
-            "dan": "8dan",
-            "order": 1
+            "version": "sorairo",
+            "dan": "7dan",
+            "order": 3
           },
           {
             "version": "murasaki",
@@ -114045,9 +114394,9 @@
             "order": 3
           },
           {
-            "version": "sorairo",
-            "dan": "7dan",
-            "order": 3
+            "version": "white",
+            "dan": "8dan",
+            "order": 1
           }
         ],
         "images": [
@@ -114489,14 +114838,14 @@
         "maxDensity": 2.89,
         "dani": [
           {
-            "version": "murasaki",
-            "dan": "1dan",
-            "order": 1
-          },
-          {
             "version": "kimidori",
             "dan": "2kyu",
             "order": 3
+          },
+          {
+            "version": "murasaki",
+            "dan": "1dan",
+            "order": 1
           }
         ],
         "images": [
@@ -115416,14 +115765,14 @@
         "maxDensity": 5.98,
         "dani": [
           {
-            "version": "20",
-            "dan": "6dan",
-            "order": 2
-          },
-          {
             "version": "sorairo",
             "dan": "6dan",
             "order": 1
+          },
+          {
+            "version": "20",
+            "dan": "6dan",
+            "order": 2
           }
         ],
         "images": [
@@ -115439,14 +115788,14 @@
         "maxDensity": 7.7,
         "dani": [
           {
-            "version": "22",
-            "dan": "6dan",
-            "order": 3
-          },
-          {
             "version": "momoiro",
             "dan": "5dan",
             "order": 1
+          },
+          {
+            "version": "22",
+            "dan": "6dan",
+            "order": 3
           }
         ],
         "images": [
@@ -115707,12 +116056,12 @@
         "maxDensity": 7.95,
         "dani": [
           {
-            "version": "white",
+            "version": "murasaki",
             "dan": "meijin",
             "order": 2
           },
           {
-            "version": "murasaki",
+            "version": "white",
             "dan": "meijin",
             "order": 2
           }
@@ -115855,9 +116204,9 @@
         "maxDensity": 6.72,
         "dani": [
           {
-            "version": "23",
+            "version": "murasaki",
             "dan": "8dan",
-            "order": 3
+            "order": 2
           },
           {
             "version": "white",
@@ -115865,9 +116214,9 @@
             "order": 3
           },
           {
-            "version": "murasaki",
+            "version": "23",
             "dan": "8dan",
-            "order": 2
+            "order": 3
           }
         ],
         "images": [
@@ -116752,8 +117101,18 @@
         "maxDensity": 7.19,
         "dani": [
           {
-            "version": "white",
-            "dan": "meijin",
+            "version": "katsudon",
+            "dan": "taisho",
+            "order": 2
+          },
+          {
+            "version": "sorairo",
+            "dan": "10dan",
+            "order": 2
+          },
+          {
+            "version": "kimidori",
+            "dan": "10dan",
             "order": 3
           },
           {
@@ -116762,19 +117121,9 @@
             "order": 3
           },
           {
-            "version": "kimidori",
-            "dan": "10dan",
+            "version": "white",
+            "dan": "meijin",
             "order": 3
-          },
-          {
-            "version": "sorairo",
-            "dan": "10dan",
-            "order": 2
-          },
-          {
-            "version": "katsudon",
-            "dan": "taisho",
-            "order": 2
           }
         ],
         "images": [
@@ -117182,7 +117531,7 @@
         "maxDensity": 5.53,
         "dani": [
           {
-            "version": "24",
+            "version": "kimidori",
             "dan": "8dan",
             "order": 2
           },
@@ -117192,7 +117541,7 @@
             "order": 1
           },
           {
-            "version": "kimidori",
+            "version": "24",
             "dan": "8dan",
             "order": 2
           }
@@ -117447,13 +117796,8 @@
         "maxDensity": 3.98,
         "dani": [
           {
-            "version": "red",
-            "dan": "1dan",
-            "order": 3
-          },
-          {
-            "version": "murasaki",
-            "dan": "3dan",
+            "version": "katsudon",
+            "dan": "chiuken",
             "order": 1
           },
           {
@@ -117462,9 +117806,14 @@
             "order": 3
           },
           {
-            "version": "katsudon",
-            "dan": "chiuken",
+            "version": "murasaki",
+            "dan": "3dan",
             "order": 1
+          },
+          {
+            "version": "red",
+            "dan": "1dan",
+            "order": 3
           }
         ],
         "images": [
@@ -117960,14 +118309,14 @@
         "daniUsed": 1,
         "dani": [
           {
-            "version": "kimidori",
-            "dan": "7dan",
-            "order": 3
-          },
-          {
             "version": "sorairo",
             "dan": "8dan",
             "order": 1
+          },
+          {
+            "version": "kimidori",
+            "dan": "7dan",
+            "order": 3
           }
         ],
         "images": [
@@ -118134,13 +118483,13 @@
         "maxDensity": 6.13,
         "dani": [
           {
-            "version": "murasaki",
-            "dan": "7dan",
+            "version": "momoiro",
+            "dan": "6dan",
             "order": 1
           },
           {
-            "version": "momoiro",
-            "dan": "6dan",
+            "version": "murasaki",
+            "dan": "7dan",
             "order": 1
           }
         ],
@@ -118252,14 +118601,14 @@
         "maxDensity": 5.01,
         "dani": [
           {
-            "version": "21",
-            "dan": "5dan",
-            "order": 1
-          },
-          {
             "version": "red",
             "dan": "5dan",
             "order": 2
+          },
+          {
+            "version": "21",
+            "dan": "5dan",
+            "order": 1
           }
         ],
         "images": [
@@ -118273,11 +118622,17 @@
         "playTime": 124.75,
         "maxCombo": 765,
         "maxDensity": 6.13,
-        "dani": [],
+        "dani": [
+          {
+            "version": "26",
+            "dan": "4dan",
+            "order": 3
+          }
+        ],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%89%E3%82%93%E3%81%B6%E3%82%8B%E4%B9%B1%E8%88%9E%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E3%82%89%E3%82%93%E3%81%B6%E3%82%8B%E8%A3%8F_f3.png?rev=8dde178f844cd24bd74cf35cb06aae81&t=20230227224947"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       }
     },
@@ -118439,7 +118794,9 @@
         "maxDensity": 1.11,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93999%28EXILE%29/::ref/999.png?rev=a8bdacc05ebc30d2fa55ed336b00f0f5&t=20230226184953"
+        ]
       },
       "normal": {
         "level": 5,
@@ -118457,7 +118814,9 @@
         "maxDensity": 1.6,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93999%28EXILE%29/::ref/999_exile_normal.png?rev=1a4614efb350985da54c1062bff722a0&t=20230226185018"
+        ]
       },
       "hard": {
         "level": 5,
@@ -118473,7 +118832,9 @@
         "maxDensity": 3.53,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93999%28EXILE%29/::ref/999exile.png?rev=7979c988b10ce9e6cf53ad5caf0cb63b&t=20230226185043"
+        ]
       },
       "oni": {
         "level": 6,
@@ -118489,7 +118850,9 @@
         "maxDensity": 3.84,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93999%28EXILE%29/::ref/gng999.png?rev=2038aacdf712b5eb46036ab20fabe5b1&t=20230226184848"
+        ]
       },
       "ura": null
     },
@@ -118546,7 +118909,9 @@
         "maxDensity": 0.88,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E8%99%B9%28Aqua%20Timez%29/::ref/niji_e.png?rev=41dfbca2d3d6b040c8e6705ac956c9ac&t=20230228223403"
+        ]
       },
       "normal": {
         "level": 1,
@@ -118564,7 +118929,9 @@
         "maxDensity": 1.27,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E8%99%B9%28Aqua%20Timez%29/::ref/niji.png?rev=d3ac322f001f1d91592c2746cad68b11&t=20230228223430"
+        ]
       },
       "hard": {
         "level": 2,
@@ -118582,7 +118949,9 @@
         "maxDensity": 2.55,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E8%99%B9%28Aqua%20Timez%29/::ref/niji_h.png?rev=39e79ef795c72324c21ac704d3889d6a&t=20230228223506"
+        ]
       },
       "oni": {
         "level": 6,
@@ -118599,7 +118968,9 @@
         "maxDensity": 3.3,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E8%99%B9%28Aqua%20Timez%29/::ref/nijifix.png?rev=706b9726b7b3177e4a09e575c74477a2&t=20230228223535"
+        ]
       },
       "ura": null
     },
@@ -119854,14 +120225,14 @@
         "maxDensity": 6.41,
         "dani": [
           {
-            "version": "blue",
-            "dan": "10dan",
-            "order": 1
-          },
-          {
             "version": "kimidori",
             "dan": "9dan",
             "order": 2
+          },
+          {
+            "version": "blue",
+            "dan": "10dan",
+            "order": 1
           }
         ],
         "images": [
@@ -122683,14 +123054,14 @@
         "maxDensity": 6.04,
         "dani": [
           {
-            "version": "murasaki",
-            "dan": "10dan",
-            "order": 3
-          },
-          {
             "version": "momoiro",
             "dan": "8dan",
             "order": 2
+          },
+          {
+            "version": "murasaki",
+            "dan": "10dan",
+            "order": 3
           }
         ],
         "images": [
@@ -123486,7 +123857,7 @@
         "maxDensity": 4.25,
         "dani": [
           {
-            "version": "20",
+            "version": "white",
             "dan": "5dan",
             "order": 1
           },
@@ -123496,7 +123867,7 @@
             "order": 3
           },
           {
-            "version": "white",
+            "version": "20",
             "dan": "5dan",
             "order": 1
           }
@@ -124149,12 +124520,12 @@
         "maxDensity": 4.56,
         "dani": [
           {
-            "version": "blue",
+            "version": "red",
             "dan": "2dan",
             "order": 3
           },
           {
-            "version": "red",
+            "version": "blue",
             "dan": "2dan",
             "order": 3
           }
@@ -124672,8 +125043,8 @@
         "maxDensity": 6.71,
         "dani": [
           {
-            "version": "white",
-            "dan": "kuroto",
+            "version": "katsudon",
+            "dan": "taisho",
             "order": 3
           },
           {
@@ -124682,8 +125053,8 @@
             "order": 3
           },
           {
-            "version": "katsudon",
-            "dan": "taisho",
+            "version": "white",
+            "dan": "kuroto",
             "order": 3
           }
         ],
@@ -124921,14 +125292,14 @@
         "maxDensity": 5.68,
         "dani": [
           {
-            "version": "red",
-            "dan": "4dan",
-            "order": 2
-          },
-          {
             "version": "white",
             "dan": "5dan",
             "order": 3
+          },
+          {
+            "version": "red",
+            "dan": "4dan",
+            "order": 2
           }
         ],
         "images": [
@@ -125072,14 +125443,14 @@
         "maxDensity": 6.91,
         "dani": [
           {
-            "version": "momoiro",
-            "dan": "4dan",
-            "order": 2
-          },
-          {
             "version": "sorairo",
             "dan": "5dan",
             "order": 3
+          },
+          {
+            "version": "momoiro",
+            "dan": "4dan",
+            "order": 2
           }
         ],
         "images": [
@@ -128318,14 +128689,14 @@
         "maxDensity": 4.52,
         "dani": [
           {
-            "version": "23",
-            "dan": "1kyu",
-            "order": 3
-          },
-          {
             "version": "kimidori",
             "dan": "1dan",
             "order": 1
+          },
+          {
+            "version": "23",
+            "dan": "1kyu",
+            "order": 3
           }
         ],
         "images": [
@@ -128398,12 +128769,12 @@
         "maxDensity": 1.74,
         "dani": [
           {
-            "version": "red",
+            "version": "white",
             "dan": "beginner",
             "order": 2
           },
           {
-            "version": "white",
+            "version": "red",
             "dan": "beginner",
             "order": 2
           }
@@ -128943,14 +129314,14 @@
         "maxDensity": 3.13,
         "dani": [
           {
-            "version": "22",
-            "dan": "2kyu",
-            "order": 1
-          },
-          {
             "version": "blue",
             "dan": "4kyu",
             "order": 2
+          },
+          {
+            "version": "22",
+            "dan": "2kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -129117,14 +129488,14 @@
         "maxDensity": 4.6,
         "dani": [
           {
-            "version": "blue",
-            "dan": "1dan",
-            "order": 3
-          },
-          {
             "version": "katsudon",
             "dan": "jiho",
             "order": 1
+          },
+          {
+            "version": "blue",
+            "dan": "1dan",
+            "order": 3
           }
         ],
         "images": [
@@ -129529,8 +129900,8 @@
         "maxDensity": 4.68,
         "dani": [
           {
-            "version": "20",
-            "dan": "2kyu",
+            "version": "sorairo",
+            "dan": "1kyu",
             "order": 3
           },
           {
@@ -129539,8 +129910,13 @@
             "order": 3
           },
           {
-            "version": "sorairo",
-            "dan": "1kyu",
+            "version": "20",
+            "dan": "2kyu",
+            "order": 3
+          },
+          {
+            "version": "26",
+            "dan": "2kyu",
             "order": 3
           }
         ],
@@ -131355,9 +131731,9 @@
         "maxDensity": 3.46,
         "dani": [
           {
-            "version": "24",
+            "version": "sorairo",
             "dan": "1dan",
-            "order": 1
+            "order": 3
           },
           {
             "version": "murasaki",
@@ -131365,9 +131741,9 @@
             "order": 2
           },
           {
-            "version": "sorairo",
+            "version": "24",
             "dan": "1dan",
-            "order": 3
+            "order": 1
           }
         ],
         "images": [
@@ -131509,9 +131885,9 @@
         "maxDensity": 3,
         "dani": [
           {
-            "version": "23",
-            "dan": "2kyu",
-            "order": 1
+            "version": "sorairo",
+            "dan": "1kyu",
+            "order": 2
           },
           {
             "version": "momoiro",
@@ -131519,9 +131895,9 @@
             "order": 2
           },
           {
-            "version": "sorairo",
-            "dan": "1kyu",
-            "order": 2
+            "version": "23",
+            "dan": "2kyu",
+            "order": 1
           }
         ],
         "images": [
@@ -131796,12 +132172,12 @@
         "maxDensity": 3.36,
         "dani": [
           {
-            "version": "momoiro",
+            "version": "sorairo",
             "dan": "2kyu",
             "order": 3
           },
           {
-            "version": "sorairo",
+            "version": "momoiro",
             "dan": "2kyu",
             "order": 3
           }
@@ -131832,12 +132208,17 @@
         "maxDensity": 4.21,
         "dani": [
           {
-            "version": "20",
+            "version": "katsudon",
+            "dan": "senpo",
+            "order": 3
+          },
+          {
+            "version": "kimidori",
             "dan": "1dan",
             "order": 2
           },
           {
-            "version": "blue",
+            "version": "white",
             "dan": "1dan",
             "order": 1
           },
@@ -131847,19 +132228,19 @@
             "order": 1
           },
           {
-            "version": "white",
+            "version": "blue",
             "dan": "1dan",
             "order": 1
           },
           {
-            "version": "kimidori",
+            "version": "20",
             "dan": "1dan",
             "order": 2
           },
           {
-            "version": "katsudon",
-            "dan": "senpo",
-            "order": 3
+            "version": "26",
+            "dan": "1dan",
+            "order": 1
           }
         ],
         "images": [
@@ -132470,7 +132851,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/728/easy"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 4,
@@ -132487,7 +132869,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/728/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -132502,20 +132885,21 @@
         "maxDensity": 2.91,
         "dani": [
           {
-            "version": "20",
-            "dan": "3kyu",
-            "order": 2
-          },
-          {
             "version": "green",
             "dan": "4kyu",
             "order": 3
+          },
+          {
+            "version": "20",
+            "dan": "3kyu",
+            "order": 2
           }
         ],
         "images": [
           "https://file.taiko.wiki/fumen/728/hard"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -132532,7 +132916,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/728/oni"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -133140,7 +133525,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/607/easy"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -133157,7 +133543,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/607/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 4,
@@ -133172,12 +133559,12 @@
         "maxDensity": 1.93,
         "dani": [
           {
-            "version": "yellow",
+            "version": "red",
             "dan": "5kyu",
             "order": 2
           },
           {
-            "version": "red",
+            "version": "yellow",
             "dan": "5kyu",
             "order": 2
           }
@@ -133185,7 +133572,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/607/hard"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -133202,7 +133590,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/607/oni"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -135452,7 +135841,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1192/easy"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 3,
@@ -135468,7 +135859,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1192/normal"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 5,
@@ -135478,10 +135871,18 @@
         ],
         "maxCombo": 303,
         "maxDensity": 3.33,
-        "dani": [],
+        "dani": [
+          {
+            "version": "26",
+            "dan": "2kyu",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/fumen/1192/hard"
-        ]
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -135497,7 +135898,9 @@
         "dani": [],
         "images": [
           "https://file.taiko.wiki/fumen/1192/oni"
-        ]
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -141275,9 +141678,9 @@
         "maxDensity": 2.06,
         "dani": [
           {
-            "version": "20",
+            "version": "red",
             "dan": "4kyu",
-            "order": 2
+            "order": 1
           },
           {
             "version": "blue",
@@ -141285,9 +141688,9 @@
             "order": 3
           },
           {
-            "version": "red",
+            "version": "20",
             "dan": "4kyu",
-            "order": 1
+            "order": 2
           }
         ],
         "images": [
@@ -144076,13 +144479,13 @@
         "maxDensity": 4.79,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "7dan",
+            "version": "red",
+            "dan": "8dan",
             "order": 2
           },
           {
-            "version": "red",
-            "dan": "8dan",
+            "version": "yellow",
+            "dan": "7dan",
             "order": 2
           },
           {
@@ -150551,12 +150954,12 @@
         "maxDensity": 1.36,
         "dani": [
           {
-            "version": "yellow",
+            "version": "red",
             "dan": "beginner",
             "order": 3
           },
           {
-            "version": "red",
+            "version": "yellow",
             "dan": "beginner",
             "order": 3
           }
@@ -150564,7 +150967,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/556/easy"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -150581,7 +150985,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/556/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -150598,7 +151003,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/556/hard"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -150615,7 +151021,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/556/oni"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -153638,7 +154045,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/578/easy"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -153655,7 +154063,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/578/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -153672,7 +154081,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/578/hard"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 8,
@@ -153687,12 +154097,12 @@
         "maxDensity": 4.39,
         "dani": [
           {
-            "version": "yellow",
+            "version": "red",
             "dan": "5dan",
             "order": 1
           },
           {
-            "version": "red",
+            "version": "yellow",
             "dan": "5dan",
             "order": 1
           }
@@ -153700,7 +154110,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/578/oni"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -162057,7 +162468,9 @@
         "maxDensity": 0.98,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%82%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%84%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%81%E2%99%AA/::ref/warmsoup_easy.png?rev=e5b2972be991caae3444c0b33806d0f3&t=20230223162950"
+        ]
       },
       "normal": {
         "level": 5,
@@ -162071,7 +162484,9 @@
         "maxDensity": 1.94,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%82%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%84%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%81%E2%99%AA/::ref/warmsoup_normal.png?rev=446cd5b16f641d109f7e5c4ec4cffc1b&t=20230223163117"
+        ]
       },
       "hard": {
         "level": 4,
@@ -162091,7 +162506,9 @@
             "order": 1
           }
         ],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%82%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%84%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%81%E2%99%AA/::ref/warmsoup_hard.png?rev=2ecfcdb8014a588d1b34ac9334a407fb&t=20230223163153"
+        ]
       },
       "oni": {
         "level": 7,
@@ -162105,7 +162522,9 @@
         "maxDensity": 4.12,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%82%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%84%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89%E3%81%81%E2%99%AA/::ref/attaka_m.png?rev=01504f17273f1a2e9f88c1963f71aaed&t=20230223163249"
+        ]
       },
       "ura": null
     },
@@ -169728,7 +170147,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/792/easy"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 5,
@@ -169745,7 +170165,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/792/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -169762,7 +170183,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/792/hard"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -169774,12 +170196,18 @@
             "version": "green",
             "dan": "2dan",
             "order": 1
+          },
+          {
+            "version": "26",
+            "dan": "2dan",
+            "order": 2
           }
         ],
         "images": [
           "https://file.taiko.wiki/fumen/792/oni"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -175364,14 +175792,14 @@
         "maxDensity": 1.66,
         "dani": [
           {
-            "version": "yellow",
-            "dan": "6kyu",
-            "order": 1
-          },
-          {
             "version": "red",
             "dan": "6kyu",
             "order": 2
+          },
+          {
+            "version": "yellow",
+            "dan": "6kyu",
+            "order": 1
           }
         ],
         "images": [
