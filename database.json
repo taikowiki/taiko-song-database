@@ -3424,7 +3424,7 @@
     "order": 1421,
     "title": "アイドルライフスターターパック",
     "titleKo": null,
-    "aliasKo": null,
+    "aliasKo": "아이돌 라이프 스타터 팩",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -33892,6 +33892,121 @@
         "daniUsed": 0,
         "isBranched": 0
       }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "temp_kappa",
+    "order": 1450,
+    "title": "河童の皿はこんなにも",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "大澤めい",
+      "池澤孝之"
+    ],
+    "addedDate": 1663804800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 145,
+        "playTime": null,
+        "balloon": [
+          6,
+          6,
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_e.png?rev=6730aeed8621f093e94e827f26e91dce&t=20230224233508"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 228,
+        "playTime": null,
+        "balloon": [
+          8,
+          8,
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_n.png?rev=48fd7b685bcf2fdffe1c7aa090cb07e3&t=20230224233544"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 361,
+        "playTime": 0,
+        "balloon": [
+          10,
+          10,
+          2
+        ],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_h.png?rev=16e3852ea5b8538209ed41d9570e4b07&t=20230224233642"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 670,
+        "playTime": 124.767,
+        "balloon": [
+          14,
+          14,
+          3
+        ],
+        "rollTime": [
+          1.972,
+          2.306,
+          0.806
+        ],
+        "maxDensity": 5.37,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_m_2.png?rev=ae52f33c3a5a37aedebb0fc50b58b864&t=20230224233728",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_16-31.png?rev=84e426487d7f5bb1c369b1da2c32ff4a&t=20230224233732",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_63-70.png?rev=06bf2688ec1f91b6ce424c6eece27c23&t=20230224233735",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B2%B3%E7%AB%A5%E3%81%AE%E7%9A%BF%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82/::ref/kappa_114-152.png?rev=4673292d9f9aea28211857f522e6cea6&t=20230224233738"
+        ]
+      },
+      "ura": null
     },
     "isDeleted": 0
   },
@@ -75774,7 +75889,26 @@
         "daniUsed": 0,
         "isBranched": 0
       },
-      "ura": null
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 833,
+        "playTime": 131.804,
+        "balloon": [
+          8
+        ],
+        "rollTime": [
+          0.901,
+          1.087,
+          1.46
+        ],
+        "maxDensity": 6.32,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Day%20by%20Day%21%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/daybyd_x.png?rev=3861609268f020442d119fec1b49fae9&t=20250327110004"
+        ]
+      }
     },
     "isDeleted": 0
   },
@@ -114274,6 +114408,101 @@
         "daniUsed": 0,
         "isBranched": 0
       }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "temp_10th",
+    "order": 1452,
+    "title": "鈍響ライクリフド",
+    "titleKo": null,
+    "aliasKo": "둔향 라이클리후드",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 0,
+      "max": 0
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "cosMo＠暴走P",
+      "かねこちはる"
+    ],
+    "addedDate": 1275782400000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          ""
+        ]
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          ""
+        ]
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          ""
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "10dan",
+            "order": 3
+          }
+        ],
+        "images": [
+          ""
+        ]
+      },
+      "ura": null
     },
     "isDeleted": 0
   },
@@ -164210,6 +164439,115 @@
       "ura": null
     },
     "isDeleted": 1
+  },
+  {
+    "songNo": "temp_summer",
+    "order": 1451,
+    "title": "おはよう！太鼓サマー",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 122,
+      "max": 122
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2",
+      "NS1",
+      "PS4",
+      "PS2-4",
+      "PTB",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "みすみゆり",
+      "谷本貴義"
+    ],
+    "addedDate": null,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 184,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%EF%BC%81%E5%A4%AA%E9%BC%93%E3%82%B5%E3%83%9E%E3%83%BC/::ref/taiksm_e2.png?rev=70818cb50108f426f9e7200d273b77b3&t=20230225013400"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 235,
+        "playTime": 0,
+        "balloon": [
+          10
+        ],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%EF%BC%81%E5%A4%AA%E9%BC%93%E3%82%B5%E3%83%9E%E3%83%BC/::ref/taiksm_n2.png?rev=e7260563dd051e9a754987772d2b2c91&t=20230225013428"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 357,
+        "playTime": 0,
+        "balloon": [
+          15
+        ],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%EF%BC%81%E5%A4%AA%E9%BC%93%E3%82%B5%E3%83%9E%E3%83%BC/::ref/taiksm_h2.png?rev=dfb62191b10a1ec6d16b5930d45ff653&t=20230225013508"
+        ]
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 422,
+        "playTime": 129.846,
+        "balloon": [
+          6,
+          6,
+          6,
+          22
+        ],
+        "rollTime": [
+          0.943,
+          1.434,
+          0.943
+        ],
+        "maxDensity": 3.25,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%EF%BC%81%E5%A4%AA%E9%BC%93%E3%82%B5%E3%83%9E%E3%83%BC/::ref/cs4op_m.png?rev=0419801035df07cb0ee7a3cea4dce544&t=20230225013533"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
   },
   {
     "songNo": "848",
