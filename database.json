@@ -29,45 +29,76 @@
     "addedDate": 1780704000000,
     "courses": {
       "easy": {
-        "level": 1,
+        "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 184,
+        "playTime": 135.294,
+        "balloon": [
+          10
+        ],
+        "rollTime": [
+          0.875,
+          0.725,
+          0.725,
+          0.875,
+          0.725,
+          1.175,
+          0.725,
+          2.375
+        ],
+        "maxDensity": 1.36,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E9%88%8D%E9%9F%BF%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%95%E3%83%89/::ref/%E9%88%8D%E9%9F%BF%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%95%E3%83%89_e.png?rev=9af5909610742fe05ca7d0542e9ed8f2&t=20260606205904"
         ]
       },
       "normal": {
-        "level": 1,
+        "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 302,
+        "playTime": 137.273,
+        "balloon": [
+          12
+        ],
+        "rollTime": [
+          1.025,
+          0.875,
+          0.875,
+          1.025,
+          0.875,
+          1.175,
+          0.875
+        ],
+        "maxDensity": 2.2,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E9%88%8D%E9%9F%BF%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%95%E3%83%89/::ref/%E9%88%8D%E9%9F%BF%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%95%E3%83%89_n.png?rev=9d17dfd9e3cecf4c18bb7a96da461767&t=20260606205758"
         ]
       },
       "hard": {
-        "level": 1,
+        "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 529,
+        "playTime": 137.047,
+        "balloon": [
+          17
+        ],
+        "rollTime": [
+          1.025,
+          0.875,
+          0.875,
+          1.025,
+          0.875,
+          1.025,
+          1.025
+        ],
+        "maxDensity": 3.86,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E9%88%8D%E9%9F%BF%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%95%E3%83%89/::ref/%E9%88%8D%E9%9F%BF%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%95%E3%83%89_h.png?rev=261d2230e801dfb39af6395cb18b0844&t=20260606205625"
         ]
       },
       "oni": {
@@ -101,7 +132,7 @@
     "isDeleted": 0
   },
   {
-    "songNo": "temp_10th_3",
+    "songNo": "1503",
     "order": 1455,
     "title": "活声ライクリフド",
     "titleKo": "KASSEI Likelihood",
@@ -130,7 +161,7 @@
     "addedDate": 1780704000000,
     "courses": {
       "easy": {
-        "level": 1,
+        "level": 5,
         "isBranched": 0,
         "maxCombo": 0,
         "playTime": 0,
@@ -142,7 +173,7 @@
         "images": []
       },
       "normal": {
-        "level": 1,
+        "level": 7,
         "isBranched": 0,
         "maxCombo": 0,
         "playTime": 0,
@@ -154,7 +185,7 @@
         "images": []
       },
       "hard": {
-        "level": 1,
+        "level": 8,
         "isBranched": 0,
         "maxCombo": 0,
         "playTime": 0,
