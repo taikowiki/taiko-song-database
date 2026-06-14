@@ -34760,10 +34760,18 @@
         "level": 5,
         "playTime": 140.38,
         "balloon": [
-          52
+          4,
+          15,
+          9,
+          15,
+          4,
+          5
         ],
         "rollTime": [
-          3.3
+          1.108,
+          0.542,
+          0.542,
+          1.108
         ],
         "maxCombo": 263,
         "maxDensity": 1.87,
@@ -34778,10 +34786,19 @@
         "level": 7,
         "playTime": 140.38,
         "balloon": [
-          63
+          5,
+          18,
+          11,
+          18,
+          5,
+          6
         ],
         "rollTime": [
-          4.13
+          1.108,
+          0.542,
+          0.542,
+          0.825,
+          1.108
         ],
         "maxCombo": 407,
         "maxDensity": 2.9,
@@ -34796,10 +34813,19 @@
         "level": 8,
         "playTime": 140.38,
         "balloon": [
-          100
+          8,
+          30,
+          19,
+          30,
+          5,
+          8
         ],
         "rollTime": [
-          4.13
+          1.108,
+          0.542,
+          0.542,
+          0.825,
+          1.108
         ],
         "maxCombo": 500,
         "maxDensity": 3.56,
@@ -34814,10 +34840,14 @@
         "level": 10,
         "playTime": 140.38,
         "balloon": [
-          31
+          29,
+          2
         ],
         "rollTime": [
-          1.53
+          0.542,
+          0.118,
+          0.825,
+          0.047
         ],
         "maxCombo": 937,
         "maxDensity": 6.67,
@@ -34832,10 +34862,20 @@
         "level": 10,
         "playTime": 140.38,
         "balloon": [
-          66
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          39,
+          3,
+          3
         ],
         "rollTime": [
-          0.09
+          0.047,
+          0.047
         ],
         "maxCombo": 1103,
         "maxDensity": 7.86,
@@ -34847,7 +34887,8 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/img/f403a474-8e56-43cd-a3f2-de4928b2f4eb"
+          "https://file.taiko.wiki/img/f403a474-8e56-43cd-a3f2-de4928b2f4eb",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SUPERNOVA%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/usnova_x_46-49%E6%8B%A1%E5%A4%A7.png?rev=0d1b16eac5ebd34e19180d16433d290e&t=20230913234845"
         ],
         "daniUsed": 1,
         "isBranched": 0
@@ -44895,7 +44936,8 @@
         "maxDensity": 7.89,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/99df89f3-186a-4a2d-a1bd-8fc6f9e35d0c"
+          "https://file.taiko.wiki/img/99df89f3-186a-4a2d-a1bd-8fc6f9e35d0c",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Dreadnought%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E5%8A%A0%E9%80%9F%E9%83%A8%E5%88%86.png?rev=b0d1ef2d3ae90fc4dc5bc50c70483fbe&t=20230221200547"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -162582,7 +162624,9 @@
         "maxDensity": 4.75,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/1079/oni"
+          "https://file.taiko.wiki/fumen/1079/oni",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/GO%20ON%20%EF%BD%9E%E6%9C%AA%E6%9D%A5%E3%81%B8%EF%BD%9E/::ref/20tftr%E6%8B%A1%E5%A4%A7.png?rev=554df00928dd2328fb95cfdff400261d&t=20230228035610",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/GO%20ON%20%EF%BD%9E%E6%9C%AA%E6%9D%A5%E3%81%B8%EF%BD%9E/::ref/GO%20ON%20%EF%BD%9E%E6%9C%AA%E6%9D%A5%E3%81%B8%EF%BD%9E%20%E8%A6%8B%E3%81%9F%E7%9B%AE.png?rev=07bc35c99962cea749de258b8abdb33d&t=20230228035602"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -173515,7 +173559,8 @@
         "maxDensity": 2.85,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/251852eb-d8d9-4186-bedf-2aa6967c2036"
+          "https://file.taiko.wiki/img/251852eb-d8d9-4186-bedf-2aa6967c2036",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Destr0yer/::ref/Destr0yer_BPM90%E5%9B%BA%E5%AE%9A_1.png?rev=4fc799f2bd5c33b1714dfd741c98b948&t=20231008013425"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -173533,7 +173578,9 @@
         "maxDensity": 5.66,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/5149a1f7-f4b4-45a3-9fb8-f15346a08aea"
+          "https://file.taiko.wiki/img/5149a1f7-f4b4-45a3-9fb8-f15346a08aea",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Destr0yer%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Destr0yer%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29_BPM90%E5%9B%BA%E5%AE%9A_2.png?rev=283ea221ec570b13de0dcc7cf14b96a9&t=20240808062232",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Destr0yer%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Destr0yer%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29_BPM180%E5%9B%BA%E5%AE%9A_2.png?rev=c3acebf9a29b3043ec3bee44a97268a1&t=20240808062334"
         ],
         "daniUsed": 0,
         "isBranched": 0
