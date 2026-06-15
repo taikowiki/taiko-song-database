@@ -77827,7 +77827,7 @@
     "order": 1014,
     "title": "Xa",
     "titleKo": null,
-    "aliasKo": "이쿠사 / 쨔",
+    "aliasKo": "이쿠사 / 짜",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -142150,7 +142150,7 @@
         "maxDensity": 0.98,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/1016/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%20feat.Sou%20%EF%BC%8F%20%E3%83%8A%E3%83%8A%E3%83%B2%E3%82%A2%E3%82%AB%E3%83%AA/::ref/%E3%83%AA%E3%82%B1%E6%81%8B_e.png?rev=27988d163c17eb2ceae11704c95e0392&t=20230228010941"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -142174,7 +142174,7 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/fumen/1016/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%20feat.Sou%20%EF%BC%8F%20%E3%83%8A%E3%83%8A%E3%83%B2%E3%82%A2%E3%82%AB%E3%83%AA/::ref/%E3%83%AA%E3%82%B1%E6%81%8B_n.png?rev=07ce6c361fb521e6e44861003ba65c94&t=20230228011058"
         ],
         "daniUsed": 1,
         "isBranched": 0
@@ -142192,7 +142192,7 @@
         "maxDensity": 3.43,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/1016/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%20feat.Sou%20%EF%BC%8F%20%E3%83%8A%E3%83%8A%E3%83%B2%E3%82%A2%E3%82%AB%E3%83%AA/::ref/%E3%83%AA%E3%82%B1%E6%81%8B_h.png?rev=14ec0cade0e673612239947e799e35fa&t=20230228011259"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -142207,7 +142207,7 @@
         "maxDensity": 4.76,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/1016/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%96%20feat.Sou%20%EF%BC%8F%20%E3%83%8A%E3%83%8A%E3%83%B2%E3%82%A2%E3%82%AB%E3%83%AA/::ref/%E3%83%AA%E3%82%B1%E6%81%8B_2.png?rev=811be6644988db1171b26b65c020afc3&t=20230228011405"
         ],
         "daniUsed": 0,
         "isBranched": 0
