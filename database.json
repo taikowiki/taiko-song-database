@@ -1,5 +1,278 @@
 [
   {
+    "songNo": "ns2_t3ttt",
+    "order": 1453,
+    "title": "Try!-Tough!-Tight!",
+    "titleKo": null,
+    "aliasKo": "트라이!-터프!-타이트!",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 160,
+      "max": 160
+    },
+    "bpmShiver": 0,
+    "version": [
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "LindaAI-CUE"
+    ],
+    "addedDate": 1781740800000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 138,
+        "playTime": 94.521,
+        "balloon": [
+          3,
+          7,
+          6
+        ],
+        "rollTime": [
+          1.469,
+          1.094,
+          0.719,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094
+        ],
+        "maxDensity": 1.46,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Try%21-Tough%21-Tight%21/::ref/t3ttt_e.png?rev=c05f81789d83408112635559800a7c64&t=20260618001030"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 285,
+        "playTime": 94.684,
+        "balloon": [
+          4,
+          9,
+          7
+        ],
+        "rollTime": [
+          0.719,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094,
+          1.094
+        ],
+        "maxDensity": 3.01,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Try%21-Tough%21-Tight%21/::ref/t3ttt_n.png?rev=086eebc0972559df948198ef878bb9d8&t=20260618001009"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 496,
+        "playTime": 99.2,
+        "balloon": [],
+        "rollTime": [
+          0.719,
+          1.094
+        ],
+        "maxDensity": 5,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Try%21-Tough%21-Tight%21/::ref/t3ttt_h.png?rev=3f7d4d3f7f9899c7166fc3d2bee18bec&t=20260618000946"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 756,
+        "playTime": 99.083,
+        "balloon": [],
+        "rollTime": [
+          0.719
+        ],
+        "maxDensity": 7.63,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Try%21-Tough%21-Tight%21/::ref/t3ttt_m.png?rev=0ec647ba240fb18b48340d23ce29192c&t=20260618000712"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1026,
+        "playTime": 99.035,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 10.36,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Try%21-Tough%21-Tight%21%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/t3ttt_x.png?rev=6bae269ca7b4de2fa78950f36c8a7f3e&t=20260618000747"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
+    "songNo": "1507",
+    "order": 1457,
+    "title": "I am not Alice.",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 130,
+      "max": 260
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "モリモリあつし"
+    ],
+    "addedDate": 1781740800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 194,
+        "playTime": 135.769,
+        "balloon": [
+          18
+        ],
+        "rollTime": [
+          1.385,
+          1.385,
+          1.615,
+          0.692,
+          1.846,
+          1.731,
+          1.615,
+          1.731,
+          1.731,
+          1.615,
+          1.846
+        ],
+        "maxDensity": 1.43,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/I%20am%20not%20Alice./::ref/I%20am%20not%20Alice._e.png?rev=88961721f8d693f23433e857efc38096&t=20260618200957"
+        ]
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 272,
+        "playTime": 135.769,
+        "balloon": [
+          24
+        ],
+        "rollTime": [
+          0.692,
+          1.385,
+          1.615,
+          1.385,
+          1.385,
+          0.692,
+          1.846,
+          1.731,
+          1.731,
+          1.731,
+          1.731,
+          1.731,
+          1.846
+        ],
+        "maxDensity": 2,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/I%20am%20not%20Alice./::ref/I%20am%20not%20Alice._n.png?rev=21d62283ab7f04b7aaf9638637755614&t=20260618200907"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 422,
+        "playTime": 135.769,
+        "balloon": [],
+        "rollTime": [
+          0.692,
+          1.615,
+          0.692,
+          1.846,
+          3,
+          1.731,
+          1.615,
+          1.731,
+          0.808,
+          1.731,
+          1.731
+        ],
+        "maxDensity": 3.11,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/I%20am%20not%20Alice./::ref/I%20am%20not%20Alice._h.png?rev=2fe19971cfa4d0be5256648af58e45b5&t=20260618200804"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 872,
+        "playTime": 135.194,
+        "balloon": [],
+        "rollTime": [
+          0.654,
+          0.692,
+          3,
+          0.327,
+          0.212,
+          1.712,
+          1.712
+        ],
+        "maxDensity": 6.45,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/I%20am%20not%20Alice./::ref/I%20am%20not%20Alice._2.png?rev=9185d65c87507093fb862d682930b60c&t=20260618111148"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "1502",
     "order": 1452,
     "title": "鈍響ライクリフド",
@@ -13887,92 +14160,6 @@
         "images": [
           "https://file.taiko.wiki/img/72a5dcd3-18ee-4485-94ad-c56a967b6783"
         ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "26dani_temp2",
-    "order": 1454,
-    "title": "活声ライクリフド",
-    "titleKo": null,
-    "aliasKo": "활성 Likelihood",
-    "titleEn": null,
-    "aliasEn": null,
-    "titleZhCN": null,
-    "romaji": null,
-    "bpm": {
-      "min": 250,
-      "max": 250
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      ""
-    ],
-    "addedDate": 1749168000000,
-    "courses": {
-      "easy": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "normal": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "hard": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "oni": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": 938,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 1,
-        "dani": [
-          {
-            "version": "26",
-            "dan": "10dan",
-            "order": 3
-          }
-        ],
-        "images": []
       },
       "ura": null
     },
@@ -127434,6 +127621,139 @@
     "isDeleted": 0
   },
   {
+    "songNo": "CS_ttk3",
+    "order": 1454,
+    "title": "ハム太郎とっとこうた(2005)",
+    "titleKo": null,
+    "aliasKo": "방가방가 햄토리 오프닝(2005)",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 140,
+      "max": 140
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "AC8",
+      "AC9",
+      "AC10",
+      "DF",
+      "NS2",
+      "Wii4",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [],
+    "artists": [
+      "ハムちゃんず"
+    ],
+    "addedDate": 1123113600000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 94,
+        "playTime": 81.739,
+        "balloon": [],
+        "rollTime": [
+          1.25,
+          1.036,
+          1.036,
+          1.036,
+          1.036,
+          1.036,
+          1.036,
+          1.25
+        ],
+        "maxDensity": 1.15,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%81%86%E3%81%9F%282005%29/::ref/ttk3_e.png?rev=70435a80702f45f3e664cb05a3f758a7&t=20230302014750"
+        ]
+      },
+      "normal": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 150,
+        "playTime": 81.081,
+        "balloon": [
+          6
+        ],
+        "rollTime": [
+          1.036,
+          1.036,
+          1.036,
+          1.036,
+          1.036,
+          1.036
+        ],
+        "maxDensity": 1.85,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%81%86%E3%81%9F%282005%29/::ref/ttk3_n.png?rev=8a9fb887adefe045ef303da54c83ba25&t=20230302014814"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 296,
+        "playTime": 80.874,
+        "balloon": [
+          8
+        ],
+        "rollTime": [],
+        "maxDensity": 3.66,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%81%86%E3%81%9F%282005%29/::ref/ttk3_h.png?rev=6cb5f21da4b45c672a70ded20b8acc64&t=20230302014839"
+        ]
+      },
+      "oni": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 401,
+        "playTime": 80.847,
+        "balloon": [
+          9
+        ],
+        "rollTime": [
+          0.821
+        ],
+        "maxDensity": 4.96,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%81%86%E3%81%9F%282005%29/::ref/%E5%A4%A7%E9%AD%94%E7%8E%8B%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%81%86%E3%81%9F2013%E5%B0%8F%E7%AF%80%E7%B7%9A%E4%BF%AE%E6%AD%A3.png?rev=e3f57efc23ddd3b6f6fab52e315ef01c&t=20230302014906"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 597,
+        "playTime": 82.459,
+        "balloon": [],
+        "rollTime": [
+          0.821,
+          0.821
+        ],
+        "maxDensity": 7.24,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%81%86%E3%81%9F%282005%29%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/ttk3_x.png?rev=9de4ec66b845836100851995a4aa231e&t=20260423113241"
+        ]
+      }
+    },
+    "isDeleted": 0
+  },
+  {
     "songNo": "461",
     "order": 1067,
     "title": "よくでる2000",
@@ -165959,92 +166279,6 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
-      },
-      "ura": null
-    },
-    "isDeleted": 0
-  },
-  {
-    "songNo": "26dani_temp1",
-    "order": 1453,
-    "title": "鈍響ライクリフド",
-    "titleKo": null,
-    "aliasKo": "둔향 Likelihood",
-    "titleEn": null,
-    "aliasEn": null,
-    "titleZhCN": null,
-    "romaji": null,
-    "bpm": {
-      "min": 200,
-      "max": 200
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      ""
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "normal": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "hard": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "oni": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": 1055,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 1,
-        "dani": [
-          {
-            "version": "26",
-            "dan": "10dan",
-            "order": 2
-          }
-        ],
-        "images": []
       },
       "ura": null
     },
