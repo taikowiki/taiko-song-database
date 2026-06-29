@@ -41978,7 +41978,7 @@
     "songNo": "938",
     "order": 724,
     "title": "零の交響曲",
-    "titleKo": "ZERO NO SYMPHONY",
+    "titleKo": "제로노 심포니",
     "aliasKo": "영의 교향곡",
     "titleEn": "ZERO NO SYMPHONY",
     "aliasEn": null,
@@ -41991,6 +41991,7 @@
     "bpmShiver": 0,
     "version": [
       "NAC",
+      "DF",
       "NS2",
       "RC"
     ],
@@ -72221,7 +72222,7 @@
     "songNo": "471",
     "order": 919,
     "title": "零の狂詩曲",
-    "titleKo": "ZERO NO RHAPSODY",
+    "titleKo": "제로노 랩소디",
     "aliasKo": "영의 광시곡",
     "titleEn": "ZERO NO RHAPSODY",
     "aliasEn": null,
