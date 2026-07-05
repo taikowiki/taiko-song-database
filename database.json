@@ -31,38 +31,86 @@
       "easy": {
         "level": 3,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 120,
+        "playTime": 109.091,
+        "balloon": [
+          5,
+          18
+        ],
+        "rollTime": [
+          0.921,
+          1.711,
+          0.763,
+          0.921,
+          1.553,
+          1.237,
+          0.921,
+          0.921,
+          1.237
+        ],
+        "maxDensity": 1.1,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%81%8B%E3%81%AE%E7%B4%84%E6%9D%9F%20-2025ver.-/::ref/%E6%81%8B%E3%81%AE%E7%B4%84%E6%9D%9F%20-2025ver.-_e.png?rev=c22805fef650d213410dabe0fbb1f1cc&t=20260705044643"
+        ]
       },
       "normal": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 214,
+        "playTime": 108.629,
+        "balloon": [
+          9,
+          7,
+          24
+        ],
+        "rollTime": [
+          1.079,
+          1.553,
+          1.079,
+          0.921,
+          1.079,
+          1.553,
+          1.237,
+          1.079,
+          1.079,
+          1.237
+        ],
+        "maxDensity": 1.97,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%81%8B%E3%81%AE%E7%B4%84%E6%9D%9F%20-2025ver.-/::ref/%E6%81%8B%E3%81%AE%E7%B4%84%E6%9D%9F%20-2025ver.-_n.png?rev=128e395048c68526b04ecdde68cd678f&t=20260705044703"
+        ]
       },
       "hard": {
         "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 354,
+        "playTime": 108.589,
+        "balloon": [
+          10,
+          32,
+          6
+        ],
+        "rollTime": [
+          1.237,
+          1.237,
+          1.079,
+          1.079,
+          0.605,
+          0.526,
+          1.079,
+          1.079,
+          1.237
+        ],
+        "maxDensity": 3.26,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%81%8B%E3%81%AE%E7%B4%84%E6%9D%9F%20-2025ver.-/::ref/%E6%81%8B%E3%81%AE%E7%B4%84%E6%9D%9F%20-2025ver.-_h.png?rev=edb1111799d78566b586ae64d076c8b5&t=20260705044714"
+        ]
       },
       "oni": {
         "level": 9,
@@ -124,38 +172,64 @@
       "easy": {
         "level": 3,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 108,
+        "playTime": 81.818,
+        "balloon": [
+          3,
+          14
+        ],
+        "rollTime": [
+          0.763,
+          0.763,
+          0.763,
+          0.605,
+          1.237
+        ],
+        "maxDensity": 1.32,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%AE%88%E8%AD%B7%E3%81%84%E3%82%B9%E3%82%AD%E3%81%A3%EF%BC%81/::ref/%E5%AE%88%E8%AD%B7%E3%81%84%E3%82%B9%E3%82%AD%E3%81%A3%EF%BC%81_e.png?rev=4c245c512dfa28011340932cdc7b3c13&t=20260705044730"
+        ]
       },
       "normal": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 216,
+        "playTime": 81.818,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.921,
+          0.921,
+          0.763,
+          0.605,
+          0.763
+        ],
+        "maxDensity": 2.64,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%AE%88%E8%AD%B7%E3%81%84%E3%82%B9%E3%82%AD%E3%81%A3%EF%BC%81/::ref/%E5%AE%88%E8%AD%B7%E3%81%84%E3%82%B9%E3%82%AD%E3%81%A3%EF%BC%81_n.png?rev=c2b8aea7f3447bee2260d844875e935d&t=20260705044746"
+        ]
       },
       "hard": {
         "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 340,
+        "playTime": 81.535,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.289,
+          0.921,
+          0.605,
+          0.763
+        ],
+        "maxDensity": 4.17,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%AE%88%E8%AD%B7%E3%81%84%E3%82%B9%E3%82%AD%E3%81%A3%EF%BC%81/::ref/%E5%AE%88%E8%AD%B7%E3%81%84%E3%82%B9%E3%82%AD%E3%81%A3%EF%BC%81_h.png?rev=534d91f5cb5e74cad76309316520175d&t=20260705044802"
+        ]
       },
       "oni": {
         "level": 9,
@@ -163638,7 +163712,7 @@
         "maxDensity": 0.83,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/624/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Good-bye%20my%20earth/::ref/dariub_e.png?rev=99cb372195d02194216761aeabcfa7f7&t=20230228035416"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -163656,7 +163730,7 @@
         "maxDensity": 1.23,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/624/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Good-bye%20my%20earth/::ref/dariub_n.png?rev=80dd1bb120fd40a3904eacced4b0f159&t=20230228035442"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -163674,7 +163748,7 @@
         "maxDensity": 2.66,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/624/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Good-bye%20my%20earth/::ref/dariub_h.png?rev=7083492b068315f985119262b79751d4&t=20230228035502"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -163692,7 +163766,7 @@
         "maxDensity": 4.77,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/624/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Good-bye%20my%20earth/::ref/dariub_m.png?rev=526a9b7db405c79dcec4db5e356a0283&t=20230228035352"
         ],
         "daniUsed": 0,
         "isBranched": 0
