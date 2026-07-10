@@ -110125,6 +110125,184 @@
     "keybpm": null
   },
   {
+    "songNo": "temp_cycle",
+    "order": 1461,
+    "title": "サイクル・オブ・リバース",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 96,
+      "max": 161
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "WiiU1",
+      "PSPDX",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "佐藤たかふみ",
+      "蟹プリンス"
+    ],
+    "addedDate": 1310601600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 161,
+        "playTime": 180.899,
+        "balloon": [
+          30,
+          30,
+          8,
+          10,
+          12,
+          14
+        ],
+        "rollTime": [
+          0.528,
+          0.528,
+          1.087,
+          1.087,
+          1.087,
+          0.901,
+          0.901,
+          0.901,
+          1.46,
+          1.087,
+          1.087,
+          1.087,
+          0.714,
+          1.646,
+          1.646,
+          1.646
+        ],
+        "maxDensity": 0.89,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/::ref/p.png?rev=084e70c1993a5028e22a49191f000667&t=20230227024234"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 272,
+        "playTime": 180.132,
+        "balloon": [
+          30,
+          30,
+          8,
+          10,
+          12,
+          14
+        ],
+        "rollTime": [
+          0.528,
+          0.528,
+          1.087,
+          1.087,
+          1.087,
+          0.901,
+          1.087,
+          0.901,
+          1.46,
+          1.087,
+          1.087,
+          1.087,
+          1.087,
+          1.646,
+          1.646,
+          1.646
+        ],
+        "maxDensity": 1.51,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/::ref/p.png?rev=9de0005dbcc6d05f66be8db2cf15cc55&t=20230227024457"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 413,
+        "playTime": 180.349,
+        "balloon": [
+          35,
+          35,
+          10,
+          12,
+          14,
+          16
+        ],
+        "rollTime": [
+          0.714,
+          0.714,
+          1.087,
+          1.087,
+          1.087,
+          0.901,
+          1.087,
+          0.901,
+          1.46,
+          1.087,
+          1.087,
+          1.087,
+          1.087,
+          0.528,
+          1.832,
+          1.832,
+          1.646
+        ],
+        "maxDensity": 2.29,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/::ref/s.png?rev=99f9349ec489b3ddff0b523f5a47ae98&t=20230227024532"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 765,
+        "playTime": 180.425,
+        "balloon": [
+          50
+        ],
+        "rollTime": [
+          0.528,
+          1.087,
+          1.46,
+          1.087,
+          0.714,
+          1.646
+        ],
+        "maxDensity": 4.24,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/::ref/b.png?rev=7c3409f92d4ec8034158bb24f9d8582d&t=20230227024617"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": [
+      96,
+      161
+    ]
+  },
+  {
     "songNo": "74",
     "order": 951,
     "title": "白猫きゃらめる夢幻のわたあめ",
