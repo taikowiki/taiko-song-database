@@ -149575,7 +149575,7 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/880/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/Hopes%20and%20Dreams%20Easy.png?rev=7d3f78b7c1b2d7195acf2b22c4a99dc0&t=20230228044102"
         ],
         "daniUsed": 0
       },
@@ -149593,7 +149593,7 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/880/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/Hopes%20and%20Dreams%20Normal.png?rev=02265bbc1a27bade5f8ec48b75ec5ccc&t=20230228044120"
         ],
         "daniUsed": 0
       },
@@ -149617,7 +149617,7 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/fumen/880/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/Hopes%20and%20Dreams%20Hard.png?rev=871116625e454c92e7893d0506693494&t=20230228044137"
         ],
         "daniUsed": 1
       },
@@ -149635,7 +149635,11 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/880/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/udtymt_m3.png?rev=4074993348fefc10ab65358baac01615&t=20230228044043",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/3.png?rev=adff22d48781d94ddcfa51c189eff5b2&t=20241123084239",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/udtymt_explast.png?rev=2d098c072c56a25d8117fb7be39735cb&t=20250929213003",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/udtymt_me.png?rev=aa028dc098ec25645a67f254a86f740b&t=20250516082830",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%A2%E3%81%A8%E5%B8%8C%E6%9C%9B/::ref/udtymt_mm.png?rev=90fd3cd061d5bcb78c792b3cadb736e5&t=20250516082825"
         ],
         "daniUsed": 0
       },
