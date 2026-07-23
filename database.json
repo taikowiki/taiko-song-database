@@ -3,8 +3,8 @@
     "songNo": "1515",
     "order": 1465,
     "title": "カリスマックス",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "CHARISMAX",
+    "aliasKo": "카리스맥스",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -102,8 +102,8 @@
     "songNo": "1516",
     "order": 1466,
     "title": "ほんまやで☆なんでやねん☆しらんけど",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "Honmayade☆Nandeyanen☆Shirankedo",
+    "aliasKo": "정말이야☆뭐야☆모르지만",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -204,8 +204,8 @@
     "songNo": "1517",
     "order": 1467,
     "title": "サウダージ",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "Saudade",
+    "aliasKo": "사우다지",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -302,8 +302,8 @@
     "songNo": "1518",
     "order": 1468,
     "title": "ワールドイズマイン CPK! Remix (かぐや&月見ヤチヨ ver.)",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "World Is Mine CPK! Remix (가구야&루나미 야치요 ver.)",
+    "aliasKo": "월드 이즈 마인 CPK! 리믹스 (가구야&루나미 야치요 ver.)",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -418,8 +418,8 @@
     "songNo": "1519",
     "order": 1469,
     "title": "はちゃめちゃわちゃライフ！",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "Hacha Mecha Wacha Life!",
+    "aliasKo": "엉망진창시끌 라이프!",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -448,43 +448,64 @@
       "easy": {
         "level": 3,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 103,
+        "playTime": 76.866,
+        "balloon": [
+          5,
+          17,
+          12,
+          12
+        ],
+        "rollTime": [
+          0.994,
+          0.994,
+          1.165
+        ],
+        "maxDensity": 1.34,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%81%AF%E3%81%A1%E3%82%83%E3%82%81%E3%81%A1%E3%82%83%E3%82%8F%E3%81%A1%E3%82%83%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81/::ref/fzip8c_e.png?rev=a19cc1d21b20ebbc3f9b486f2eb4e226&t=20260723001212"
         ]
       },
       "normal": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 135,
+        "playTime": 77.143,
+        "balloon": [
+          20,
+          15,
+          15
+        ],
+        "rollTime": [
+          1.165,
+          1.165,
+          1.165
+        ],
+        "maxDensity": 1.75,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%81%AF%E3%81%A1%E3%82%83%E3%82%81%E3%81%A1%E3%82%83%E3%82%8F%E3%81%A1%E3%82%83%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81/::ref/fzip8c_n.png?rev=c10be41b49bd70d25737a7c409ca11d8&t=20260723001048"
         ]
       },
       "hard": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
+        "maxCombo": 340,
+        "playTime": 78.522,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          0.994,
+          0.824,
+          0.824
+        ],
+        "maxDensity": 4.33,
         "daniUsed": 0,
         "dani": [],
         "images": [
-          ""
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%81%AF%E3%81%A1%E3%82%83%E3%82%81%E3%81%A1%E3%82%83%E3%82%8F%E3%81%A1%E3%82%83%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81/::ref/fzip8c_h.png?rev=36ff2c77b1832466a1a24f49b91fce92&t=20260723000917"
         ]
       },
       "oni": {
@@ -516,7 +537,7 @@
     "songNo": "1520",
     "order": 1470,
     "title": "釣りスピリッツ ワンダー メドレー",
-    "titleKo": null,
+    "titleKo": "Ace Angler 메들리 ~Wonder Ver.~",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -614,7 +635,7 @@
     "songNo": "1521",
     "order": 1471,
     "title": "湾岸ミッドナイト マキシマムチューン 6RR PLUS メドレー Vol.1",
-    "titleKo": null,
+    "titleKo": "WANGAN MIDNIGHT MAXIMUN TUNE 메들리 Vol.1",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -2669,7 +2690,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 0,
+    "isAsiaBanned": 1,
     "isKrBanned": 0,
     "genre": [
       "namco"
@@ -46055,6 +46076,130 @@
         ],
         "daniUsed": 1,
         "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "853",
+    "order": 1472,
+    "title": "ププッとフムッとかいけつダンス",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 72,
+      "max": 165
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "anime",
+      "kids"
+    ],
+    "artists": [
+      "伊勢大貴",
+      "小杉保夫"
+    ],
+    "addedDate": 1567555200000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 57,
+        "playTime": 121.277,
+        "balloon": [
+          18,
+          8,
+          24,
+          8
+        ],
+        "rollTime": [
+          4.333,
+          1.606
+        ],
+        "maxDensity": 0.47,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%83%97%E3%83%97%E3%83%83%E3%81%A8%E3%83%95%E3%83%A0%E3%83%83%E3%81%A8%E3%81%8B%E3%81%84%E3%81%91%E3%81%A4%E3%83%80%E3%83%B3%E3%82%B9/::ref/%E3%81%8A%E3%81%97%E3%82%8A%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=5f33618f08f041be759a334b6c403415&t=20230301122805"
+        ]
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 105,
+        "playTime": 120.69,
+        "balloon": [
+          18,
+          12,
+          32,
+          12
+        ],
+        "rollTime": [
+          4.333,
+          1.606
+        ],
+        "maxDensity": 0.87,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%83%97%E3%83%97%E3%83%83%E3%81%A8%E3%83%95%E3%83%A0%E3%83%83%E3%81%A8%E3%81%8B%E3%81%84%E3%81%91%E3%81%A4%E3%83%80%E3%83%B3%E3%82%B9/::ref/%E3%81%8A%E3%81%97%E3%82%8A%E3%81%B5%E3%81%A4%E3%81%86.png?rev=471727f93b1f962c494976ecc71f4954&t=20230301122905"
+        ]
+      },
+      "hard": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 223,
+        "playTime": 131.953,
+        "balloon": [
+          24,
+          18,
+          40,
+          18
+        ],
+        "rollTime": [
+          1.061,
+          1.061,
+          1.061,
+          1.061,
+          1.606
+        ],
+        "maxDensity": 1.69,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%83%97%E3%83%97%E3%83%83%E3%81%A8%E3%83%95%E3%83%A0%E3%83%83%E3%81%A8%E3%81%8B%E3%81%84%E3%81%91%E3%81%A4%E3%83%80%E3%83%B3%E3%82%B9/::ref/%E3%81%8A%E3%81%97%E3%82%8A%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=9de589dfa1e4929e74b14418326552cd&t=20230301122950"
+        ]
+      },
+      "oni": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 382,
+        "playTime": 131.724,
+        "balloon": [
+          30,
+          24,
+          24
+        ],
+        "rollTime": [
+          1.606
+        ],
+        "maxDensity": 2.9,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%97%E3%83%97%E3%83%83%E3%81%A8%E3%83%95%E3%83%A0%E3%83%83%E3%81%A8%E3%81%8B%E3%81%84%E3%81%91%E3%81%A4%E3%83%80%E3%83%B3%E3%82%B9/::ref/osirit_m.png?rev=37dc80c6f3f7af02c3bfa03a13dfb2d0&t=20230301123032"
+        ]
       },
       "ura": null
     },
