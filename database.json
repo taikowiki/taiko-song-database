@@ -38640,7 +38640,8 @@
         "maxDensity": 1.18,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/d5908669-7375-488e-87ce-235f7d288339"
+          "https://file.taiko.wiki/img/d5908669-7375-488e-87ce-235f7d288339",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Agent%20Hustle%20%EF%BC%86%20Dr.%20Hassle/::ref/Agent%20Hustle%20%26%20Dr.%20Hassle_half_e.png?rev=66f85fa9513489e731cff4b726b347fc&t=20230224174832"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -38658,7 +38659,8 @@
         "maxDensity": 1.91,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/742df172-0932-4a39-8592-8737831f3486"
+          "https://file.taiko.wiki/img/742df172-0932-4a39-8592-8737831f3486",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Agent%20Hustle%20%EF%BC%86%20Dr.%20Hassle/::ref/Agent%20Hustle%20%26%20Dr.%20Hassle_half_n.png?rev=884e952a023b3a35d8070e1857816bb3&t=20230224174806"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -38676,7 +38678,8 @@
         "maxDensity": 3.09,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/3a7b61c3-fecf-45ec-917b-41f75f6ca226"
+          "https://file.taiko.wiki/img/3a7b61c3-fecf-45ec-917b-41f75f6ca226",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Agent%20Hustle%20%EF%BC%86%20Dr.%20Hassle/::ref/Agent%20Hustle%20%26%20Dr.%20Hassle_half_h_2.png?rev=3535abc20ee49dd01dcf59732f14400c&t=20250314052313"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -38691,7 +38694,8 @@
         "maxDensity": 5.78,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/d83c2215-5e48-4a72-a4d0-9f2053072d13"
+          "https://file.taiko.wiki/img/d83c2215-5e48-4a72-a4d0-9f2053072d13",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Agent%20Hustle%20%EF%BC%86%20Dr.%20Hassle/::ref/Agent%20Hustle%20%26%20Dr.%20Hassle_half2.png?rev=0ff5ced14725dbd013647fbcdd75f181&t=20230224174705"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -38715,14 +38719,17 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/img/894bf610-def4-4b45-88ba-c7406d93fa18"
+          "https://file.taiko.wiki/img/894bf610-def4-4b45-88ba-c7406d93fa18",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Agent%20Hustle%20%EF%BC%86%20Dr.%20Hassle%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Agent%20Hustle%20%26%20Dr.%20Hassle_EX_half2.png?rev=ff0ef047442fcc5128655f73db531cd9&t=20230224174626"
         ],
         "daniUsed": 1,
         "isBranched": 0
       }
     },
     "isDeleted": 0,
-    "keybpm": null
+    "keybpm": [
+      120
+    ]
   },
   {
     "songNo": "1066",
