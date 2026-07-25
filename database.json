@@ -1,5 +1,202 @@
 [
   {
+    "songNo": "1496",
+    "order": 1473,
+    "title": "The Encounter Code",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 212,
+      "max": 212
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "technoplanet"
+    ],
+    "addedDate": 1784937600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 910,
+        "playTime": 142.41,
+        "balloon": [
+          20,
+          25,
+          6
+        ],
+        "rollTime": [
+          4.505
+        ],
+        "maxDensity": 6.39,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/The%20Encounter%20Code/::ref/The%20Encounter%20Code_4.png?rev=0f01400198b5945e5f884cae7e755a4b&t=20260722204200"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1499",
+    "order": 1474,
+    "title": "When Enemies Collapse",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 158,
+      "max": 158
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "黒沢ダイスケ"
+    ],
+    "addedDate": 1784937600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 701,
+        "playTime": 133.779,
+        "balloon": [
+          31,
+          31,
+          16,
+          31
+        ],
+        "rollTime": [
+          1.108,
+          1.108,
+          1.108
+        ],
+        "maxDensity": 5.24,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/When%20Enemies%20Collapse/::ref/When%20Enemies%20Collapse_%E8%A1%A8_2.png?rev=3c6bbcf86ef82bebb560ca0b860760e1&t=20260722204926"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 982,
+        "playTime": 133.605,
+        "balloon": [],
+        "rollTime": [
+          2.247,
+          1.108
+        ],
+        "maxDensity": 7.35,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/When%20Enemies%20Collapse%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/When%20Enemies%20Collapse_EX_2.png?rev=8fb9daf2f77df2e71015568df240dd55&t=20260722110115"
+        ]
+      }
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1515",
     "order": 1465,
     "title": "カリスマックス",
@@ -139144,7 +139341,10 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/6e1c0cdc-aaba-4365-8f25-f5810cd1b09f"
+          "https://file.taiko.wiki/img/6e1c0cdc-aaba-4365-8f25-f5810cd1b09f",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/4%2B1%E3%81%AE%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/4%2B1%E3%81%AE1_Futsu_3.png?rev=423b6909e76568c277a0d3ce55ddc81d&t=20241209235356",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/4%2B1%E3%81%AE%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/4%2B1%E3%81%AE1_Clotho_4.png?rev=499e14fa5a9e98145c0a12994ef90392&t=20241209235400",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/4%2B1%E3%81%AE%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/4%2B1%E3%81%AE1_Tatsujin_3.png?rev=9c7145c7465614d335e3791c4e66337e&t=20241209235403"
         ]
       }
     },
