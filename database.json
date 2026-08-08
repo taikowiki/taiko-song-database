@@ -1,5 +1,94 @@
 [
   {
+    "songNo": "1514",
+    "order": 1477,
+    "title": "やれんのか夏！？アソビタイガー！",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 19,
+      "max": 190
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "まろん",
+      "マスタード"
+    ],
+    "addedDate": 1786147200000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 876,
+        "playTime": 127.326,
+        "balloon": [
+          2
+        ],
+        "rollTime": [
+          1.237,
+          1.079
+        ],
+        "maxDensity": 6.88,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%84%E3%82%8C%E3%82%93%E3%81%AE%E3%81%8B%E5%A4%8F%EF%BC%81%EF%BC%9F%E3%82%A2%E3%82%BD%E3%83%93%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%EF%BC%81/::ref/%E3%82%A2%E3%82%BD%E3%83%93%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC_2.png?rev=4cb5187f65e0419a300df98c32d4aeb7&t=20260808075700"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1497",
     "order": 1475,
     "title": "ln(guis・tics)",
