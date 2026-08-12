@@ -32,10 +32,19 @@
         "level": 3,
         "isBranched": 0,
         "maxCombo": 181,
-        "playTime": 0,
+        "playTime": 125.694,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          1.237,
+          0.447,
+          0.447,
+          1.237,
+          1.079,
+          0.921,
+          0.921,
+          2.342
+        ],
+        "maxDensity": 1.44,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -46,10 +55,16 @@
         "level": 5,
         "isBranched": 0,
         "maxCombo": 370,
-        "playTime": 0,
+        "playTime": 127.586,
         "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "rollTime": [
+          1.237,
+          1.237,
+          1.079,
+          1.237,
+          2.342
+        ],
+        "maxDensity": 2.9,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -60,10 +75,20 @@
         "level": 7,
         "isBranched": 0,
         "maxCombo": 522,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "playTime": 127.628,
+        "balloon": [
+          2
+        ],
+        "rollTime": [
+          1.237,
+          0.289,
+          0.289,
+          1.237,
+          1.079,
+          1.237,
+          2.342
+        ],
+        "maxDensity": 4.09,
         "daniUsed": 0,
         "dani": [],
         "images": [
