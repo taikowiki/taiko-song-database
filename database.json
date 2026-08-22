@@ -1,5 +1,136 @@
 [
   {
+    "songNo": "1522",
+    "order": 1478,
+    "title": "HYPERNOVA",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 212,
+      "max": 212
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "USAO",
+      "モリモリあつし"
+    ],
+    "addedDate": 1787356800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 222,
+        "playTime": 143.226,
+        "balloon": [
+          14,
+          12
+        ],
+        "rollTime": [
+          1.108,
+          1.108,
+          0.825,
+          0.684,
+          0.684,
+          0.684,
+          0.825
+        ],
+        "maxDensity": 1.55,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/HYPERNOVA/::ref/HYPERNOVA_e.png?rev=4c0040956f15def733ebb8095eb15257&t=20260822093110"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 451,
+        "playTime": 144.551,
+        "balloon": [
+          20,
+          18
+        ],
+        "rollTime": [
+          1.108,
+          1.108,
+          0.825,
+          0.684,
+          0.684,
+          0.259,
+          0.825
+        ],
+        "maxDensity": 3.12,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/HYPERNOVA/::ref/HYPERNOVA_n.png?rev=89a5239487bf179aca2d4aa5f7e1cc8a&t=20260822093118"
+        ]
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 780,
+        "playTime": 144.177,
+        "balloon": [
+          30,
+          25
+        ],
+        "rollTime": [
+          1.108,
+          1.108,
+          0.825,
+          0.684,
+          0.967,
+          0.401,
+          0.259
+        ],
+        "maxDensity": 5.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/HYPERNOVA/::ref/HYPERNOVA_h.png?rev=368e2729a207046a012950b690881dec&t=20260822093127"
+        ]
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1096,
+        "playTime": 144.211,
+        "balloon": [
+          40,
+          32
+        ],
+        "rollTime": [
+          0.825,
+          0.684,
+          0.967,
+          0.259
+        ],
+        "maxDensity": 7.6,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/HYPERNOVA/::ref/HYPERNOVA_m_2.png?rev=c1a58b662bf4db45d3de449bed26dc90&t=20260822074144"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1514",
     "order": 1477,
     "title": "やれんのか夏！？アソビタイガー！",
