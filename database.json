@@ -174709,7 +174709,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
@@ -174733,7 +174734,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/973/easy"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "normal": {
         "level": 6,
@@ -174747,7 +174749,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/973/normal"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "hard": {
         "level": 6,
@@ -174761,7 +174764,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/973/hard"
         ],
-        "daniUsed": 0
+        "daniUsed": 0,
+        "isBranched": 0
       },
       "oni": {
         "level": 7,
@@ -174781,7 +174785,8 @@
         "images": [
           "https://file.taiko.wiki/fumen/973/oni"
         ],
-        "daniUsed": 1
+        "daniUsed": 1,
+        "isBranched": 0
       },
       "ura": null
     },
@@ -180058,7 +180063,8 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
