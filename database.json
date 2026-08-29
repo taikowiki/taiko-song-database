@@ -1,5 +1,89 @@
 [
   {
+    "songNo": "1523",
+    "order": 1479,
+    "title": "Vrykolakas",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 0,
+      "max": 0
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Drop",
+      "Laur"
+    ],
+    "addedDate": 1787961600000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 998,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Vrykolakas/::ref/Vrykolakas_m_4_re.png?rev=0aec426a7ce580102e5f25c7d57cdd76&t=20260829110804"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1522",
     "order": 1478,
     "title": "HYPERNOVA",
@@ -2963,7 +3047,7 @@
     "titleZhCN": null,
     "romaji": null,
     "bpm": {
-      "min": 19.14,
+      "min": 7.65,
       "max": 333
     },
     "bpmShiver": 1,
@@ -3045,7 +3129,13 @@
         "isBranched": 0,
         "maxCombo": 604,
         "playTime": 127.16,
-        "balloon": [],
+        "balloon": [
+          11,
+          5,
+          5,
+          5,
+          11
+        ],
         "rollTime": [
           0.139,
           0.332,
@@ -3095,9 +3185,10 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_5.png?rev=1ae890cb531b831c71e4c6c914b45822&t=20260510053525",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_113-120.png?rev=03977b4d6420a151d55a0f1d325e8d61&t=20260510182305",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_113-120kakudai.png?rev=b18bd377d6cce264bd52104c1da17228&t=20260510052441"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/cha0z_zantei_3.png?rev=048594662e464a6f0466850655cd2567&t=20260821154456",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_104-111_2.png?rev=38182034517afeb10acea728d7aa3bcb&t=20260821154503",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_104-111kakudai_2.png?rev=28e950e8c7724fd42a48f3cff52f2d12&t=20260821154506",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Rough%EF%BC%9A%20CHA0Z/::ref/Rough%EF%BC%9A%20CHA0Z_104-111_333.png?rev=7d70587476852ba4a693c3fc983db7cc&t=20260516235728"
         ]
       },
       "ura": null
@@ -5337,10 +5428,10 @@
         "level": 5,
         "isBranched": 0,
         "maxCombo": 408,
-        "playTime": 34,
+        "playTime": 29.405,
         "balloon": [],
         "rollTime": [],
-        "maxDensity": 12,
+        "maxDensity": 13.88,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -5351,10 +5442,10 @@
         "level": 7,
         "isBranched": 0,
         "maxCombo": 408,
-        "playTime": 34,
+        "playTime": 29.405,
         "balloon": [],
         "rollTime": [],
-        "maxDensity": 12,
+        "maxDensity": 13.88,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -5365,10 +5456,10 @@
         "level": 8,
         "isBranched": 0,
         "maxCombo": 408,
-        "playTime": 34,
+        "playTime": 29.405,
         "balloon": [],
         "rollTime": [],
-        "maxDensity": 12,
+        "maxDensity": 13.88,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -5379,10 +5470,10 @@
         "level": 10,
         "isBranched": 0,
         "maxCombo": 408,
-        "playTime": 34,
+        "playTime": 29.405,
         "balloon": [],
         "rollTime": [],
-        "maxDensity": 12,
+        "maxDensity": 13.88,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -41632,7 +41723,9 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "DF",
+      "NS2"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
