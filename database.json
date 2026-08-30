@@ -10,8 +10,8 @@
     "titleZhCN": null,
     "romaji": null,
     "bpm": {
-      "min": 0,
-      "max": 0
+      "min": 66.6,
+      "max": 280
     },
     "bpmShiver": 0,
     "version": [
@@ -31,47 +31,114 @@
       "easy": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 183,
+        "playTime": 146.4,
+        "balloon": [
+          6,
+          8,
+          10
+        ],
+        "rollTime": [
+          0.966,
+          1.119,
+          1.119,
+          0.69,
+          1.119,
+          0.405,
+          0.69,
+          0.69,
+          0.548,
+          0.69,
+          0.69
+        ],
+        "maxDensity": 1.25,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Vrykolakas/::ref/Vrykolakas_e.png?rev=3de062763d68d49f7d288f4a26314ef5&t=20260829135821"
+        ]
       },
       "normal": {
         "level": 6,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 330,
+        "playTime": 146.018,
+        "balloon": [
+          8,
+          10,
+          12
+        ],
+        "rollTime": [
+          0.966,
+          1.119,
+          1.119,
+          0.833,
+          1.119,
+          0.405,
+          0.69,
+          0.833,
+          0.548,
+          0.69,
+          0.833
+        ],
+        "maxDensity": 2.26,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Vrykolakas/::ref/Vrykolakas_n.png?rev=673eacd05962a6667032d8685a310a3a&t=20260829135654"
+        ]
       },
       "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 686,
+        "playTime": 145.957,
+        "balloon": [
+          12,
+          14,
+          18
+        ],
+        "rollTime": [
+          0.966,
+          0.833,
+          0.548,
+          0.405,
+          0.262,
+          0.405,
+          0.548,
+          0.69,
+          0.405,
+          0.405
+        ],
+        "maxDensity": 4.7,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Vrykolakas/::ref/Vrykolakas_h2.png?rev=3cc37f11a6d5faa628ce4becc54d510a&t=20260830001055"
+        ]
       },
       "oni": {
         "level": 10,
         "isBranched": 0,
         "maxCombo": 998,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "playTime": 145.906,
+        "balloon": [
+          15,
+          20,
+          24
+        ],
+        "rollTime": [
+          0.966,
+          0.833,
+          0.405,
+          0.262,
+          0.405,
+          0.262,
+          0.69,
+          0.405,
+          0.405
+        ],
+        "maxDensity": 6.84,
         "daniUsed": 0,
         "dani": [],
         "images": [
@@ -13309,7 +13376,7 @@
       "min": 150,
       "max": 360
     },
-    "bpmShiver": 1,
+    "bpmShiver": 0,
     "version": [
       "NAC"
     ],
