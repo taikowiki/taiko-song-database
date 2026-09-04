@@ -26141,7 +26141,9 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/img/c2e2237d-7d4d-4483-a45b-110732ac4d36"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9F%E3%83%BC%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9F%E3%83%BC%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29_2.png?rev=08c92f53f1bf6e4dd42b657511a9de74&t=20240921100626",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9F%E3%83%BC%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9F%E3%83%BC%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29_BPM255%E5%9B%BA%E5%AE%9A.png?rev=1e25e0585452a0239536a246b2a0f449&t=20240921134222",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9F%E3%83%BC%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9F%E3%83%BC%28%E8%A6%8B%E3%81%9F%E7%9B%AE%E9%87%8D%E8%A6%96%29_2.png?rev=abb5029269aaa423eb3895340cf02a03&t=20250912002437"
         ]
       }
     },
@@ -175421,6 +175423,89 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1524",
+    "order": 1480,
+    "title": "resume:story",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 0,
+      "max": 0
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "黒魔",
+      "BlackY",
+      "Risa Yuzuki"
+    ],
+    "addedDate": null,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
       },
       "ura": null
     },
