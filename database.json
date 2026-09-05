@@ -1,5 +1,148 @@
 [
   {
+    "songNo": "1524",
+    "order": 1480,
+    "title": "resume:story",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 55.5,
+      "max": 444
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "黒魔",
+      "BlackY",
+      "Risa Yuzuki"
+    ],
+    "addedDate": 1788566400000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 364,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 531,
+        "playTime": 135.115,
+        "balloon": [
+          39
+        ],
+        "rollTime": [
+          1.036,
+          1.036,
+          0.631,
+          1.036,
+          1.194,
+          0.976,
+          0.935,
+          0.923,
+          0.518,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.923,
+          0.653,
+          0.15,
+          0.15,
+          0.15,
+          0.15,
+          0.15,
+          0.15,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113,
+          0.113
+        ],
+        "maxDensity": 3.93,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/resume%EF%BC%9Astory/::ref/resume%EF%BC%9Astory_3.png?rev=97f5be53707883dbdc7186ad047cbd19&t=20260905094037"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1523",
     "order": 1479,
     "title": "Vrykolakas",
@@ -175423,89 +175566,6 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
-      },
-      "ura": null
-    },
-    "isDeleted": 0,
-    "keybpm": null
-  },
-  {
-    "songNo": "1524",
-    "order": 1480,
-    "title": "resume:story",
-    "titleKo": null,
-    "aliasKo": null,
-    "titleEn": null,
-    "aliasEn": null,
-    "titleZhCN": null,
-    "romaji": null,
-    "bpm": {
-      "min": 0,
-      "max": 0
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "黒魔",
-      "BlackY",
-      "Risa Yuzuki"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "normal": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "hard": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "oni": {
-        "level": 1,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
       },
       "ura": null
     },
