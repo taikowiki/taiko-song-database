@@ -1,5 +1,283 @@
 [
   {
+    "songNo": "1525",
+    "order": 1482,
+    "title": "えびチリ、はじめました",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 220,
+      "max": 220
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "私立恵比寿中学",
+      "前山田健一"
+    ],
+    "addedDate": 1788912000000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 431,
+        "playTime": 0,
+        "balloon": [
+          6,
+          10
+        ],
+        "rollTime": [
+          0.932,
+          0.932
+        ],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%88%E3%81%B3%E3%83%81%E3%83%AA%E3%80%81%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/::ref/%E3%81%88%E3%81%B3%E3%83%81%E3%83%AA%E3%80%81%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F.png?rev=a8fcfb1eb29b7fc330053b664ecaae64&t=20260909091203"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1527",
+    "order": 1483,
+    "title": "ルミナス-Luminous",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 135,
+      "max": 135
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "anime",
+      "kids"
+    ],
+    "artists": [
+      "アイナ・ジ・エンド",
+      "Shin Sakiura"
+    ],
+    "addedDate": 1788912000000,
+    "courses": {
+      "easy": {
+        "level": 2,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 283,
+        "playTime": 82.991,
+        "balloon": [
+          10,
+          17,
+          14
+        ],
+        "rollTime": [
+          0.852,
+          1.519,
+          2.185
+        ],
+        "maxDensity": 3.41,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9-Luminous/::ref/%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9-Luminous.png?rev=dc04f7fa6b1894fc94a0fb8bebd6bf1e&t=20260909084918"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1528",
+    "order": 1484,
+    "title": "湾岸ミッドナイト マキシマムチューン 6RR PLUS メドレー Vol.2",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 148,
+      "max": 166
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": 1788912000000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          ""
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          ""
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          ""
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 641,
+        "playTime": 99.38,
+        "balloon": [
+          7
+        ],
+        "rollTime": [
+          0.53,
+          0.512
+        ],
+        "maxDensity": 6.45,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B9%BE%E5%B2%B8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%206RR%20PLUS%20%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20Vol.2/::ref/%E6%B9%BE%E5%B2%B86RR%20PLUS%20%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20Vol.2.png?rev=d8f6a2a27ea4fd59eefc3e71a421f691&t=20260909105541"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1524",
     "order": 1480,
     "title": "resume:story",
@@ -3811,7 +4089,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -4079,7 +4357,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -4100,7 +4378,7 @@
     "version": [
       "NAC"
     ],
-    "isAsiaBanned": 1,
+    "isAsiaBanned": 0,
     "isKrBanned": 0,
     "genre": [
       "namco"
@@ -4317,7 +4595,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -4552,7 +4830,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -4642,7 +4920,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -4747,7 +5025,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5031,7 +5309,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5136,7 +5414,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5420,7 +5698,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5518,7 +5796,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5639,7 +5917,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5790,7 +6068,7 @@
         ]
       }
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5892,7 +6170,7 @@
         ]
       }
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -5994,7 +6272,7 @@
         ]
       }
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -6083,7 +6361,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -6180,7 +6458,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -6277,7 +6555,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -6386,7 +6664,7 @@
       },
       "ura": null
     },
-    "isDeleted": 0,
+    "isDeleted": 1,
     "keybpm": null
   },
   {
@@ -175861,6 +176139,156 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1526",
+    "order": 1481,
+    "title": "夜の踊り子",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 134,
+      "max": 134
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops"
+    ],
+    "artists": [
+      "サカナクション"
+    ],
+    "addedDate": null,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 141,
+        "playTime": 127.027,
+        "balloon": [
+          5,
+          5,
+          5,
+          4,
+          5
+        ],
+        "rollTime": [
+          2.201,
+          2.201,
+          2.201,
+          3.321,
+          1.082,
+          1.082,
+          3.321,
+          1.082,
+          1.082,
+          3.321
+        ],
+        "maxDensity": 1.11,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/::ref/odoriko_e.png?rev=c6f49f47b63343e3215937f38258f273&t=20230228040838"
+        ]
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 171,
+        "playTime": 127.612,
+        "balloon": [
+          8,
+          8,
+          8,
+          7,
+          10
+        ],
+        "rollTime": [
+          2.201,
+          2.201,
+          2.201,
+          3.32,
+          1.305,
+          1.305,
+          0.634,
+          3.545,
+          1.305,
+          1.305,
+          0.634,
+          3.545
+        ],
+        "maxDensity": 1.34,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/::ref/odoriko_n.png?rev=cad82f9d7f7e848035fc6d321b18bb03&t=20230228121113"
+        ]
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 294,
+        "playTime": 127.826,
+        "balloon": [
+          14
+        ],
+        "rollTime": [
+          1.53,
+          1.53,
+          1.53,
+          3.545,
+          1.306,
+          1.306,
+          0.634,
+          3.545,
+          1.306,
+          1.306,
+          0.634,
+          3.545
+        ],
+        "maxDensity": 2.3,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/::ref/odoriko_h.png?rev=6c3b585217427f8837033c167fcb0c0c&t=20230228040921"
+        ]
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 529,
+        "playTime": 127.778,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          1.53,
+          1.53,
+          3.545,
+          1.53,
+          1.53,
+          1.978,
+          1.53
+        ],
+        "maxDensity": 4.14,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/::ref/odorik_m.png?rev=ca5a3570eaac0487ac62cfa06173b1bf&t=20230228040813"
+        ]
       },
       "ura": null
     },
