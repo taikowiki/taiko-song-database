@@ -18248,8 +18248,14 @@
           0.449
         ],
         "maxDensity": 6.06,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "chojin",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/bf856281-c4a3-475b-8f44-98c480a70f3f",
           "https://file.taiko.wiki/img/1d283b5b-8dac-424e-80ac-0911a08ca265",
@@ -56032,11 +56038,17 @@
         ],
         "maxCombo": 850,
         "maxDensity": 6.4,
-        "dani": [],
+        "dani": [
+          {
+            "version": "26",
+            "dan": "meijin",
+            "order": 2
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/534df4c8-e474-48c9-a30a-4dcb52e62efc"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       },
       "ura": {
@@ -116497,6 +116509,11 @@
             "version": "green",
             "dan": "kuroto",
             "order": 2
+          },
+          {
+            "version": "26",
+            "dan": "kuroto",
+            "order": 2
           }
         ],
         "images": [
@@ -159489,11 +159506,11 @@
     "keybpm": null
   },
   {
-    "songNo": "AC_10015",
+    "songNo": "temp_26_1",
     "order": 1124,
     "title": "temp",
     "titleKo": null,
-    "aliasKo": "밤의 무희",
+    "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -159504,103 +159521,84 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC",
-      "WiiU1"
+      "NAC"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
-    "genre": [
-      "pops"
-    ],
+    "genre": [],
     "artists": [
-      "サカナクション",
-      "山口一郎"
+      ""
     ],
     "addedDate": null,
     "courses": {
       "easy": {
-        "level": 3,
-        "isBranched": 0,
-        "maxCombo": 141,
-        "playTime": 128.62,
-        "balloon": [
-          5,
-          5,
-          5,
-          4,
-          5
-        ],
-        "rollTime": [
-          20.896
-        ],
-        "maxDensity": 1.1,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/f51dd0c7-bb44-4d10-84c4-4586237e1c28"
-        ]
-      },
-      "normal": {
-        "level": 4,
-        "isBranched": 0,
-        "maxCombo": 171,
-        "playTime": 128.62,
-        "balloon": [
-          8,
-          8,
-          8,
-          7,
-          10
-        ],
-        "rollTime": [
-          23.507
-        ],
-        "maxDensity": 1.33,
-        "daniUsed": 0,
-        "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/018d5a87-2d98-49f0-968a-377f48c91f7e"
-        ]
-      },
-      "hard": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 294,
-        "playTime": 129.29,
-        "balloon": [
-          14
-        ],
-        "rollTime": [
-          21.716
-        ],
-        "maxDensity": 2.27,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
         "daniUsed": 0,
         "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/e60c47c3-4d4d-4b22-8726-d0de6d0f049d"
-        ]
+        "images": []
       },
-      "oni": {
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": 529,
-        "playTime": 129.14,
-        "balloon": [
-          5
-        ],
-        "rollTime": [
-          13.172
-        ],
-        "maxDensity": 4.1,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
         "daniUsed": 0,
         "dani": [],
-        "images": [
-          "https://file.taiko.wiki/img/3fbd781b-d6d2-4baa-8a41-8bcea2011dd5"
-        ]
+        "images": []
       },
-      "ura": null
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "tatsujin",
+            "order": 1
+          }
+        ],
+        "images": []
+      }
     },
-    "isDeleted": 1,
+    "isDeleted": 0,
     "keybpm": null
   },
   {
@@ -176537,6 +176535,104 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
+      }
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "temp_26_2",
+    "order": 1485,
+    "title": "temp_26_2",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 0,
+      "max": 0
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": null,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "tatsujin",
+            "order": 2
+          }
+        ],
+        "images": []
       }
     },
     "isDeleted": 0,
