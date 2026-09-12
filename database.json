@@ -1,5 +1,399 @@
 [
   {
+    "songNo": "temp_26_1",
+    "order": 1124,
+    "title": "Nivalis*Anima",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 32.13,
+      "max": 257
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "MisoilePunch♪",
+      "CHUBAY"
+    ],
+    "addedDate": 1789171200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": null,
+        "playTime": null,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": null,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1079,
+        "playTime": 153.267,
+        "balloon": [
+          4,
+          2
+        ],
+        "rollTime": [
+          1.848,
+          0.214,
+          0.214,
+          0.331,
+          0.914,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.042,
+          0.331,
+          0.331,
+          0.214,
+          0.214,
+          0.331
+        ],
+        "maxDensity": 7.04,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Nivalis%EF%BC%8AAnima/::ref/Nivalis%EF%BC%8AAnima.png?rev=f828c6efea3c6bb05a4830913672c76f&t=20260912230434"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1326,
+        "playTime": 153.295,
+        "balloon": [
+          5
+        ],
+        "rollTime": [
+          1.848,
+          0.914,
+          0.214,
+          0.214,
+          0.331,
+          0.331
+        ],
+        "maxDensity": 8.65,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "tatsujin",
+            "order": 1
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Nivalis%EF%BC%8AAnima%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Nivalis%EF%BC%8AAnima%E8%A3%8F.png?rev=5f2f6cc97c86c6a4f70afbf13bc79c19&t=20260912173748"
+        ]
+      }
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "temp_26_2",
+    "order": 1485,
+    "title": "魔宵月",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 105,
+      "max": 105
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "あず♪",
+      "Masahiro \"Godspeed\" Aoki",
+      "黒沢ダイスケ"
+    ],
+    "addedDate": 1789171200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 639,
+        "playTime": 127.545,
+        "balloon": [
+          58
+        ],
+        "rollTime": [
+          1.095,
+          1.095,
+          1.095,
+          1.667
+        ],
+        "maxDensity": 5.01,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88/::ref/Mayoizuki.png?rev=91096837dfc0e423f5220e0c916a13d5&t=20260912222250"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1013,
+        "playTime": 127.421,
+        "balloon": [],
+        "rollTime": [
+          1.667
+        ],
+        "maxDensity": 7.95,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "tatsujin",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Mayoiduki_Ex_v02.png?rev=8913bb1560abed31d09702978688e26e&t=20260912133329",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Mayoiduki_Ex_v02_x2_resized.png?rev=06c01bb45a874a9524bd62e4a49c1e26&t=20260912134739"
+        ]
+      }
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "temp_26_3",
+    "order": 1486,
+    "title": "銀の黎明か、黒の晶華か。",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 120,
+      "max": 305
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "かめりあ",
+      "t+pazolite"
+    ],
+    "addedDate": 1789171200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 281,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 460,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 741,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1053,
+        "playTime": 138.918,
+        "balloon": [
+          32,
+          5
+        ],
+        "rollTime": [
+          0.18,
+          0.18,
+          0.574,
+          0.23,
+          0.574,
+          0.672,
+          0.18
+        ],
+        "maxDensity": 7.58,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82.png?rev=c19a495e2971c60c5501d050a7a1ad0b&t=20260912210643"
+        ]
+      },
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1501,
+        "playTime": 138.853,
+        "balloon": [
+          3,
+          6
+        ],
+        "rollTime": [
+          0.475,
+          0.475,
+          0.279,
+          0.574
+        ],
+        "maxDensity": 10.81,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "tatsujin",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82%E8%A3%8F_3.png?rev=fd39187eadfc48f97e444913a7e8f6e2&t=20260912151537"
+        ]
+      }
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1525",
     "order": 1482,
     "title": "えびチリ、はじめました",
@@ -602,7 +996,41 @@
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/resume%EF%BC%9Astory/::ref/resume%EF%BC%9Astory_3.png?rev=97f5be53707883dbdc7186ad047cbd19&t=20260905094037"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1042,
+        "playTime": 134.625,
+        "balloon": [
+          10,
+          2,
+          50
+        ],
+        "rollTime": [
+          0.045,
+          0.045,
+          0.045,
+          0.248,
+          0.248,
+          0.248,
+          0.248,
+          0.923,
+          0.09,
+          0.766
+        ],
+        "maxDensity": 7.74,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "kuroto",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/resume%EF%BC%9Astory%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/resume%EF%BC%9Astory%E8%A3%8F.png?rev=f1252ca3b8f4e4935c22f9a064e49c27&t=20260912120335"
+        ]
+      }
     },
     "isDeleted": 0,
     "keybpm": null
@@ -753,7 +1181,33 @@
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Vrykolakas/::ref/Vrykolakas_m_4_re.png?rev=0aec426a7ce580102e5f25c7d57cdd76&t=20260829110804"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1346,
+        "playTime": 147.104,
+        "balloon": [
+          4
+        ],
+        "rollTime": [
+          0.119,
+          0.69,
+          0.405,
+          0.119
+        ],
+        "maxDensity": 9.15,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "chojin",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Vrykolakas%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Vrykolakas_ex_2.png?rev=ad4b9d5e136468901f0fbccc688cf520&t=20260912101234"
+        ]
+      }
     },
     "isDeleted": 0,
     "keybpm": null
@@ -884,7 +1338,43 @@
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/HYPERNOVA/::ref/HYPERNOVA_m_2.png?rev=c1a58b662bf4db45d3de449bed26dc90&t=20260822074144"
         ]
       },
-      "ura": null
+      "ura": {
+        "level": 10,
+        "isBranched": 0,
+        "maxCombo": 1303,
+        "playTime": 143.819,
+        "balloon": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          40
+        ],
+        "rollTime": [
+          0.047,
+          0.047,
+          0.047,
+          0.047,
+          0.047,
+          0.684,
+          0.684,
+          0.259
+        ],
+        "maxDensity": 9.06,
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "meijin",
+            "order": 3
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/HYPERNOVA%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/HYPERNOVA_ex_2_re.png?rev=aabd6b10d3e9013d3fa37e3f691b3fb4&t=20260912075300"
+        ]
+      }
     },
     "isDeleted": 0,
     "keybpm": null
@@ -13994,7 +14484,7 @@
       "namco"
     ],
     "artists": [
-      "MisoilePunch"
+      "MisoilePunch♪"
     ],
     "addedDate": 1757721600000,
     "courses": {
@@ -25795,8 +26285,14 @@
           1.348
         ],
         "maxDensity": 6.31,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "kuroto",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/a54d38ff-0398-4d68-9816-f2639257855c"
         ]
@@ -28602,8 +29098,14 @@
         ],
         "rollTime": [],
         "maxDensity": 6.83,
-        "daniUsed": 0,
-        "dani": [],
+        "daniUsed": 1,
+        "dani": [
+          {
+            "version": "26",
+            "dan": "chojin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/35eda605-7562-4b1a-9773-7123f9c0f36c",
           "https://file.taiko.wiki/img/017b2233-b51a-45ef-8cef-ee5388a435f7"
@@ -73928,11 +74430,17 @@
         ],
         "maxCombo": 1035,
         "maxDensity": 7.33,
-        "dani": [],
+        "dani": [
+          {
+            "version": "26",
+            "dan": "meijin",
+            "order": 1
+          }
+        ],
         "images": [
           "https://file.taiko.wiki/img/4d22541c-3432-405f-9f89-d44e50e4f0a3"
         ],
-        "daniUsed": 0,
+        "daniUsed": 1,
         "isBranched": 0
       }
     },
@@ -159506,102 +160014,6 @@
     "keybpm": null
   },
   {
-    "songNo": "temp_26_1",
-    "order": 1124,
-    "title": "temp",
-    "titleKo": null,
-    "aliasKo": null,
-    "titleEn": null,
-    "aliasEn": null,
-    "titleZhCN": null,
-    "romaji": null,
-    "bpm": {
-      "min": 134,
-      "max": 134
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [],
-    "artists": [
-      ""
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 5,
-        "isBranched": 0,
-        "maxCombo": null,
-        "playTime": null,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": null,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "normal": {
-        "level": 7,
-        "isBranched": 0,
-        "maxCombo": null,
-        "playTime": null,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": null,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "hard": {
-        "level": 8,
-        "isBranched": 0,
-        "maxCombo": null,
-        "playTime": null,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": null,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "oni": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": null,
-        "playTime": null,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": null,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "ura": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 1,
-        "dani": [
-          {
-            "version": "26",
-            "dan": "tatsujin",
-            "order": 1
-          }
-        ],
-        "images": []
-      }
-    },
-    "isDeleted": 0,
-    "keybpm": null
-  },
-  {
     "songNo": "647",
     "order": 357,
     "title": "マサカリブレイド",
@@ -176535,104 +176947,6 @@
         ],
         "daniUsed": 0,
         "isBranched": 0
-      }
-    },
-    "isDeleted": 0,
-    "keybpm": null
-  },
-  {
-    "songNo": "temp_26_2",
-    "order": 1485,
-    "title": "temp_26_2",
-    "titleKo": null,
-    "aliasKo": null,
-    "titleEn": null,
-    "aliasEn": null,
-    "titleZhCN": null,
-    "romaji": null,
-    "bpm": {
-      "min": 0,
-      "max": 0
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      ""
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 5,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "normal": {
-        "level": 7,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "hard": {
-        "level": 8,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "oni": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 0,
-        "dani": [],
-        "images": []
-      },
-      "ura": {
-        "level": 10,
-        "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
-        "daniUsed": 1,
-        "dani": [
-          {
-            "version": "26",
-            "dan": "tatsujin",
-            "order": 2
-          }
-        ],
-        "images": []
       }
     },
     "isDeleted": 0,
