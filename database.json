@@ -1,6 +1,6 @@
 [
   {
-    "songNo": "temp_26_1",
+    "songNo": "1530",
     "order": 1124,
     "title": "Nivalis*Anima",
     "titleKo": null,
@@ -161,8 +161,8 @@
     "songNo": "temp_26_2",
     "order": 1485,
     "title": "魔宵月",
-    "titleKo": null,
-    "aliasKo": null,
+    "titleKo": "MAYOIZUKI",
+    "aliasKo": "마요이즈키",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -275,7 +275,7 @@
     "songNo": "temp_26_3",
     "order": 1486,
     "title": "銀の黎明か、黒の晶華か。",
-    "titleKo": null,
+    "titleKo": "은색 여명인가, 흑색 수정꽃인가",
     "aliasKo": null,
     "titleEn": null,
     "aliasEn": null,
@@ -52796,7 +52796,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/2b1f738e-faaf-429c-bb51-a35bea05df50"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81/::ref/ghnpan_m0.png?rev=00cc617ede2884f265416bbfc38fc92e&t=20240216012914",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81/::ref/ghnpan_mn0.png?rev=91f8e0ff96a885a6c5be66243062e855&t=20240216012931",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81/::ref/ghnpan_mm0.png?rev=86bfa9f14706c119d5a2e8916a1e4a59&t=20240216012922",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81/::ref/%E3%83%91%E3%83%B3%E3%81%94%E3%81%AF%E8%A1%A8-%E9%81%94-%E8%A6%8B%E3%81%9F%E7%9B%AE.png?rev=dce15550afaf0c695783c057776951ff&t=20230302021751"
         ],
         "daniUsed": 0
       },
@@ -52814,7 +52817,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/24f5dec3-ef8a-4fed-b893-c8895148383e"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/ghnpan_x0.png?rev=685279c7ef2587a26a3e4c77e97ddd13&t=20240216012937",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/ghnpan_xn0.png?rev=f8db29db226cb13ae5f006b2e2cf4c1d&t=20240216012947",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/ghnpan_xm0.png?rev=e774cf609279974efedb2cf70a834fa6&t=20240216012942",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%91%E3%83%B3%20vs%20%E3%81%94%E3%81%AF%E3%82%93%EF%BC%81%20%E5%A4%A7%E6%B1%BA%E6%88%A6%EF%BC%81%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E3%83%91%E3%83%B3%E3%81%94%E3%81%AF%E8%A3%8F-%E9%81%94-%E8%A6%8B%E3%81%9F%E7%9B%AE_resized.png?rev=2fb7dab2fdc37c6ab58991186c1aab39&t=20230302095205"
         ],
         "daniUsed": 0
       }
@@ -61023,9 +61029,9 @@
         "dani": [],
         "images": [
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB/::ref/OukaRanman_resized.png?rev=0dbeba28cede638ff84061ff1a106197&t=20230521235006",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB/::ref/%E6%8A%BC%E4%B8%8B%E7%8E%84%E4%BA%BA.png?rev=292cdb23e51ce2dbd6af30697dbfb786&t=20230225033023",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB/::ref/%E6%8A%BC%E4%B8%8B%E6%99%AE%E9%80%9A.png?rev=9bdd3cc8b059dcf2196e39e6cf7bdd54&t=20230225033017",
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB/::ref/%E6%8A%BC%E4%B8%8B%E9%81%94%E4%BA%BA.png?rev=693c627462d7943a995d69d8f5fba817&t=20230225033020",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB/::ref/%E6%8A%BC%E4%B8%8B%E6%99%AE%E9%80%9A.png?rev=9bdd3cc8b059dcf2196e39e6cf7bdd54&t=20230225033017"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB/::ref/%E6%8A%BC%E4%B8%8B%E7%8E%84%E4%BA%BA.png?rev=292cdb23e51ce2dbd6af30697dbfb786&t=20230225033023"
         ],
         "daniUsed": 0
       },
@@ -106060,6 +106066,142 @@
     "keybpm": null
   },
   {
+    "songNo": "temp_don_26_ssm",
+    "order": 1487,
+    "title": "Sweet Sweet Magic",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 179,
+      "max": 179
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "3DS1",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "Claire",
+      "葉月ゆら",
+      "月子"
+    ],
+    "addedDate": 1342051200000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 206,
+        "playTime": 122.619,
+        "balloon": [
+          6,
+          6,
+          4
+        ],
+        "rollTime": [
+          1.145,
+          1.145,
+          0.642,
+          0.642,
+          0.978,
+          0.81,
+          0.978,
+          0.81
+        ],
+        "maxDensity": 1.68,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Sweet%20Sweet%20Magic/::ref/%E3%81%8D%E3%82%85%E3%82%93%EF%BC%81.png?rev=c93c9034477e0b9851c5d2af8e000b5d&t=20230225140606"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 260,
+        "playTime": 122.066,
+        "balloon": [
+          8,
+          8,
+          6
+        ],
+        "rollTime": [
+          1.145,
+          1.145,
+          0.642,
+          0.642,
+          0.978,
+          0.81,
+          0.978,
+          0.81
+        ],
+        "maxDensity": 2.13,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Sweet%20Sweet%20Magic/::ref/%E7%94%98%E3%81%84%E9%AD%94%E6%B3%95.png?rev=734a30fb67f57bce57a451a1d8130431&t=20230225140742"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 441,
+        "playTime": 121.823,
+        "balloon": [
+          8
+        ],
+        "rollTime": [
+          1.145,
+          0.642,
+          0.642,
+          0.978,
+          0.81,
+          0.978,
+          0.81
+        ],
+        "maxDensity": 3.62,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Sweet%20Sweet%20Magic/::ref/swemag_2.png?rev=d7cbad578dabcc9922dc5c71269c52e8&t=20260913130401"
+        ]
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 652,
+        "playTime": 122.097,
+        "balloon": [
+          10
+        ],
+        "rollTime": [
+          0.642,
+          0.642,
+          0.978
+        ],
+        "maxDensity": 5.34,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Sweet%20Sweet%20Magic/::ref/sweetsm.png?rev=fd8b48a51bd55ce8466da5050cbf49b4&t=20230225140849"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "241",
     "order": 467,
     "title": "きゅんっ！ヴァンパイアガール",
@@ -138692,7 +138834,7 @@
         "maxDensity": 1.17,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/663/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E9%A2%A8%E9%9B%B2%EF%BC%81%E3%83%90%E3%83%81%E3%81%8A%E5%85%88%E7%94%9F/::ref/%E3%83%80%E3%83%A0%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%92%E3%81%9B%E3%81%8D%E6%AD%A2%E3%82%81%E3%82%8B.png?rev=826723de2778f15e1e9cd5ba71f1b22e&t=20230302022921"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -138710,7 +138852,7 @@
         "maxDensity": 1.51,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/663/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E9%A2%A8%E9%9B%B2%EF%BC%81%E3%83%90%E3%83%81%E3%81%8A%E5%85%88%E7%94%9F/::ref/%E9%87%A3%E3%82%8A%E6%A9%8B%E3%81%8B%E3%81%91%E3%81%A6%E6%B8%A1%E3%82%8D%E3%81%86%E3%82%88.png?rev=b8e2e3b69164c04d315f1ff895c03724&t=20230302023017"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -138728,7 +138870,7 @@
         "maxDensity": 2.63,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/663/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E9%A2%A8%E9%9B%B2%EF%BC%81%E3%83%90%E3%83%81%E3%81%8A%E5%85%88%E7%94%9F/::ref/bachio_hard.png?rev=f5706ddcb4279f69ec57c5039f3b5905&t=20230302023110"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -138752,12 +138894,38 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/fumen/663/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%EF%BC%81%E3%83%90%E3%83%81%E3%81%8A%E5%85%88%E7%94%9F/::ref/nao_m.png?rev=d4644b84f6855a3d2847e040e26842c9&t=20230302022826"
         ],
         "daniUsed": 1,
         "isBranched": 0
       },
-      "ura": null
+      "ura": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 694,
+        "playTime": 117.827,
+        "balloon": [],
+        "rollTime": [
+          1.577,
+          0.654,
+          0.192,
+          0.536,
+          0.192,
+          0.423,
+          0.423,
+          0.423,
+          0.422,
+          1.347,
+          1.27,
+          0.421
+        ],
+        "maxDensity": 5.89,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%EF%BC%81%E3%83%90%E3%83%81%E3%81%8A%E5%85%88%E7%94%9F%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/nao_x.png?rev=4b9320dc502cf2d68ebb88539280510d&t=20250828115351"
+        ]
+      }
     },
     "isDeleted": 0,
     "keybpm": null
@@ -170745,7 +170913,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/1045/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E4%B8%80%E4%B8%96%E9%A2%A8%E9%9D%A1/::ref/butou10_resized.png?rev=84f0b850dd04809ee2e5f08d9dd2614d&t=20230521162818",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E4%B8%80%E4%B8%96%E9%A2%A8%E9%9D%A1/::ref/20tbtu_mn.png?rev=106a1da950ce36503b28a7b55629ff77&t=20230225023315",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E4%B8%80%E4%B8%96%E9%A2%A8%E9%9D%A1/::ref/20tbtu_me.png?rev=bbd3158158bb899a35b3a76e189aa01a&t=20230225023322",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E4%B8%80%E4%B8%96%E9%A2%A8%E9%9D%A1/::ref/20tbtu_mm.png?rev=b58d33fa69c430b0fb4a604a97b76790&t=20230225023327"
         ],
         "daniUsed": 0
       },
@@ -173860,7 +174031,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/579/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/butou2_m_resized.png?rev=b13caa59ee7fcb00e93c013a8da4bee7&t=20230521161615",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/butou2_m_nor.png?rev=bcf9c74314da36ac8a04f22f019ef714&t=20230301000446",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/butou2_m_exp.png?rev=3858c8e39bf06f31997a7c4a5a2320f1&t=20230301000451",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/butou2_m_mas.png?rev=b1c48238cc7b46cbd722b53f3688e681&t=20230301000500"
         ],
         "daniUsed": 0
       },
@@ -173875,7 +174049,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/579/ura"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/ex_butou2_resized.png?rev=be9b163169fa95b86ba8850c168ce735&t=20230521161621",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/ex_butou2_nor.png?rev=b65943c00763c7ebfedc3b49720c524b&t=20230301000509",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/ex_butou2_exp.png?rev=56dad29c37c40868b8521db6f1562f96&t=20230301000514",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E7%9C%9F%E3%83%BB%E7%94%BB%E7%AB%9C%E7%82%B9%E7%9D%9B/::ref/ex_butou2_mas.png?rev=24cb2312f198a0d2e005f90c775af8ae&t=20230301000519"
         ],
         "daniUsed": 0
       }
@@ -174290,7 +174467,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/554/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%BB%92%E8%88%B9%E6%9D%A5%E8%88%AA/::ref/butou4f_resized.png?rev=17b4606c8d65fe4fcd2713da65313742&t=20230521162747",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%BB%92%E8%88%B9%E6%9D%A5%E8%88%AA/::ref/f.png?rev=115a53ef5dd5f6b4e7a94547b714d265&t=20230226212111",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%BB%92%E8%88%B9%E6%9D%A5%E8%88%AA/::ref/k.png?rev=4c5e0e9871b0966670197e43f8eb62c9&t=20230226212113",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%BB%92%E8%88%B9%E6%9D%A5%E8%88%AA/::ref/t.png?rev=de1e8602dab4333a7b84d6894f34f3bd&t=20230226212115"
         ],
         "daniUsed": 0
       },
@@ -174605,7 +174785,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/653/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E5%85%A8%E8%AD%9C%E9%9D%A2_resized.png?rev=99b0b9497d740e62f1cb3e27862a1a41&t=20230302101611",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E6%99%AE%E9%80%9A.png?rev=65255f95ef1c7fdb8a81db8a6ac4ad24&t=20230302023511",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E7%8E%84%E4%BA%BA.png?rev=304d3244cd3e9c8f0a6a711efc94a23f&t=20230302023507",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E9%81%94%E4%BA%BA2.png?rev=856e5930144966a3195c76e68a3d3bb2&t=20230302023502"
         ],
         "daniUsed": 0
       },
@@ -182860,7 +183043,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/img/14a03d92-c93a-419c-8f2a-9cced3946c67"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/BATTLE%20NO.1/::ref/BattleNo.1_resized.png?rev=0ec7f19a85f156e7cf2cbb1f43e84180&t=20230522005200",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/BATTLE%20NO.1/::ref/BATTLE%20NO.1_f6.png?rev=a495fb8b51412d0686e514dd2c203d2e&t=20230221192901",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/BATTLE%20NO.1/::ref/BATTLE%20NO.1_k3.png?rev=d2c0cf5bf0849d0bfb39834a113fdd9a&t=20230221192907",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/BATTLE%20NO.1/::ref/BATTLE%20NO.1_t5_resize.png?rev=b6739b14144727963abf041f6fa001fd&t=20230317042747"
         ],
         "daniUsed": 0
       },
