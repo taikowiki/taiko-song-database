@@ -55,14 +55,27 @@
       "hard": {
         "level": 8,
         "isBranched": 0,
-        "maxCombo": null,
-        "playTime": null,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": null,
+        "maxCombo": 675,
+        "playTime": 138.037,
+        "balloon": [
+          23
+        ],
+        "rollTime": [
+          1.848,
+          0.798,
+          0.914,
+          0.214,
+          0.331,
+          0.331,
+          0.331,
+          0.331
+        ],
+        "maxDensity": 4.89,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Nivalis%2AAnima/::ref/Nivalis%E6%9D%BE_2.png?rev=dcae096da3b7bd20a23efcb0323868df&t=20260914215022"
+        ]
       },
       "oni": {
         "level": 10,
@@ -121,7 +134,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Nivalis%EF%BC%8AAnima/::ref/Nivalis%EF%BC%8AAnima.png?rev=f828c6efea3c6bb05a4830913672c76f&t=20260912230434"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Nivalis%2AAnima/::ref/Nivalis%EF%BC%8AAnima_2.png?rev=b0a2aa485e344a4daa6540abb404ea31&t=20260914144907"
         ]
       },
       "ura": {
@@ -150,7 +163,7 @@
           }
         ],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Nivalis%EF%BC%8AAnima%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Nivalis%EF%BC%8AAnima%E8%A3%8F.png?rev=5f2f6cc97c86c6a4f70afbf13bc79c19&t=20260912173748"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Nivalis%2AAnima%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Nivalis%EF%BC%8AAnima%E8%A3%8F_3.png?rev=434f722b1cb1b175c78d9f52ea13e900&t=20260914183508"
         ]
       }
     },
@@ -241,7 +254,8 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88/::ref/Mayoizuki.png?rev=91096837dfc0e423f5220e0c916a13d5&t=20260912222250"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88/::ref/Mayoizuki_2.png?rev=3265c51a1972934edf3acc6c6b7ce7cf&t=20260915212807",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88/::ref/Mayoizuki_hs2_2.png?rev=31f6ad22ba4ee71e9fee3be42f10900e&t=20260915212810"
         ]
       },
       "ura": {
@@ -263,8 +277,8 @@
           }
         ],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Mayoiduki_Ex_v02.png?rev=8913bb1560abed31d09702978688e26e&t=20260912133329",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Mayoiduki_Ex_v02_x2_resized.png?rev=06c01bb45a874a9524bd62e4a49c1e26&t=20260912134739"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Mayoiduki_Ex_v03.png?rev=c74ae663b7238a7bde395efd189e30a8&t=20260913205241",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%AD%94%E5%AE%B5%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/Mayoiduki_Ex_v03_x2.png?rev=b9496148cf74ac8d4e34c16e9b47e687&t=20260913205246"
         ]
       }
     },
@@ -328,13 +342,25 @@
         "level": 8,
         "isBranched": 0,
         "maxCombo": 741,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "playTime": 130.228,
+        "balloon": [
+          20,
+          4
+        ],
+        "rollTime": [
+          0.18,
+          0.574,
+          0.23,
+          0.574,
+          0.574,
+          0.18
+        ],
+        "maxDensity": 5.69,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E6%9D%BE%E3%80%82_2.png?rev=6516e289a07d6dbde55a92d97f237263&t=20260914212100"
+        ]
       },
       "oni": {
         "level": 10,
@@ -358,7 +384,7 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82.png?rev=c19a495e2971c60c5501d050a7a1ad0b&t=20260912210643"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82_3.png?rev=08e8ba49f2ed1bd1832bc425bf58631e&t=20260913181837"
         ]
       },
       "ura": {
@@ -386,7 +412,7 @@
           }
         ],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82%E8%A3%8F_3.png?rev=fd39187eadfc48f97e444913a7e8f6e2&t=20260912151537"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E9%8A%80%E3%81%AE%E9%BB%8E%E6%98%8E%E3%81%8B%E3%80%81%E9%BB%92%E3%81%AE%E6%99%B6%E8%8F%AF%E3%81%8B%E3%80%82%E8%A3%8F_5.png?rev=9e6e28e4834ffed883b2a5bd1dd9ba86&t=20260913181832"
         ]
       }
     },
@@ -170961,13 +170987,14 @@
           30
         ],
         "rollTime": [
-          2.76
+          1.382,
+          1.382
         ],
         "maxCombo": 193,
         "maxDensity": 1.49,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/616/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E3%82%A8%E3%82%B4%E3%82%A8%E3%82%B4%E3%82%A2%E3%82%BF%E3%82%AF%E3%82%B7/::ref/%E3%81%88%E3%81%94%E3%81%88%E3%81%94_2.png?rev=a20ba03fdaee6f8746886f05d730da63&t=20240602173650"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -170979,13 +171006,14 @@
           40
         ],
         "rollTime": [
-          2.76
+          1.382,
+          1.382
         ],
         "maxCombo": 260,
         "maxDensity": 2,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/616/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E3%82%A8%E3%82%B4%E3%82%A8%E3%82%B4%E3%82%A2%E3%82%BF%E3%82%AF%E3%82%B7/::ref/%E6%9C%AC%E5%BD%93%E3%81%AB%E3%82%82%E3%81%86%E6%8E%A2%E3%81%97%E3%81%9F%E3%81%98%E3%82%83%E3%81%AA%E3%81%84.png?rev=b3a6b50b3fc1eda20bb8d8cb4e9a94f8&t=20230225034844"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -170997,13 +171025,13 @@
           60
         ],
         "rollTime": [
-          1.38
+          1.382
         ],
         "maxCombo": 470,
         "maxDensity": 3.62,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/616/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E3%82%A8%E3%82%B4%E3%82%A8%E3%82%B4%E3%82%A2%E3%82%BF%E3%82%AF%E3%82%B7/::ref/%E7%AA%81%E7%84%B6%E3%81%84%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E3%82%93%E3%81%A0%E3%82%82%E3%82%93.png?rev=1e34d7990b032c231c2df87114dd7d72&t=20230225035030"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -171018,7 +171046,7 @@
         "maxDensity": 5.44,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/616/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%A8%E3%82%B4%E3%82%A8%E3%82%B4%E3%82%A2%E3%82%BF%E3%82%AF%E3%82%B7/::ref/%E3%83%AA%E3%83%B4%E3%82%A1%E3%81%A1%E3%82%83%E3%82%93.png?rev=d243e9b78baba8aae49c476cdbb16925&t=20230225035128"
         ],
         "daniUsed": 0,
         "isBranched": 0
