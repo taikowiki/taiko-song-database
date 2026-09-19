@@ -5374,7 +5374,9 @@
     ],
     "artists": [
       "まきな",
-      "マキナ the DARK"
+      "樺澤綾",
+      "マキナ the DARK",
+      "橘立夏"
     ],
     "addedDate": 1776556800000,
     "courses": {
@@ -5442,9 +5444,9 @@
   {
     "songNo": "1480",
     "order": 1437,
-    "title": "エール・エクス・マキナ！(異変)",
-    "titleKo": "YELL EX MACHINA!",
-    "aliasKo": "옐 엑스 마키나!(이변)",
+    "title": "エール・エクス・マキナ♡",
+    "titleKo": "YELL EX MACHINA♡",
+    "aliasKo": "옐 엑스 마키나♡",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -5463,6 +5465,8 @@
       "namco"
     ],
     "artists": [
+      "マキナ the DARK",
+      "橘立夏",
       "坪井リヒト"
     ],
     "addedDate": 1776556800000,
@@ -5541,15 +5545,15 @@
       },
       "ura": null
     },
-    "isDeleted": 1,
+    "isDeleted": 0,
     "keybpm": null
   },
   {
     "songNo": "1481",
     "order": 1438,
-    "title": "ダーク・エクス・マキナ♡(異変)",
-    "titleKo": "DARK EX MACHINA♡",
-    "aliasKo": "다크 엑스 마키나♡(이변)",
+    "title": "ダーク・エクス・マキナ！",
+    "titleKo": "DARK EX MACHINA!",
+    "aliasKo": "다크 엑스 마키나!",
     "titleEn": null,
     "aliasEn": null,
     "titleZhCN": null,
@@ -5568,6 +5572,8 @@
       "namco"
     ],
     "artists": [
+      "まきな",
+      "樺澤綾",
       "坪井リヒト"
     ],
     "addedDate": 1776556800000,
@@ -5825,7 +5831,7 @@
       },
       "ura": null
     },
-    "isDeleted": 1,
+    "isDeleted": 0,
     "keybpm": null
   },
   {
@@ -20179,6 +20185,7 @@
     ],
     "artists": [
       "マキナ the DARK",
+      "橘立夏",
       "坪井リヒト"
     ],
     "addedDate": 1743465600000,
@@ -163258,8 +163265,9 @@
       "namco"
     ],
     "artists": [
-      "坪井リヒト",
-      "まきな prod. 坪井リヒト"
+      "まきな",
+      "樺澤綾",
+      "坪井リヒト"
     ],
     "addedDate": null,
     "courses": {
