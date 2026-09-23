@@ -148797,7 +148797,11 @@
     "bpmShiver": 0,
     "version": [
       "NAC",
-      "NS2"
+      "DF",
+      "NS2",
+      "V",
+      "PLUS",
+      "RC"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
