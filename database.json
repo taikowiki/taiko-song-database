@@ -87206,6 +87206,147 @@
     "keybpm": null
   },
   {
+    "songNo": "1534",
+    "order": 1488,
+    "title": "Time to dine",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 145,
+      "max": 145
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "NSRPG",
+      "3DS2",
+      "PLUS",
+      "RC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "トリ音"
+    ],
+    "addedDate": 1403740800000,
+    "courses": {
+      "easy": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 194,
+        "playTime": 125.974,
+        "balloon": [
+          10,
+          12,
+          6
+        ],
+        "rollTime": [
+          0.793,
+          1.207,
+          0.793,
+          0.793,
+          1.414,
+          1.414,
+          1.414,
+          1.207,
+          1,
+          0.793,
+          1.414
+        ],
+        "maxDensity": 1.54,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Time%20to%20dine/::ref/3d2b1x_z.png?rev=9b5d4fc98a8bced13e05f1e0a202cdbb&t=20230222010759"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 276,
+        "playTime": 127.778,
+        "balloon": [
+          18,
+          7
+        ],
+        "rollTime": [
+          0.793,
+          0.793,
+          1.207,
+          0.793,
+          0.793,
+          1.207,
+          1.621,
+          1.207,
+          1.207,
+          0.793,
+          0.793
+        ],
+        "maxDensity": 2.16,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Time%20to%20dine/::ref/dine_n.png?rev=76debb4c96462c3458f52f561bbe4f8b&t=20230222010710"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 445,
+        "playTime": 127.507,
+        "balloon": [
+          9
+        ],
+        "rollTime": [
+          0.793,
+          0.793,
+          1.207,
+          0.793,
+          0.793,
+          1.414,
+          1.414,
+          1.414,
+          0.793,
+          0.793
+        ],
+        "maxDensity": 3.49,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Time%20to%20dine/::ref/dine.png?rev=59f477b1773cc5b53bee5f813e90337b&t=20230222010731."
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 743,
+        "playTime": 127.444,
+        "balloon": [
+          11
+        ],
+        "rollTime": [
+          1.31
+        ],
+        "maxDensity": 5.83,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Time%20to%20dine/::ref/3d2b1x_z.png?rev=9b5d4fc98a8bced13e05f1e0a202cdbb&t=20230222010759"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "205",
     "order": 470,
     "title": "ONLY MY NOTE",
