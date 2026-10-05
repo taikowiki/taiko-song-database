@@ -1,5 +1,109 @@
 [
   {
+    "songNo": "1529",
+    "order": 1489,
+    "title": "じゃがりこ　りみっくす",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 115,
+      "max": 151
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "variety"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": 1791158400000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 8,
+        "isBranched": 0,
+        "maxCombo": 413,
+        "playTime": 81.944,
+        "balloon": [],
+        "rollTime": [
+          0.166,
+          0.166,
+          0.166,
+          0.166,
+          0.739,
+          0.739,
+          0.166,
+          0.166,
+          0.166,
+          0.166,
+          0.739,
+          0.565,
+          0.192,
+          0.192,
+          0.192,
+          0.192,
+          0.192,
+          0.192,
+          2.028
+        ],
+        "maxDensity": 5.04,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%81%98%E3%82%83%E3%81%8C%E3%82%8A%E3%81%93%E3%80%80%E3%82%8A%E3%81%BF%E3%81%A3%E3%81%8F%E3%81%99/::ref/%E3%81%98%E3%82%83%E3%81%8C%E3%82%8A%E3%81%93%20%E3%82%8A%E3%81%BF%E3%81%A3%E3%81%8F%E3%81%99_2.png?rev=82de9271f603a5eafc1c1c872c59a6ea&t=20261005173212"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1530",
     "order": 1124,
     "title": "Nivalis*Anima",
