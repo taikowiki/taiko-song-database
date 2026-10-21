@@ -1,5 +1,183 @@
 [
   {
+    "songNo": "1537",
+    "order": 1491,
+    "title": "モンスターストライクメドレー ～メインテーマ・爆絶・勝利～",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 139.5,
+      "max": 186
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": 1792540800000,
+    "courses": {
+      "easy": {
+        "level": 1,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 503,
+        "playTime": 110.549,
+        "balloon": [],
+        "rollTime": [
+          6.164,
+          1.331,
+          1.331,
+          1.185,
+          0.563,
+          1.767
+        ],
+        "maxDensity": 4.55,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20%EF%BD%9E%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E%E3%83%BB%E7%88%86%E7%B5%B6%E3%83%BB%E5%8B%9D%E5%88%A9%EF%BD%9E/::ref/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E%E3%83%BB%E7%88%86%E7%B5%B6%E3%83%BB%E5%8B%9D%E5%88%A9.png?rev=c7c80b2f1825e5924a39016658d60951&t=20261021105100"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1538",
+    "order": 1492,
+    "title": "モンスターストライクメドレー ～破界の星墓EX・絶対狂愛エゴイスト～",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 91,
+      "max": 216.65
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 1,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      ""
+    ],
+    "addedDate": 1792540800000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 779,
+        "playTime": 116.967,
+        "balloon": [
+          20
+        ],
+        "rollTime": [
+          2.255,
+          1.367
+        ],
+        "maxDensity": 6.66,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20%EF%BD%9E%E7%A0%B4%E7%95%8C%E3%81%AE%E6%98%9F%E5%A2%93EX%E3%83%BB%E7%B5%B6%E5%AF%BE%E7%8B%82%E6%84%9B%E3%82%A8%E3%82%B4%E3%82%A4%E3%82%B9%E3%83%88%EF%BD%9E/::ref/%E7%A0%B4%E7%95%8C%E3%81%AE%E6%98%9F%E5%A2%93EX%E3%83%BB%E7%B5%B6%E5%AF%BE%E7%8B%82%E6%84%9B%E3%82%A8%E3%82%B4%E3%82%A4%E3%82%B9%E3%83%88.png?rev=d22494bc5e2be912b8d333c9598be38e&t=20261021094112"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1529",
     "order": 1489,
     "title": "じゃがりこ　りみっくす",
@@ -175514,10 +175692,10 @@
         "isBranched": 1,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E5%85%A8%E8%AD%9C%E9%9D%A2_resized.png?rev=99b0b9497d740e62f1cb3e27862a1a41&t=20230302101611",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E6%99%AE%E9%80%9A.png?rev=65255f95ef1c7fdb8a81db8a6ac4ad24&t=20230302023511",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E7%8E%84%E4%BA%BA.png?rev=304d3244cd3e9c8f0a6a711efc94a23f&t=20230302023507",
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB/::ref/%E9%A2%A8%E9%9B%B2%E5%BF%97%E5%A3%AB_%E9%81%94%E4%BA%BA2.png?rev=856e5930144966a3195c76e68a3d3bb2&t=20230302023502"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%88%A6%E5%9B%BD%E4%B8%89%E5%BC%A6/::ref/%E6%88%A6%E5%9B%BD%E4%B8%89%E5%BC%A6_%E5%B0%8F%E7%AF%80%E7%B7%9A%E4%BF%AE%E6%AD%A3_resized.png?rev=9918bc114f5ed242ab1239efc3027e49&t=20230302101407",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%88%A6%E5%9B%BD%E4%B8%89%E5%BC%A6/::ref/sengoku3_f.png?rev=ab413508ae719cad726354672d689532&t=20230227222420",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%88%A6%E5%9B%BD%E4%B8%89%E5%BC%A6/::ref/sengoku3_k.png?rev=37f37828b8eb637d82e5a2f12798ab69&t=20230227222422",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%88%A6%E5%9B%BD%E4%B8%89%E5%BC%A6/::ref/sengoku3_t.png?rev=9227f369215d32c84bd45ae388b31013&t=20230227222424"
         ],
         "daniUsed": 0
       },
