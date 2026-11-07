@@ -186738,13 +186738,15 @@
         "level": 4,
         "playTime": 143.99,
         "rollTime": [
-          2.75
+          1.183,
+          0.783,
+          0.783
         ],
         "maxCombo": 187,
         "maxDensity": 1.3,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/805/easy"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Pixel%20Galaxy/::ref/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93.png?rev=a46742f988e7a1facd0ce36a5bee1379&t=20230226135624"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -186753,13 +186755,15 @@
         "level": 5,
         "playTime": 143.99,
         "rollTime": [
-          2.75
+          1.183,
+          0.783,
+          0.783
         ],
         "maxCombo": 288,
         "maxDensity": 2,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/805/normal"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Pixel%20Galaxy/::ref/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%81%B5%E3%81%A4%E3%81%86.png?rev=722ac81f6f4a58574ea7369fd8f0a0f5&t=20230226135721"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -186768,13 +186772,15 @@
         "level": 6,
         "playTime": 143.99,
         "rollTime": [
-          2.75
+          1.183,
+          0.783,
+          0.783
         ],
         "maxCombo": 398,
         "maxDensity": 2.76,
         "dani": [],
         "images": [
-          "https://file.taiko.wiki/fumen/805/hard"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Pixel%20Galaxy/::ref/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84.png?rev=f67f192d5d3e86aca1b0730fd49884c9&t=20230226135807"
         ],
         "daniUsed": 0,
         "isBranched": 0
@@ -186792,7 +186798,8 @@
           }
         ],
         "images": [
-          "https://file.taiko.wiki/fumen/805/oni"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Pixel%20Galaxy/::ref/pixelg_resized.png?rev=72342cb917e2be3be9c5d09a549f9761&t=20230521212107",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Pixel%20Galaxy/::ref/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%81%8A%E3%81%AB%28%E5%8D%8A%E9%80%9F%29.png?rev=9214d7846c13018f8119bfaa90612362&t=20230226135857"
         ],
         "daniUsed": 1,
         "isBranched": 0
