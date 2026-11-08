@@ -57822,6 +57822,133 @@
     "keybpm": null
   },
   {
+    "songNo": "719",
+    "order": 985,
+    "title": "SORA‐Ⅶ シグナスウォール",
+    "titleKo": "SORA-Ⅶ  Cygnus Wall",
+    "aliasKo": "SORA-VII 시그너스 월",
+    "titleEn": "SORA-VII Cygnus Wall",
+    "aliasEn": null,
+    "titleZhCN": "SORA-VII Cygnus Wall",
+    "romaji": "SORA-VII Cygnus Wall",
+    "bpm": {
+      "min": 180,
+      "max": 180
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "namco"
+    ],
+    "artists": [
+      "翡翠"
+    ],
+    "addedDate": 1527811200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "playTime": 148.33,
+        "balloon": [
+          8,
+          5,
+          10,
+          5,
+          15
+        ],
+        "rollTime": [
+          1.639,
+          1.639,
+          0.972
+        ],
+        "maxCombo": 176,
+        "maxDensity": 1.19,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/SORA-VII%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/%E3%81%88.png?rev=7d68c42837daf18309d0e6daf65f6c92&t=20230225170535"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "normal": {
+        "level": 6,
+        "playTime": 148.33,
+        "balloon": [
+          10,
+          7,
+          10,
+          5,
+          15
+        ],
+        "rollTime": [
+          1.639,
+          1.639,
+          0.972
+        ],
+        "maxCombo": 236,
+        "maxDensity": 1.59,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/SORA-VII%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/%E3%81%86.png?rev=de04aa13c5bc2acd95d2ca7aa6a4811a&t=20230225170606"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "hard": {
+        "level": 7,
+        "playTime": 148.33,
+        "balloon": [
+          15,
+          10,
+          10,
+          30
+        ],
+        "rollTime": [
+          1.639,
+          1.639,
+          0.972
+        ],
+        "maxCombo": 430,
+        "maxDensity": 2.9,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/SORA-VII%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/%E3%81%842.png?rev=18c9babf66ff8cbdb46cb8b221e20145&t=20230225170633"
+        ],
+        "daniUsed": 0,
+        "isBranched": 0
+      },
+      "oni": {
+        "level": 10,
+        "playTime": 148.33,
+        "rollTime": [
+          1.306,
+          1.139,
+          1.639
+        ],
+        "maxCombo": 839,
+        "maxDensity": 5.66,
+        "dani": [
+          {
+            "version": "20",
+            "dan": "10dan",
+            "order": 2
+          }
+        ],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA-VII%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/sora7x_z_resized.png?rev=78988d8b0a401547e79b4510b28206a3&t=20230522011502"
+        ],
+        "daniUsed": 1,
+        "isBranched": 0
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "339",
     "order": 315,
     "title": "Jump Up, Super Star！ Short Version",
@@ -180401,108 +180528,6 @@
         "images": [
           "https://file.taiko.wiki/fumen/917/oni"
         ]
-      },
-      "ura": null
-    },
-    "isDeleted": 0,
-    "keybpm": null
-  },
-  {
-    "songNo": "719",
-    "order": 985,
-    "title": "SORA‐Ⅶ シグナスウォール",
-    "titleKo": "SORA-Ⅶ  Cygnus Wall",
-    "aliasKo": "SORA-VII 시그너스 월",
-    "titleEn": "SORA-VII Cygnus Wall",
-    "aliasEn": null,
-    "titleZhCN": "SORA-VII Cygnus Wall",
-    "romaji": "SORA-VII Cygnus Wall",
-    "bpm": {
-      "min": 180,
-      "max": 180
-    },
-    "bpmShiver": 0,
-    "version": [
-      "NAC"
-    ],
-    "isAsiaBanned": 0,
-    "isKrBanned": 0,
-    "genre": [
-      "namco"
-    ],
-    "artists": [
-      "翡翠"
-    ],
-    "addedDate": null,
-    "courses": {
-      "easy": {
-        "level": 4,
-        "playTime": 148.33,
-        "balloon": [
-          43
-        ],
-        "rollTime": [
-          4.25
-        ],
-        "maxCombo": 176,
-        "maxDensity": 1.19,
-        "dani": [],
-        "images": [],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "normal": {
-        "level": 6,
-        "playTime": 148.33,
-        "balloon": [
-          47
-        ],
-        "rollTime": [
-          4.25
-        ],
-        "maxCombo": 236,
-        "maxDensity": 1.59,
-        "dani": [],
-        "images": [],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "hard": {
-        "level": 7,
-        "playTime": 148.33,
-        "balloon": [
-          65
-        ],
-        "rollTime": [
-          4.25
-        ],
-        "maxCombo": 430,
-        "maxDensity": 2.9,
-        "dani": [],
-        "images": [],
-        "daniUsed": 0,
-        "isBranched": 0
-      },
-      "oni": {
-        "level": 10,
-        "playTime": 148.33,
-        "rollTime": [
-          4.08
-        ],
-        "maxCombo": 839,
-        "maxDensity": 5.66,
-        "dani": [
-          {
-            "version": "20",
-            "dan": "10dan",
-            "order": 2
-          }
-        ],
-        "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/SORA%E2%80%90%E2%85%A6%20%E3%82%B7%E3%82%B0%E3%83%8A%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB/::ref/sora7x_z_resized.png?rev=78988d8b0a401547e79b4510b28206a3&t=20230522011502"
-        ],
-        "daniUsed": 1,
-        "isBranched": 0
       },
       "ura": null
     },
