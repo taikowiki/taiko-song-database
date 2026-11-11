@@ -159324,7 +159324,18 @@
     },
     "bpmShiver": 0,
     "version": [
-      "NAC"
+      "NAC",
+      "AC10",
+      "DF",
+      "NS2",
+      "NS1",
+      "WiiU2",
+      "Wii2",
+      "Wii5",
+      "PSP2",
+      "3DS3",
+      "PTB",
+      "RC"
     ],
     "isAsiaBanned": 0,
     "isKrBanned": 0,
