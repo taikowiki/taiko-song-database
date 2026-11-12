@@ -1,5 +1,114 @@
 [
   {
+    "songNo": "1540",
+    "order": 1496,
+    "title": "ベースラインやってる？笑",
+    "titleKo": "Can l Friend You On Bassbook? lol",
+    "aliasKo": "베이스라인 하고있니? ㅋ / 네네키미",
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 128,
+      "max": 128
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "variety"
+    ],
+    "artists": [
+      "かめりあ",
+      "ななひら"
+    ],
+    "addedDate": 1794441600000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "normal": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 0,
+        "playTime": 0,
+        "balloon": [],
+        "rollTime": [],
+        "maxDensity": 0,
+        "daniUsed": 0,
+        "dani": [],
+        "images": []
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 711,
+        "playTime": 140.514,
+        "balloon": [
+          6,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "rollTime": [
+          0.664,
+          0.078,
+          0.078,
+          0.078,
+          0.078,
+          0.078,
+          0.078,
+          0.43,
+          0.195,
+          0.273
+        ],
+        "maxDensity": 5.06,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%84%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%AC%91/::ref/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%84%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E7%AC%91.png?rev=605b72cc620dbc2e104a53a9a822e1c8&t=20261112073054"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": [
+      128
+    ]
+  },
+  {
     "songNo": "1539",
     "order": 1493,
     "title": "どんどこどんどこどんどこどんどこどんタスティック!!!",
