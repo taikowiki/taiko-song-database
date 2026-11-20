@@ -1,5 +1,255 @@
 [
   {
+    "songNo": "1545",
+    "order": 1498,
+    "title": "君はドコ？",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 95.14,
+      "max": 288
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC",
+      "DF",
+      "NS2"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "pops",
+      "namco"
+    ],
+    "artists": [
+      "ゴールデンボンバー"
+    ],
+    "addedDate": 1795046400000,
+    "courses": {
+      "easy": {
+        "level": 3,
+        "isBranched": 0,
+        "maxCombo": 112,
+        "playTime": 113.131,
+        "balloon": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          7
+        ],
+        "rollTime": [
+          0.634,
+          0.634,
+          0.634,
+          1.082,
+          1.024,
+          1.024
+        ],
+        "maxDensity": 0.99,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E5%90%9B%E3%81%AF%E3%83%89%E3%82%B3%EF%BC%9F/::ref/25tgld_e.png?rev=fc5489495854decb5a4b7f34dac2c362&t=20261119105218"
+        ]
+      },
+      "normal": {
+        "level": 5,
+        "isBranched": 0,
+        "maxCombo": 189,
+        "playTime": 112.5,
+        "balloon": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          10
+        ],
+        "rollTime": [
+          0.634,
+          0.634,
+          0.634,
+          1.082,
+          1.233,
+          1.233
+        ],
+        "maxDensity": 1.68,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E5%90%9B%E3%81%AF%E3%83%89%E3%82%B3%EF%BC%9F/::ref/25tgld_n.png?rev=3674a153f77ee26eead654f9c82ea7e8&t=20261119105145"
+        ]
+      },
+      "hard": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 334,
+        "playTime": 115.571,
+        "balloon": [
+          10,
+          10,
+          10,
+          10,
+          12
+        ],
+        "rollTime": [
+          0.634,
+          0.191,
+          0.608,
+          0.191
+        ],
+        "maxDensity": 2.89,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E5%90%9B%E3%81%AF%E3%83%89%E3%82%B3%EF%BC%9F/::ref/25tgld_h.png?rev=b6b161a276d0a9012be34616eae0acd3&t=20261119105010"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 563,
+        "playTime": 115.369,
+        "balloon": [
+          11,
+          25,
+          12,
+          25,
+          15
+        ],
+        "rollTime": [
+          0.634,
+          0.603
+        ],
+        "maxDensity": 4.88,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E5%90%9B%E3%81%AF%E3%83%89%E3%82%B3%EF%BC%9F/::ref/25tgld_m.png?rev=f03c734f89d16ae2f546abec0bbe712a&t=20261119102300"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
+    "songNo": "1541",
+    "order": 1497,
+    "title": "湾岸ミッドナイト マキシマムチューン 6RR PLUS メドレー Vol.3",
+    "titleKo": null,
+    "aliasKo": null,
+    "titleEn": null,
+    "aliasEn": null,
+    "titleZhCN": null,
+    "romaji": null,
+    "bpm": {
+      "min": 150,
+      "max": 150
+    },
+    "bpmShiver": 0,
+    "version": [
+      "NAC"
+    ],
+    "isAsiaBanned": 0,
+    "isKrBanned": 0,
+    "genre": [
+      "game"
+    ],
+    "artists": [
+      "古代祐三",
+      "SAK"
+    ],
+    "addedDate": 1794787200000,
+    "courses": {
+      "easy": {
+        "level": 4,
+        "isBranched": 0,
+        "maxCombo": 133,
+        "playTime": 109.917,
+        "balloon": [],
+        "rollTime": [
+          0.967,
+          0.967,
+          0.967,
+          0.967,
+          0.967,
+          0.964,
+          1.167,
+          1.567
+        ],
+        "maxDensity": 1.21,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/%E6%B9%BE%E5%B2%B8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%206RR%20PLUS%20%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20Vol.3/::ref/%E6%B9%BE%E5%B2%B8V3_e.png?rev=76f0835319a7f332dcc5a3e64bda968d&t=20261118224612"
+        ]
+      },
+      "normal": {
+        "level": 6,
+        "isBranched": 0,
+        "maxCombo": 303,
+        "playTime": 108.993,
+        "balloon": [],
+        "rollTime": [
+          1.167,
+          1.167,
+          1.567
+        ],
+        "maxDensity": 2.78,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/%E6%B9%BE%E5%B2%B8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%206RR%20PLUS%20%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20Vol.3/::ref/%E6%B9%BE%E5%B2%B8V3_n.png?rev=04c99ba3f2db1aab558e81dbd53c7fcd&t=20261118224632"
+        ]
+      },
+      "hard": {
+        "level": 7,
+        "isBranched": 0,
+        "maxCombo": 465,
+        "playTime": 109.155,
+        "balloon": [],
+        "rollTime": [
+          1.167,
+          1.167,
+          1.567
+        ],
+        "maxDensity": 4.26,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/%E6%B9%BE%E5%B2%B8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%206RR%20PLUS%20%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20Vol.3/::ref/%E6%B9%BE%E5%B2%B8V3_h.png?rev=b0d00ac4b19e1e10d22bd0fa63ec4aab&t=20261118224638"
+        ]
+      },
+      "oni": {
+        "level": 9,
+        "isBranched": 0,
+        "maxCombo": 708,
+        "playTime": 108.923,
+        "balloon": [],
+        "rollTime": [
+          0.167,
+          1.167
+        ],
+        "maxDensity": 6.5,
+        "daniUsed": 0,
+        "dani": [],
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%B9%BE%E5%B2%B8%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%20%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%206RR%20PLUS%20%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%20Vol.3/::ref/%E6%B9%BE%E5%B2%B8V3_2.png?rev=f4d25af9f15e406031c85f0af24f9c12&t=20261116164537"
+        ]
+      },
+      "ura": null
+    },
+    "isDeleted": 0,
+    "keybpm": null
+  },
+  {
     "songNo": "1540",
     "order": 1496,
     "title": "ベースラインやってる？笑",
