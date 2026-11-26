@@ -31,38 +31,85 @@
       "easy": {
         "level": 4,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 122,
+        "playTime": 118.447,
+        "balloon": [
+          3,
+          4,
+          4,
+          5,
+          15
+        ],
+        "rollTime": [
+          0.636,
+          1.318,
+          0.636,
+          0.636,
+          0.636,
+          0.636
+        ],
+        "maxDensity": 1.03,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_e.png?rev=503609599b392770e7d5a5b97cbebd8d&t=20261126104454"
+        ]
       },
       "normal": {
         "level": 5,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 180,
+        "playTime": 117.647,
+        "balloon": [
+          4,
+          5,
+          5,
+          6,
+          18
+        ],
+        "rollTime": [
+          0.636,
+          1.318,
+          0.636,
+          0.636,
+          0.636,
+          0.636
+        ],
+        "maxDensity": 1.53,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%B5%E3%81%A4%E3%81%86/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_n.png?rev=b155062d70cfcfd6474205c7cab3312c&t=20261126104502"
+        ]
       },
       "hard": {
         "level": 7,
         "isBranched": 0,
-        "maxCombo": 0,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "maxCombo": 388,
+        "playTime": 120.124,
+        "balloon": [
+          5,
+          4,
+          4,
+          4,
+          4,
+          6,
+          6,
+          8
+        ],
+        "rollTime": [
+          0.364,
+          0.409,
+          0.5,
+          0.5,
+          0.909
+        ],
+        "maxDensity": 3.23,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%82%80%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_h.png?rev=022d90215e5e3561fee6ea68461db8c4&t=20261126104514"
+        ]
       },
       "oni": {
         "level": 9,
@@ -80,8 +127,9 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_4.png?rev=0c2df9ec897c08b989fe14674d079cbf&t=20261121152650",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_5.png?rev=5c9040078b337f1ce14cb60c88bd3864&t=20261122233649",
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_36-92.png?rev=f06ba5100044eec436ec7f7a027b9eb1&t=20261121130736",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_bpm110.png?rev=9938e7263c4d8f8f28b6673fb96039f9&t=20261122233653",
           "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/Glitch%20hoppin%27/::ref/Glitch%20hoppin%27_mitame_4.png?rev=e9b20ada69a90587a1b26c904a3cdb20&t=20261121152654"
         ]
       },
@@ -12294,7 +12342,8 @@
         "daniUsed": 0,
         "dani": [],
         "images": [
-          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%82%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E6%A1%82%E6%9C%88%E8%A3%8F.png?rev=5098ae5faf6d802eabf28673c2e7ae58&t=20260121080316"
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%82%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E6%A1%82%E6%9C%88%E8%A3%8F_2.png?rev=8aa630211132d631607caa28c9b6f46a&t=20260121215231",
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E6%A1%82%E6%9C%88%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E6%A1%82%E6%9C%88%E8%A3%8F_150.png?rev=1c5a23488c893161bb9eeaf92caf727d&t=20260130010932"
         ]
       }
     },
@@ -171084,7 +171133,7 @@
       "namco"
     ],
     "artists": [
-      ""
+      "ジェームズ・ロード・ピアポント"
     ],
     "addedDate": null,
     "courses": {
@@ -171168,13 +171217,20 @@
         "level": 10,
         "isBranched": 0,
         "maxCombo": 668,
-        "playTime": 0,
-        "balloon": [],
-        "rollTime": [],
-        "maxDensity": 0,
+        "playTime": 75.995,
+        "balloon": [
+          2
+        ],
+        "rollTime": [
+          0.929,
+          0.179
+        ],
+        "maxDensity": 8.79,
         "daniUsed": 0,
         "dani": [],
-        "images": []
+        "images": [
+          "https://cdn.wikiwiki.jp/to/w/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%81%8A%E3%81%AB/%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%99%E3%83%AB%E7%AC%AC765%E7%95%AA%28%E8%A3%8F%E8%AD%9C%E9%9D%A2%29/::ref/%E6%82%AA%E5%A4%A2%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9_3.png?rev=05e247b84ceba0d24fb270bdfe7a7776&t=20261126074800"
+        ]
       }
     },
     "isDeleted": 0,
